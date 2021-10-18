@@ -10,7 +10,7 @@
 ### Installation Shopify CLI:
 
 * Download the latest version of the shopify-cli-x.y.z.deb file: https://github.com/Shopify/shopify-cli/releases
-* ```sudo apt install /path/to/download/shopify-cli-x.y.z.deb``` - установи Shopify CLI
+* ```sudo apt install /path/to/download/shopify-cli-x.y.z.deb``` - install Shopify CLI
 * To verify that Shopify CLI is installed properly, run the following command: ```shopify version```
 
 ### Preview, test, and share your theme
