@@ -1,4 +1,26 @@
 # Impulse - template shopify
+
+## Docs
+
+Docs - https://shopify.dev/
+
+Build Shopify themes - https://shopify.dev/themes
+
+Shopify API reference docs - https://shopify.dev/api
+
+Liquid reference - https://shopify.dev/api/liquid
+
+Liquid phpStorm - https://www.jetbrains.com/help/phpstorm/liquid.html
+
+
+
+### Before you start
+* Install Ruby https://www.ruby-lang.org/en/.
+* If you want to use a development store https://shopify.dev/themes/tools/development-stores to build a theme, then create or log in to a Shopify Partner account https://partners.shopify.com/signup?shpxid=940cdcb5-0E86-46F0-A4E7-5D1F035D35DB , and then create a development store https://shopify.dev/themes/tools/development-stores#development-store-apps-themes.
+* Make sure that you have a collaborator account https://shopify.dev/themes/tools/collaborator-accounts or a staff account https://help.shopify.com/manual/your-account/staff-accounts?shpxid=940cdcb5-0E86-46F0-A4E7-5D1F035D35DB with the Manage themes permission or Themes permission for the store that you want to work on, or you're the owner of the store.
+* Note the URL of the store that you want to work on.
+* Make sure that you're connected to the internet. Most Shopify CLI commands need an internet connection to run.
+
 ### Installation Shopify CLI:
 
 * Download the latest version of the shopify-cli-x.y.z.deb file: https://github.com/Shopify/shopify-cli/releases
