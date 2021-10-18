@@ -1,0 +1,355 @@
+{
+  "sections": {
+    "16342858496dc05777": {
+      "type": "hero-video",
+      "settings": {
+        "title": "Langhaar\nMädchen",
+        "title_size": 64,
+        "subheading": "",
+        "link_text": "vizit us",
+        "link": "",
+        "color_accent": "#f8e6d4",
+        "text_align": "vertical-bottom horizontal-center",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "overlay_opacity": 0,
+        "section_height": "724px",
+        "mobile_height": "auto"
+      }
+    },
+    "rich-text": {
+      "type": "rich-text",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "title": ""
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "promo-grid": {
+      "type": "promo-grid",
+      "blocks": {
+        "promo-0": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "",
+            "heading": "Announce your promotion",
+            "textarea": "",
+            "cta_text1": "go to the dm.de",
+            "cta_link1": "shopify:\/\/collections\/all",
+            "cta_text2": "",
+            "cta_link2": "",
+            "image": "shopify:\/\/shop_images\/DM_loves_us_image_c8a8c435-1add-4d1c-ae78-62d886ada757.png",
+            "image_inner": "shopify:\/\/shop_images\/banner.png",
+            "video_url": "",
+            "width": "50",
+            "height": 680,
+            "text_size": 70,
+            "text_align": "vertical-bottom horizontal-center",
+            "focal_point": "bottom",
+            "color_accent": "#f8e6d4",
+            "color_text": "#131516",
+            "boxed": false,
+            "framed": false
+          }
+        },
+        "promo-1": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "",
+            "heading": "Announce your promotion",
+            "textarea": "",
+            "cta_text1": "",
+            "cta_link1": "",
+            "cta_text2": "",
+            "cta_link2": "",
+            "image": "shopify:\/\/shop_images\/to_the_catalog_image.png",
+            "image_inner": "shopify:\/\/shop_images\/49A0498_2.png",
+            "video_url": "",
+            "width": "50",
+            "height": 500,
+            "text_size": 100,
+            "text_align": "vertical-bottom horizontal-right",
+            "focal_point": "bottom",
+            "color_accent": "rgba(0,0,0,0)",
+            "color_text": "#131516",
+            "boxed": false,
+            "framed": false
+          }
+        }
+      },
+      "block_order": [
+        "promo-0",
+        "promo-1"
+      ],
+      "settings": {
+        "full_width": true,
+        "gutter_size": 0,
+        "space_above": false,
+        "space_below": false
+      }
+    },
+    "16345470819de01f0b": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "See our Salonboxes",
+        "home_featured_products": "frontpage",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": false,
+        "view_all": false,
+        "divider": false,
+        "has_meta": false,
+        "fixed_height": true,
+        "height": 510
+      }
+    },
+    "promo-grid2": {
+      "type": "promo-grid",
+      "blocks": {
+        "promo2-0": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "special offer",
+            "heading": "Banner with products",
+            "textarea": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.",
+            "cta_text1": "Shop now",
+            "cta_link1": "shopify:\/\/collections\/all",
+            "cta_text2": "",
+            "cta_link2": "",
+            "image": "shopify:\/\/shop_images\/banner.png",
+            "video_url": "",
+            "width": "100",
+            "height": 660,
+            "text_size": 120,
+            "text_align": "vertical-center horizontal-left",
+            "focal_point": "20% 50%",
+            "color_accent": "#fff9f4",
+            "color_text": "#ffffff",
+            "boxed": false,
+            "framed": false
+          }
+        }
+      },
+      "block_order": [
+        "promo2-0"
+      ],
+      "settings": {
+        "full_width": false,
+        "gutter_size": 0,
+        "space_above": true,
+        "space_below": true
+      }
+    },
+    "163454067579e18513": {
+      "type": "text-columns",
+      "blocks": {
+        "163454067579e18513-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/diamond_1.png",
+            "image_width": 44,
+            "title": "advantage 1",
+            "text": "<p>Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "163454067579e18513-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Group_1.png",
+            "image_width": 44,
+            "title": "advantage 2",
+            "text": "<p>Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "163454067579e18513-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/insignia_1.png",
+            "image_width": 44,
+            "title": "advantage 3",
+            "text": "<p>Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "163454067579e18513-0",
+        "163454067579e18513-1",
+        "163454067579e18513-2"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "163456592274a2a708": {
+      "type": "title-with-instagram",
+      "settings": {
+        "title": "Join us in Instagram @lhm",
+        "font_size": 18,
+        "align_text": "center"
+      }
+    },
+    "1634221283617c7d01": {
+      "type": "promo-grid",
+      "blocks": {
+        "9af2c52a-7b9c-47a7-8dac-6e5dfe3a5fa4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/langhaarmaedchen_172924029_203011817995695_588333778872068653_n_1.png",
+            "link": "",
+            "width": "33"
+          }
+        },
+        "de34e03f-d06f-4dc9-bd3e-fb5efa423741": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/langhaarmaedchen_242213492_582162596250537_5666823319806348994_n_1.png",
+            "link": "",
+            "width": "33"
+          }
+        },
+        "63bb705f-43c1-48aa-91ec-3bea08a45e43": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/langhaarmaedchen_240821307_133636738979486_7818150166621372249_n_1.png",
+            "link": "",
+            "width": "33"
+          }
+        }
+      },
+      "block_order": [
+        "9af2c52a-7b9c-47a7-8dac-6e5dfe3a5fa4",
+        "de34e03f-d06f-4dc9-bd3e-fb5efa423741",
+        "63bb705f-43c1-48aa-91ec-3bea08a45e43"
+      ],
+      "settings": {
+        "full_width": false,
+        "gutter_size": 0,
+        "space_above": false,
+        "space_below": true
+      }
+    },
+    "1634220966d1ce4e28": {
+      "type": "rich-text",
+      "blocks": {
+        "1634220966d1ce4e28-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Be a part of LHM family"
+          }
+        },
+        "1634220966d1ce4e28-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1634220966d1ce4e28-0",
+        "1634220966d1ce4e28-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "background-image-text": {
+      "type": "background-image-text",
+      "settings": {
+        "subtitle": "Impressive",
+        "title": "Event title",
+        "text": "<p>Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. <\/p>",
+        "button_label": "Take part in event",
+        "button_link": "shopify:\/\/collections\/all",
+        "image": "shopify:\/\/shop_images\/49A1187_1.png",
+        "focal_point": "center",
+        "layout": "left",
+        "height": 750,
+        "framed": false,
+        "parallax": false
+      }
+    },
+    "blog-posts": {
+      "type": "blog-posts",
+      "settings": {
+        "title": "",
+        "blog": "news",
+        "post_limit": 3,
+        "blog_show_excerpt": true,
+        "blog_show_tags": false,
+        "blog_show_date": true,
+        "blog_show_comments": false,
+        "blog_show_author": false,
+        "view_all": false,
+        "blog_image_size": "wide",
+        "divider": false
+      }
+    },
+    "1634220823e34085fd": {
+      "type": "contact-form",
+      "settings": {
+        "title": "Contact us",
+        "text": "",
+        "show_phone": false,
+        "narrow_column": true
+      }
+    },
+    "map": {
+      "type": "map",
+      "settings": {
+        "map_title": "Our retail store",
+        "address": "<p>301 Front St W<br\/>Toronto, Canada<\/p><p>Mon - Fri, 8:30am - 10:30pm<br\/>Saturday, 8:30am - 10:30pm<br\/>Sunday, 8:30am - 10:30pm<\/p>",
+        "map_address": "301 Front St W, Toronto, ON M5V 2T6",
+        "api_key": "",
+        "show_button": true,
+        "background_image_position": "center center"
+      }
+    }
+  },
+  "order": [
+    "16342858496dc05777",
+    "rich-text",
+    "promo-grid",
+    "16345470819de01f0b",
+    "promo-grid2",
+    "163454067579e18513",
+    "163456592274a2a708",
+    "1634221283617c7d01",
+    "1634220966d1ce4e28",
+    "background-image-text",
+    "blog-posts",
+    "1634220823e34085fd",
+    "map"
+  ]
+}
