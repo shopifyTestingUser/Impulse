@@ -7,7 +7,6 @@
 
 ### Preview, test, and share your theme
 * To serve your theme, run the following command: ``` shopify theme serve ```
-* 
 
 #### Shopify CLI uploads the theme as a development theme on the store that you're connected to, and returns the following:
 
