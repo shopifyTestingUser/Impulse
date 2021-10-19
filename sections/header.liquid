@@ -361,6 +361,16 @@
         "id": "show_currency_flags",
         "label": "Show currency flags",
         "default": true
+      },
+	  {
+		"type": "header",
+		"content": "Announcement"
+	  },
+      {
+        "type": "checkbox",
+        "id": "only_on_main_page",
+        "label": "Only on main page",
+        "default": false
       }
     ],
     "blocks": [
@@ -408,12 +418,6 @@
         "name": "Announcement",
         "limit": 3,
         "settings": [
-          {
-            "type": "text",
-            "id": "link_text",
-            "label": "Heading",
-            "default": "Hassle-free returns"
-          },
           {
             "type": "richtext",
             "id": "text",

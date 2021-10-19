@@ -22,6 +22,11 @@
 * A link to the online store editor for the theme.
 * A preview link that you can share with others.
 
+### Customize a theme
+* ```shopify login --store [your-domain].myshopify.com``` - : Authenticate with Shopify CLI. In your browser window, log into the account that's attached to the store that you want to use for development.
+* ```shopify theme pull ``` - The ability to choose the theme you want to download
+
+
 ## Docs
 
 * Docs - https://shopify.dev/
