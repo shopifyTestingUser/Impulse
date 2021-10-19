@@ -426,7 +426,7 @@
                       </div>
                     </div>
                   {%- endif -%}
-                  <div class="type-banner__text">
+                  <div class="type-banner__text" style="color:{{ block.settings.color_text }}">
                     {%- if block.settings.heading != blank -%}
                       <p class="h3">{{ block.settings.heading }}</p>
                     {%- endif -%}
@@ -434,7 +434,11 @@
                       <p>{{ block.settings.text }}</p>
                     {%- endif -%}
                     {%- if block.settings.label != blank -%}
-                      <p class="btn btn--secondary btn--small{% if tint_exists %} btn--tint-border{% endif %}">{{ block.settings.label }}</p>
+                      <p class="btn btn--secondary btn--small {% if tint_exists %} btn--tint-border{% endif %}"
+                         style="
+                             border-color: {{ block.settings.color_text }} !important;
+                             color: {{ block.settings.color_text }};
+                             ">{{ block.settings.label }}</p>
                     {%- endif -%}
                   </div>
                 </div>
