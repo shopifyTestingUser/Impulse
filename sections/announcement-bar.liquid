@@ -1,0 +1,47 @@
+<div class="announcement-bar">
+  <div class="page-width">
+    <div class="slideshow-wrapper">
+      <div
+          id="AnnouncementSlider"
+          class="announcement-slider"
+          data-compact="{{ section.settings.announcement_compact }}"
+          data-block-count="{{ announcement_block_count }}">
+            <div
+                id="AnnouncementSlide-{{ section.id }}"
+                class="announcement-slider__slide"
+                data-index="{{ slide_index }}"
+                {{ section.shopify_attributes }}>
+            {%- if section.settings.link != blank -%}
+              <a class="announcement-link" href="{{ section.settings.link }}">
+                {%- endif -%}
+                {%- if section.settings.text != blank -%}
+                  <span class="announcement-text">{{ section.settings.text }}</span>
+                {%- endif -%}
+                {%- if section.settings.link_text != blank -%}
+                  <span class="announcement-link-text">{{ section.settings.link_text }}</span>
+                {%- endif -%}
+                {%- if section.settings.link != blank -%}
+              </a>
+              {%- endif -%}
+            </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+{% schema %}
+  {
+    "name": "Announcement bar",
+    "settings": [
+      {
+        "type": "richtext",
+        "id": "text",
+        "label": "Text",
+        "default": "<p>Subscribe to get special offers, free giveaways, and once-in-a-lifetime deals.</p>"
+      }
+    ],
+    "presets": [{
+      "name": "Announcement-bar"
+    }]
+  }
+{% endschema %}

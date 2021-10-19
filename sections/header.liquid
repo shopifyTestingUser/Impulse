@@ -145,7 +145,7 @@
                 {%- if section.settings.main_menu_alignment == 'center-left' -%}
                   {%- render 'header-desktop-nav', main_menu: main_menu, dropdown_alignment: dropdown_alignment -%}
                 {%- endif -%}
-           
+
                 <div class="site-nav{% unless section.settings.main_menu_alignment == 'center-drawer' %} medium-up--hide{% endunless %}">
                   <button
                     type="button"
@@ -320,6 +320,12 @@
         "label": "Always show above header"
       },
       {
+        "type": "checkbox",
+        "id": "only_on_main_page",
+        "label": "Only on main page",
+        "default": false
+      },
+      {
         "type": "header",
         "content": "Toolbar"
       },
@@ -361,16 +367,6 @@
         "id": "show_currency_flags",
         "label": "Show currency flags",
         "default": true
-      },
-	  {
-		"type": "header",
-		"content": "Announcement"
-	  },
-      {
-        "type": "checkbox",
-        "id": "only_on_main_page",
-        "label": "Only on main page",
-        "default": false
       }
     ],
     "blocks": [
@@ -423,11 +419,6 @@
             "id": "text",
             "label": "Text",
             "default": "<p>Subscribe to get special offers, free giveaways, and once-in-a-lifetime deals.</p>"
-          },
-          {
-            "type": "url",
-            "id": "link",
-            "label": "Link"
           }
         ]
       }
