@@ -329,7 +329,6 @@
       "type": "map",
       "settings": {
         "map_title": "Contacts",
-        "font_size": 48,
         "address": "<p>301 Front St W Toronto, <br\/>Canada<\/p><p>Mon - Fri, 8:30am - 10:30pm<br\/>Saturday, 8:30am - 10:30pm<br\/>Sunday, 8:30am - 10:30pm<\/p>",
         "map_address": "301 Front St W, Toronto, ON M5V 2T6",
         "api_key": "",
