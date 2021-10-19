@@ -227,6 +227,26 @@
       },
       {
         "type": "select",
+        "id": "type_header_custom_font_family",
+        "label": "Use custom fonts",
+        "default": "none",
+        "options": [
+          {
+            "value": "none",
+            "label": "Don't use"
+          },
+          {
+            "value": "briquete",
+            "label": "Briquete-Regular"
+          },
+          {
+            "value": "italiana",
+            "label": "Italiana-Regular"
+          }
+        ]
+      },
+      {
+        "type": "select",
         "id": "type_header_spacing",
         "label": "Letter spacing",
         "default": "25",
