@@ -76,7 +76,8 @@
           data-mobile-natural="{{ natural_mobile_height }}"
           data-autoplay="{{ section.settings.autoplay }}"
           data-speed="{{ section.settings.autoplay_speed | times: 1000 }}"
-          {% if section.settings.style == 'arrows' %}
+             data-arrows="true"
+          {% if section.settings.arrows == true %}
             data-arrows="true"
           {% endif %}
           {% if section.settings.style == 'dots' %}
@@ -356,10 +357,6 @@
             "label": "Minimal"
           },
           {
-            "value": "arrows",
-            "label": "Arrows"
-          },
-          {
             "value": "bars",
             "label": "Bars"
           },
@@ -368,6 +365,12 @@
             "label": "Dots"
           }
         ]
+      },
+      {
+        "type": "checkbox",
+        "id": "arrows",
+        "label": "Slide navigation arrows",
+        "default": true
       },
       {
         "type": "checkbox",

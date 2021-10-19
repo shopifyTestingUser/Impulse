@@ -59,6 +59,8 @@
   --color-body-text:{{ settings.color_body_text | default: "#1c1d1d" }};
   --color-body:{{ settings.color_body_bg | default: "#fff" }};
   --color-bg:{{ settings.color_body_bg | default: "#fff" }};
+
+  --color-white: #fff;
 }
 
 @media only screen and (min-width:769px){
@@ -11304,11 +11306,24 @@ html[dir=rtl] .product-single__meta .rte{
   }
 }
  
-  <!-- Custom Css-->
+{% comment %} Custom Css {% endcomment %}
+
 @import url('https://fonts.googleapis.com/css2?family=El+Messiri:wght@400;600&display=swap');
+
 @font-face {
     font-family: "Briquete";
-    src: url({{ "Briquete-ow97z.ttf" | asset_url }}) format("ttf");
+    src: url("Briquete-Regular.woff2") format("woff2"),
+         url("Briquete-Regular.woff") format("woff");
+}
+@font-face {
+    font-family: "Italiana";
+    src: url("Italiana-Regular.woff2") format("woff2"),
+         url("Italiana-Regular.woff") format("woff");
+}
+
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    font-family: "Briquete";
+    margin:0 0 10px
 }
 
 .btn{
@@ -11367,4 +11382,29 @@ html[dir=rtl] .product-single__meta .rte{
   .fixed_height{
     height: 250px !important;
   }
+}
+
+.hero .flickity-button {
+    color: var(--color-white);
+    background: rgba(255, 255, 255, 0.5);
+}
+
+.hero[data-arrows=true] .flickity-prev-next-button {
+    top: 50%;
+    transform: translateY(50%);
+}
+
+.hero[data-arrows=true] .flickity-prev-next-button:hover {
+    transform: translateY(50%) scale(1.12);
+    opacity: 1;
+}
+
+.hero[data-arrows=true] .flickity-previous {
+    left: 40px;
+}
+
+@media (max-width: 768px) {
+    .hero[data-arrows=true] .flickity-previous {
+        left: 20px;
+    }
 }
