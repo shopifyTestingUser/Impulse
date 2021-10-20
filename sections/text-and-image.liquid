@@ -7,11 +7,35 @@
   endif
 -%}
 
-<div class="index-section image-with-text">
+{%- style -%}
+  .{{ section.id }} .feature-row__item-image:before {
+    {% if section.settings.image_bg_color != blank %}
+      background-color: {{ section.settings.image_bg_color }};
+    {% endif %}
+    {%- if section.settings.image_bg != blank  -%}
+      background-image: url({{ section.settings.image_bg | img_url: 'master' }});
+    {% endif %}
+  }
+  {%- if section.settings.text_image_bg != blank -%}
+    .{{ section.id }} {
+      background-image: url({{ section.settings.text_image_bg | img_url: 'master' }});
+      background-repeat: no-repeat;
+      background-size: contain;
+      {%- if section.settings.layout == 'left' -%}
+        background-position: right;
+      {% endif %}
+    }
+  {% endif %}
+
+
+{%- endstyle -%}
+
+<div class="{{ section.id }}">
   <div class="page-width feature-row-wrapper">
     {%- capture image_layout -%}
       <div class="feature-row__item feature-row__item-image{% if overlap_images %} feature-row__item--overlap-images{% endif %}
-           {% if section.settings.image_position != blank %} feature-row__item-{{ section.settings.image_position }}{% endif %}"
+           {% if section.settings.image_position != blank %} feature-row__item-{{ section.settings.image_position }}{% endif %}
+           {%- if section.settings.image2 == blank -%} feature-row__item--single-image {% endif %}"
            style="max-width: {{ section.settings.image_width }}px" data-aos>
           {%- if section.settings.image != blank -%}
             <div>
@@ -58,17 +82,17 @@
       </div>
     {%- endcapture -%}
 
-    <div class="feature-row">
+    <div class="feature-row feature-row{%- if section.settings.layout == 'left' -%}-left{%- else -%}-right{%- endif -%}">
       {%- if section.settings.layout == 'left' -%}
         {{ image_layout }}
       {%- endif -%}
 
       <div class="feature-row__item feature-row__text feature-row__text--{{ section.settings.layout }} text-{{ section.settings.align_text }}" data-aos>
-        {%- if section.settings.subtitle != blank -%}
-          <div class="subheading appear-delay{% cycle '','-1','-2','-3','-4' %}">{{ section.settings.subtitle }}</div>
-        {%- endif -%}
         {%- if section.settings.title != blank -%}
           <div class="h1 appear-delay{% cycle '','-1','-2','-3','-4' %}">{{ section.settings.title | escape }}</div>
+        {%- endif -%}
+        {%- if section.settings.subtitle != blank -%}
+          <div class="subheading appear-delay{% cycle '','-1','-2','-3','-4' %}">{{ section.settings.subtitle }}</div>
         {%- endif -%}
         {%- if section.settings.text != blank -%}
           <div class="rte appear-delay{% cycle '','-1','-2','-3','-4' %}">{{ section.settings.text }}</div>
@@ -95,7 +119,12 @@
 {% schema %}
   {
     "name": "Image with text",
+    "class": "image-with-text",
     "settings": [
+      {
+      "type": "header",
+      "content": "Image block settings"
+      },
       {
         "type": "image_picker",
         "id": "image",
@@ -141,11 +170,20 @@
         ]
       },
       {
-        "type": "color_background",
+        "type": "color",
         "id": "image_bg_color",
         "label": "Background color",
         "default": "#F8E6D4"
-        },
+      },
+      {
+        "type": "image_picker",
+        "id": "image_bg",
+        "label": "Select an image for the background"
+      },
+      {
+      "type": "header",
+      "content": "Text block settings"
+      },
       {
         "type": "text",
         "id": "subtitle",
@@ -224,6 +262,11 @@
             "label": "Image on right"
           }
         ]
+      },
+      {
+        "type": "image_picker",
+        "id": "text_image_bg",
+        "label": "Select an image for the background"
       },
       {
         "type": "checkbox",

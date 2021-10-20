@@ -16,6 +16,7 @@
 
   --colorTextBody:{{ settings.color_body_text | default: "#1c1d1d" }};
   --colorPrice:{{ settings.color_price | default: "#1c1d1d" }};
+  --colorPriceLite:{{ settings.color_price_lite | default: "#8d8b88" }};
   --colorTextSavings:{{ settings.color_savings_text | default: "#1c1d1d" }};
   --colorSaleTag:{{ settings.color_sale_tag | default: "#1c1d1d" }};
   --colorSaleTagText:{{ settings.color_sale_tag_text | default: "#ffffff" }};
@@ -11407,67 +11408,165 @@ html[dir=rtl] .product-single__meta .rte{
 .image-with-text {
     position: relative;
 }
+.feature-row {
+
+}
 
 .feature-row__item-image:before {
     content: '';
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: right bottom;
     position: absolute;
-    background: var(--lt-color-gray-900);
-    width: 50%;
+    width: calc(100% + 34px);
+    left: -17px;
     height: 100%;
     top: 0;
-    right: 0;
 }
+
 .feature-row__item, .feature-row__text {
     flex: 0 1 50%;
+    align-items: flex-start;
+}
+.feature-row__item--overlap-images {
+    position: relative;
+    padding: 15px 0;
+    margin: 0;
+}
+
+.feature-row__item--single-image {
+    position: relative;
+    padding: 15px;
+    margin: 0;
 }
 .feature-row__item--overlap-images.feature-row__item-left-top>:first-child{
     transform: translate(30px, 0);
 }
 .feature-row__item--overlap-images.feature-row__item-left-top>:last-child{
-    transform: translate(0, 30px);
+    transform: translate(0, 0);
+    margin-top: 30px;
 }
 
 .feature-row__item--overlap-images.feature-row__item-right-top>:first-child{
+    transform: translate(30px, 0);
+    margin-top: 30px;
     z-index: auto;
+}
+.feature-row__item--overlap-images.feature-row__item-right-top>:last-child{
+    transform: translate(0);
+}
+
+.feature-row__item--overlap-images.feature-row__item-left-bottom>:first-child{
+    transform: translate(30px,0);
+    margin-top: 30px;
+}
+.feature-row__item--overlap-images.feature-row__item-left-bottom>:last-child{
+    transform: translate(0);
 }
 
 .feature-row__item--overlap-images.feature-row__item-right-bottom>:first-child{
-    transform: translate(30px, 0);
+    transform: translate(30px,0);
     z-index: auto;
 }
 .feature-row__item--overlap-images.feature-row__item-right-bottom>:last-child{
-    transform: translate(0, 30px);
+    transform: translate(0);
+    margin-top: 30px;
+}
+.image-with-text .subheading {
+    color: var(--colorPriceLite);
+    margin-bottom: 10px;
 }
 
 @media only screen and (min-width:769px){
+    .image-with-text .subheading {
+        margin-bottom: 15px;
+    }
+    .feature-row__item--overlap-images {
+        position: static;
+        padding: 50px 0;
+    }
+    .feature-row__item--single-image {
+        position: static;
+        padding: 78px 112px;
+    }
+    .feature-row__item-image:before {
+        width: 50%;
+    }
+    .feature-row-right .feature-row__item-image:before {
+        right: 0;
+        left: auto;
+    }
 
-    .feature-row__item--overlap-images.feature-row__item-left-top>:first-child{
+    .feature-row-left .feature-row__item-image:before {
+        left: 0;
+    }
+
+    .feature-row-right .feature-row__item--overlap-images.feature-row__item-left-top>:first-child{
         transform: translate(85px, 0);
     }
-    .feature-row__item--overlap-images.feature-row__item-left-top>:last-child{
+    .feature-row-right .feature-row__item--overlap-images.feature-row__item-left-top>:last-child{
         transform: translate(0, 0);
         margin-top: 85px;
     }
 
-    .feature-row__item--overlap-images.feature-row__item-right-top>:first-child{
+    .feature-row-left .feature-row__item--overlap-images.feature-row__item-left-top>:first-child{
+        transform: translate(0, 0);
+    }
+    .feature-row-left .feature-row__item--overlap-images.feature-row__item-left-top>:last-child{
+        transform: translate(-85px, 0);
+        margin-top: 85px;
+    }
+
+    .feature-row-right .feature-row__item--overlap-images.feature-row__item-right-top>:first-child{
         transform: translate(85px, 0);
         margin-top: 85px;
     }
 
-    .feature-row__item--overlap-images.feature-row__item-left-bottom>:first-child{
+    .feature-row-left .feature-row__item--overlap-images.feature-row__item-right-top>:first-child{
+        transform: translate(0, 0);
+        margin-top: 85px;
+    }
+    .feature-row-left .feature-row__item--overlap-images.feature-row__item-right-top>:last-child{
+        transform: translate(-85px, 0);
+    }
+
+    .feature-row-right .feature-row__item--overlap-images.feature-row__item-left-bottom>:first-child{
         transform: translate(85px, 0);
         margin-top: 85px;
     }
-    .feature-row__item--overlap-images.feature-row__item-left-bottom>:last-child{
+    .feature-row-right .feature-row__item--overlap-images.feature-row__item-left-bottom>:last-child{
         transform: translate(0, 0);
     }
 
-    .feature-row__item--overlap-images.feature-row__item-right-bottom>:first-child{
+    .feature-row-left .feature-row__item--overlap-images.feature-row__item-left-bottom>:first-child{
+        transform: translate(0, 0);
+        margin-top: 85px;
+    }
+    .feature-row-left .feature-row__item--overlap-images.feature-row__item-left-bottom>:last-child{
+        transform: translate(-85px, 0);
+    }
+
+    .feature-row-right .feature-row__item--overlap-images.feature-row__item-right-bottom>:first-child{
         transform: translate(85px, 0);
     }
-    .feature-row__item--overlap-images.feature-row__item-right-bottom>:last-child{
+    .feature-row-right .feature-row__item--overlap-images.feature-row__item-right-bottom>:last-child{
         transform: translate(0);
         margin-top: 85px;
     }
 
+    .feature-row-left .feature-row__item--overlap-images.feature-row__item-right-bottom>:first-child{
+        transform: translate(0);
+    }
+    .feature-row-left .feature-row__item--overlap-images.feature-row__item-right-bottom>:last-child{
+        transform: translate(-85px, 0);
+        margin-top: 85px;
+    }
+
+}
+
+@media only screen and (max-width:768px){
+
+    .image-with-text .feature-row__text{
+        padding-bottom: 30px;
+    }
 }

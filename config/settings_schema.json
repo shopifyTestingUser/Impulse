@@ -34,6 +34,12 @@
       },
       {
         "type": "color",
+        "id": "color_price_lite",
+        "label": "Price lite",
+        "default": "#8d8b88"
+      },
+      {
+        "type": "color",
         "id": "color_savings_text",
         "label": "Save price",
         "default": "#ff4e4e"
