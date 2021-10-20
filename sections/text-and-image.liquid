@@ -7,11 +7,12 @@
   endif
 -%}
 
-<div class="index-section">
-
+<div class="index-section image-with-text">
   <div class="page-width feature-row-wrapper">
     {%- capture image_layout -%}
-      <div class="feature-row__item{% if overlap_images %} feature-row__item--overlap-images{% endif %}" style="max-width: {{ section.settings.image_width }}px" data-aos>
+      <div class="feature-row__item feature-row__item-image{% if overlap_images %} feature-row__item--overlap-images{% endif %}
+           {% if section.settings.image_position != blank %} feature-row__item-{{ section.settings.image_position }}{% endif %}"
+           style="max-width: {{ section.settings.image_width }}px" data-aos>
           {%- if section.settings.image != blank -%}
             <div>
               {%- if section.settings.button_label != blank and section.settings.button_link != blank -%}<a href="{{ section.settings.button_link }}">{%- endif -%}
@@ -115,6 +116,36 @@
         "step": 10,
         "unit": "px"
       },
+      {
+        "type": "select",
+        "id": "image_position",
+        "label": "Positioning images",
+        "default": "left-bottom",
+        "options": [
+          {
+            "value": "left-top",
+            "label": "The first image on the left is at the top."
+          },
+          {
+            "value": "right-top",
+            "label": "The second image on the right is at the top."
+          },
+          {
+            "value": "left-bottom",
+            "label": "The first image on the left is at the bottom."
+          },
+          {
+            "value": "right-bottom",
+            "label": "The second image from the left is at the bottom."
+          }
+        ]
+      },
+      {
+        "type": "color_background",
+        "id": "image_bg_color",
+        "label": "Background color",
+        "default": "#F8E6D4"
+        },
       {
         "type": "text",
         "id": "subtitle",
