@@ -1,7 +1,4 @@
 {%- style -%}
-  .testimonials__header--{{ section.id }} {
-    font-size: 48px;
-  }
   .testimonials-slider__text--{{ section.id }} {
     border: 2px solid #F8E6D4;
   }
@@ -17,7 +14,7 @@
     <div class="page-width">
       <div class="section-header">
         <span class="testimonials__header--{{ section.id }}">{{ section.settings.subtitle }}</span>
-        <h2 class="testimonials__header--{{ section.id }}">{{ section.settings.title | escape }}</h2>
+        <h2>{{ section.settings.title | escape }}</h2>
       </div>
     </div>
   {%- endif -%}

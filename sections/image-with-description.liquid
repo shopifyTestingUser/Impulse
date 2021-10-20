@@ -6,11 +6,7 @@
     {% if section.settings.swap %}margin-left: 50px;{% else %} margin-right: 50px; {% endif %}
   }
   .title--{{ section.id }}{
-    font-size:{{section.settings.title_font_size}}px;
     margin-bottom: 20px;
-  }
-  .description--{{ section.id }}{
-    font-size:{{section.settings.text_font_size}}px;
   }
 {% endstyle %}
 
@@ -69,26 +65,6 @@
         "type": "checkbox",
         "id": "swap",
         "label": "Swap picture and text"
-      },
-      {
-        "type": "range",
-        "id": "title_font_size",
-        "label": "Header size",
-        "default": 18,
-        "min": 10,
-        "max": 100,
-        "step": 2,
-        "unit": "px"
-      },
-      {
-        "type": "range",
-        "id": "text_font_size",
-        "label": "Text size",
-        "default": 18,
-        "min": 10,
-        "max": 100,
-        "step": 2,
-        "unit": "px"
       },
       {
         "type": "header",
