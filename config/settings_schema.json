@@ -961,6 +961,12 @@
         "info": "https:\/\/vimeo.com\/shopify"
       },
       {
+        "type": "text",
+        "id": "social_spotify_link",
+        "label": "Spotify",
+        "info": "https:\/\/spotify.com\/shopify"
+      },
+      {
         "type": "header",
         "content": "Sharing options"
       },

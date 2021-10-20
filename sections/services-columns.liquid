@@ -1,25 +1,14 @@
 {% style %}
   .services-column__title--{{ section.id }} {
     margin-top: 20px;
-    color: {{ section.settings.title_color }};
-    font-size: {{ section.settings.title_font_size }}px;
-  }
-  .services-column__price--{{ section.id }} {
-    color: {{ section.settings.price_color }};
-    opacity: {{ section.settings.price_opacity }}%;
-    font-size: {{ section.settings.price_font_size }}px;
+    color: {{ settings.color_body_text }};
   }
   .services-column__text--{{ section.id }} {
     margin-top: 20px;
-    color:{{ section.settings.text_color }};
-    font-size:{{ section.settings.text_font_size }}px;
+    color: {{ settings.color_body_text }};
   }
   .services-column__btn--{{ section.id }} {
-    background-color:{{ section.settings.button_color }};
-    transition: .2s
-  }
-  .services-column__btn--{{ section.id }}:hover{
-    background-color:{{ section.settings.button_color }}aa;
+    background-color:{{ settings.color_button }};
   }
 {% endstyle %}
 
@@ -52,7 +41,7 @@
       {%- endif -%}
       <div class="grid__item {{ column_width }} text-{{ section.settings.align_text }}" {{ block.shopify_attributes }} data-aos="row-of-3">
         {%- if block.settings.enable_image -%}
-          <div style="{% if section.settings.align_text == 'center' %}margin: 0 auto;{% endif %} max-width: {{ block.settings.image_width }}px;">
+          <div>
             {%- if block.settings.button_link != blank -%}
               <a href="{{ block.settings.button_link }}">
             {%- endif -%}
@@ -75,10 +64,10 @@
           </div>
         {%- endif -%}
         {%- if block.settings.title != blank -%}
-          <h3 class="services-column__title--{{ section.id }}">{{ block.settings.title }}</h3>
+          <h1 class="services-column__title--{{ section.id }}">{{ block.settings.title }}</h1>
         {%- endif -%}
         {%- if block.settings.price != blank -%}
-          <span class="services-column__price--{{ section.id }}">{{ block.settings.price }}</span>
+          <span class="services-column__price">{{ block.settings.price }}</span>
         {%- endif -%}
         {%- if block.settings.text != blank -%}
           <div class="rte-setting text-spacing services-column__text--{{ section.id }}">{{ block.settings.text }}</div>
@@ -130,90 +119,6 @@
         "id": "divider",
         "label": "Show section divider",
         "default": false
-      },
-      {
-        "type": "header",
-        "content": "Design"
-      },
-      {
-        "type": "header",
-        "content": "Title"
-      },
-      {
-        "type": "color",
-        "id": "title_color",
-        "label": "Color",
-        "default": "#000000"
-      },
-      {
-        "type": "range",
-        "id": "title_font_size",
-        "label": "Text size",
-        "default": 36,
-        "min": 10,
-        "max": 100,
-        "step": 1,
-        "unit": "px"
-      },
-      {
-        "type": "header",
-        "content": "Price"
-      },
-      {
-        "type": "color",
-        "id": "price_color",
-        "label": "Color",
-        "default": "#000000"
-      },
-      {
-        "type": "range",
-        "id": "price_opacity",
-        "label": "Opacity",
-        "default": 50,
-        "min": 10,
-        "max": 100,
-        "step": 2,
-        "unit": "%"
-      },
-      {
-        "type": "range",
-        "id": "price_font_size",
-        "label": "Text size",
-        "default": 18,
-        "min": 10,
-        "max": 100,
-        "step": 1,
-        "unit": "px"
-      },
-      {
-        "type": "header",
-        "content": "Text"
-      },
-      {
-        "type": "color",
-        "id": "text_color",
-        "label": "Color",
-        "default": "#000000"
-      },
-      {
-        "type": "range",
-        "id": "text_font_size",
-        "label": "Text size",
-        "default": 17,
-        "min": 10,
-        "max": 100,
-        "step": 1,
-        "unit": "px"
-      },
-      {
-        "type": "header",
-        "content": "Text"
-      },
-      {
-        "type": "color",
-        "id": "button_color",
-        "label": "Background Color",
-        "default": "#000000"
       }
     ],
     "blocks": [
@@ -231,16 +136,6 @@
             "type": "image_picker",
             "id": "image",
             "label": "Image"
-          },
-          {
-            "type": "range",
-            "id": "image_width",
-            "label": "Image width",
-            "default": 400,
-            "min": 300,
-            "max": 500,
-            "step": 2,
-            "unit": "px"
           },
           {
             "type": "text",
