@@ -1,5 +1,8 @@
 {% style %}
   .flex-revert--{{ section.id }}{
+    display: flex;
+    align-items: center;
+
     {% if section.settings.swap %}flex-direction: row-reverse;{% endif %}
   }
   .image-wrapper--{{ section.id }}{
@@ -27,7 +30,7 @@
         </h3>
       {% endif %}
       {% if section.settings.text != "" %}
-        <p class=".description--{{ section.id }}">
+        <p class="description--{{ section.id }}">
           {{section.settings.text}}
         </p>
       {% endif %}
