@@ -2235,19 +2235,43 @@ button[disabled],html input[disabled]{
   width:100%;
   transition:none;
 }
-.payment-buttons{
-  display: flex;
-  flex-direction: row-reverse;
-  justify-content: start;
-}
+
 .payment-buttons .add-to-cart,.payment-buttons .shopify-payment-button,.payment-buttons .shopify-payment-button__button--unbranded{
-  max-width: max-content;
-  min-width: 275px;
   min-height:50px;
-  margin-right: 10px;
+  width: 100%;
   border-radius: 50px;
 }
+.product-single__form > .payment-buttons > *{
+  margin-bottom: 10px;
+}
 
+@media (min-width: 577px) {
+  .payment-buttons{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+  }
+  .product-single__form > .payment-buttons > *{
+    margin-right: 10px;
+  }
+}
+@media (min-width: 769px) {
+  .payment-buttons{
+    flex-direction: column;
+    justify-content: start;
+  }
+}
+@media (min-width: 1200px) {
+  .payment-buttons{
+    flex-direction: row-reverse;
+    justify-content: start;
+  }
+  .product-single__form > .payment-buttons > *{
+    margin-right: 10px;
+    min-width: 48%;
+    max-width: 48%
+  }
+}
 .add-to-cart.btn--secondary{
   border:1px solid;
   border-color:{{ settings.color_body_text | default: "#1c1d1d" }};
