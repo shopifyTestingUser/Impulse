@@ -88,16 +88,19 @@
       {%- endif -%}
 
       <div class="feature-row__item feature-row__text feature-row__text--{{ section.settings.layout }} text-{{ section.settings.align_text }}" data-aos>
-        {%- if section.settings.title != blank -%}
+        {%- if section.settings.title != blank and section.settings.another_text == false -%}
           <div class="h1 appear-delay{% cycle '','-1','-2','-3','-4' %}">{{ section.settings.title | escape }}</div>
         {%- endif -%}
-        {%- if section.settings.subtitle != blank -%}
+        {%- if section.settings.subtitle != blank and section.settings.another_text == false -%}
           <div class="subheading appear-delay{% cycle '','-1','-2','-3','-4' %}">{{ section.settings.subtitle }}</div>
         {%- endif -%}
         {%- if section.settings.text != blank -%}
-          <div class="rte appear-delay{% cycle '','-1','-2','-3','-4' %}">{{ section.settings.text }}</div>
+          <div class="rte appear-delay{% cycle '','-1','-2','-3','-4' %}
+            {%- if section.settings.another_text -%}rte-custom{%- endif -%}">
+            {{ section.settings.text }}
+          </div>
         {%- endif -%}
-        {%- if section.settings.button_label != blank -%}
+        {%- if section.settings.button_label != blank and section.settings.another_text == false -%}
           <div class="appear-delay{% cycle '','-1','-2','-3','-4' %}">
             <a href="{{ section.settings.button_link }}" class="btn{% if section.settings.button_style == 'secondary' %} btn--tertiary{% endif %}">
               {{ section.settings.button_label }}
@@ -194,6 +197,13 @@
         "id": "title",
         "label": "Heading",
         "default": "Image with text"
+      },
+      {
+        "type": "checkbox",
+        "id": "another_text",
+        "label": "Show another style for text",
+        "info": "If enabled, the text will be displayed in a different text style.",
+        "default": false
       },
       {
         "type": "richtext",
