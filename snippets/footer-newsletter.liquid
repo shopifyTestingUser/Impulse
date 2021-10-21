@@ -121,6 +121,14 @@
               </a>
             </li>
           {%- endif -%}
+          {%- if settings.social_spotify_link != blank -%}
+            <li>
+              <a target="_blank" rel="noopener" href="{{ settings.social_spotify_link }}" title="{{ 'layout.footer.social_platform' | t: name: shop.name, platform: 'Spotify' }}">
+                <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-vimeo" viewBox="0 0 20 20"><path fill="#2F2823" d="M10 0a10 10 0 1 0 0 20 10 10 0 0 0 0-20Zm4.586 14.422a.622.622 0 0 1-.857.207c-2.349-1.434-5.304-1.759-8.785-.963a.623.623 0 1 1-.278-1.216c3.81-.87 7.078-.496 9.713 1.115a.625.625 0 0 1 .207.857ZM15.81 11.7a.78.78 0 0 1-1.072.256c-2.688-1.651-6.785-2.13-9.965-1.165A.781.781 0 0 1 4.32 9.3c3.631-1.101 8.146-.568 11.232 1.329a.78.78 0 0 1 .258 1.072Zm.105-2.835C12.693 6.95 7.375 6.774 4.298 7.707a.935.935 0 1 1-.543-1.79c3.531-1.07 9.404-.864 13.115 1.338a.936.936 0 0 1-.955 1.61Z"/></svg>
+                <span class="icon__fallback-text">Spotify</span>
+              </a>
+            </li>
+          {%- endif -%}
         </ul>
       </div>
     </div>
