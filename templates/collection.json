@@ -116,6 +116,22 @@
         "enable_color_swatches": false,
         "enable_sort": false
       }
+    },
+    "16348220647cb5840c": {
+      "type": "blog-posts",
+      "settings": {
+        "title": "Blog posts",
+        "blog": "news",
+        "post_limit": 3,
+        "blog_show_excerpt": true,
+        "blog_show_tags": false,
+        "blog_show_date": false,
+        "blog_show_comments": false,
+        "blog_show_author": false,
+        "view_all": true,
+        "blog_image_size": "wide",
+        "divider": false
+      }
     }
   },
   "order": [
@@ -123,6 +139,7 @@
     "collection-header",
     "163482129947cdb0c4",
     "promo-grid",
-    "main-collection"
+    "main-collection",
+    "16348220647cb5840c"
   ]
 }
