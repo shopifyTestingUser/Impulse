@@ -54,6 +54,22 @@
         "id": "space_below",
         "label": "Add bottom spacing",
         "default": true
+      },
+      {
+        "type": "select",
+        "id": "color_text",
+        "label": "Set color text",
+        "default": "main",
+        "options": [
+          {
+            "value": "main",
+            "label": "Main color text"
+          },
+          {
+            "value": "second",
+            "label": "Second color text"
+          }
+        ]
       }
     ],
     "presets": [{
@@ -283,12 +299,6 @@
             "default": "rgba(0,0,0,0)"
           },
           {
-            "type": "color",
-            "id": "color_text",
-            "label": "Text",
-            "default": "#000000"
-          },
-          {
             "type": "checkbox",
             "id": "boxed",
             "label": "Add box",
@@ -338,12 +348,6 @@
             "id": "color_tint",
             "label": "Tint",
             "default": "#000000"
-          },
-          {
-            "type": "color",
-            "id": "color_text",
-            "label": "Text color",
-            "default": "#ffffff"
           },
           {
             "type": "range",
