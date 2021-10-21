@@ -286,6 +286,42 @@
         "framed": false,
         "parallax": false
       }
+    },
+    "1634819298330c38ca": {
+      "type": "rich-text",
+      "blocks": {
+        "1634819298330c38ca-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1634819298330c38ca-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "1634819302b8ccc8d0": {
+      "type": "blog-posts",
+      "settings": {
+        "title": "",
+        "blog": "news",
+        "post_limit": 3,
+        "blog_show_excerpt": true,
+        "blog_show_tags": false,
+        "blog_show_date": true,
+        "blog_show_comments": false,
+        "blog_show_author": false,
+        "view_all": false,
+        "blog_image_size": "wide",
+        "divider": false
+      }
     }
   },
   "order": [
@@ -300,6 +336,8 @@
     "1634818988a2c604ce",
     "163481899548c17e23",
     "16348190618f05a774",
-    "1634819181ce3f0a8c"
+    "1634819181ce3f0a8c",
+    "1634819298330c38ca",
+    "1634819302b8ccc8d0"
   ]
 }
