@@ -133,6 +133,7 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/DTW_4322_1.png",
             "overlay_opacity": 0,
             "focal_point": "center center"
           }
@@ -144,11 +145,54 @@
       "settings": {
         "section_height": "650px",
         "mobile_height": "auto",
-        "parallax": true,
+        "parallax": false,
         "style": "bars",
         "arrows": true,
         "autoplay": true,
         "autoplay_speed": 5
+      }
+    },
+    "16348255004218c457": {
+      "type": "rich-text",
+      "blocks": {
+        "16348255004218c457-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16348255004218c457-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "1634825522a08656c5": {
+      "type": "promo-grid",
+      "blocks": {
+        "608e0118-ebeb-479d-beff-1069c76df5dc": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/49A9887_1_1.png",
+            "link": "",
+            "width": "100"
+          }
+        }
+      },
+      "block_order": [
+        "608e0118-ebeb-479d-beff-1069c76df5dc"
+      ],
+      "settings": {
+        "full_width": false,
+        "gutter_size": 20,
+        "space_above": false,
+        "space_below": true,
+        "color_text": "main"
       }
     }
   },
@@ -160,6 +204,8 @@
     "163482516833cd4adb",
     "1634825199262c0c81",
     "1634825297d0948712",
-    "16348253938dde6455"
+    "16348253938dde6455",
+    "16348255004218c457",
+    "1634825522a08656c5"
   ]
 }
