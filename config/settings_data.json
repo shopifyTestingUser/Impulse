@@ -27,10 +27,11 @@
     "color_image_overlay_opacity": 0,
     "color_image_overlay_text_shadow": 0,
     "type_header_font_family": "tenor_sans_n4",
+    "type_header_custom_font_family": "briquete",
     "type_header_spacing": "0",
     "type_header_base_size": 36,
-    "type_header_line_height": 1,
-    "type_header_capitalize": true,
+    "type_header_line_height": 2,
+    "type_header_capitalize": false,
     "type_headers_align_text": true,
     "type_base_font_family": "open_sans_n4",
     "type_base_spacing": "25",
@@ -94,8 +95,7 @@
           "c55ea045-99d8-4adf-8b36-f939bc993f54": {
             "type": "announcement",
             "settings": {
-              "text": "<p>Join the LHM family! <a href=\"\/pages\/about-us\" title=\"About us\">Visit our cozy salon<\/a> to get the expert hair care<\/p>",
-              "link": ""
+              "text": "<p>Join the LHM family! <a href=\"\/pages\/about-us\" title=\"About us\">Visit our cozy salon<\/a> to get the expert hair care<\/p>"
             }
           }
         },
@@ -116,8 +116,7 @@
           "toolbar_social": false,
           "show_locale_selector": false,
           "show_currency_selector": true,
-          "show_currency_flags": true,
-          "only_on_main_page": true
+          "show_currency_flags": true
         }
       },
       "footer": {
