@@ -7,15 +7,16 @@
           "type": "image",
           "settings": {
             "top_subheading": "",
-            "title": "Endless\npossibilities.",
+            "title": "Welcome to the salon",
             "title_size": 80,
-            "subheading": "Bring your brand to life",
+            "subheading": "",
             "link": "",
             "link_text": "Optional button",
             "link_2": "",
             "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
+            "color_accent": "#f8e6d4",
             "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/the_1st_image_for_slider_1.png",
             "overlay_opacity": 0,
             "focal_point": "center center"
           }
@@ -24,15 +25,16 @@
           "type": "image",
           "settings": {
             "top_subheading": "",
-            "title": "Two line\ntitle slide.",
+            "title": "Welcome to the salon",
             "title_size": 80,
-            "subheading": "And big, beautiful imagery",
+            "subheading": "",
             "link": "",
             "link_text": "Optional button",
             "link_2": "",
             "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
+            "color_accent": "#f8e6d4",
             "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/the_1st_image_for_slider_1.png",
             "overlay_opacity": 0,
             "focal_point": "center center"
           }
@@ -54,12 +56,165 @@
     },
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
+      }
+    },
+    "1634817922f621802a": {
+      "type": "rich-text",
+      "blocks": {
+        "1634817922f621802a-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Our services"
+          }
+        },
+        "1634817922f621802a-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1634817922f621802a-0",
+        "1634817922f621802a-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "1634817932c3034db1": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/hairstyle1_1.png",
+        "image2": "shopify:\/\/shop_images\/hairstyle2_1.png",
+        "image_width": 700,
+        "image_position": "left-bottom",
+        "image_bg_color": "#F8E6D4",
+        "image_bg": "shopify:\/\/shop_images\/Frame_106.png",
+        "subtitle": "$100",
+        "title": "Service 1",
+        "another_text": false,
+        "text": "<p>Pair large text with an image to tell a story, explain a detail about your product, or describe a new promotion.<\/p>",
+        "button_label": "book an appointment",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "1634817967ef6fa465": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/hairstule3_1.png",
+        "image2": "shopify:\/\/shop_images\/hairstyle4_1.png",
+        "image_width": 700,
+        "image_position": "left-bottom",
+        "image_bg_color": "#f6dad6",
+        "image_bg": "shopify:\/\/shop_images\/Frame_106_1.png",
+        "subtitle": "$100",
+        "title": "Service 2",
+        "another_text": false,
+        "text": "<p>Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.<\/p>",
+        "button_label": "book an appointment",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "left",
+        "divider": false
+      }
+    },
+    "1634818407248381a3": {
+      "type": "services-columns",
+      "blocks": {
+        "1634818407248381a3-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/10_7_2_1.png",
+            "title": "Service 1",
+            "price": "$100",
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
+            "button_label": "book an appointment",
+            "button_link": ""
+          }
+        },
+        "1634818407248381a3-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/20_20_2_1.png",
+            "title": "Service 2",
+            "price": "$100",
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
+            "button_label": "book an appointment",
+            "button_link": ""
+          }
+        },
+        "1634818407248381a3-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/10_8_2_1.png",
+            "title": "Service 3",
+            "price": "$100",
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
+            "button_label": "book an appointment",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1634818407248381a3-0",
+        "1634818407248381a3-1",
+        "1634818407248381a3-2"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "163481850238cfcb6e": {
+      "type": "promo-grid",
+      "blocks": {
+        "0ae6bc84-313d-4630-a129-8f51c6cf486b": {
+          "type": "banner",
+          "settings": {
+            "heading": "a piece of advice",
+            "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
+            "link": "",
+            "label": "See more on Instagram",
+            "color_tint": "#000000",
+            "color_tint_opacity": 100,
+            "framed": false
+          }
+        }
+      },
+      "block_order": [
+        "0ae6bc84-313d-4630-a129-8f51c6cf486b"
+      ],
+      "settings": {
+        "full_width": true,
+        "gutter_size": 0,
+        "space_above": true,
+        "space_below": true,
+        "color_text": "second"
       }
     }
   },
   "order": [
     "1634817092753e019f",
-    "main"
+    "main",
+    "1634817922f621802a",
+    "1634817932c3034db1",
+    "1634817967ef6fa465",
+    "1634818407248381a3",
+    "163481850238cfcb6e"
   ]
 }
