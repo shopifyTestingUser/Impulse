@@ -259,6 +259,17 @@
         "btn_text": "Contact us",
         "btn_link": ""
       }
+    },
+    "16348190618f05a774": {
+      "type": "image-with-description",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/mona_1.png",
+        "title": "Expert Name",
+        "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.",
+        "swap": true,
+        "btn_text": "Contact us",
+        "btn_link": ""
+      }
     }
   },
   "order": [
@@ -271,6 +282,7 @@
     "163481850238cfcb6e",
     "1634818955e515f813",
     "1634818988a2c604ce",
-    "163481899548c17e23"
+    "163481899548c17e23",
+    "16348190618f05a774"
   ]
 }
