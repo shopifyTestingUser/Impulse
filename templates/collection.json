@@ -120,7 +120,7 @@
     "16348220647cb5840c": {
       "type": "blog-posts",
       "settings": {
-        "title": "Blog posts",
+        "title": "",
         "blog": "news",
         "post_limit": 3,
         "blog_show_excerpt": true,
@@ -128,7 +128,7 @@
         "blog_show_date": false,
         "blog_show_comments": false,
         "blog_show_author": false,
-        "view_all": true,
+        "view_all": false,
         "blog_image_size": "wide",
         "divider": false
       }
