@@ -11,6 +11,15 @@
         "social_sharing_blog": true
       }
     },
+    "163482084225a219d8": {
+      "type": "contact-form",
+      "settings": {
+        "title": "Contact us",
+        "text": "",
+        "show_phone": false,
+        "narrow_column": true
+      }
+    },
     "blog-posts": {
       "type": "blog-posts",
       "settings": {
@@ -30,6 +39,7 @@
   },
   "order": [
     "main",
+    "163482084225a219d8",
     "blog-posts"
   ]
 }
