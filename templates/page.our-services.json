@@ -94,7 +94,7 @@
         "image2": "shopify:\/\/shop_images\/hairstyle2_1.png",
         "image_width": 700,
         "image_position": "left-bottom",
-        "image_bg_color": "#F8E6D4",
+        "image_bg_color": "#f8e6d4",
         "image_bg": "shopify:\/\/shop_images\/Frame_106.png",
         "subtitle": "$100",
         "title": "Service 1",
@@ -202,9 +202,51 @@
       "settings": {
         "full_width": true,
         "gutter_size": 0,
-        "space_above": true,
-        "space_below": true,
+        "space_above": false,
+        "space_below": false,
         "color_text": "second"
+      }
+    },
+    "1634818955e515f813": {
+      "type": "rich-text",
+      "blocks": {
+        "1634818955e515f813-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Meet our team"
+          }
+        }
+      },
+      "block_order": [
+        "1634818955e515f813-0"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "1634818988a2c604ce": {
+      "type": "promo-grid",
+      "blocks": {
+        "4e54eea1-5f27-4ed8-a701-72680260f8b9": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/49A1192_2_2_1.png",
+            "link": "",
+            "width": "100"
+          }
+        }
+      },
+      "block_order": [
+        "4e54eea1-5f27-4ed8-a701-72680260f8b9"
+      ],
+      "settings": {
+        "full_width": false,
+        "gutter_size": 20,
+        "space_above": false,
+        "space_below": false,
+        "color_text": "main"
       }
     }
   },
@@ -215,6 +257,8 @@
     "1634817932c3034db1",
     "1634817967ef6fa465",
     "1634818407248381a3",
-    "163481850238cfcb6e"
+    "163481850238cfcb6e",
+    "1634818955e515f813",
+    "1634818988a2c604ce"
   ]
 }
