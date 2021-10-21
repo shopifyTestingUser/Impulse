@@ -127,16 +127,16 @@
     "16348210811bd81bd1": {
       "type": "featured-collection",
       "settings": {
-        "title": "Featured collection",
+        "title": "You may also like",
         "home_featured_products": "frontpage",
         "per_row": 4,
         "rows": 1,
         "mobile_scrollable": true,
-        "view_all": true,
+        "view_all": false,
         "divider": false,
         "has_meta": true,
         "fixed_height": true,
-        "height": 600
+        "height": 450
       }
     }
   },
