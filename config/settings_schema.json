@@ -23,7 +23,13 @@
       {
         "type": "color",
         "id": "color_body_text",
-        "label": "Text",
+        "label": "Main color",
+        "default": "#1c1d1d"
+      },
+      {
+        "type": "color",
+        "id": "second_color_body_text",
+        "label": "Second color",
         "default": "#1c1d1d"
       },
       {
@@ -965,6 +971,12 @@
         "id": "social_vimeo_link",
         "label": "Vimeo",
         "info": "https:\/\/vimeo.com\/shopify"
+      },
+      {
+        "type": "text",
+        "id": "social_spotify_link",
+        "label": "Spotify",
+        "info": "https:\/\/spotify.com\/shopify"
       },
       {
         "type": "header",

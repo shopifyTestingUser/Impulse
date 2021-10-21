@@ -1,7 +1,6 @@
 {%- style -%}
-  .testimonials-{{ section.id }} {
-    background-color: {{ section.settings.color_background }};
-    color: {{ section.settings.color_text }};
+  .testimonials-slider__text--{{ section.id }} {
+    border: 2px solid #F8E6D4;
   }
 }
 {%- endstyle -%}
@@ -14,6 +13,7 @@
   {%- if section.settings.title != blank -%}
     <div class="page-width">
       <div class="section-header">
+        <span class="testimonials__header--{{ section.id }}">{{ section.settings.subtitle }}</span>
         <h2>{{ section.settings.title | escape }}</h2>
       </div>
     </div>
@@ -32,7 +32,7 @@
             data-index="{{ forloop.index0 }}"
             data-aos="row-of-{{ section.blocks.size }}"
             {{ block.shopify_attributes }}>
-            <blockquote class="testimonials-slider__text">
+            <blockquote class="testimonials-slider__text testimonials-slider__text--{{ section.id }}">
               {%- if block.settings.icon == 'quote' -%}
                 <span class="quote-icon"><svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-quote" viewBox="0 0 41 35"><path d="M10.208 17.711h6.124v16.332H0V21.684C0 8.184 5.444.956 16.332 0v6.125c-4.083 1.14-6.124 4.414-6.124 9.82v1.766zm24.498 0h6.124v16.332H24.498V21.684C24.498 8.184 29.942.956 40.83 0v6.125c-4.083 1.14-6.124 4.414-6.124 9.82v1.766z" fill="#000" fill-rule="evenodd"/></svg></span>
               {%- elsif block.settings.icon == '5-stars' -%}
@@ -90,6 +90,12 @@
     "settings": [
       {
         "type": "text",
+        "id": "subtitle",
+        "label": "Sub heading",
+        "default": "Sub heading"
+      },
+      {
+        "type": "text",
         "id": "title",
         "label": "Heading",
         "default": "Testimonials"
@@ -120,18 +126,6 @@
         "label": "Circular images",
         "info": "Requires square images",
         "default": true
-      },
-      {
-        "type": "color",
-        "id": "color_background",
-        "label": "Background",
-        "default": "#f9f9f9"
-      },
-      {
-        "type": "color",
-        "id": "color_text",
-        "label": "Text",
-        "default": "#1c1d1d"
       }
     ],
     "blocks": [
