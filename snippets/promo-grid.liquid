@@ -18,8 +18,8 @@
     padding-left: {{ section.settings.gutter_size }}px;
   }
   .text-color--{{ section.id }} {
-    color: {% if section.settings.color_text == "main" %}{{ settings.color_body_text }}{% else %}{{ second_color_body_text }}{% endif %};
-    border-color: {% if section.settings.color_text == "main" %}{{ settings.color_body_text }}{% else %}{{ second_color_body_text }}{% endif %};
+    color: {% if section.settings.color_text == "main" %}{{ settings.color_body_text }}{% else %}{{ settings.second_color_body_text }}{% endif %};
+    border-color: {% if section.settings.color_text == "main" %}{{ settings.color_body_text }}{% else %}{{ settings.second_color_body_text }}{% endif %};
   }
 
   @media only screen and (max-width: 589px) {
@@ -43,7 +43,6 @@
     }
   }
 {%- endstyle -%}
-
 <div class="promo-grid{% if section.settings.space_above %} promo-grid--space-top{% endif %}{% if section.settings.space_below %} promo-grid--space-bottom{% endif %}">
   <div class="flex-grid flex-grid--gutters flex-grid--{{ section.id }}">
     {%- for block in section.blocks -%}
