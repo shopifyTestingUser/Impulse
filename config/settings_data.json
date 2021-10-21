@@ -94,17 +94,10 @@
               "desktop_logo_width": 100,
               "mobile_logo_width": 60
             }
-          },
-          "c55ea045-99d8-4adf-8b36-f939bc993f54": {
-            "type": "announcement",
-            "settings": {
-              "text": "<p>Join the LHM family! <a href=\"\/pages\/about-us\" title=\"About us\">Visit our cozy salon<\/a> to get the expert hair care<\/p>"
-            }
           }
         },
         "block_order": [
-          "1524770014057",
-          "c55ea045-99d8-4adf-8b36-f939bc993f54"
+          "1524770014057"
         ],
         "settings": {
           "main_menu_link_list": "header",
