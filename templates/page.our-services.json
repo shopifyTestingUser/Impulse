@@ -270,6 +270,22 @@
         "btn_text": "Contact us",
         "btn_link": ""
       }
+    },
+    "1634819181ce3f0a8c": {
+      "type": "background-image-text",
+      "settings": {
+        "subtitle": "following events",
+        "title": "Event title",
+        "text": "<p>Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. <\/p>",
+        "button_label": "Take part in event",
+        "button_link": "shopify:\/\/blogs\/news",
+        "image": "shopify:\/\/shop_images\/49A1187_1.png",
+        "focal_point": "20% 100%",
+        "layout": "left",
+        "height": 750,
+        "framed": false,
+        "parallax": false
+      }
     }
   },
   "order": [
@@ -283,6 +299,7 @@
     "1634818955e515f813",
     "1634818988a2c604ce",
     "163481899548c17e23",
-    "16348190618f05a774"
+    "16348190618f05a774",
+    "1634819181ce3f0a8c"
   ]
 }
