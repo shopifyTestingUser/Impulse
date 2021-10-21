@@ -55,18 +55,19 @@
         "advanced": {
           "type": "advanced",
           "settings": {
-            "subheading": "Limited time",
-            "heading": "Announce your promotion",
-            "textarea": "Include the smaller details of your promotion in text below the title.",
-            "cta_text1": "Shop This",
+            "subheading": "special offer",
+            "heading": "Banner with products",
+            "textarea": "",
+            "cta_text1": "",
             "cta_link1": "",
-            "cta_text2": "Shop All",
+            "cta_text2": "",
             "cta_link2": "",
+            "image": "shopify:\/\/shop_images\/a2a796d2791279ba86d0667c71a6dda4_1.jpg",
             "video_url": "",
             "width": "100",
             "height": 500,
             "text_size": 120,
-            "text_align": "vertical-center horizontal-center",
+            "text_align": "vertical-bottom horizontal-left",
             "focal_point": "center",
             "color_accent": "rgba(0,0,0,0)",
             "boxed": false,
@@ -80,9 +81,9 @@
       "settings": {
         "full_width": false,
         "gutter_size": 20,
-        "space_above": false,
+        "space_above": true,
         "space_below": false,
-        "color_text": "main"
+        "color_text": "second"
       }
     },
     "main-collection": {
