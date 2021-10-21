@@ -248,6 +248,17 @@
         "space_below": false,
         "color_text": "main"
       }
+    },
+    "163481899548c17e23": {
+      "type": "image-with-description",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/julia.png",
+        "title": "Expert Name",
+        "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.",
+        "swap": false,
+        "btn_text": "Contact us",
+        "btn_link": ""
+      }
     }
   },
   "order": [
@@ -259,6 +270,7 @@
     "1634818407248381a3",
     "163481850238cfcb6e",
     "1634818955e515f813",
-    "1634818988a2c604ce"
+    "1634818988a2c604ce",
+    "163481899548c17e23"
   ]
 }
