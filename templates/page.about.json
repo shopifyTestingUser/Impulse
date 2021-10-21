@@ -44,6 +44,7 @@
     "16348250262b8f3a96": {
       "type": "text-and-image",
       "settings": {
+        "image": "shopify:\/\/shop_images\/49A0928_1_1.png",
         "image_width": 700,
         "image_position": "left-bottom",
         "image_bg_color": "#F8E6D4",
@@ -56,7 +57,53 @@
         "button_style": "primary",
         "align_text": "center",
         "layout": "left",
+        "text_image_bg": "shopify:\/\/shop_images\/Frame_106.png",
         "divider": false
+      }
+    },
+    "163482516833cd4adb": {
+      "type": "title-with-instagram",
+      "settings": {
+        "title": "Join us in Instagram @lhm",
+        "align_text": "center"
+      }
+    },
+    "1634825199262c0c81": {
+      "type": "promo-grid",
+      "blocks": {
+        "88a5666d-d63f-4677-ba2a-d9dffc8e112d": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "width": "33"
+          }
+        },
+        "d1211765-1a0c-4c7e-8b58-e5a6a7c6151c": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "width": "33"
+          }
+        },
+        "6b59d26f-13e4-4c4e-9d92-603eea3ca716": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "width": "33"
+          }
+        }
+      },
+      "block_order": [
+        "88a5666d-d63f-4677-ba2a-d9dffc8e112d",
+        "d1211765-1a0c-4c7e-8b58-e5a6a7c6151c",
+        "6b59d26f-13e4-4c4e-9d92-603eea3ca716"
+      ],
+      "settings": {
+        "full_width": false,
+        "gutter_size": 0,
+        "space_above": true,
+        "space_below": true,
+        "color_text": "main"
       }
     }
   },
@@ -64,6 +111,8 @@
     "main",
     "16348249862f5b3040",
     "16348250212312d01d",
-    "16348250262b8f3a96"
+    "16348250262b8f3a96",
+    "163482516833cd4adb",
+    "1634825199262c0c81"
   ]
 }
