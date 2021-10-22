@@ -197,6 +197,16 @@
             "unit": "%"
           },
           {
+            "type": "range",
+            "id": "width_content",
+            "label": "Width content",
+            "default": 100,
+            "min": 20,
+            "max": 100,
+            "step": 5,
+            "unit": "%"
+          },
+          {
             "type": "header",
             "content": "Alignment"
           },
@@ -512,16 +522,6 @@
             "label": "Sale collection"
           },
           {
-            "type": "image_picker",
-            "id": "collection_image_1",
-            "label": "background Image"
-          },
-          {
-            "type": "image_picker",
-            "id": "collection_image_2",
-            "label": "Image"
-          },
-          {
             "type": "text",
             "id": "top_text",
             "label": "Top text",
@@ -593,6 +593,92 @@
           }
         ]
       },
+      {
+        "type": "custom_sale_collection",
+        "name": "Custom sale collection",
+        "settings": [
+          {
+            "type": "collection",
+            "id": "custom_sale_collection",
+            "label": "Sale collection"
+          },
+          {
+            "type":"image_picker",
+            "id": "image",
+            "label": "Collection image"
+          },
+          {
+            "type": "text",
+            "id": "top_text",
+            "label": "Top text",
+            "default": "Up to"
+          },
+          {
+            "type": "text",
+            "id": "middle_text",
+            "label": "Middle text",
+            "default": "50% off"
+          },
+          {
+            "type": "text",
+            "id": "bottom_text",
+            "label": "Bottom text",
+            "default": "Select products"
+          },
+          {
+            "type": "header",
+            "content": "Layout"
+          },
+          {
+            "type": "select",
+            "id": "width",
+            "label": "Width",
+            "default": "100",
+            "options": [
+              {
+              "value": "50",
+              "label": "50%"
+              },
+              {
+              "value": "100",
+              "label": "100%"
+              }
+            ]
+          },
+          {
+            "type": "header",
+            "content": "Design"
+          },
+          {
+            "type": "color",
+            "id": "color_tint",
+            "label": "Tint",
+            "default": "#000000"
+          },
+          {
+            "type": "range",
+            "id": "color_tint_opacity",
+            "label": "Amount",
+            "default": 0,
+            "min": 0,
+            "max": 100,
+            "step": 2,
+            "unit": "%"
+          },
+          {
+            "type": "checkbox",
+            "id": "boxed",
+            "label": "Add box",
+            "default": false
+          },
+          {
+            "type": "checkbox",
+            "id": "framed",
+            "label": "Add frame",
+            "default": false
+          }
+          ]
+        },
       {
         "type": "simple",
         "name": "Simple",

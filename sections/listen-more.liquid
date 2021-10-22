@@ -1,0 +1,98 @@
+{% style %}
+  .listen-more__content--{{ section.id }} {
+    padding: 30px 0 24px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: {{ settings.color_announcement }}
+  }
+  .listen-more__content-text--{{ section.id }} {
+    margin: 16px 0 20px;
+    color: {{ settings.second_color_body_text }};
+    font-size: {{ settings.type_base_size }}px;
+    line-height: {{ settings.type_base_line_height }}
+  }
+
+  @media(min-width: 769px){
+    .listen-more__content-buttons--{{ section.id }} {
+      display: flex;
+      flex-direction: row;
+    }
+  }
+  .listen-more__btn--{{ section.id }} {
+    margin: 6px 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: {{ settings.second_color_body_text }};
+    border: 1px solid {{ settings.second_color_body_text }};
+    background: {{ settings.color_announcement }}
+  }
+  .listen-more__btn--{{ section.id }} svg {
+    margin-right: 10px;
+  }
+  .listen-more__btn--{{ section.id }} svg path{
+    fill: {{ settings.second_color_body_text }}
+  }
+  .listen-more__btn--{{ section.id }}:hover svg path{
+    fill: {{ settings.color_announcement }}
+  }
+{% endstyle %}
+
+<div class="page-width page-content">
+  <div class="listen-more__content--{{ section.id }}">
+    <svg width="36" height="30" viewBox="0 0 36 30" fill="{{ settings.second_color_body_text }}" xmlns="http://www.w3.org/2000/svg"><path d="M25.979.005a1.315 1.315 0 0 0-1.039 1.342v26.307a1.315 1.315 0 1 0 2.596 0V1.347A1.314 1.314 0 0 0 26.108.005a1.316 1.316 0 0 0-.13 0ZM9.363 1.39a1.315 1.315 0 0 0-1.038 1.34v23.54a1.316 1.316 0 1 0 2.596 0V2.73a1.316 1.316 0 0 0-1.429-1.34 1.31 1.31 0 0 0-.129 0Zm12.462 4.153a1.316 1.316 0 0 0-1.038 1.342v15.23a1.315 1.315 0 1 0 2.594 0V6.886a1.314 1.314 0 0 0-1.426-1.342 1.319 1.319 0 0 0-.131 0h.001ZM5.21 6.928A1.315 1.315 0 0 0 4.17 8.27v12.46a1.315 1.315 0 1 0 2.595 0V8.27A1.315 1.315 0 0 0 5.34 6.928a1.318 1.318 0 0 0-.132 0h.002Zm8.307 1.385a1.316 1.316 0 0 0-1.038 1.341v9.693a1.315 1.315 0 1 0 2.595 0V9.654a1.314 1.314 0 0 0-1.426-1.341 1.319 1.319 0 0 0-.132 0h.001Zm16.616 0a1.316 1.316 0 0 0-1.039 1.341v9.693a1.315 1.315 0 1 0 2.596 0V9.654a1.316 1.316 0 0 0-1.428-1.341 1.317 1.317 0 0 0-.13 0ZM1.056 11.082a1.316 1.316 0 0 0-1.039 1.342v4.153a1.316 1.316 0 1 0 2.596 0v-4.153a1.316 1.316 0 0 0-1.428-1.342 1.284 1.284 0 0 0-.13 0Zm16.615 0a1.316 1.316 0 0 0-1.038 1.342v4.153a1.315 1.315 0 1 0 2.595 0v-4.153a1.316 1.316 0 0 0-1.427-1.342 1.31 1.31 0 0 0-.131 0h.001Zm16.615 0a1.315 1.315 0 0 0-1.038 1.342v4.153a1.315 1.315 0 1 0 2.596 0v-4.153a1.315 1.315 0 0 0-1.429-1.342 1.317 1.317 0 0 0-.129 0Z" fill="{{ settings.second_color_body_text }}"/></svg>
+    {%- if section.settings.text != blank -%}
+      <p class="listen-more__content-text--{{ section.id }}">
+        {{ section.settings.text }}
+      </p>
+    {%- endif -%}
+    <div class="listen-more__content-buttons--{{ section.id }}">
+      {%- if section.settings.first_btn_text != blank -%}
+        <a href="{{ settings.social_youtube_link }}"
+           class="btn listen-more__btn--{{ section.id }}"
+        >
+          <svg width="20" height="17" viewBox="0 0 20 17" fill="{{ settings.second_color_body_text }}" xmlns="http://www.w3.org/2000/svg"><path d="M19.543 2.998C20 4.78 20 8.5 20 8.5s0 3.72-.457 5.502c-.254.985-.997 1.76-1.938 2.022C15.896 16.5 10 16.5 10 16.5s-5.893 0-7.605-.476c-.945-.266-1.687-1.04-1.938-2.022C0 12.22 0 8.5 0 8.5s0-3.72.457-5.502c.254-.985.997-1.76 1.938-2.022C4.107.5 10 .5 10 .5s5.896 0 7.605.476c.945.266 1.687 1.04 1.938 2.022ZM8 12l6-3.5L8 5v7Z" fill="{{ settings.second_color_body_text }}"/></svg>
+          {{ section.settings.first_btn_text }}
+        </a>
+      {% endif -%}
+      {%- if section.settings.second_btn_text != blank -%}
+        <a href="{{ settings.social_spotify_link }}"
+           class="btn listen-more__btn--{{ section.id }}"
+        >
+          <svg width="16" height="17" viewBox="0 0 16 17" fill="{{ section.second_color_body_text }}" xmlns="http://www.w3.org/2000/svg"><path d="M8 .5a8 8 0 1 0 0 16 8 8 0 0 0 0-16Zm3.669 11.538a.5.5 0 0 1-.686.165c-1.879-1.147-4.243-1.407-7.028-.77a.5.5 0 0 1-.222-.973c3.048-.696 5.662-.397 7.77.892a.5.5 0 0 1 .166.686Zm.979-2.178a.624.624 0 0 1-.858.205c-2.15-1.321-5.428-1.704-7.972-.932a.625.625 0 0 1-.362-1.194c2.905-.881 6.517-.454 8.986 1.063a.624.624 0 0 1 .206.858Zm.084-2.268C10.154 6.06 5.9 5.919 3.438 6.666a.748.748 0 0 1-.434-1.432c2.825-.857 7.523-.692 10.492 1.07a.749.749 0 1 1-.764 1.288Z" fill="{{ settings.second_color_body_text }}"/></svg>
+          {{ section.settings.second_btn_text }}
+        </a>
+      {%- endif -%}
+    </div>
+  </div>
+</div>
+
+{% schema %}
+  {
+    "name": "Listen more",
+    "class": "index-section listen-more",
+    "settings": [
+      {
+        "type": "text",
+        "id": "text",
+        "label": "Text"
+      },
+      {
+        "type": "text",
+        "id": "first_btn_text",
+        "label": "Youtube button text",
+        "default": "Watch on Youtube"
+      },
+      {
+        "type": "text",
+        "id": "second_btn_text",
+        "label": "Spotify button text",
+        "default": "Listen on Spotify"
+      }
+    ],
+    "presets": [{
+      "name": "Listen more"
+    }]
+  }
+{% endschema %}
