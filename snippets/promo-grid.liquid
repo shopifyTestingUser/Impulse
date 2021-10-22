@@ -133,9 +133,9 @@
           }
 
           @media only screen and (min-width: 769px) {
-          .flex-grid__item--{{ block.id }} .promo-grid__text {
-          font-size: {{ block.settings.text_size | default: 100.0 | divided_by: 100.0 }}em;
-          }
+            .flex-grid__item--{{ block.id }} .promo-grid__text {
+              font-size: {{ block.settings.text_size | default: 100.0 | divided_by: 100.0 }}em;
+            }
           }
         {% endif %}
         .custom-sale__img--{{ section.id }}{
