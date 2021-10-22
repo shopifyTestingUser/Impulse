@@ -1,46 +1,46 @@
 {%- style -%}
   .flex-grid--{{ section.id }} {
-  margin-top: -{{ section.settings.gutter_size }}px;
-  margin-left: -{{ section.settings.gutter_size }}px;
-  {% if section.settings.full_width %}
-    padding-left: {{ section.settings.gutter_size }}px;
-    padding-right: {{ section.settings.gutter_size }}px;
-  {% endif %}
+    margin-top: -{{ section.settings.gutter_size }}px;
+    margin-left: -{{ section.settings.gutter_size }}px;
+    {% if section.settings.full_width %}
+      padding-left: {{ section.settings.gutter_size }}px;
+      padding-right: {{ section.settings.gutter_size }}px;
+    {% endif %}
   }
 
   .flex-grid--{{ section.id }} .flex-grid--gutters {
-  margin-top: -{{ section.settings.gutter_size }}px;
-  margin-left: -{{ section.settings.gutter_size }}px;
+    margin-top: -{{ section.settings.gutter_size }}px;
+    margin-left: -{{ section.settings.gutter_size }}px;
   }
 
   .flex-grid--{{ section.id }} .flex-grid__item {
-  padding-top: {{ section.settings.gutter_size }}px;
-  padding-left: {{ section.settings.gutter_size }}px;
+    padding-top: {{ section.settings.gutter_size }}px;
+    padding-left: {{ section.settings.gutter_size }}px;
   }
   .text-color--{{ section.id }} {
-  color: {% if section.settings.color_text == "main" %}{{ settings.color_body_text }}{% else %}{{ settings.second_color_body_text }}{% endif %};
-  border-color: {% if section.settings.color_text == "main" %}{{ settings.color_body_text }}{% else %}{{ settings.second_color_body_text }}{% endif %};
+    color: {% if section.settings.color_text == "main" %}{{ settings.color_body_text }}{% else %}{{ settings.second_color_body_text }}{% endif %};
+    border-color: {% if section.settings.color_text == "main" %}{{ settings.color_body_text }}{% else %}{{ settings.second_color_body_text }}{% endif %};
   }
 
   @media only screen and (max-width: 589px) {
-  .flex-grid--{{ section.id }} {
-  margin-top: -{{ section.settings.gutter_size | divided_by: 2 }}px;
-  margin-left: -{{ section.settings.gutter_size | divided_by: 2 }}px;
-  {% if section.settings.full_width %}
-    padding-left: {{ section.settings.gutter_size | divided_by: 2 }}px;
-    padding-right: {{ section.settings.gutter_size | divided_by: 2 }}px;
-  {% endif %}
-  }
+    .flex-grid--{{ section.id }} {
+      margin-top: -{{ section.settings.gutter_size | divided_by: 2 }}px;
+      margin-left: -{{ section.settings.gutter_size | divided_by: 2 }}px;
+      {% if section.settings.full_width %}
+        padding-left: {{ section.settings.gutter_size | divided_by: 2 }}px;
+        padding-right: {{ section.settings.gutter_size | divided_by: 2 }}px;
+      {% endif %}
+    }
 
-  .flex-grid--{{ section.id }} .flex-grid--gutters {
-  margin-top: -{{ section.settings.gutter_size | divided_by: 2 }}px;
-  margin-left: -{{ section.settings.gutter_size | divided_by: 2 }}px;
-  }
+    .flex-grid--{{ section.id }} .flex-grid--gutters {
+      margin-top: -{{ section.settings.gutter_size | divided_by: 2 }}px;
+      margin-left: -{{ section.settings.gutter_size | divided_by: 2 }}px;
+    }
 
-  .flex-grid--{{ section.id }} .flex-grid__item {
-  padding-top: {{ section.settings.gutter_size | divided_by: 2 }}px;
-  padding-left: {{ section.settings.gutter_size | divided_by: 2 }}px;
-  }
+    .flex-grid--{{ section.id }} .flex-grid__item {
+      padding-top: {{ section.settings.gutter_size | divided_by: 2 }}px;
+      padding-left: {{ section.settings.gutter_size | divided_by: 2 }}px;
+    }
   }
 
 {%- endstyle -%}
