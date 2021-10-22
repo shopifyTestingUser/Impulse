@@ -60,20 +60,20 @@
         {% if block.settings.height %}
           {% unless block.settings.boxed %}
             .flex-grid__item--{{ block.id }} {
-            min-height: {{ block.settings.height | times: 0.6 }}px;
+              min-height: {{ block.settings.height | times: 0.6 }}px;
             }
           {% endunless %}
 
           @media only screen and (min-width: 769px) {
-          .flex-grid__item--{{ block.id }} {
-          min-height: {{ block.settings.height | times: 0.8 }}px;
-          }
+            .flex-grid__item--{{ block.id }} {
+              min-height: {{ block.settings.height | times: 0.8 }}px;
+            }
           }
 
           @media only screen and (min-width: 1140px) {
           .flex-grid__item--{{ block.id }} {
-          min-height: {{ block.settings.height }}px;
-          }
+              min-height: {{ block.settings.height }}px;
+            }
           }
         {% endif %}
 
@@ -82,21 +82,21 @@
         {% unless button_alpha == 0.0 %}
           {%- assign accent_exists = true -%}
           .flex-grid__item--{{ block.id }} .btn {
-          background: {{ block.settings.color_accent }} !important;
-          border: none !important;
+            background: {{ block.settings.color_accent }} !important;
+            border: none !important;
 
-          {%- assign accent_brightness = block.settings.color_accent | color_extract: 'lightness' -%}
+            {%- assign accent_brightness = block.settings.color_accent | color_extract: 'lightness' -%}
 
-          {% if accent_brightness > 60 %}
-            color: #000 !important;
-          {% endif %}
+            {% if accent_brightness > 60 %}
+              color: #000 !important;
+            {% endif %}
           }
 
           {% if settings.button_style == 'angled' %}
             .flex-grid__item--{{ block.id }} .btn:before,
             .flex-grid__item--{{ block.id }} .btn:after {
-            background: {{ block.settings.color_accent }} !important;
-            border: none !important;
+              background: {{ block.settings.color_accent }} !important;
+              border: none !important;
             }
           {% endif %}
         {% endunless %}
@@ -106,30 +106,30 @@
           {%- assign tint_exists = true -%}
 
           .flex-grid__item--{{ block.id }} .btn--tint-border {
-          border: 1px solid {{ block.settings.color_tint | color_modify: 'alpha', 0.2 }} !important;
+           border: 1px solid {{ block.settings.color_tint | color_modify: 'alpha', 0.2 }} !important;
           }
 
           {% if settings.button_style == 'angled' %}
             .flex-grid__item--{{ block.id }} .btn--tint-border:before,
             .flex-grid__item--{{ block.id }} .btn--tint-border:after {
-            border-color: {{ block.settings.color_tint | color_modify: 'alpha', 0.2 }};
+              border-color: {{ block.settings.color_tint | color_modify: 'alpha', 0.2 }};
             }
           {% endif %}
         {% endif %}
 
         {% if block.settings.color_tint != 'rgba(0,0,0,0)' and block.settings.color_tint_opacity > 0 %}
           .flex-grid__item--{{ block.id }} .promo-grid__container--tint:before {
-          {%- assign color_tint_opacity = block.settings.color_tint_opacity | divided_by: 100.00 -%}
-          background: {{ block.settings.color_tint | color_modify: 'alpha', color_tint_opacity }};
+            {%- assign color_tint_opacity = block.settings.color_tint_opacity | divided_by: 100.00 -%}
+            background: {{ block.settings.color_tint | color_modify: 'alpha', color_tint_opacity }};
           }
         {% endif %}
 
         {% if block.settings.text_size %}
           .flex-grid__item--{{ block.id }} .promo-grid__text {
-          font-size: {{ block.settings.text_size | default: 100.0 | divided_by: 100.0 | times: 0.85 }}em;
+            font-size: {{ block.settings.text_size | default: 100.0 | divided_by: 100.0 | times: 0.85 }}em;
           }
           .flex-grid__item--{{ block.id }}.flex-grid__item--50 .promo-grid__text {
-          font-size: {{ block.settings.text_size | default: 100.0 | divided_by: 100.0 }}em;
+            font-size: {{ block.settings.text_size | default: 100.0 | divided_by: 100.0 }}em;
           }
 
           @media only screen and (min-width: 769px) {
@@ -162,8 +162,7 @@
         {%- case block.type -%}
 
           {%- when 'advanced' -%}
-            <div
-                class="promo-grid__container {% if block.settings.boxed %} promo-grid__container--boxed{% endif %}{% if block.settings.framed %} promo-grid__container--framed{% endif %} {{ block.settings.text_align }}">
+            <div class="promo-grid__container {% if block.settings.boxed %} promo-grid__container--boxed{% endif %}{% if block.settings.framed %} promo-grid__container--framed{% endif %} {{ block.settings.text_align }}">
 
               {%- if block.settings.cta_link1 != blank and block.settings.cta_link2 == blank -%}
                 <a href="{{ block.settings.cta_link1 }}" class="promo-grid__slide-link" aria-hidden="true"
