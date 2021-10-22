@@ -1,5 +1,11 @@
 {
   "sections": {
+    "16348201304e0aefe8": {
+      "type": "announcement-bar",
+      "settings": {
+        "text": "<p>Join the LHM family! <a href=\"\/pages\/about-us\" title=\"About us\">Visit our cozy salon<\/a> to get the expert hair care<\/p>"
+      }
+    },
     "16342858496dc05777": {
       "type": "hero-video",
       "settings": {
@@ -10,7 +16,7 @@
         "link": "",
         "color_accent": "#f8e6d4",
         "text_align": "vertical-bottom horizontal-center",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=BHACKCNDMW8",
         "overlay_opacity": 0,
         "section_height": "724px",
         "mobile_height": "auto"
@@ -50,7 +56,7 @@
           "type": "advanced",
           "settings": {
             "subheading": "",
-            "heading": "Announce your promotion",
+            "heading": "DM loves us",
             "textarea": "",
             "cta_text1": "go to the dm.de",
             "cta_link1": "shopify:\/\/collections\/all",
@@ -65,7 +71,6 @@
             "text_align": "vertical-bottom horizontal-center",
             "focal_point": "bottom",
             "color_accent": "#f8e6d4",
-            "color_text": "#131516",
             "boxed": false,
             "framed": false
           }
@@ -74,7 +79,7 @@
           "type": "advanced",
           "settings": {
             "subheading": "",
-            "heading": "Announce your promotion",
+            "heading": "Haircare   for you",
             "textarea": "",
             "cta_text1": "",
             "cta_link1": "",
@@ -89,7 +94,6 @@
             "text_align": "vertical-bottom horizontal-right",
             "focal_point": "bottom",
             "color_accent": "rgba(0,0,0,0)",
-            "color_text": "#131516",
             "boxed": false,
             "framed": false
           }
@@ -103,7 +107,8 @@
         "full_width": true,
         "gutter_size": 0,
         "space_above": false,
-        "space_below": false
+        "space_below": false,
+        "color_text": "main"
       }
     },
     "16345470819de01f0b": {
@@ -137,12 +142,11 @@
             "image": "shopify:\/\/shop_images\/banner.png",
             "video_url": "",
             "width": "100",
-            "height": 660,
+            "height": 520,
             "text_size": 120,
             "text_align": "vertical-center horizontal-left",
-            "focal_point": "20% 50%",
-            "color_accent": "#fff9f4",
-            "color_text": "#ffffff",
+            "focal_point": "20% 0",
+            "color_accent": "#f8e6d4",
             "boxed": false,
             "framed": false
           }
@@ -155,7 +159,8 @@
         "full_width": false,
         "gutter_size": 0,
         "space_above": true,
-        "space_below": true
+        "space_below": false,
+        "color_text": "second"
       }
     },
     "163454067579e18513": {
@@ -213,7 +218,6 @@
       "type": "title-with-instagram",
       "settings": {
         "title": "Join us in Instagram @lhm",
-        "font_size": 18,
         "align_text": "center"
       }
     },
@@ -254,7 +258,8 @@
         "full_width": false,
         "gutter_size": 0,
         "space_above": false,
-        "space_below": true
+        "space_below": true,
+        "color_text": "main"
       }
     },
     "1634220966d1ce4e28": {
@@ -319,7 +324,7 @@
     "1634220823e34085fd": {
       "type": "contact-form",
       "settings": {
-        "title": "Contact us",
+        "title": "Keep in touch",
         "text": "",
         "show_phone": false,
         "narrow_column": true
@@ -329,6 +334,7 @@
       "type": "map",
       "settings": {
         "map_title": "Contacts",
+        "font_size": 18,
         "address": "<p>301 Front St W Toronto, <br\/>Canada<\/p><p>Mon - Fri, 8:30am - 10:30pm<br\/>Saturday, 8:30am - 10:30pm<br\/>Sunday, 8:30am - 10:30pm<\/p>",
         "map_address": "301 Front St W, Toronto, ON M5V 2T6",
         "api_key": "",
@@ -339,6 +345,7 @@
     }
   },
   "order": [
+    "16348201304e0aefe8",
     "16342858496dc05777",
     "rich-text",
     "promo-grid",

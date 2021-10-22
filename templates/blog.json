@@ -1,47 +1,149 @@
 {
   "sections": {
-    "main": {
-      "type": "blog-template",
-      "settings": {
-      }
-    },
-    "featured-collections": {
-      "type": "featured-collections",
+    "163482016929a668b3": {
+      "type": "slideshow",
       "blocks": {
-        "collection1": {
-          "type": "collection",
+        "163482016929a668b3-0": {
+          "type": "image",
           "settings": {
-          }
-        },
-        "collection2": {
-          "type": "collection",
-          "settings": {
-          }
-        },
-        "collection3": {
-          "type": "collection",
-          "settings": {
-          }
-        },
-        "collection4": {
-          "type": "collection",
-          "settings": {
+            "top_subheading": "",
+            "title": "Blog",
+            "title_size": 64,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/aedf9c521ea622dcc630e3684ef85f06-min.jpg",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
           }
         }
       },
       "block_order": [
-        "collection1",
-        "collection2",
-        "collection3",
-        "collection4"
+        "163482016929a668b3-0"
       ],
       "settings": {
-        "title": "You may also like"
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "arrows": true,
+        "autoplay": true,
+        "autoplay_speed": 5
+      }
+    },
+    "1634820519c1e44c71": {
+      "type": "rich-text",
+      "blocks": {
+        "1634820519c1e44c71-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1634820519c1e44c71-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "16348205431ce35271": {
+      "type": "promo-grid",
+      "blocks": {
+        "75861688-f81c-476e-b992-dabf3ed4b960": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/blog_image_1_1.png",
+            "link": "",
+            "width": "100"
+          }
+        }
+      },
+      "block_order": [
+        "75861688-f81c-476e-b992-dabf3ed4b960"
+      ],
+      "settings": {
+        "full_width": false,
+        "gutter_size": 40,
+        "space_above": false,
+        "space_below": false,
+        "color_text": "main"
+      }
+    },
+    "163482061307c6c22d": {
+      "type": "rich-text",
+      "blocks": {
+        "163482061307c6c22d-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "163482061307c6c22d-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "main": {
+      "type": "blog-template",
+      "settings": {
+        "blog_show_tag_filter": false,
+        "blog_show_rss": false,
+        "blog_show_tags": false,
+        "blog_show_date": false,
+        "blog_show_comments": false,
+        "blog_show_author": false,
+        "blog_show_excerpt": true,
+        "blog_image_size": "wide"
+      }
+    },
+    "163482061896fc3932": {
+      "type": "faq",
+      "blocks": {
+        "163482061896fc3932-0": {
+          "type": "question",
+          "settings": {
+            "title": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"
+          }
+        },
+        "163482061896fc3932-1": {
+          "type": "question",
+          "settings": {
+            "title": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "163482061896fc3932-0",
+        "163482061896fc3932-1"
+      ],
+      "settings": {
+        "title": "Have a question?"
       }
     }
   },
   "order": [
+    "163482016929a668b3",
+    "1634820519c1e44c71",
+    "16348205431ce35271",
+    "163482061307c6c22d",
     "main",
-    "featured-collections"
+    "163482061896fc3932"
   ]
 }

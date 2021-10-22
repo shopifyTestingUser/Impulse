@@ -1,10 +1,12 @@
 {
   "current": {
-    "color_body_bg": "#fff9f4",
+    "color_body_bg": "#ffffff",
     "color_body_text": "#131516",
+    "second_color_body_text": "#ffffff",
     "color_price": "#1c1d1d",
+    "color_price_lite": "#2f2823",
     "color_savings_text": "#C20000",
-    "color_borders": "#e8e8e1",
+    "color_borders": "#ccc7c3",
     "color_button": "#f8e6d4",
     "color_button_text": "#131516",
     "color_cart_dot": "#ff4f33",
@@ -26,10 +28,11 @@
     "color_image_overlay_opacity": 0,
     "color_image_overlay_text_shadow": 0,
     "type_header_font_family": "tenor_sans_n4",
+    "type_header_custom_font_family": "briquete",
     "type_header_spacing": "0",
     "type_header_base_size": 36,
-    "type_header_line_height": 1,
-    "type_header_capitalize": true,
+    "type_header_line_height": 2,
+    "type_header_capitalize": false,
     "type_headers_align_text": true,
     "type_base_font_family": "open_sans_n4",
     "type_base_spacing": "25",
@@ -45,9 +48,16 @@
     "button_style": "square",
     "icon_weight": "2px",
     "icon_linecaps": "miter",
+    "product_save_amount": true,
+    "vendor_enable": true,
+    "quick_shop_enable": false,
     "quick_shop_text": "Quick view",
-    "product_grid_image_size": "natural",
-    "product_hover_image": false,
+    "product_grid_image_size": "square",
+    "product_grid_image_fill": true,
+    "product_hover_image": true,
+    "enable_swatches": false,
+    "swatch_style": "round",
+    "enable_product_reviews": false,
     "collection_grid_style": "overlaid-box",
     "collection_grid_shape": "square",
     "collection_grid_image": "product",
@@ -67,8 +77,10 @@
     "social_tumblr_link": "",
     "social_youtube_link": "\/",
     "social_vimeo_link": "",
+    "social_spotify_link": "\/",
     "search_type": "product,article,page,collection",
     "predictive_image_size": "square",
+    "show_breadcrumbs": true,
     "checkout_logo_position": "left",
     "checkout_logo_size": "small",
     "checkout_body_background_color": "#ffffff",
@@ -89,18 +101,10 @@
               "desktop_logo_width": 100,
               "mobile_logo_width": 60
             }
-          },
-          "c55ea045-99d8-4adf-8b36-f939bc993f54": {
-            "type": "announcement",
-            "settings": {
-              "text": "<p>Join the LHM family! <a href=\"\/pages\/about-us\" title=\"About us\">Visit our cozy salon<\/a> to get the expert hair care<\/p>",
-              "link": ""
-            }
           }
         },
         "block_order": [
-          "1524770014057",
-          "c55ea045-99d8-4adf-8b36-f939bc993f54"
+          "1524770014057"
         ],
         "settings": {
           "main_menu_link_list": "header",
@@ -115,8 +119,7 @@
           "toolbar_social": false,
           "show_locale_selector": false,
           "show_currency_selector": true,
-          "show_currency_flags": true,
-          "only_on_main_page": true
+          "show_currency_flags": true
         }
       },
       "footer": {

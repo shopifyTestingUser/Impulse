@@ -1,64 +1,145 @@
 {
   "sections": {
-    "collection-header": {
-      "type": "collection-header",
-      "settings": {
-      }
-    },
-    "main-collection": {
-      "type": "main-collection",
+    "16348213224d14a06f": {
+      "type": "slideshow",
       "blocks": {
-        "collection_description": {
-          "type": "collection_description",
+        "16348213224d14a06f-0": {
+          "type": "image",
           "settings": {
-          }
-        },
-        "product_grid": {
-          "type": "product_grid",
-          "settings": {
-          }
-        },
-        "subcollections": {
-          "type": "subcollections",
-          "settings": {
+            "top_subheading": "",
+            "title": "Shop",
+            "title_size": 64,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/header_Alte_Version_Moment_17_1_1.png",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
           }
         }
       },
       "block_order": [
-        "collection_description",
-        "subcollections",
-        "product_grid"
+        "16348213224d14a06f-0"
       ],
       "settings": {
+        "section_height": "550px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "arrows": true,
+        "autoplay": true,
+        "autoplay_speed": 5
+      }
+    },
+    "collection-header": {
+      "type": "collection-header",
+      "settings": {
+        "enable": true,
+        "collection_image_enable": false,
+        "parallax": true
+      }
+    },
+    "163482129947cdb0c4": {
+      "type": "announcement-bar",
+      "settings": {
+        "text": "<p>Join the LHM family! Visit our cozy salon to get the expert hair care<\/p>"
       }
     },
     "promo-grid": {
       "type": "promo-grid",
       "blocks": {
-        "banner": {
-          "type": "banner",
-          "settings": {
-            "color_tint": "#E95454"
-          }
-        },
         "advanced": {
           "type": "advanced",
           "settings": {
+            "subheading": "special offer",
+            "heading": "Banner with products",
+            "textarea": "",
+            "cta_text1": "",
+            "cta_link1": "",
+            "cta_text2": "",
+            "cta_link2": "",
+            "image": "shopify:\/\/shop_images\/banner_2.png",
+            "video_url": "",
+            "width": "100",
+            "height": 500,
+            "text_size": 120,
+            "text_align": "vertical-bottom horizontal-left",
+            "focal_point": "center",
+            "color_accent": "rgba(0,0,0,0)",
+            "boxed": false,
+            "framed": false
           }
         }
       },
       "block_order": [
-        "banner",
         "advanced"
       ],
       "settings": {
-        "space_below": false
+        "full_width": false,
+        "gutter_size": 20,
+        "space_above": true,
+        "space_below": false,
+        "color_text": "second"
+      }
+    },
+    "main-collection": {
+      "type": "main-collection",
+      "blocks": {
+        "subcollections": {
+          "type": "subcollections",
+          "settings": {
+            "subcollections_per_row": 5
+          }
+        },
+        "product_grid": {
+          "type": "product_grid",
+          "settings": {
+            "enable_collection_count": false,
+            "per_row": 4,
+            "rows_per_page": 7,
+            "mobile_flush_grid": false
+          }
+        }
+      },
+      "block_order": [
+        "subcollections",
+        "product_grid"
+      ],
+      "settings": {
+        "enable_sidebar": true,
+        "collapsed": true,
+        "filter_style": "sidebar",
+        "enable_color_swatches": false,
+        "enable_sort": false
+      }
+    },
+    "16348220647cb5840c": {
+      "type": "blog-posts",
+      "settings": {
+        "title": "",
+        "blog": "news",
+        "post_limit": 3,
+        "blog_show_excerpt": true,
+        "blog_show_tags": false,
+        "blog_show_date": false,
+        "blog_show_comments": false,
+        "blog_show_author": false,
+        "view_all": false,
+        "blog_image_size": "wide",
+        "divider": false
       }
     }
   },
   "order": [
+    "16348213224d14a06f",
     "collection-header",
+    "163482129947cdb0c4",
     "promo-grid",
-    "main-collection"
+    "main-collection",
+    "16348220647cb5840c"
   ]
 }

@@ -6,59 +6,165 @@
       "settings": {
       }
     },
-    "slideshow": {
+    "16348249862f5b3040": {
+      "type": "hero-video",
+      "settings": {
+        "title": "",
+        "title_size": 80,
+        "subheading": "",
+        "link_text": "",
+        "link": "",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "overlay_opacity": 0,
+        "section_height": "650px",
+        "mobile_height": "auto"
+      }
+    },
+    "16348250212312d01d": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/49A0163_1_1.png",
+        "image_width": 700,
+        "image_position": "left-bottom",
+        "image_bg_color": "#F8E6D4",
+        "subtitle": "",
+        "title": "About us",
+        "another_text": false,
+        "text": "<p>Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Exercitation veniam consequat sunt nostrud amet. Velit officia consequat duis enim velit mollit. <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "center",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "16348250262b8f3a96": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/49A0928_1_1.png",
+        "image_width": 700,
+        "image_position": "left-bottom",
+        "image_bg_color": "#F8E6D4",
+        "subtitle": "",
+        "title": "Image with text",
+        "another_text": true,
+        "text": "<p>Wir wollen den Mädels den<br\/><em>Mut <br\/><\/em>entwickeln ihren eigenen Weg zu gehen<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "center",
+        "layout": "left",
+        "text_image_bg": "shopify:\/\/shop_images\/Frame_106.png",
+        "divider": false
+      }
+    },
+    "163482516833cd4adb": {
+      "type": "title-with-instagram",
+      "settings": {
+        "title": "Join us in Instagram @lhm",
+        "align_text": "center"
+      }
+    },
+    "1634825199262c0c81": {
+      "type": "promo-grid",
+      "blocks": {
+        "88a5666d-d63f-4677-ba2a-d9dffc8e112d": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/langhaarmaedchen_172924029_203011817995695_588333778872068653_n_1.png",
+            "link": "",
+            "width": "33"
+          }
+        },
+        "d1211765-1a0c-4c7e-8b58-e5a6a7c6151c": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/langhaarmaedchen_242213492_582162596250537_5666823319806348994_n_1.png",
+            "link": "",
+            "width": "33"
+          }
+        },
+        "6b59d26f-13e4-4c4e-9d92-603eea3ca716": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/langhaarmaedchen_240821307_133636738979486_7818150166621372249_n_1.png",
+            "link": "",
+            "width": "33"
+          }
+        }
+      },
+      "block_order": [
+        "88a5666d-d63f-4677-ba2a-d9dffc8e112d",
+        "d1211765-1a0c-4c7e-8b58-e5a6a7c6151c",
+        "6b59d26f-13e4-4c4e-9d92-603eea3ca716"
+      ],
+      "settings": {
+        "full_width": false,
+        "gutter_size": 0,
+        "space_above": false,
+        "space_below": true,
+        "color_text": "main"
+      }
+    },
+    "1634825297d0948712": {
+      "type": "featured-video",
+      "settings": {
+        "title": "",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "divider": false
+      }
+    },
+    "16348253938dde6455": {
       "type": "slideshow",
       "blocks": {
-        "slideshow-0": {
+        "16348253938dde6455-1": {
           "type": "image",
           "settings": {
             "top_subheading": "",
-            "title": "Two line\ntitle slide.",
-            "title_size": 80,
-            "subheading": "And optional subtext",
+            "title": "Our story",
+            "title_size": 48,
+            "subheading": "",
             "link": "",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/DTW_4322_1.png",
             "overlay_opacity": 0,
             "focal_point": "center center"
           }
         }
       },
       "block_order": [
-        "slideshow-0"
+        "16348253938dde6455-1"
       ],
       "settings": {
         "section_height": "650px",
         "mobile_height": "auto",
-        "parallax": true,
+        "parallax": false,
         "style": "bars",
+        "arrows": true,
         "autoplay": true,
-        "autoplay_speed": 7
+        "autoplay_speed": 5
       }
     },
-    "rich-text": {
+    "16348255004218c457": {
       "type": "rich-text",
       "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "title": "Rich text"
-          }
-        },
-        "text": {
+        "16348255004218c457-1": {
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p><p>jhffg<\/p>"
+            "text": "<p>Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.<\/p>"
           }
         }
       },
       "block_order": [
-        "heading",
-        "text"
+        "16348255004218c457-1"
       ],
       "settings": {
         "align_text": "center",
@@ -66,97 +172,40 @@
         "divider": false
       }
     },
-    "text-columns": {
-      "type": "text-columns",
+    "1634825522a08656c5": {
+      "type": "promo-grid",
       "blocks": {
-        "column1": {
-          "type": "text_block",
+        "608e0118-ebeb-479d-beff-1069c76df5dc": {
+          "type": "image",
           "settings": {
-            "enable_image": true,
-            "image_width": 44,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        },
-        "column2": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_width": 44,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        },
-        "column3": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_width": 44,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
-            "button_label": "Optional button",
-            "button_link": ""
+            "image": "shopify:\/\/shop_images\/49A9887_1_1.png",
+            "link": "",
+            "width": "100"
           }
         }
       },
       "block_order": [
-        "column1",
-        "column2",
-        "column3"
+        "608e0118-ebeb-479d-beff-1069c76df5dc"
       ],
       "settings": {
-        "title": "",
-        "align_text": "center",
-        "divider": false
-      }
-    },
-    "map": {
-      "type": "map",
-      "settings": {
-        "map_title": "Our retail store",
-        "address": "<p>301 Front St W<br>Toronto, Canada<\/p><p>Mon - Fri, 8:30am - 10:30pm<br>Saturday, 8:30am - 10:30pm<br>Sunday, 8:30am - 10:30pm<\/p>",
-        "map_address": "301 Front St W, Toronto, ON M5V 2T6",
-        "api_key": "",
-        "show_button": true,
-        "background_image_position": "center center"
-      }
-    },
-    "featured-collection": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Featured collection",
-        "home_featured_products": "",
-        "per_row": 4,
-        "rows": 1,
-        "mobile_scrollable": true,
-        "view_all": true,
-        "divider": false,
-        "has_meta": false,
-        "fix_height": false,
-        "color_tint_opacity": 600
-      }
-    },
-    "form": {
-      "type": "contact-form",
-      "settings": {
-        "title": "Contact us",
-        "text": "",
-        "show_phone": false,
-        "narrow_column": true
+        "full_width": false,
+        "gutter_size": 20,
+        "space_above": false,
+        "space_below": true,
+        "color_text": "main"
       }
     }
   },
   "order": [
     "main",
-    "slideshow",
-    "rich-text",
-    "text-columns",
-    "map",
-    "featured-collection",
-    "form"
+    "16348249862f5b3040",
+    "16348250212312d01d",
+    "16348250262b8f3a96",
+    "163482516833cd4adb",
+    "1634825199262c0c81",
+    "1634825297d0948712",
+    "16348253938dde6455",
+    "16348255004218c457",
+    "1634825522a08656c5"
   ]
 }
