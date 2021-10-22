@@ -8,7 +8,6 @@
 {%- if section.settings.image_hero and article.image -%}
   <div class="collection-hero">
     {%- assign img_url = article.image | img_url: '1x1' | replace: '_1x1.', '_{width}x.' -%}
-
     <img class="collection-hero__image image-fit lazyload"
       src=""
       data-src="{{ img_url }}"
@@ -123,6 +122,7 @@
             <ul class="no-bullets">
               {%- if comment.status == 'pending' -%}
                 <li id="Comment-{{ comment.id }}" class="article__comment">
+
                   {%- render 'comment', comment: comment -%}
                 </li>
               {%- endif -%}
@@ -183,7 +183,7 @@
                 By removing it, the small reCAPTCHA widget will appear in the
                 bottom right corner of the page.
               {% endcomment %}
-              {{ 'shopify.online_store.spam_detection.disclaimer_html' | t }}
+              {% comment %}{{ 'shopify.online_store.spam_detection.disclaimer_html' | t }}{% endcomment %}
 
             {%- endform -%}
           </div>
@@ -192,13 +192,13 @@
       {%- endpaginate -%}
     {%- endif -%}
 
-    <hr class="hr--large">
+    {% comment %}<hr class="hr--large">{% endcomment %}
 
   </article>
 
-  <div class="text-center">
-    <a href="{{ blog.url }}" class="btn return-link"><svg aria-hidden="true" focusable="false" role="presentation" class="icon icon--wide icon-arrow-left" viewBox="0 0 50 15"><path d="M50 5.38v4.25H15V15L0 7.5 15 0v5.38z"/></svg> {{ 'blogs.article.back_to_blog' | t: title: blog.title }}</a>
-  </div>
+  {% comment %}<div class="text-center">{% endcomment %}
+    {% comment %}<a href="{{ blog.url }}" class="btn return-link"><svg aria-hidden="true" focusable="false" role="presentation" class="icon icon--wide icon-arrow-left" viewBox="0 0 50 15"><path d="M50 5.38v4.25H15V15L0 7.5 15 0v5.38z"/></svg> {{ 'blogs.article.back_to_blog' | t: title: blog.title }}</a>{% endcomment %}
+  {% comment %}</div>{% endcomment %}
 </div>
 
 <script type="application/ld+json">
