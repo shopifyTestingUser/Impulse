@@ -3,7 +3,9 @@
     "16348201304e0aefe8": {
       "type": "announcement-bar",
       "settings": {
-        "text": "<p>Join the LHM family! <a href=\"\/pages\/about-us\" title=\"About us\">Visit our cozy salon<\/a> to get the expert hair care<\/p>"
+        "text": "<p>Join the LHM family! <a href=\"\/pages\/about-us\" title=\"About us\">Visit our cozy salon<\/a> to get the expert hair care<\/p>",
+        "margin_top": false,
+        "margin_bottom": false
       }
     },
     "16342858496dc05777": {
@@ -125,7 +127,9 @@
         "divider": false,
         "has_meta": false,
         "fixed_height": true,
-        "height": 510
+        "height": 510,
+        "margin_top": false,
+        "margin_bottom": false
       }
     },
     "1634914413444a0acc": {
@@ -267,7 +271,8 @@
       "type": "title-with-instagram",
       "settings": {
         "title": "Join us in Instagram @lhm",
-        "align_text": "center"
+        "align_text": "center",
+        "margin_top": false
       }
     },
     "1634221283617c7d01": {
@@ -367,7 +372,9 @@
         "blog_show_author": false,
         "view_all": false,
         "blog_image_size": "wide",
-        "divider": false
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
       }
     },
     "1634220823e34085fd": {
@@ -383,7 +390,7 @@
       "type": "map",
       "settings": {
         "map_title": "Contacts",
-        "font_size": 18,
+        "font_size": 48,
         "address": "<p>301 Front St W Toronto, <br\/>Canada<\/p><p>Mon - Fri, 8:30am - 10:30pm<br\/>Saturday, 8:30am - 10:30pm<br\/>Sunday, 8:30am - 10:30pm<\/p>",
         "map_address": "301 Front St W, Toronto, ON M5V 2T6",
         "api_key": "",

@@ -1,0 +1,73 @@
+{%- style -%}
+    .text-color--{{ section.id }} {
+        color: {% if section.settings.color_text == "main" %}{{ settings.color_body_text }}{% else %}{{ settings.second_color_body_text }}{% endif %};
+        border-color: {% if section.settings.color_text == "main" %}{{ settings.color_body_text }}{% else %}{{ settings.second_color_body_text }}{% endif %};
+    }
+
+    {%- assign tint_exists = false -%}
+    {% if block.settings.color_tint and block.settings.color_tint != 'rgba(0,0,0,0)' %}
+        {%- assign tint_exists = true -%}
+
+        .flex-grid__item--{{ block.id }} .btn--tint-border {
+        border: 1px solid {{ block.settings.color_tint | color_modify: 'alpha', 0.2 }} !important;
+        }
+
+        {% if settings.button_style == 'angled' %}
+            .flex-grid__item--{{ block.id }} .btn--tint-border:before,
+            .flex-grid__item--{{ block.id }} .btn--tint-border:after {
+            border-color: {{ block.settings.color_tint | color_modify: 'alpha', 0.2 }};
+            }
+        {% endif %}
+    {% endif %}
+
+    {% if block.settings.color_tint != 'rgba(0,0,0,0)' and block.settings.color_tint_opacity > 0 %}
+        .flex-grid__item--{{ block.id }} .promo-grid__container--tint:before {
+        {%- assign color_tint_opacity = block.settings.color_tint_opacity | divided_by: 100.00 -%}
+        background: {{ block.settings.color_tint | color_modify: 'alpha', color_tint_opacity }};
+        }
+    {% endif %}
+
+{%- endstyle -%}
+{%- if block.settings.link -%}
+    <a href="{{ block.settings.link }}" class="type-banner__link">
+{%- endif -%}
+<div class="promo-grid__container{% if block.settings.framed %} promo-grid__container--framed{% endif %}
+            {% if block.settings.color_tint_opacity > 0 %} promo-grid__container--tint{% endif %}">
+    <div class="type-banner__content text-center">
+        {%- if block.settings.image != blank -%}
+            <div class="type-banner__image">
+                <div class="image-wrap"
+                     style="height: 0; padding-bottom: {{ 100 | divided_by: block.settings.image.aspect_ratio }}%;">
+                    {%- assign img_url = block.settings.image | img_url: '1x1' | replace: '_1x1.', '_{width}x.' -%}
+                    <img class="lazyload"
+                         data-src="{{ img_url }}"
+                         data-widths="[180, 360, 460]"
+                         data-aspectratio="{{ block.settings.image.aspect_ratio }}"
+                         data-sizes="auto"
+                         role="presentation"
+                         alt="{{ block.settings.image.alt }}">
+                    <noscript>
+                        <img class="lazyloaded" src="{{ block.settings.image | img_url: '300x' }}"
+                             alt="{{ block.settings.image.alt }}">
+                    </noscript>
+                </div>
+            </div>
+        {%- endif -%}
+        <div class="type-banner__text text-color--{{ section.id }}">
+            {%- if block.settings.heading != blank -%}
+                <p class="h3">{{ block.settings.heading }}</p>
+            {%- endif -%}
+            {%- if block.settings.text != blank -%}
+                <p>{{ block.settings.text }}</p>
+            {%- endif -%}
+            {%- if block.settings.label != blank -%}
+                <p class="btn btn--secondary btn--small {% if tint_exists %} btn--tint-border{% endif %} text-color--{{ section.id }}">
+                    {{ block.settings.label }}
+                </p>
+            {%- endif -%}
+        </div>
+    </div>
+</div>
+{%- if block.settings.link -%}
+    </a>
+{%- endif -%}
