@@ -1,4 +1,4 @@
-<div class="announcement-bar">
+<div class="announcement-bar {% if section.settings.margin_top %} grid--space-top {% endif %} {% if section.settings.margin_bottom %} grid--space-bottom {% endif %}">
   <div class="page-width">
     <div class="slideshow-wrapper">
       <div
@@ -39,6 +39,16 @@
         "id": "text",
         "label": "Text",
         "default": "<p>Subscribe to get special offers, free giveaways, and once-in-a-lifetime deals.</p>"
+      },
+      {
+        "type": "checkbox",
+        "id": "margin_top",
+        "label": "Add padding top"
+      },
+      {
+        "type": "checkbox",
+        "id": "margin_bottom",
+        "label": "Add padding bottom"
       }
     ],
   "presets": [{
