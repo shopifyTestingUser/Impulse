@@ -68,7 +68,9 @@
         {%- endif -%}
         {%- if fixed_aspect_ratio -%}
           <div
-            class="grid__image-ratio grid__image-ratio--{{ settings.product_grid_image_size }}">
+            class="grid__image-ratio grid__image-ratio--{{ settings.product_grid_image_size }} fixed_{%- if section.settings.fixed_height -%}height{%- endif-%}"
+            {%- if section.settings.fixed_height -%}style="height: {{section.settings.height}}px"{%- endif-%}
+          >
             <img class="lazyload{% unless settings.product_grid_image_fill %} grid__image-contain{% endunless %}"
                 data-src="{{ img_url }}"
                 data-widths="[360, 540, 720, 900, 1080]"
