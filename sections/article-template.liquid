@@ -122,7 +122,6 @@
             <ul class="no-bullets">
               {%- if comment.status == 'pending' -%}
                 <li id="Comment-{{ comment.id }}" class="article__comment">
-
                   {%- render 'comment', comment: comment -%}
                 </li>
               {%- endif -%}
@@ -228,7 +227,6 @@
     "name": {{ shop.name | json }}
   }
 }
-
 </script>
 
 {% schema %}
