@@ -1,11 +1,24 @@
+{% style %}
+  .comment-header--{{ section.id }} {
+    margin-bottom: 10px;
+  }
+  .comment-header__date--{{ section.id }} {
+    color: {{ settings.color_price_lite }}
+  }
+  .comment-header__author--{{ section.id }} {
+    letter-spacing: {{ settings.type_base_spacing }};
+    font-weight: 700;
+  }
+{% endstyle %}
+
 <div class="grid">
-  <div class="grid__item medium-up--one-quarter">
-    <span class="h5 comment-author">{{ comment.author }}</span>
-    <span class="comment-date">
+  <div class="grid__item comment-header--{{ section.id }}">
+    <span class="h5 comment-author comment-header__author--{{ section.id }}">{{ comment.author }}</span>
+    <span class="comment-date comment-header__date--{{ section.id }}">
       {{ comment.created_at | time_tag: format: 'month_day_year' }}
     </span>
   </div>
-  <div class="grid__item medium-up--three-quarters">
+  <div class="grid__item">
     <div class="rte">
       {{ comment.content }}
     </div>

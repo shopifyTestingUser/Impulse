@@ -1,31 +1,27 @@
 {
   "sections": {
-    "main": {
-      "type": "main-page",
-      "settings": {
-      }
-    },
-    "16346335105677e307": {
+    "16349073092065b984": {
       "type": "slideshow",
       "blocks": {
-        "16346335105677e307-0": {
+        "16349073092065b984-0": {
           "type": "image",
           "settings": {
             "top_subheading": "",
-            "title": "Endless\npossibilities.",
-            "title_size": 80,
-            "subheading": "Bring your brand to life",
+            "title": "Welcome \nto the salon",
+            "title_size": 64,
+            "subheading": "",
             "link": "",
-            "link_text": "Optional button",
+            "link_text": "Visit us",
             "link_2": "",
             "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
+            "color_accent": "#f8e6d4",
             "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/the_1st_image_for_slider_1.png",
             "overlay_opacity": 0,
             "focal_point": "center center"
           }
         },
-        "16346335105677e307-1": {
+        "16349073092065b984-1": {
           "type": "image",
           "settings": {
             "top_subheading": "",
@@ -44,21 +40,440 @@
         }
       },
       "block_order": [
-        "16346335105677e307-0",
-        "16346335105677e307-1"
+        "16349073092065b984-0",
+        "16349073092065b984-1"
       ],
       "settings": {
-        "section_height": "650px",
+        "section_height": "550px",
         "mobile_height": "auto",
-        "parallax": false,
-        "style": "dots",
+        "parallax": true,
+        "style": "bars",
+        "arrows": true,
         "autoplay": true,
         "autoplay_speed": 5
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "163490746248b9e19e": {
+      "type": "rich-text",
+      "blocks": {
+        "163490746248b9e19e-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Our services"
+          }
+        },
+        "163490746248b9e19e-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "163490746248b9e19e-0",
+        "163490746248b9e19e-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "16349074948fa012fe": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/hairstyle1_1.png",
+        "image2": "shopify:\/\/shop_images\/hairstyle2_1.png",
+        "image_width": 700,
+        "image_position": "left-bottom",
+        "image_bg_color": "#f8e6d4",
+        "image_bg": "shopify:\/\/shop_images\/Frame_106.png",
+        "subtitle": "$100",
+        "title": "Service 1",
+        "another_text": false,
+        "text": "<p>Pair large text with an image to tell a story, explain a detail about your product, or describe a new promotion.<\/p>",
+        "button_label": "book an appointment",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "1634907540ba6957b3": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/hairstule3_1.png",
+        "image2": "shopify:\/\/shop_images\/hairstyle4_1.png",
+        "image_width": 700,
+        "image_position": "left-bottom",
+        "image_bg_color": "#f6dad6",
+        "image_bg": "shopify:\/\/shop_images\/Frame_106_1.png",
+        "subtitle": "$100",
+        "title": "Service 2",
+        "another_text": false,
+        "text": "<p>Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.<\/p>",
+        "button_label": "book an appointment",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "left",
+        "divider": true
+      }
+    },
+    "16349076903b384634": {
+      "type": "services-columns",
+      "blocks": {
+        "16349076903b384634-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/10_7_2_1.png",
+            "title": "Example title",
+            "price": "$100",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "16349076903b384634-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/20_20_2_1.png",
+            "title": "Example title",
+            "price": "$100",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "16349076903b384634-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/10_8_2_1.png",
+            "title": "Example title",
+            "price": "$100",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16349076903b384634-0",
+        "16349076903b384634-1",
+        "16349076903b384634-2"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "16349077831e0c599d": {
+      "type": "promo-grid",
+      "blocks": {
+        "4045078a-851e-4712-8e24-fd7eae750b22": {
+          "type": "banner",
+          "settings": {
+            "heading": "a piece of advice",
+            "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
+            "link": "",
+            "label": "See more on Instagram",
+            "color_tint": "#000000",
+            "color_tint_opacity": 100,
+            "framed": false
+          }
+        }
+      },
+      "block_order": [
+        "4045078a-851e-4712-8e24-fd7eae750b22"
+      ],
+      "settings": {
+        "full_width": false,
+        "gutter_size": 20,
+        "space_above": true,
+        "space_below": true,
+        "color_text": "second"
+      }
+    },
+    "16349078470f63730c": {
+      "type": "rich-text",
+      "blocks": {
+        "16349078470f63730c-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Meet our team"
+          }
+        }
+      },
+      "block_order": [
+        "16349078470f63730c-0"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "1634907866597b00bd": {
+      "type": "promo-grid",
+      "blocks": {
+        "1bb5e329-0ca1-4b8b-8843-aea4d62207a9": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/49A1192_2_2_1.png",
+            "link": "",
+            "width": "100"
+          }
+        }
+      },
+      "block_order": [
+        "1bb5e329-0ca1-4b8b-8843-aea4d62207a9"
+      ],
+      "settings": {
+        "full_width": false,
+        "gutter_size": 20,
+        "space_above": true,
+        "space_below": true,
+        "color_text": "main"
+      }
+    },
+    "163490787431a0100d": {
+      "type": "image-with-description",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/julia_1.png",
+        "title": "Expert Name",
+        "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.",
+        "swap": false,
+        "btn_text": "Contact us",
+        "btn_link": ""
+      }
+    },
+    "1634907893f803f2d3": {
+      "type": "image-with-description",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/mona_1.png",
+        "title": "Expert Name",
+        "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.",
+        "swap": true,
+        "btn_text": "Contact us",
+        "btn_link": ""
+      }
+    },
+    "16349079880795f629": {
+      "type": "background-image-text",
+      "settings": {
+        "subtitle": "following events",
+        "title": "Event title",
+        "text": "<p>Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. <\/p>",
+        "button_label": "Take part in event",
+        "button_link": "",
+        "image": "shopify:\/\/shop_images\/49A1187_1.png",
+        "focal_point": "center",
+        "layout": "left",
+        "height": 550,
+        "framed": false,
+        "parallax": false
+      }
+    },
+    "163490805600b213e0": {
+      "type": "rich-text",
+      "blocks": {
+        "163490805600b213e0-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "163490805600b213e0-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "1634908061ca3b3a9f": {
+      "type": "blog-posts",
+      "settings": {
+        "title": "Blog posts",
+        "blog": "news",
+        "post_limit": 3,
+        "blog_show_excerpt": false,
+        "blog_show_tags": false,
+        "blog_show_date": true,
+        "blog_show_comments": false,
+        "blog_show_author": false,
+        "view_all": false,
+        "blog_image_size": "wide",
+        "divider": false
+      }
+    },
+    "16349080873877e43b": {
+      "type": "testimonials",
+      "blocks": {
+        "16349080873877e43b-0": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "author": "Author's name",
+            "author_info": "Los Angeles, CA"
+          }
+        },
+        "16349080873877e43b-1": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "author": "Author's name",
+            "author_info": "Los Angeles, CA"
+          }
+        },
+        "16349080873877e43b-2": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "author": "Author's name",
+            "author_info": "Los Angeles, CA"
+          }
+        },
+        "16349080873877e43b-3": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "author": "Author's name",
+            "author_info": "Los Angeles, CA"
+          }
+        },
+        "16349080873877e43b-4": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "author": "Author's name",
+            "author_info": "Los Angeles, CA"
+          }
+        }
+      },
+      "block_order": [
+        "16349080873877e43b-0",
+        "16349080873877e43b-1",
+        "16349080873877e43b-2",
+        "16349080873877e43b-3",
+        "16349080873877e43b-4"
+      ],
+      "settings": {
+        "subtitle": "We are seeking",
+        "title": "for you!",
+        "align_text": "center",
+        "round_images": true
+      }
+    },
+    "16349081204e24a109": {
+      "type": "rich-text",
+      "blocks": {
+        "16349081204e24a109-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16349081204e24a109-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "1634908162416e3f0b": {
+      "type": "rich-text",
+      "blocks": {
+        "9292962a-57a6-4692-8032-82942f22e6f3": {
+          "type": "subheading",
+          "settings": {
+            "subtitle": "Our mission is"
+          }
+        },
+        "1634908162416e3f0b-0": {
+          "type": "heading",
+          "settings": {
+            "title": "To help you"
+          }
+        },
+        "3be373b2-4e8e-434d-95a4-3f3522e79847": {
+          "type": "subheading",
+          "settings": {
+            "subtitle": "you in your professional development"
+          }
+        },
+        "d3606e9f-2ede-4b10-98eb-c074aaa9153a": {
+          "type": "button",
+          "settings": {
+            "link": "",
+            "link_text": "More about"
+          }
+        }
+      },
+      "block_order": [
+        "9292962a-57a6-4692-8032-82942f22e6f3",
+        "1634908162416e3f0b-0",
+        "3be373b2-4e8e-434d-95a4-3f3522e79847",
+        "d3606e9f-2ede-4b10-98eb-c074aaa9153a"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "16349081684b16f546": {
+      "type": "contact-form",
+      "settings": {
+        "title": "",
+        "text": "",
+        "show_phone": false,
+        "narrow_column": true
       }
     }
   },
   "order": [
+    "16349073092065b984",
     "main",
-    "16346335105677e307"
+    "163490746248b9e19e",
+    "16349074948fa012fe",
+    "1634907540ba6957b3",
+    "16349076903b384634",
+    "16349077831e0c599d",
+    "16349078470f63730c",
+    "1634907866597b00bd",
+    "163490787431a0100d",
+    "1634907893f803f2d3",
+    "16349079880795f629",
+    "163490805600b213e0",
+    "1634908061ca3b3a9f",
+    "16349080873877e43b",
+    "16349081204e24a109",
+    "1634908162416e3f0b",
+    "16349081684b16f546"
   ]
 }

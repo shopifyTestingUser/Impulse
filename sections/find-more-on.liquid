@@ -26,7 +26,7 @@
   }
 {% endstyle %}
 
-<div class="page-width">
+<div class="page-width {% if section.settings.margin_top %} promo-grid--space-top {% endif %} {% if section.settings.margin_bottom %} promo-grid--space-bottom {% endif %}">
   <div class="find-more--{{ section.id }}">
     {%- if section.settings.text != blank -%}
       <p class="find-more__title--{{ section.id }}">
@@ -65,6 +65,16 @@
     "type": "text",
     "id": "text",
     "label": "Text"
+    },
+    {
+      "type": "checkbox",
+      "id": "margin_top",
+      "label": "Add padding top"
+    },
+    {
+      "type": "checkbox",
+      "id": "margin_bottom",
+      "label": "Add padding bottom"
     }
   ],
   "presets": [{

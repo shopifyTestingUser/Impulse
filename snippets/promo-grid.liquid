@@ -142,11 +142,13 @@
           display: flex;
           align-items: flex-end;
           position: relative;
-          z-index: 2;
+          z-index: 4;
+        }
+        .custom-sale__content--{{ section.id }}{
+          margin: 0 !important;
         }
         @media (max-width: 768px) {
           .custom-sale__content--{{ section.id }}{
-            margin: 0 !important;
             padding: 2em 1.5em;
             min-width: 170px;
           }
