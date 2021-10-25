@@ -135,8 +135,10 @@
         "view_all": false,
         "divider": false,
         "has_meta": true,
-        "fixed_height": true,
-        "height": 450
+        "fixed_height": false,
+        "height": 300,
+        "margin_top": true,
+        "margin_bottom": true
       }
     }
   },

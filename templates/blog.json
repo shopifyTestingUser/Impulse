@@ -38,62 +38,18 @@
     "1634820519c1e44c71": {
       "type": "rich-text",
       "blocks": {
-        "1634820519c1e44c71-1": {
-          "type": "text",
+        "4d00af59-c0f3-44c8-bdf5-c9f5baee296c": {
+          "type": "page",
           "settings": {
-            "enlarge_text": true,
-            "text": "<p>Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.<\/p>"
+            "page_text": "blog"
           }
         }
       },
       "block_order": [
-        "1634820519c1e44c71-1"
+        "4d00af59-c0f3-44c8-bdf5-c9f5baee296c"
       ],
       "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false
-      }
-    },
-    "16348205431ce35271": {
-      "type": "promo-grid",
-      "blocks": {
-        "75861688-f81c-476e-b992-dabf3ed4b960": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/blog_image_1_1.png",
-            "link": "",
-            "width": "100"
-          }
-        }
-      },
-      "block_order": [
-        "75861688-f81c-476e-b992-dabf3ed4b960"
-      ],
-      "settings": {
-        "full_width": false,
-        "gutter_size": 40,
-        "space_above": false,
-        "space_below": false,
-        "color_text": "main"
-      }
-    },
-    "163482061307c6c22d": {
-      "type": "rich-text",
-      "blocks": {
-        "163482061307c6c22d-1": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "163482061307c6c22d-1"
-      ],
-      "settings": {
-        "align_text": "center",
+        "align_text": "left",
         "narrow_column": true,
         "divider": false
       }
@@ -103,6 +59,7 @@
       "settings": {
         "blog_show_tag_filter": false,
         "blog_show_rss": false,
+        "blog_has_title": false,
         "blog_show_tags": false,
         "blog_show_date": false,
         "blog_show_comments": false,
@@ -141,8 +98,6 @@
   "order": [
     "163482016929a668b3",
     "1634820519c1e44c71",
-    "16348205431ce35271",
-    "163482061307c6c22d",
     "main",
     "163482061896fc3932"
   ]
