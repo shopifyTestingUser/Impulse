@@ -30,7 +30,7 @@
   endif
 -%}
 
-<div class="grid__item grid-product {{ grid_item_width }}{% if settings.quick_shop_enable %} grid-product__has-quick-shop{% endif %}" data-aos="row-of-{{ per_row }}" data-product-handle="{{ product.handle }}" data-product-id="{{ product.id }}">
+<div class="grid__item grid-product {{ grid_item_width }}{% if settings.quick_shop_enable %} grid-product__has-quick-shop{% endif %}" data-aos="row-of-{{ per_row }}" data-product-handle="{{ product.handle }}" data-product-id="{{ product.id }} ">
   <div class="grid-product__content">
     {%- if has_custom_label -%}
       <div class="grid-product__tag grid-product__tag--custom">
@@ -68,7 +68,9 @@
         {%- endif -%}
         {%- if fixed_aspect_ratio -%}
           <div
-            class="grid__image-ratio grid__image-ratio--{{ settings.product_grid_image_size }}">
+            class="grid__image-ratio grid__image-ratio--{{ settings.product_grid_image_size }} fixed_{%- if section.settings.fixed_height -%}height{%- endif-%}"
+            {%- if section.settings.fixed_height -%}style="height: {{section.settings.height}}px"{%- endif-%}
+          >
             <img class="lazyload{% unless settings.product_grid_image_fill %} grid__image-contain{% endunless %}"
                 data-src="{{ img_url }}"
                 data-widths="[360, 540, 720, 900, 1080]"

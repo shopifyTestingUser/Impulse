@@ -7,7 +7,7 @@
   }
 {% endstyle %}
 
-<div class="page-width page-width--narrow" >
+<div class="page-width page-width--narrow title-with-instagram {% if section.settings.margin_top %} promo-grid--space-top {% endif %}">
   <div class="title-with-instagram__content content-align__wrapper--{{ section.id }}">
     <a target="_blank"
        class="content-align--{{ section.id }}"
@@ -29,7 +29,6 @@
 {% schema %}
 	{
     "name": "Title with instagram",
-    "class": "index-section title-with-instagram",
     "settings": [
       {
         "type": "text",
@@ -55,6 +54,11 @@
             "label": "Right"
           }
         ]
+      },
+      {
+        "type": "checkbox",
+        "id": "margin_top",
+        "label": "Add padding top"
       }
     ],
     "presets": [{

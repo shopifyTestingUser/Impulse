@@ -8,17 +8,16 @@
 {%- if section.settings.image_hero and article.image -%}
   <div class="collection-hero">
     {%- assign img_url = article.image | img_url: '1x1' | replace: '_1x1.', '_{width}x.' -%}
-
     <img class="collection-hero__image image-fit lazyload"
-      src=""
-      data-src="{{ img_url }}"
-      data-aspectratio="{{ article.image.aspect_ratio }}"
-      data-sizes="auto"
-      alt="{{ article.image.alt | escape }}">
+         src=""
+         data-src="{{ img_url }}"
+         data-aspectratio="{{ article.image.aspect_ratio }}"
+         data-sizes="auto"
+         alt="{{ article.image.alt | escape }}">
     <noscript>
       <img class="collection-hero__image image-fit"
-        src="{{ article.image | img_url: '1400x' }}"
-        alt="{{ article.image.alt | escape }}">
+           src="{{ article.image | img_url: '1400x' }}"
+           alt="{{ article.image.alt | escape }}">
     </noscript>
 
     <div class="collection-hero__content">
@@ -133,7 +132,9 @@
                 </li>
 
                 {%- unless forloop.last -%}
-                  <li><hr class="hr--clear"></li>
+                  <li>
+                    <hr class="hr--clear">
+                  </li>
                 {%- endunless -%}
               {%- endfor -%}
             </ul>
@@ -146,7 +147,8 @@
 
           <hr class="hr--large">
 
-          <header class="section-header{% unless settings.type_headers_align_text %} section-header--with-link{% endunless %}">
+          <header
+              class="section-header{% unless settings.type_headers_align_text %} section-header--with-link{% endunless %}">
             <h3 class="section-header__title">{{ 'blogs.comments.title' | t }}</h3>
           </header>
 
@@ -158,47 +160,31 @@
               <div class="grid grid--small">
                 <div class="grid__item medium-up--one-half">
                   <label for="CommentAuthor">{{ 'blogs.comments.name' | t }}</label>
-                  <input class="input-full{% if form.errors contains 'author' %} error{% endif %}" type="text" name="comment[author]" id="CommentAuthor" value="{{ form.author }}" autocapitalize="words">
+                  <input class="input-full{% if form.errors contains 'author' %} error{% endif %}" type="text"
+                         name="comment[author]" id="CommentAuthor" value="{{ form.author }}" autocapitalize="words">
                 </div>
                 <div class="grid__item medium-up--one-half">
                   <label for="CommentEmail">{{ 'blogs.comments.email' | t }}</label>
-                  <input class="input-full{% if form.errors contains 'email' %} error{% endif %}" type="email" name="comment[email]" id="CommentEmail" value="{{ form.email }}" autocorrect="off" autocapitalize="off">
+                  <input class="input-full{% if form.errors contains 'email' %} error{% endif %}" type="email"
+                         name="comment[email]" id="CommentEmail" value="{{ form.email }}" autocorrect="off"
+                         autocapitalize="off">
                 </div>
               </div>
-
               <label for="CommentBody">{{ 'blogs.comments.message' | t }}</label>
-              <textarea class="input-full{% if form.errors contains 'body' %} error{% endif %}" name="comment[body]" id="CommentBody">{{ form.body }}</textarea>
-
+              <textarea class="input-full{% if form.errors contains 'body' %} error{% endif %}" name="comment[body]"
+                        id="CommentBody">{{ form.body }}</textarea>
               {%- if blog.moderated? -%}
                 <p><small>{{ 'blogs.comments.moderated' | t }}</small></p>
               {%- endif -%}
-
               <button type="submit" class="btn btn--secondary">
                 {{ 'blogs.comments.post' | t }}
               </button>
-
-              {% comment %}
-                Remove the following three lines of code to remove the note
-                about being protected by Google's reCAPTCHA service.
-                By removing it, the small reCAPTCHA widget will appear in the
-                bottom right corner of the page.
-              {% endcomment %}
-              {{ 'shopify.online_store.spam_detection.disclaimer_html' | t }}
-
             {%- endform -%}
           </div>
-
         </div>
       {%- endpaginate -%}
     {%- endif -%}
-
-    <hr class="hr--large">
-
   </article>
-
-  <div class="text-center">
-    <a href="{{ blog.url }}" class="btn return-link"><svg aria-hidden="true" focusable="false" role="presentation" class="icon icon--wide icon-arrow-left" viewBox="0 0 50 15"><path d="M50 5.38v4.25H15V15L0 7.5 15 0v5.38z"/></svg> {{ 'blogs.article.back_to_blog' | t: title: blog.title }}</a>
-  </div>
 </div>
 
 <script type="application/ld+json">
@@ -215,7 +201,7 @@
     "description": {{ article.excerpt | strip_html | json }},
   {% endif %}
   {% if article.image %}
-    {% assign image_size = article.image.width | append: 'x' %}
+{% assign image_size = article.image.width | append: 'x' %}
     "image": [
       {{ article | img_url: image_size | prepend: "https:" | json }}
     ],
@@ -230,7 +216,7 @@
   "publisher": {
     "@type": "Organization",
     {% if page_image %}
-      {% assign image_size = page_image.width | append: 'x' %}
+{% assign image_size = page_image.width | append: 'x' %}
       "logo": {
         "@type": "ImageObject",
         "height": {{ page_image.height | json }},
