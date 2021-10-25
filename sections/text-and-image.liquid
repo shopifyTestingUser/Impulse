@@ -30,7 +30,7 @@
 
 {%- endstyle -%}
 
-<div class="{{ section.id }}">
+<div class="{{ section.id }} {% if section.settings.margin_top %} grid--space-top {% endif %} {% if section.settings.margin_bottom %} grid--space-bottom {% endif %}">
   <div class="page-width feature-row-wrapper">
     {%- capture image_layout -%}
       <div class="feature-row__item feature-row__item-image{% if overlap_images %} feature-row__item--overlap-images{% endif %}
@@ -283,6 +283,16 @@
         "id": "divider",
         "label": "Show section divider",
         "default": false
+      },
+      {
+        "type": "checkbox",
+        "id": "margin_top",
+        "label": "Add padding top"
+      },
+      {
+        "type": "checkbox",
+        "id": "margin_bottom",
+        "label": "Add padding bottom"
       }
     ],
     "presets": [

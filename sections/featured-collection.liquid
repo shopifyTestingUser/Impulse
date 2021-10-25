@@ -1,9 +1,15 @@
 {% style %}
   .grid--{{ section.id }} {
     display: grid;
-    grid-template-columns: repeat({{ section.settings.per_row }},1fr);
-    grid-template-row: repeat({{ section.settings.rows }},1fr);
-    grid-gap: {{ section.settings.grid_gap }}px;
+    grid-template-columns: repeat(2,1fr);
+    grid-template-rows: repeat({{ section.settings.rows }},1fr);
+    grid-gap: calc({{ section.settings.grid_gap }}px /2);
+  }
+  @media(min-width: 769px) {
+    .grid--{{ section.id }} {
+      grid-template-columns: repeat({{ section.settings.per_row }},1fr);
+      grid-gap: {{ section.settings.grid_gap }}px;
+    }
   }
 {%endstyle%}
 
@@ -14,6 +20,7 @@
 {%- if section.settings.divider -%}<div class="section--divider">{%- endif -%}
 <div
   id="CollectionSection-{{ section.id }}"
+  class=" {% if section.settings.margin_top %} promo-grid--space-top {% endif %} {% if section.settings.margin_bottom %} promo-grid--space-bottom {% endif %}"
   data-section-id="{{ section.id }}"
   data-section-type="collection-template">
   {%- if section.settings.title != blank -%}
@@ -180,19 +187,13 @@
       },
       {
         "type": "checkbox",
-        "id": "fixed_height",
-        "label": "Fixed height",
-        "default": false
+        "id": "margin_top",
+        "label": "Add padding top"
       },
-	  {
-        "type": "range",
-        "id": "height",
-        "label": "fixed height",
-        "default": 600,
-        "min": 300,
-        "max": 600,
-        "step": 10,
-        "unit": "px"
+      {
+        "type": "checkbox",
+        "id": "margin_bottom",
+        "label": "Add padding bottom"
       }
     ],
     "presets": [{
