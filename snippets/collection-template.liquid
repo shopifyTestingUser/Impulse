@@ -23,9 +23,13 @@
   <div {{ block.shopify_attributes }}>
     {%- case block.type -%}
     {%- when 'banner' -%}
-        {%- render 'promo-grid', section: section, collection_page: false -%}
+      <div class="flex-grid__item flex-grid__item--{{ block.settings.width }} flex-grid__item--{{ block.id }} type-{{ block.type }}" {{ block.shopify_attributes }}>
+        {%- render 'promo-grid-banner', section: section, block: block, tint_exists: tint_exists -%}
+      </div>
     {%- when 'advanced' -%}
-        {%- render 'promo-grid', section: section, collection_page: false -%}
+      <div class="flex-grid__item flex-grid__item--{{ block.settings.width }} flex-grid__item--{{ block.id }} type-{{ block.type }}" {{ block.shopify_attributes }}>
+        {%- render 'promo-grid-advanced', section: section, block: block, tint_exists: tint_exists -%}
+      </div>
     {%- when 'collection_description' -%}
       {%- if collection.description != blank and current_filter_size == 0 -%}
         <div class="rte collection__description">
