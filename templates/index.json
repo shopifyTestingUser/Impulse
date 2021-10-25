@@ -208,7 +208,7 @@
         "full_width": false,
         "gutter_size": 0,
         "space_above": true,
-        "space_below": false,
+        "space_below": true,
         "color_text": "second"
       }
     },
@@ -324,7 +324,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
+            "text": "<p><\/p><p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
           }
         }
       },
