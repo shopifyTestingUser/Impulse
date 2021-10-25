@@ -11,15 +11,6 @@
         "social_sharing_blog": true
       }
     },
-    "163482084225a219d8": {
-      "type": "contact-form",
-      "settings": {
-        "title": "Contact us",
-        "text": "",
-        "show_phone": false,
-        "narrow_column": true
-      }
-    },
     "blog-posts": {
       "type": "blog-posts",
       "settings": {
@@ -33,13 +24,14 @@
         "blog_show_author": false,
         "view_all": false,
         "blog_image_size": "wide",
-        "divider": false
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
       }
     }
   },
   "order": [
     "main",
-    "163482084225a219d8",
     "blog-posts"
   ]
 }
