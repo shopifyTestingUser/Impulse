@@ -315,7 +315,7 @@
         "label": "Base size",
         "default": 32,
         "min": 22,
-        "max": 60,
+        "max": 80,
         "unit": "px"
       },
       {
