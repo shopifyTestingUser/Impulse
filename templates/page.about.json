@@ -28,7 +28,7 @@
         "image": "shopify:\/\/shop_images\/49A0163_1_1.png",
         "image_width": 700,
         "image_position": "left-bottom",
-        "image_bg_color": "#F8E6D4",
+        "image_bg_color": "#f8e6d4",
         "subtitle": "",
         "title": "About us",
         "another_text": false,
@@ -38,7 +38,9 @@
         "button_style": "primary",
         "align_text": "center",
         "layout": "right",
-        "divider": false
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
       }
     },
     "16348250262b8f3a96": {
@@ -47,7 +49,7 @@
         "image": "shopify:\/\/shop_images\/49A0928_1_1.png",
         "image_width": 700,
         "image_position": "left-bottom",
-        "image_bg_color": "#F8E6D4",
+        "image_bg_color": "#f8e6d4",
         "subtitle": "",
         "title": "Image with text",
         "another_text": true,
@@ -58,14 +60,17 @@
         "align_text": "center",
         "layout": "left",
         "text_image_bg": "shopify:\/\/shop_images\/Frame_106.png",
-        "divider": false
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": true
       }
     },
     "163482516833cd4adb": {
       "type": "title-with-instagram",
       "settings": {
         "title": "Join us in Instagram @lhm",
-        "align_text": "center"
+        "align_text": "center",
+        "margin_top": true
       }
     },
     "1634825199262c0c81": {
@@ -105,8 +110,16 @@
         "full_width": false,
         "gutter_size": 0,
         "space_above": false,
-        "space_below": true,
+        "space_below": false,
         "color_text": "main"
+      }
+    },
+    "1634908297f953607d": {
+      "type": "find-more-on",
+      "settings": {
+        "text": "Find more on",
+        "margin_top": false,
+        "margin_bottom": true
       }
     },
     "1634825297d0948712": {
@@ -115,6 +128,16 @@
         "title": "",
         "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
         "divider": false
+      }
+    },
+    "163490834132526263": {
+      "type": "listen-more",
+      "settings": {
+        "text": "Listen more LHM podcasts on Youtube and Spotify!",
+        "first_btn_text": "Watch on Youtube",
+        "second_btn_text": "Listen on Spotify",
+        "margin_top": false,
+        "margin_bottom": true
       }
     },
     "16348253938dde6455": {
@@ -155,44 +178,20 @@
     "16348255004218c457": {
       "type": "rich-text",
       "blocks": {
-        "16348255004218c457-1": {
-          "type": "text",
+        "339f6a5c-6b47-45c8-bb9a-76a2a1334787": {
+          "type": "page",
           "settings": {
-            "enlarge_text": true,
-            "text": "<p>Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.<\/p>"
+            "page_text": "about-us"
           }
         }
       },
       "block_order": [
-        "16348255004218c457-1"
+        "339f6a5c-6b47-45c8-bb9a-76a2a1334787"
       ],
       "settings": {
-        "align_text": "center",
+        "align_text": "left",
         "narrow_column": true,
         "divider": false
-      }
-    },
-    "1634825522a08656c5": {
-      "type": "promo-grid",
-      "blocks": {
-        "608e0118-ebeb-479d-beff-1069c76df5dc": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/49A9887_1_1.png",
-            "link": "",
-            "width": "100"
-          }
-        }
-      },
-      "block_order": [
-        "608e0118-ebeb-479d-beff-1069c76df5dc"
-      ],
-      "settings": {
-        "full_width": false,
-        "gutter_size": 20,
-        "space_above": false,
-        "space_below": true,
-        "color_text": "main"
       }
     }
   },
@@ -203,9 +202,10 @@
     "16348250262b8f3a96",
     "163482516833cd4adb",
     "1634825199262c0c81",
+    "1634908297f953607d",
     "1634825297d0948712",
+    "163490834132526263",
     "16348253938dde6455",
-    "16348255004218c457",
-    "1634825522a08656c5"
+    "16348255004218c457"
   ]
 }
