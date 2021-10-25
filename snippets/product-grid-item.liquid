@@ -75,6 +75,8 @@
                 data-aspectratio="{{ preview_image.aspect_ratio }}"
                 data-sizes="auto"
                 alt="{{ preview_image.alt | escape }}">
+            {%- assign price = product.price_min | money -%}
+
           </div>
         {%- else -%}
           <div class="image-wrap fixed_{%- if section.settings.fixed_height -%}height{%- endif-%}"
