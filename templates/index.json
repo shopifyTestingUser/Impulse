@@ -68,6 +68,7 @@
             "width": "50",
             "height": 680,
             "text_size": 70,
+            "width_content": 100,
             "text_align": "vertical-bottom horizontal-center",
             "focal_point": "bottom",
             "color_accent": "#f8e6d4",
@@ -91,6 +92,7 @@
             "width": "50",
             "height": 500,
             "text_size": 100,
+            "width_content": 100,
             "text_align": "vertical-bottom horizontal-right",
             "focal_point": "bottom",
             "color_accent": "rgba(0,0,0,0)",
@@ -107,7 +109,7 @@
         "full_width": true,
         "gutter_size": 0,
         "space_above": false,
-        "space_below": false,
+        "space_below": true,
         "color_text": "main"
       }
     },
@@ -124,6 +126,52 @@
         "has_meta": false,
         "fixed_height": true,
         "height": 510
+      }
+    },
+    "1634914413444a0acc": {
+      "type": "promo-grid",
+      "blocks": {
+        "bd246b77-f1dc-4968-ac80-f6200fb27e61": {
+          "type": "custom_sale_collection",
+          "settings": {
+            "custom_sale_collection": "",
+            "image": "shopify:\/\/shop_images\/Julia_Mona_freigestellt_1.png",
+            "top_text": "Up to",
+            "middle_text": "50% off",
+            "bottom_text": "Select products",
+            "width": "50",
+            "color_tint": "#f8e6d4",
+            "color_tint_opacity": 100,
+            "boxed": false,
+            "framed": true
+          }
+        },
+        "020474bf-8b58-4a85-b9b6-d0500d057b72": {
+          "type": "custom_sale_collection",
+          "settings": {
+            "custom_sale_collection": "",
+            "image": "shopify:\/\/shop_images\/Julia_Mona_weisse_Mauer_1_1.png",
+            "top_text": "Up to",
+            "middle_text": "50% off",
+            "bottom_text": "Select products",
+            "width": "50",
+            "color_tint": "#efdbd5",
+            "color_tint_opacity": 100,
+            "boxed": false,
+            "framed": false
+          }
+        }
+      },
+      "block_order": [
+        "bd246b77-f1dc-4968-ac80-f6200fb27e61",
+        "020474bf-8b58-4a85-b9b6-d0500d057b72"
+      ],
+      "settings": {
+        "full_width": false,
+        "gutter_size": 20,
+        "space_above": false,
+        "space_below": false,
+        "color_text": "main"
       }
     },
     "promo-grid2": {
@@ -144,6 +192,7 @@
             "width": "100",
             "height": 520,
             "text_size": 120,
+            "width_content": 100,
             "text_align": "vertical-center horizontal-left",
             "focal_point": "20% 0",
             "color_accent": "#f8e6d4",
@@ -350,6 +399,7 @@
     "rich-text",
     "promo-grid",
     "16345470819de01f0b",
+    "1634914413444a0acc",
     "promo-grid2",
     "163454067579e18513",
     "163456592274a2a708",
