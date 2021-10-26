@@ -104,7 +104,9 @@
         "button_style": "primary",
         "align_text": "left",
         "layout": "right",
-        "divider": false
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
       }
     },
     "1634907540ba6957b3": {
@@ -125,7 +127,9 @@
         "button_style": "primary",
         "align_text": "left",
         "layout": "left",
-        "divider": true
+        "divider": true,
+        "margin_top": false,
+        "margin_bottom": false
       }
     },
     "16349076903b384634": {
@@ -243,7 +247,7 @@
       "settings": {
         "full_width": false,
         "gutter_size": 20,
-        "space_above": true,
+        "space_above": false,
         "space_below": true,
         "color_text": "main"
       }
@@ -301,7 +305,7 @@
         "163490805600b213e0-1"
       ],
       "settings": {
-        "align_text": "center",
+        "align_text": "left",
         "narrow_column": true,
         "divider": false
       }
@@ -309,17 +313,19 @@
     "1634908061ca3b3a9f": {
       "type": "blog-posts",
       "settings": {
-        "title": "Blog posts",
+        "title": "",
         "blog": "news",
         "post_limit": 3,
-        "blog_show_excerpt": false,
+        "blog_show_excerpt": true,
         "blog_show_tags": false,
         "blog_show_date": true,
         "blog_show_comments": false,
         "blog_show_author": false,
         "view_all": false,
         "blog_image_size": "wide",
-        "divider": false
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
       }
     },
     "16349080873877e43b": {

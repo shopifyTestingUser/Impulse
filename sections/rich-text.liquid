@@ -10,7 +10,7 @@
     <div class="theme-block" {{ block.shopify_attributes }}>
       {%- case block.type -%}
         {%- when 'subheading' -%}
-          <span class="rich-text__header">{{ block.settings.subtitle | escape }}</span>
+          <span class="rich-text__header h2 rte-custom">{{ block.settings.subtitle | escape }}</span>
         {%- when 'heading' -%}
           <h2 class="rich-text__subheader">{{ block.settings.title | escape }}</h2>
         {%- when 'page' -%}
