@@ -194,7 +194,7 @@
             "width": "100",
             "height": 520,
             "text_size": 120,
-            "width_content": 40,
+            "width_content": 70,
             "text_align": "vertical-center horizontal-left",
             "focal_point": "20% 0",
             "color_accent": "#f8e6d4",
@@ -282,7 +282,7 @@
             "heading_font": "helvetica_n4",
             "heading_size": 20,
             "feed_width": 100,
-            "html_area": ""
+            "html_area": "display:none;"
           }
         }
       },
