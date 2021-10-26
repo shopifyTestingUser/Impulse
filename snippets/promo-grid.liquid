@@ -118,7 +118,6 @@
           .flex-grid__item--{{ block.id }}.flex-grid__item--50 .promo-grid__text {
             font-size: {{ block.settings.text_size | default: 100.0 | divided_by: 100.0 }}em;
           }
-
           @media only screen and (min-width: 769px) {
             .flex-grid__item--{{ block.id }} .promo-grid__text {
               font-size: {{ block.settings.text_size | default: 100.0 | divided_by: 100.0 }}em;
@@ -132,17 +131,30 @@
           position: relative;
           z-index: 4;
         }
+        .custom-sale__img--{{ section.id }} img{
+          width: 100%;
+          height: 100%;
+          object-fit: cover;
+        }
         .custom-sale__content--{{ section.id }}{
           margin: 0 !important;
         }
-        @media (max-width: 768px) {
+        @media only screen and (min-width: 992px) {
+          .promo-grid__content--{{ section.id }}{
+            max-width: {{ block.settings.width_content }}%;
+          }
+          .custom-sale__content--{{ section.id }}{
+            max-width: 50%;
+          }
+        }
+        @media only screen and (max-width: 768px) {
           .custom-sale__content--{{ section.id }}{
             padding: 2em 1.5em;
             min-width: 170px;
           }
-        }
-        .promo-grid__content--{{ section.id }}{
-          max-width: {{ block.settings.width_content }}%
+          .promo-grid__container--{{ section.id }}{
+            flex-direction: column;
+          }
         }
       {%- endstyle -%}
 
@@ -158,7 +170,7 @@
                 class="promo-grid__container{% if block.settings.framed and block.settings.boxed == false %} promo-grid__container--framed{% endif %}{% if block.settings.color_tint_opacity > 0 %} promo-grid__container--tint{% endif %} vertical-center horizontal-left">
               {%- if block.settings.top_text != blank or block.settings.middle_text != blank or block.settings.bottom_text != blank -%}
                 <div
-                    class="promo-grid__content{% if block.settings.boxed %} promo-grid__content--boxed{% if block.settings.framed %} promo-grid__content--framed{% endif %}{% endif %}{% if block.settings.width == '50' %} promo-grid__content--small-text{% endif %}">
+                    class="promo-grid__content {% if block.settings.boxed %} promo-grid__content--boxed{% if block.settings.framed %} promo-grid__content--framed{% endif %}{% endif %}{% if block.settings.width == '50' %} promo-grid__content--small-text{% endif %}">
                   <div class="promo-grid__text text-center">
                     {%- if block.settings.top_text != blank -%}
                       <div class="rte--block rte--em">
@@ -234,7 +246,7 @@
           {%- when 'custom_sale_collection' -%}
             <a
                 href="{{ collections[block.settings.sale_collection].url }}"
-                class="promo-grid__container{% if block.settings.framed and block.settings.boxed == false %} promo-grid__container--framed{% endif %}{% if block.settings.color_tint_opacity > 0 %} promo-grid__container--tint{% endif %} vertical-center horizontal-left">
+                class="promo-grid__container promo-grid__container--{{ section.id }}{% if block.settings.framed and block.settings.boxed == false %} promo-grid__container--framed{% endif %}{% if block.settings.color_tint_opacity > 0 %} promo-grid__container--tint{% endif %} vertical-center horizontal-left">
               {%- if block.settings.top_text != blank or block.settings.middle_text != blank or block.settings.bottom_text != blank -%}
                 <div
                     class="promo-grid__content custom-sale__content--{{ section.id }}{% if block.settings.boxed %} promo-grid__content--boxed{% if block.settings.framed %} promo-grid__content--framed{% endif %}{% endif %}{% if block.settings.width == '50' %} promo-grid__content--small-text{% endif %}">

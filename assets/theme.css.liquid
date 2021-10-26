@@ -1426,6 +1426,7 @@ label{
 
 .h1,h1{
   font-size:calc(var(--typeHeaderSize)*0.85);
+  line-height: calc(var(--typeHeaderLineHeight)*0.8);
 }
 
 .h2,h2{
@@ -9551,25 +9552,25 @@ html[dir=rtl] .background-media-text__text{
 }
 
 .promo-grid__slide-link:hover~.promo-grid__content .btn:not(.btn--secondary):not(.btn--tertiary):not(.btn--inverse){
-      background:{{ settings.color_button | default: "#000" | color_lighten: 10 }};
-      background:var(--colorBtnPrimaryLight);
-      transition-delay:0.25s
-    }
+  background:{{ settings.color_button | default: "#000" | color_lighten: 10 }};
+  background:var(--colorBtnPrimaryLight);
+  transition-delay:0.25s
+}
 
 [data-button_style=square] .promo-grid__slide-link:hover~.promo-grid__content .btn:not(.btn--secondary):not(.btn--tertiary):not(.btn--inverse):after,[data-button_style^=round] .promo-grid__slide-link:hover~.promo-grid__content .btn:not(.btn--secondary):not(.btn--tertiary):not(.btn--inverse):after{
-          animation:shine 0.75s cubic-bezier(0.01, 0.56, 1, 1);
-        }
+  animation:shine 0.75s cubic-bezier(0.01, 0.56, 1, 1);
+}
 
 .promo-grid__content{
   flex:0 1 auto;
-  padding:2em 2.5em;
+  padding: 2em 0.5em 1em 1.5em;
   position:relative;
   min-width:200px;
   z-index:4
 }
 
 .promo-grid__container--framed:not(.promo-grid__container--boxed) .promo-grid__content{
-    margin:1.5em
+  margin:1.5em
 }
 
 .promo-grid__content p:last-child{
