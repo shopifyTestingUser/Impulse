@@ -100,15 +100,12 @@
     {%- if blog.comments_enabled? -%}
 
       {%- if number_of_comments > 0 -%}
-        <hr class="hr--large">
-        <h3>{{ 'blogs.comments.with_count' | t: count: number_of_comments }}</h3>
-        <hr class="hr--small hr--clear">
+        <h3 class="grid--space-top">{{ 'blogs.comments.with_count' | t: count: number_of_comments }}</h3>
       {%- endif -%}
 
       {%- paginate article.comments by 5 -%}
-        <div id="comments">
+        <div id="comments ">
           {%- if comment and comment.errors == blank -%}
-            <hr class="hr--small hr--clear">
             <p class="note note--success">
               {%- if blog.moderated? -%}
                 {{ 'blogs.comments.success_moderated' | t }}
@@ -119,18 +116,16 @@
           {%- endif -%}
 
           {%- if number_of_comments > 0 -%}
-            <ul class="no-bullets">
+            <ul class="no-bullets  grid--space-bottom">
               {%- if comment.status == 'pending' -%}
                 <li id="Comment-{{ comment.id }}" class="article__comment">
                   {%- render 'comment', comment: comment -%}
                 </li>
               {%- endif -%}
-
               {%- for comment in article.comments -%}
                 <li id="Comment-{{ comment.id }}" class="article__comment">
                   {%- render 'comment', comment: comment -%}
                 </li>
-
                 {%- unless forloop.last -%}
                   <li>
                     <hr class="hr--clear">
@@ -138,14 +133,11 @@
                 {%- endunless -%}
               {%- endfor -%}
             </ul>
-
             {%- if paginate.pages > 1 -%}
               {%- render 'pagination', paginate: paginate, hash: '#comments' -%}
             {%- endif -%}
-
           {%- endif -%}
 
-          <hr class="hr--large">
 
           <header
               class="section-header{% unless settings.type_headers_align_text %} section-header--with-link{% endunless %}">
@@ -176,7 +168,7 @@
               {%- if blog.moderated? -%}
                 <p><small>{{ 'blogs.comments.moderated' | t }}</small></p>
               {%- endif -%}
-              <button type="submit" class="btn btn--secondary">
+              <button type="submit" class="btn">
                 {{ 'blogs.comments.post' | t }}
               </button>
             {%- endform -%}

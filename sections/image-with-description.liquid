@@ -13,7 +13,7 @@
   }
 {% endstyle %}
 
-<div class="page-width" >
+<div class="page-width {% if section.settings.margin_top %} promo-grid--space-top {% endif %} {% if section.settings.margin_bottom %} promo-grid--space-bottom {% endif %}">
   <div class="image-with-description flex-revert--{{ section.id }}">
     <div class="image-with-description__image-wrapper image-wrapper--{{ section.id }}">
       <img
@@ -47,7 +47,6 @@
 {% schema %}
 	{
     "name": "Image with description",
-    "class": "index-section",
     "settings": [
       {
         "type": "image_picker",
@@ -82,6 +81,16 @@
         "type": "url",
         "id": "btn_link",
         "label": "Button link"
+      },
+      {
+        "type": "checkbox",
+        "id": "margin_top",
+        "label": "Add padding top"
+      },
+      {
+        "type": "checkbox",
+        "id": "margin_bottom",
+        "label": "Add padding bottom"
       }
     ],
     "presets": [{

@@ -55,13 +55,13 @@
         {%- endif -%}
         <div class="type-banner__text text-color--{{ section.id }}">
             {%- if block.settings.heading != blank -%}
-                <p class="h3">{{ block.settings.heading }}</p>
+                <p class="h5">{{ block.settings.heading }}</p>
             {%- endif -%}
             {%- if block.settings.text != blank -%}
                 <p>{{ block.settings.text }}</p>
             {%- endif -%}
             {%- if block.settings.label != blank -%}
-                <p class="btn btn--secondary btn--small {% if tint_exists %} btn--tint-border{% endif %} text-color--{{ section.id }}">
+                <p class="btn btn--secondary btn--small text-color--{{ section.id }}">
                     {{ block.settings.label }}
                 </p>
             {%- endif -%}
