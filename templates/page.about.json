@@ -25,19 +25,22 @@
     "16348250212312d01d": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/49A0163_1_1.png",
+        "image": "shopify:\/\/shop_images\/julia_1.png",
+        "image2": "shopify:\/\/shop_images\/blog_image_1_1.png",
         "image_width": 700,
         "image_position": "left-bottom",
         "image_bg_color": "#f8e6d4",
+        "image_bg": "shopify:\/\/shop_images\/IMG_9697_f4a32e95-2e33-4122-8f9e-2e5d29b39cc4.png",
         "subtitle": "",
         "title": "About us",
         "another_text": false,
-        "text": "<p>Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Exercitation veniam consequat sunt nostrud amet. Velit officia consequat duis enim velit mollit. <\/p>",
+        "text": "<p>Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. <em>Exercitation<\/em> veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Exercitation veniam consequat sunt nostrud amet. Velit officia consequat duis enim velit mollit. <\/p>",
         "button_label": "",
         "button_link": "",
         "button_style": "primary",
         "align_text": "center",
         "layout": "right",
+        "text_image_bg": "shopify:\/\/shop_images\/decor_salon_1_17a622e0-7ec2-4d49-9b73-4ea7f38c4b76.png",
         "divider": false,
         "margin_top": false,
         "margin_bottom": false
@@ -73,45 +76,25 @@
         "margin_top": true
       }
     },
-    "1634825199262c0c81": {
-      "type": "promo-grid",
+    "16352555490f72562e": {
+      "type": "apps",
       "blocks": {
-        "88a5666d-d63f-4677-ba2a-d9dffc8e112d": {
-          "type": "image",
+        "96172b5f-59bd-4623-9174-61f1f7812b8c": {
+          "type": "shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
           "settings": {
-            "image": "shopify:\/\/shop_images\/langhaarmaedchen_172924029_203011817995695_588333778872068653_n_1.png",
-            "link": "",
-            "width": "33"
-          }
-        },
-        "d1211765-1a0c-4c7e-8b58-e5a6a7c6151c": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/langhaarmaedchen_242213492_582162596250537_5666823319806348994_n_1.png",
-            "link": "",
-            "width": "33"
-          }
-        },
-        "6b59d26f-13e4-4c4e-9d92-603eea3ca716": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/langhaarmaedchen_240821307_133636738979486_7818150166621372249_n_1.png",
-            "link": "",
-            "width": "33"
+            "heading_font": "helvetica_n4",
+            "heading_size": 20,
+            "feed_width": 100,
+            "html_area": ""
           }
         }
       },
       "block_order": [
-        "88a5666d-d63f-4677-ba2a-d9dffc8e112d",
-        "d1211765-1a0c-4c7e-8b58-e5a6a7c6151c",
-        "6b59d26f-13e4-4c4e-9d92-603eea3ca716"
+        "96172b5f-59bd-4623-9174-61f1f7812b8c"
       ],
       "settings": {
         "full_width": false,
-        "gutter_size": 0,
-        "space_above": false,
-        "space_below": false,
-        "color_text": "main"
+        "space_around": true
       }
     },
     "1634908297f953607d": {
@@ -201,7 +184,7 @@
     "16348250212312d01d",
     "16348250262b8f3a96",
     "163482516833cd4adb",
-    "1634825199262c0c81",
+    "16352555490f72562e",
     "1634908297f953607d",
     "1634825297d0948712",
     "163490834132526263",
