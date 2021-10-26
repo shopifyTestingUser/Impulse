@@ -203,8 +203,8 @@
         "4045078a-851e-4712-8e24-fd7eae750b22"
       ],
       "settings": {
-        "full_width": false,
-        "gutter_size": 20,
+        "full_width": true,
+        "gutter_size": 0,
         "space_above": true,
         "space_below": true,
         "color_text": "second"
