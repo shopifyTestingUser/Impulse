@@ -7,9 +7,17 @@
 
 :root{
   --colorBtnPrimary:{{ settings.color_button | default: "#000" }};
+  --colorBtnSecondary:{{ settings.secondary_color_button | default: "#000" }};
+  --colorBtnPrimaryText:{{ settings.color_button_text | default: "#fff" }};
+  --colorBtnSecondaryText:{{ settings.secondary_color_button_text | default: "#fff" }};
+
+  --colorBtnPrimaryHover:{{ settings.hover_color_button | default: "#000" }};
+  --colorBtnSecondaryHover:{{ settings.hover_secondary_color_button | default: "#000" }};
+  --colorBtnPrimaryTextHover:{{ settings.hover_color_button_text | default: "#fff" }};
+  --colorBtnSecondaryTextHover:{{ settings.hover_secondary_color_button_text | default: "#fff" }};
+
   --colorBtnPrimaryLight:{{ settings.color_button | default: "#000" | color_lighten: 10 }};
   --colorBtnPrimaryDim:{{ settings.color_button | default: "#000" | color_darken: 5 }};
-  --colorBtnPrimaryText:{{ settings.color_button_text | default: "#fff" }};
   --colorCartDot:{{ settings.color_cart_dot | default: "#ff4f33" }};
 
   --colorLink:{{ settings.color_body_text | default: "#1c1d1d" }};
@@ -11612,9 +11620,29 @@ html[dir=rtl] .product-single__meta .rte{
         margin-top: 85px;
     }
 }
-.btn{
-  border-radius: 50px !important;
+p.btn,button.btn, a.btn{
   letter-spacing: 0 !important;
+  background: var(--colorBtnPrimary) !important;
+  color: var(--colorBtnPrimaryText) !important;
+  border: 1px solid transparent !important;
+  border-radius: 50px !important;
+  box-sizing: border-box !important;
+  transition: 0.3s !important;
+}
+p.btn.btn--secondary,button.btn.btn--secondary,a.btn.btn--secondary{
+  background: var(--colorBtnSecondary) !important;
+  color: var(--colorBtnSecondaryText) !important;
+  border-color: var(--colorBtnSecondaryText) !important;
+}
+p.btn:hover,button.btn:hover,a.btn:hover{
+  background: var(--colorBtnPrimaryHover) !important;
+  color: var(--colorBtnPrimaryTextHover) !important;
+  border-color: var(--colorBtnPrimaryTextHover) !important;
+}
+p.btn.btn--secondary:hover,button.btn.btn--secondary:hover, a.btn.btn--secondary:hover{
+  background: var(--colorBtnSecondaryHover) !important;
+  color: var(--colorBtnSecondaryTextHover) !important;
+  border-color: var(--colorBtnSecondaryTextHover) !important;
 }
 .footer__collapsible p a{
   border-bottom: 0;
