@@ -46,7 +46,9 @@
     "163482129947cdb0c4": {
       "type": "announcement-bar",
       "settings": {
-        "text": "<p>Join the LHM family! Visit our cozy salon to get the expert hair care<\/p>"
+        "text": "<p>Join the LHM family! Visit our cozy salon to get the expert hair care<\/p>",
+        "margin_top": false,
+        "margin_bottom": false
       }
     },
     "promo-grid": {
@@ -67,6 +69,7 @@
             "width": "100",
             "height": 500,
             "text_size": 120,
+            "width_content": 100,
             "text_align": "vertical-bottom horizontal-left",
             "focal_point": "center",
             "color_accent": "rgba(0,0,0,0)",
@@ -113,6 +116,7 @@
         "enable_sidebar": true,
         "collapsed": true,
         "filter_style": "sidebar",
+        "has_meta": true,
         "enable_color_swatches": false,
         "enable_sort": false
       }
@@ -130,7 +134,9 @@
         "blog_show_author": false,
         "view_all": false,
         "blog_image_size": "wide",
-        "divider": false
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
       }
     }
   },
