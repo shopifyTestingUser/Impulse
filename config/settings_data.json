@@ -81,6 +81,7 @@
     "search_type": "product,article,page,collection",
     "predictive_image_size": "square",
     "show_breadcrumbs": true,
+    "show_breadcrumbs_collection_link": false,
     "checkout_logo_position": "left",
     "checkout_logo_size": "small",
     "checkout_body_background_color": "#ffffff",
