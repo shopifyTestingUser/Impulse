@@ -33,9 +33,9 @@
 <div class="{{ section.id }} {% if section.settings.margin_top %} grid--space-top {% endif %} {% if section.settings.margin_bottom %} grid--space-bottom {% endif %}">
   <div class="page-width feature-row-wrapper">
     {%- capture image_layout -%}
-      <div class="feature-row__item feature-row__item-image{% if overlap_images %} feature-row__item--overlap-images{% endif %}
+      <div class="feature-row__item feature-row__item-image{% if overlap_images and section.settings.image != blank %} feature-row__item--overlap-images{% endif %}
            {% if section.settings.image_position != blank %} feature-row__item-{{ section.settings.image_position }}{% endif %}
-           {%- if section.settings.image2 == blank -%} feature-row__item--single-image {% endif %}"
+           {%- if section.settings.image == blank or section.settings.image2 == blank -%} feature-row__item--single-image {% endif %}"
            style="max-width: {{ section.settings.image_width }}px" data-aos>
           {%- if section.settings.image != blank -%}
             <div>
@@ -54,18 +54,31 @@
           {%- endif -%}
           {%- if section.settings.image2 != blank -%}
             <div>
-              {%- if section.settings.button_label != blank and section.settings.button_link != blank -%}<a href="{{ section.settings.button_link }}">{%- endif -%}
+            {%- if section.settings.button_label != blank and section.settings.button_link != blank -%}<a href="{{ section.settings.button_link }}">{%- endif -%}
                 <div class="image-wrap" style="height: 0; padding-bottom: {{ 100 | divided_by: section.settings.image2.aspect_ratio }}%;">
                   {%- assign img_url = section.settings.image2 | img_url: '1x1' | replace: '_1x1.', '_{width}x.' -%}
                   <img class="feature-row__image lazyload"
-                    data-src="{{ img_url }}"
-                    data-widths="[180, 360, 540, 750, 900, 1080]"
-                    data-aspectratio="{{ section.settings.image2.aspect_ratio }}"
-                    data-sizes="auto"
-                    alt="{{ section.settings.image2.alt }}">
+                       data-src="{{ img_url }}"
+                       data-widths="[180, 360, 540, 750, 900, 1080]"
+                       data-aspectratio="{{ section.settings.image2.aspect_ratio }}"
+                       data-sizes="auto"
+                       alt="{{ section.settings.image2.alt }}">
                 </div>
-              {%- if section.settings.button_label != blank and section.settings.button_link != blank -%}</a>{%- endif -%}
+                {%- if section.settings.button_label != blank and section.settings.button_link != blank -%}</a>{%- endif -%}
             </div>
+            {% comment %}<div>{% endcomment %}
+              {% comment %}{%- if section.settings.button_label != blank and section.settings.button_link != blank -%}<a href="{{ section.settings.button_link }}">{%- endif -%}{% endcomment %}
+                {% comment %}<div class="image-wrap" style="height: 0; padding-bottom: {{ 100 | divided_by: section.settings.image2.aspect_ratio }}%;">{% endcomment %}
+                  {% comment %}{%- assign img_url = section.settings.image2 | img_url: '1x1' | replace: '_1x1.', '_{width}x.' -%}{% endcomment %}
+                  {% comment %}<img class="feature-row__image lazyload"{% endcomment %}
+                    {% comment %}data-src="{{ img_url }}"{% endcomment %}
+                    {% comment %}data-widths="[180, 360, 540, 750, 900, 1080]"{% endcomment %}
+                    {% comment %}data-aspectratio="{{ section.settings.image2.aspect_ratio }}"{% endcomment %}
+                    {% comment %}data-sizes="auto"{% endcomment %}
+                    {% comment %}alt="{{ section.settings.image2.alt }}">{% endcomment %}
+                {% comment %}</div>{% endcomment %}
+              {% comment %}{%- if section.settings.button_label != blank and section.settings.button_link != blank -%}</a>{%- endif -%}{% endcomment %}
+            {% comment %}</div>{% endcomment %}
           {%- endif -%}
           {%- if section.settings.image == blank and section.settings.image2 == blank -%}
             <div>
