@@ -127,7 +127,7 @@
         "button_style": "primary",
         "align_text": "left",
         "layout": "left",
-        "divider": true,
+        "divider": false,
         "margin_top": false,
         "margin_bottom": false
       }
@@ -260,7 +260,9 @@
         "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.",
         "swap": false,
         "btn_text": "Contact us",
-        "btn_link": ""
+        "btn_link": "",
+        "margin_top": false,
+        "margin_bottom": false
       }
     },
     "1634907893f803f2d3": {
@@ -271,7 +273,9 @@
         "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.",
         "swap": true,
         "btn_text": "Contact us",
-        "btn_link": ""
+        "btn_link": "",
+        "margin_top": false,
+        "margin_bottom": false
       }
     },
     "16349079880795f629": {
@@ -287,7 +291,9 @@
         "layout": "left",
         "height": 550,
         "framed": false,
-        "parallax": false
+        "parallax": false,
+        "margin_top": false,
+        "margin_bottom": false
       }
     },
     "163490805600b213e0": {
