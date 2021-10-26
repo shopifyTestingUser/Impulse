@@ -140,9 +140,8 @@
           "settings": {
             "custom_sale_collection": "",
             "image": "shopify:\/\/shop_images\/Julia_Mona_freigestellt_1.png",
-            "top_text": "Up to",
-            "middle_text": "50% off",
-            "bottom_text": "Select products",
+            "middle_text": "50%",
+            "bottom_text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
             "width": "50",
             "color_tint": "#f8e6d4",
             "color_tint_opacity": 100,
@@ -155,9 +154,8 @@
           "settings": {
             "custom_sale_collection": "",
             "image": "shopify:\/\/shop_images\/Julia_Mona_weisse_Mauer_1_1.png",
-            "top_text": "Up to",
-            "middle_text": "50% off",
-            "bottom_text": "Select products",
+            "middle_text": "50%",
+            "bottom_text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
             "width": "50",
             "color_tint": "#efdbd5",
             "color_tint_opacity": 100,
@@ -356,7 +354,9 @@
         "layout": "left",
         "height": 750,
         "framed": false,
-        "parallax": false
+        "parallax": false,
+        "margin_top": false,
+        "margin_bottom": false
       }
     },
     "blog-posts": {
