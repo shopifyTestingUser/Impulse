@@ -32,10 +32,11 @@
     margin-right: 10px;
   }
   .listen-more__btn--{{ section.id }} svg path{
-    fill: {{ settings.second_color_body_text }}
+    fill: {{ settings.secondary_color_button_text }};
+    transition: 0.3s;
   }
   .listen-more__btn--{{ section.id }}:hover svg path{
-    fill: {{ settings.color_announcement }}
+    fill: {{ settings.hover_secondary_color_button_text }}
   }
 {% endstyle %}
 
