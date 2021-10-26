@@ -95,21 +95,21 @@
     {%- if block.settings.subheading != blank or block.settings.heading != blank or block.settings.textarea != blank or block.settings.cta_text1 != blank or block.settings.cta_text2 != blank -%}
         <div
                 class="promo-grid__content promo-grid__content--{{ section.id }} {% if block.settings.boxed %} promo-grid__content--boxed{% endif %}{% if block.settings.framed %} promo-grid__content--framed{% endif %}">
-            <div class="promo-grid__text text-color--{{ section.id }}">
+            <div class="text-color--{{ section.id }}">
                 {%- if block.settings.subheading != blank -%}
-                    <div class="rte--block rte--em">
+                    <h6>
                         {{ block.settings.subheading }}
-                    </div>
+                    </h6>
                 {%- endif -%}
                 {%- if block.settings.heading != blank -%}
-                    <div class="rte--block rte--strong">
+                    <h2>
                         {{ block.settings.heading }}
-                    </div>
+                    </h2>
                 {%- endif -%}
                 {%- if block.settings.textarea != blank -%}
-                    <div class="rte--block">
+                    <p>
                         {{ block.settings.textarea | newline_to_br }}
-                    </div>
+                    </p>
                 {%- endif -%}
                 {%- if block.settings.cta_text1 != blank -%}
                     <a href="{{ block.settings.cta_link1 }}"

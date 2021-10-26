@@ -89,14 +89,14 @@
 
       <div class="feature-row__item feature-row__text feature-row__text--{{ section.settings.layout }} text-{{ section.settings.align_text }}" data-aos>
         {%- if section.settings.title != blank and section.settings.another_text == false -%}
-          <div class="h1 appear-delay{% cycle '','-1','-2','-3','-4' %}">{{ section.settings.title | escape }}</div>
+          <div class="h3 appear-delay{% cycle '','-1','-2','-3','-4' %}">{{ section.settings.title | escape }}</div>
         {%- endif -%}
         {%- if section.settings.subtitle != blank and section.settings.another_text == false -%}
-          <div class="subheading appear-delay{% cycle '','-1','-2','-3','-4' %}">{{ section.settings.subtitle }}</div>
+          <div class="h5 price appear-delay{% cycle '','-1','-2','-3','-4' %}">{{ section.settings.subtitle }}</div>
         {%- endif -%}
         {%- if section.settings.text != blank -%}
           <div class="rte appear-delay{% cycle '','-1','-2','-3','-4' %}
-            {%- if section.settings.another_text -%}rte-custom{%- endif -%}">
+            {%- if section.settings.another_text -%}rte-custom h2{%- endif -%}">
             {{ section.settings.text }}
           </div>
         {%- endif -%}

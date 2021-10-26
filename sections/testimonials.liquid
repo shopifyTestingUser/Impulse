@@ -13,8 +13,10 @@
   {%- if section.settings.title != blank -%}
     <div class="page-width">
       <div class="section-header">
-        <span class="testimonials__header--{{ section.id }}">{{ section.settings.subtitle }}</span>
-        <h2>{{ section.settings.title | escape }}</h2>
+        <h2>
+          <span class="testimonials__header--{{ section.id }} rte-custom">{{ section.settings.subtitle }}</span><br>
+          {{ section.settings.title | escape }}
+        </h2>
       </div>
     </div>
   {%- endif -%}

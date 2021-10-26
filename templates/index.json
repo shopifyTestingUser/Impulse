@@ -3,7 +3,9 @@
     "16348201304e0aefe8": {
       "type": "announcement-bar",
       "settings": {
-        "text": "<p>Join the LHM family! <a href=\"\/pages\/about-us\" title=\"About us\">Visit our cozy salon<\/a> to get the expert hair care<\/p>"
+        "text": "<p>Join the LHM family! <a href=\"\/pages\/about-us\" title=\"About us\">Visit our cozy salon<\/a> to get the expert hair care<\/p>",
+        "margin_top": false,
+        "margin_bottom": false
       }
     },
     "16342858496dc05777": {
@@ -68,6 +70,7 @@
             "width": "50",
             "height": 680,
             "text_size": 70,
+            "width_content": 100,
             "text_align": "vertical-bottom horizontal-center",
             "focal_point": "bottom",
             "color_accent": "#f8e6d4",
@@ -91,6 +94,7 @@
             "width": "50",
             "height": 500,
             "text_size": 100,
+            "width_content": 100,
             "text_align": "vertical-bottom horizontal-right",
             "focal_point": "bottom",
             "color_accent": "rgba(0,0,0,0)",
@@ -107,7 +111,7 @@
         "full_width": true,
         "gutter_size": 0,
         "space_above": false,
-        "space_below": false,
+        "space_below": true,
         "color_text": "main"
       }
     },
@@ -123,7 +127,55 @@
         "divider": false,
         "has_meta": false,
         "fixed_height": true,
-        "height": 510
+        "height": 510,
+        "margin_top": false,
+        "margin_bottom": false
+      }
+    },
+    "1634914413444a0acc": {
+      "type": "promo-grid",
+      "blocks": {
+        "bd246b77-f1dc-4968-ac80-f6200fb27e61": {
+          "type": "custom_sale_collection",
+          "settings": {
+            "custom_sale_collection": "",
+            "image": "shopify:\/\/shop_images\/Julia_Mona_freigestellt_1.png",
+            "top_text": "Up to",
+            "middle_text": "50% off",
+            "bottom_text": "Select products",
+            "width": "50",
+            "color_tint": "#f8e6d4",
+            "color_tint_opacity": 100,
+            "boxed": false,
+            "framed": true
+          }
+        },
+        "020474bf-8b58-4a85-b9b6-d0500d057b72": {
+          "type": "custom_sale_collection",
+          "settings": {
+            "custom_sale_collection": "",
+            "image": "shopify:\/\/shop_images\/Julia_Mona_weisse_Mauer_1_1.png",
+            "top_text": "Up to",
+            "middle_text": "50% off",
+            "bottom_text": "Select products",
+            "width": "50",
+            "color_tint": "#efdbd5",
+            "color_tint_opacity": 100,
+            "boxed": false,
+            "framed": false
+          }
+        }
+      },
+      "block_order": [
+        "bd246b77-f1dc-4968-ac80-f6200fb27e61",
+        "020474bf-8b58-4a85-b9b6-d0500d057b72"
+      ],
+      "settings": {
+        "full_width": false,
+        "gutter_size": 20,
+        "space_above": false,
+        "space_below": false,
+        "color_text": "main"
       }
     },
     "promo-grid2": {
@@ -144,6 +196,7 @@
             "width": "100",
             "height": 520,
             "text_size": 120,
+            "width_content": 40,
             "text_align": "vertical-center horizontal-left",
             "focal_point": "20% 0",
             "color_accent": "#f8e6d4",
@@ -159,7 +212,7 @@
         "full_width": false,
         "gutter_size": 0,
         "space_above": true,
-        "space_below": false,
+        "space_below": true,
         "color_text": "second"
       }
     },
@@ -218,7 +271,8 @@
       "type": "title-with-instagram",
       "settings": {
         "title": "Join us in Instagram @lhm",
-        "align_text": "center"
+        "align_text": "center",
+        "margin_top": false
       }
     },
     "1634221283617c7d01": {
@@ -275,7 +329,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
+            "text": "<p><\/p><p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
           }
         }
       },
@@ -318,7 +372,9 @@
         "blog_show_author": false,
         "view_all": false,
         "blog_image_size": "wide",
-        "divider": false
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
       }
     },
     "1634220823e34085fd": {
@@ -334,7 +390,7 @@
       "type": "map",
       "settings": {
         "map_title": "Contacts",
-        "font_size": 18,
+        "font_size": 48,
         "address": "<p>301 Front St W Toronto, <br\/>Canada<\/p><p>Mon - Fri, 8:30am - 10:30pm<br\/>Saturday, 8:30am - 10:30pm<br\/>Sunday, 8:30am - 10:30pm<\/p>",
         "map_address": "301 Front St W, Toronto, ON M5V 2T6",
         "api_key": "",
@@ -350,6 +406,7 @@
     "rich-text",
     "promo-grid",
     "16345470819de01f0b",
+    "1634914413444a0acc",
     "promo-grid2",
     "163454067579e18513",
     "163456592274a2a708",

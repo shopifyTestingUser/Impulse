@@ -9,11 +9,11 @@
 <div
   data-section-id="{{ section.id }}"
   data-section-type="background-image"
-  class="background-media-text background-media-text--{{ section.id }} background-media-text--{{ section.settings.height }} loaded"
+  class="background-media-text background-media-text--{{ section.id }} background-media-text--{{ section.settings.height }} loaded "
   data-aos="background-media-text__animation"
   {% if section.settings.parallax %}data-parallax="true"{% endif %}>
 
-  <div class="background-media-text__container">
+  <div class="background-media-text__container ">
     {%- if section.settings.parallax -%}
       <div class="parallax-container">
         <div class="parallax-image">
@@ -52,7 +52,7 @@
           <div class="animation-contents">
             <div class="background-media-text__text{% if section.settings.framed %} background-media-text__text--framed{% endif %}">
               {%- if section.settings.subtitle -%}
-                <p class="h5">{{ section.settings.subtitle }}</p>
+                <p class="h6">{{ section.settings.subtitle }}</p>
               {%- endif -%}
               {%- if section.settings.title != blank -%}
                 <p class="h3">{{ section.settings.title | escape }}</p>
@@ -78,7 +78,7 @@
 {% schema %}
   {
     "name": "Large image with text box",
-    "class": "index-section--flush",
+    "class": "index-section--flush index-section",
     "settings": [
       {
         "type": "text",
@@ -195,6 +195,16 @@
         "id": "parallax",
         "label": "Enable parallax",
         "default": true
+      },
+      {
+        "type": "checkbox",
+        "id": "margin_top",
+        "label": "Add padding top"
+      },
+      {
+        "type": "checkbox",
+        "id": "margin_bottom",
+        "label": "Add padding bottom"
       }
     ],
     "presets": [
