@@ -1,0 +1,125 @@
+{% style %}
+    .bg-section__wrapper {
+        position: relative;
+    }
+    .bg-section__wrapper {
+        width: 100%;
+    }
+    .bg-section__img {
+        position: absolute;
+        top: 0;
+    }
+    {%- if section.settings.image-left != blank -%}
+        .bg-section__img-left[data-sizes=auto] {
+            left: 0;
+            {%- if section.settings.image_left_width != blank -%}
+                width: {{ section.settings.image_left_width }}%;
+            {%- endif -%}
+            {%- if section.settings.image_left_position != blank -%}
+                transform: translateY({{ section.settings.image_left_position }}%);
+            {%- endif -%}
+        }
+    {%- endif -%}
+    {%- if section.settings.image-right != blank -%}
+        .bg-section__img-right[data-sizes=auto] {
+            right: 0;
+        {%- if section.settings.image_right_width != blank -%}
+                width: {{ section.settings.image_right_width }}%;
+            {%- endif -%}
+            {%- if section.settings.image_right_position != blank -%}
+                transform: translateY({{ section.settings.image_right_position }}%);
+            {%- endif -%}
+        }
+    {%- endif -%}
+
+{% endstyle %}
+
+<section class="bg-section__wrapper">
+    {%- if section.settings.image-left != blank -%}
+        {%- assign img_url = section.settings.image-left | img_url: '1x1' | replace: '_1x1.', '_{width}x.' -%}
+        <img class="bg-section__img bg-section__img-left lazyload"
+             data-src="{{ img_url }}"
+             data-widths="[180, 360, 540, 750, 900, 1080]"
+             data-aspectratio="{{ section.settings.image-left.aspect_ratio }}"
+             data-sizes="auto"
+             alt="{{ section.settings.image-left.alt }}">
+    {%- endif -%}
+    {%- if section.settings.image-right != blank -%}
+        {%- assign img_url = section.settings.image-right | img_url: '1x1' | replace: '_1x1.', '_{width}x.' -%}
+        <img class="bg-section__img bg-section__img-right lazyload"
+             data-src="{{ img_url }}"
+             data-widths="[180, 360, 540, 750, 900, 1080]"
+             data-aspectratio="{{ section.settings.image-right.aspect_ratio }}"
+             data-sizes="auto"
+             alt="{{ section.settings.image-right.alt }}">
+    {%- endif -%}
+</section>
+{% schema %}
+  {
+    "name": "Background image",
+    "class": "bg-section",
+    "settings": [
+        {
+            "type": "header",
+            "content": "Image left"
+        },
+        {
+            "type": "image_picker",
+            "id": "image-left",
+            "label": "Adding image"
+        },
+        {
+            "type": "range",
+            "id": "image_left_width",
+            "label": "Image width",
+            "default": 50,
+            "min": 0,
+            "max": 100,
+            "step": 1,
+            "unit": "%"
+        },
+        {
+            "type": "range",
+            "id": "image_left_position",
+            "label": "Image position",
+            "default": 50,
+            "min": 0,
+            "max": 100,
+            "step": 1,
+            "unit": "%"
+        },
+        {
+            "type": "header",
+            "content": "Image right"
+        },
+        {
+            "type": "image_picker",
+            "id": "image-right",
+            "label": "Adding image"
+        },
+        {
+            "type": "range",
+            "id": "image_right_width",
+            "label": "Image position",
+            "default": 50,
+            "min": 0,
+            "max": 100,
+            "step": 1,
+            "unit": "%"
+        },
+        {
+            "type": "range",
+            "id": "image_right_position",
+            "label": "Image position",
+            "default": 50,
+            "min": 0,
+            "max": 100,
+            "step": 1,
+            "unit": "%"
+        }
+    ],
+    "presets": [{
+    "name": "Background image"
+    }]
+  }
+{% endschema %}
