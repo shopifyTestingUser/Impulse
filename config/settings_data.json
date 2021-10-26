@@ -80,7 +80,7 @@
     "social_spotify_link": "\/",
     "search_type": "product,article,page,collection",
     "predictive_image_size": "square",
-    "show_breadcrumbs": false,
+    "show_breadcrumbs": true,
     "checkout_logo_position": "left",
     "checkout_logo_size": "small",
     "checkout_body_background_color": "#ffffff",

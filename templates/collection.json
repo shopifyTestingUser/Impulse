@@ -43,52 +43,6 @@
         "parallax": true
       }
     },
-    "163482129947cdb0c4": {
-      "type": "announcement-bar",
-      "settings": {
-        "text": "<p>Join the LHM family! Visit our cozy salon to get the expert hair care<\/p>",
-        "margin_top": false,
-        "margin_bottom": false
-      }
-    },
-    "promo-grid": {
-      "type": "promo-grid",
-      "blocks": {
-        "advanced": {
-          "type": "advanced",
-          "settings": {
-            "subheading": "special offer",
-            "heading": "Banner with products",
-            "textarea": "",
-            "cta_text1": "",
-            "cta_link1": "",
-            "cta_text2": "",
-            "cta_link2": "",
-            "image": "shopify:\/\/shop_images\/banner_2.png",
-            "video_url": "",
-            "width": "100",
-            "height": 500,
-            "text_size": 120,
-            "width_content": 100,
-            "text_align": "vertical-bottom horizontal-left",
-            "focal_point": "center",
-            "color_accent": "rgba(0,0,0,0)",
-            "boxed": false,
-            "framed": false
-          }
-        }
-      },
-      "block_order": [
-        "advanced"
-      ],
-      "settings": {
-        "full_width": false,
-        "gutter_size": 20,
-        "space_above": true,
-        "space_below": false,
-        "color_text": "second"
-      }
-    },
     "main-collection": {
       "type": "main-collection",
       "blocks": {
@@ -177,8 +131,6 @@
   "order": [
     "16348213224d14a06f",
     "collection-header",
-    "163482129947cdb0c4",
-    "promo-grid",
     "main-collection",
     "16348220647cb5840c"
   ]
