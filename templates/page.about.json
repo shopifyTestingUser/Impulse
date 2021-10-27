@@ -179,6 +179,16 @@
         "autoplay_speed": 5
       }
     },
+    "1635325962e65543a7": {
+      "type": "background-image",
+      "settings": {
+        "image-left": "shopify:\/\/shop_images\/about_us_image_3.png",
+        "image_left_width": 100,
+        "image_left_position": 50,
+        "image_right_width": 100,
+        "image_right_position": 50
+      }
+    },
     "16348255004218c457": {
       "type": "rich-text",
       "blocks": {
@@ -212,6 +222,7 @@
     "1634825297d0948712",
     "163490834132526263",
     "16348253938dde6455",
+    "1635325962e65543a7",
     "16348255004218c457"
   ]
 }
