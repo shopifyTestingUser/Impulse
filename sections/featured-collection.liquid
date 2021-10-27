@@ -1,6 +1,8 @@
 {% style %}
-  .grid--{{ section.id }} > div:nth-child(-n + {{ section.settings.per_row }}){
-    margin-top: 0;
+  @media (min-width: 769px) {
+    .grid--{{ section.id }} > div:nth-child(-n + {{ section.settings.per_row }}){
+      margin-top: 0;
+    }
   }
 {%endstyle%}
 
@@ -17,9 +19,9 @@
   {%- if section.settings.title != blank -%}
     <div class="page-width">
       <div class="section-header{% if section.settings.view_all %}{% unless settings.type_headers_align_text %} section-header--with-link{% endunless %}{% endif %}">
-        <h2 class="section-header__title">
+        <h3 class="section-header__title">
           {{ section.settings.title }}
-        </h2>
+        </h3>
         {%- if section.settings.view_all and section.settings.rows == 1 -%}
           <a href="{{ collections[section.settings.home_featured_products].url }}" class="btn btn--secondary btn--small section-header__link">{{ 'collections.general.all_of_collection' | t }}</a>
         {%- endif -%}
@@ -39,11 +41,11 @@
             when 2
               assign grid_item_width = 'medium-up--one-half'
             when 3
-              assign grid_item_width = 'small--one-half medium-up--one-third'
+              assign grid_item_width = 'medium-up--one-third'
             when 4
-              assign grid_item_width = 'small--one-half medium-up--one-quarter'
+              assign grid_item_width = 'medium-up--one-quarter'
             when 5
-              assign grid_item_width = 'small--one-half medium-up--one-fifth'
+              assign grid_item_width = 'medium-up--one-fifth'
           endcase
         -%}
 
