@@ -15,13 +15,12 @@
     line-height: {{ settings.type_base_line_height }};
   }
   .listen-more__content-buttons--{{ section.id }} {
-    width: 100%;
+    display: flex;
   }
-  @media(min-width: 769px){
+  @media(max-width: 768px){
     .listen-more__content-buttons--{{ section.id }} {
-      display: flex;
-      flex-direction: row;
-      width: unset;
+      flex-direction: column;
+      width: 100%;
     }
   }
 
