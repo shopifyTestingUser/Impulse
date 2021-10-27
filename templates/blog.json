@@ -80,6 +80,17 @@
         "blog_image_size": "wide"
       }
     },
+    "16353480858d1632c8": {
+      "type": "background-image",
+      "settings": {
+        "image-left": "shopify:\/\/shop_images\/decor_home_6_1.png",
+        "image_left_width": 20,
+        "image_left_position": 0,
+        "image-right": "shopify:\/\/shop_images\/decor_salon_2.png",
+        "image_right_width": 20,
+        "image_right_position": 0
+      }
+    },
     "163482061896fc3932": {
       "type": "faq",
       "blocks": {
@@ -112,6 +123,7 @@
     "1635348072363ebd4d",
     "1634820519c1e44c71",
     "main",
+    "16353480858d1632c8",
     "163482061896fc3932"
   ]
 }
