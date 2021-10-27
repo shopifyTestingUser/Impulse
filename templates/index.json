@@ -30,7 +30,9 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "title": ""
+            "title": "",
+            "image_width": 50,
+            "image_position": 50
           }
         },
         "text": {
@@ -113,6 +115,17 @@
         "space_above": false,
         "space_below": true,
         "color_text": "main"
+      }
+    },
+    "1635324531ff360720": {
+      "type": "background-image",
+      "settings": {
+        "image-left": "shopify:\/\/shop_images\/1.png",
+        "image_left_width": 30,
+        "image_left_position": 11,
+        "image-right": "shopify:\/\/shop_images\/decor_home_2.png",
+        "image_right_width": 40,
+        "image_right_position": 0
       }
     },
     "16345470819de01f0b": {
@@ -342,7 +355,9 @@
         "1634220966d1ce4e28-0": {
           "type": "heading",
           "settings": {
-            "title": "Be a part of LHM family"
+            "title": "Be a part of LHM family",
+            "image_width": 50,
+            "image_position": 50
           }
         },
         "1634220966d1ce4e28-1": {
@@ -412,7 +427,6 @@
       "type": "map",
       "settings": {
         "map_title": "Contacts",
-        "font_size": 48,
         "address": "<p>301 Front St W Toronto, <br\/>Canada<\/p><p>Mon - Fri, 8:30am - 10:30pm<br\/>Saturday, 8:30am - 10:30pm<br\/>Sunday, 8:30am - 10:30pm<\/p>",
         "map_address": "301 Front St W, Toronto, ON M5V 2T6",
         "api_key": "",
@@ -427,6 +441,7 @@
     "16342858496dc05777",
     "rich-text",
     "promo-grid",
+    "1635324531ff360720",
     "16345470819de01f0b",
     "1634914413444a0acc",
     "promo-grid2",
