@@ -6410,6 +6410,7 @@ input[type=image]{
 
 .index-section{
   margin:40px 0;
+  position: relative;
 }
 
 .index-section--small{
@@ -11643,4 +11644,15 @@ html[dir=rtl] .product-single__meta .rte{
   .grid--space-bottom{
     margin-bottom:75px
   }
+}
+
+.bg-section__wrapper {
+    position: relative;
+    width: 100%;
+    z-index: auto;
+}
+.bg-section__wrapper .bg-section__img {
+    position: absolute;
+    top: 0;
+    z-index: auto;
 }

@@ -2,8 +2,8 @@
 /.idea/Impulse.iml
 /.idea/modules.xml
 /.idea/vcs.xml
-!/assets/theme.css
-!/config/
+/assets/theme.css
+/config/
 .tmp/*
 .bundle/*
 .DS_Store

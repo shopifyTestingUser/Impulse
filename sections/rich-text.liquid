@@ -12,6 +12,35 @@
         {%- when 'subheading' -%}
           <span class="rich-text__header h2 rte-custom">{{ block.settings.subtitle | escape }}</span>
         {%- when 'heading' -%}
+          {%- if block.settings.image != blank -%}
+            {% style %}
+              .rich-text-wrapper--{{ section.id }} .theme-block {
+                position: relative;
+              }
+              .rich-text-wrapper--{{ section.id }} .rich-text__subheader {
+                position: relative;
+              }
+              .rich-text-wrapper--{{ section.id }} .bg-section__img {
+                position: absolute;
+                top: 0;
+                object-fit: contain;
+                {%- if block.settings.image_width != blank -%}
+                  width: {{ block.settings.image_width }}%;
+                {%- endif -%}
+                {%- if block.settings.image_position != blank -%}
+                  left: {{ block.settings.image_position }}%;
+                {%- endif -%}
+              }
+            {% endstyle %}
+
+            {%- assign img_url = block.settings.image | img_url: '1x1' | replace: '_1x1.', '_{width}x.' -%}
+            <img class="bg-section__img lazyload"
+                 data-src="{{ img_url }}"
+                 data-widths="[180, 360, 540, 750, 900, 1080]"
+                 data-aspectratio="{{ block.settings.image.aspect_ratio }}"
+                 data-sizes="auto"
+                 alt="{{ block.settings.image.alt }}">
+          {%- endif -%}
           <h2 class="rich-text__subheader">{{ block.settings.title | escape }}</h2>
         {%- when 'page' -%}
           <div class="rte">
@@ -104,6 +133,35 @@
             "id": "title",
             "label": "Heading",
             "default": "Rich text"
+          },
+          {
+            "type": "header",
+            "content": "Background image"
+            },
+          {
+            "type": "image_picker",
+            "id": "image",
+            "label": "Adding image"
+          },
+          {
+            "type": "range",
+            "id": "image_width",
+            "label": "Image width",
+            "default": 50,
+            "min": 0,
+            "max": 100,
+            "step": 1,
+            "unit": "%"
+          },
+          {
+            "type": "range",
+            "id": "image_position",
+            "label": "Image position",
+            "default": 50,
+            "min": 0,
+            "max": 100,
+            "step": 1,
+            "unit": "%"
           }
         ]
       },
