@@ -361,10 +361,10 @@
       "type": "background-image",
       "settings": {
         "image-left": "shopify:\/\/shop_images\/decor_home_6_1.png",
-        "image_left_width": 21,
-        "image_left_position": 26,
-        "image_right_width": 20,
-        "image_right_position": 0
+        "image_left_width": 18,
+        "image_left_position": 31,
+        "image_right_width": 100,
+        "image_right_position": 100
       }
     },
     "16349080873877e43b": {
