@@ -16,7 +16,7 @@
             "link_text_2": "",
             "color_accent": "#f8e6d4",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/the_1st_image_for_slider_1.png",
+            "image": "shopify:\/\/shop_images\/the_1st_image_for_slider.png",
             "overlay_opacity": 0,
             "focal_point": "center center"
           }
@@ -25,15 +25,16 @@
           "type": "image",
           "settings": {
             "top_subheading": "",
-            "title": "Two line\ntitle slide.",
-            "title_size": 80,
-            "subheading": "And big, beautiful imagery",
+            "title": "Welcome \nto the salon",
+            "title_size": 64,
+            "subheading": "",
             "link": "",
             "link_text": "Optional button",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/the_2nd_image_for_slider.png",
             "overlay_opacity": 0,
             "focal_point": "center center"
           }
@@ -179,7 +180,7 @@
       ],
       "settings": {
         "title": "",
-        "align_text": "center",
+        "align_text": "left",
         "divider": false
       }
     },
@@ -340,46 +341,46 @@
         "16349080873877e43b-0": {
           "type": "testimonial",
           "settings": {
-            "icon": "5-stars",
-            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
-            "author": "Author's name",
-            "author_info": "Los Angeles, CA"
+            "icon": "none",
+            "testimonial": "<p>Add here a description of your vacancy. Add here a description of your vacancy.<\/p>",
+            "author": "Vacancy",
+            "author_info": "City"
           }
         },
         "16349080873877e43b-1": {
           "type": "testimonial",
           "settings": {
-            "icon": "5-stars",
-            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
-            "author": "Author's name",
-            "author_info": "Los Angeles, CA"
+            "icon": "none",
+            "testimonial": "<p>Add here a description of your vacancy. Add here a description of your vacancy.<\/p>",
+            "author": "Vacancy",
+            "author_info": "City"
           }
         },
         "16349080873877e43b-2": {
           "type": "testimonial",
           "settings": {
-            "icon": "5-stars",
-            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
-            "author": "Author's name",
-            "author_info": "Los Angeles, CA"
+            "icon": "none",
+            "testimonial": "<p>Add here a description of your vacancy. Add here a description of your vacancy.<\/p>",
+            "author": "Vacancy",
+            "author_info": "City"
           }
         },
         "16349080873877e43b-3": {
           "type": "testimonial",
           "settings": {
-            "icon": "5-stars",
-            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
-            "author": "Author's name",
-            "author_info": "Los Angeles, CA"
+            "icon": "none",
+            "testimonial": "<p>Add here a description of your vacancy. Add here a description of your vacancy.<\/p>",
+            "author": "Vacancy",
+            "author_info": "City"
           }
         },
         "16349080873877e43b-4": {
           "type": "testimonial",
           "settings": {
-            "icon": "5-stars",
-            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
-            "author": "Author's name",
-            "author_info": "Los Angeles, CA"
+            "icon": "none",
+            "testimonial": "<p>Add here a description of your vacancy. Add here a description of your vacancy.<\/p>",
+            "author": "Vacancy",
+            "author_info": "City"
           }
         }
       },

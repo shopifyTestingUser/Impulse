@@ -59,7 +59,7 @@
       "settings": {
         "blog_show_tag_filter": false,
         "blog_show_rss": false,
-        "blog_has_title": false,
+        "blog_has_title": true,
         "blog_show_tags": false,
         "blog_show_date": false,
         "blog_show_comments": false,
