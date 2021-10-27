@@ -131,6 +131,7 @@
         "button_style": "primary",
         "align_text": "left",
         "layout": "left",
+        "text_image_bg": "shopify:\/\/shop_images\/decor_salon_2.png",
         "divider": false,
         "margin_top": false,
         "margin_bottom": false
@@ -490,6 +491,15 @@
         "show_phone": false,
         "narrow_column": true
       }
+    },
+    "16353379449714c0e2": {
+      "type": "background-image",
+      "settings": {
+        "image_left_width": 20,
+        "image_left_position": 0,
+        "image_right_width": 20,
+        "image_right_position": 0
+      }
     }
   },
   "order": [
@@ -511,6 +521,7 @@
     "16349080873877e43b",
     "16349081204e24a109",
     "1634908162416e3f0b",
-    "16349081684b16f546"
+    "16349081684b16f546",
+    "16353379449714c0e2"
   ]
 }
