@@ -71,7 +71,7 @@
             "video_url": "",
             "width": "50",
             "height": 680,
-            "text_size": 70,
+            "text_size": 100,
             "width_content": 100,
             "text_align": "vertical-bottom horizontal-center",
             "focal_point": "bottom",
@@ -189,14 +189,14 @@
         "color_text": "main"
       }
     },
-    "1635324676b1c60a4b": {
+    "1635337190cc65ddaf": {
       "type": "background-image",
       "settings": {
-        "image_left_width": 50,
-        "image_left_position": 50,
-        "image-right": "shopify:\/\/shop_images\/IMG_9698.png",
-        "image_right_width": 7,
-        "image_right_position": 50
+        "image-left": "shopify:\/\/shop_images\/decor_home_3.png",
+        "image_left_width": 100,
+        "image_left_position": 19,
+        "image_right_width": 20,
+        "image_right_position": 0
       }
     },
     "promo-grid2": {
@@ -420,6 +420,7 @@
         "map_title": "Contacts",
         "address": "<p>301 Front St W Toronto, <br\/>Canada<\/p><p>Mon - Fri, 8:30am - 10:30pm<br\/>Saturday, 8:30am - 10:30pm<br\/>Sunday, 8:30am - 10:30pm<\/p>",
         "map_address": "301 Front St W, Toronto, ON M5V 2T6",
+        "map_iframe": "",
         "api_key": "",
         "show_button": false,
         "background_image": "shopify:\/\/shop_images\/Rectangle.png",
@@ -435,7 +436,7 @@
     "1635324531ff360720",
     "16345470819de01f0b",
     "1634914413444a0acc",
-    "1635324676b1c60a4b",
+    "1635337190cc65ddaf",
     "promo-grid2",
     "163454067579e18513",
     "1635324918275a11f0",
