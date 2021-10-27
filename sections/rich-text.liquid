@@ -2,6 +2,21 @@
   .rich-text-wrapper--{{ section.id }} .theme-block:first-of-type{
     margin-bottom: 0
   }
+  .rich-text-wrapper--{{ section.id }} .rich-text__subheader {
+    position: relative;
+    margin-bottom: 20px;
+  }
+  .rich-text-wrapper--{{ section.id }} .bg-section__img {
+    position: absolute;
+    top: 0;
+    object-fit: contain;
+  {%- if block.settings.image_width != blank -%}
+    width: {{ block.settings.image_width }}%;
+  {%- endif -%}
+  {%- if block.settings.image_position != blank -%}
+    left: {{ block.settings.image_position }}%;
+  {%- endif -%}
+  }
 {% endstyle %}
 {%- if section.settings.divider -%}<div class="section--divider">{%- endif -%}
 
@@ -15,26 +30,6 @@
           <span class="rich-text__header h2 rte-custom">{{ block.settings.subtitle | escape }}</span>
         {%- when 'heading' -%}
           {%- if block.settings.image != blank -%}
-            {% style %}
-              .rich-text-wrapper--{{ section.id }} .theme-block {
-                position: relative;
-              }
-              .rich-text-wrapper--{{ section.id }} .rich-text__subheader {
-                position: relative;
-              }
-              .rich-text-wrapper--{{ section.id }} .bg-section__img {
-                position: absolute;
-                top: 0;
-                object-fit: contain;
-                {%- if block.settings.image_width != blank -%}
-                  width: {{ block.settings.image_width }}%;
-                {%- endif -%}
-                {%- if block.settings.image_position != blank -%}
-                  left: {{ block.settings.image_position }}%;
-                {%- endif -%}
-              }
-            {% endstyle %}
-
             {%- assign img_url = block.settings.image | img_url: '1x1' | replace: '_1x1.', '_{width}x.' -%}
             <img class="bg-section__img lazyload"
                  data-src="{{ img_url }}"
