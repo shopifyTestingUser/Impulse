@@ -121,10 +121,10 @@
       "type": "background-image",
       "settings": {
         "image-left": "shopify:\/\/shop_images\/1.png",
-        "image_left_width": 30,
+        "image_left_width": 15,
         "image_left_position": 11,
         "image-right": "shopify:\/\/shop_images\/decor_home_2.png",
-        "image_right_width": 40,
+        "image_right_width": 30,
         "image_right_position": 0
       }
     },
@@ -187,6 +187,16 @@
         "space_above": false,
         "space_below": false,
         "color_text": "main"
+      }
+    },
+    "1635324676b1c60a4b": {
+      "type": "background-image",
+      "settings": {
+        "image_left_width": 50,
+        "image_left_position": 50,
+        "image-right": "shopify:\/\/shop_images\/IMG_9698.png",
+        "image_right_width": 7,
+        "image_right_position": 50
       }
     },
     "promo-grid2": {
@@ -444,6 +454,7 @@
     "1635324531ff360720",
     "16345470819de01f0b",
     "1634914413444a0acc",
+    "1635324676b1c60a4b",
     "promo-grid2",
     "163454067579e18513",
     "163456592274a2a708",
