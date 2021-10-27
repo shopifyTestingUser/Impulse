@@ -237,6 +237,15 @@
         "color_text": "second"
       }
     },
+    "1635337190cc65ddaf": {
+      "type": "background-image",
+      "settings": {
+        "image_left_width": 20,
+        "image_left_position": 0,
+        "image_right_width": 20,
+        "image_right_position": 0
+      }
+    },
     "163454067579e18513": {
       "type": "text-columns",
       "blocks": {
@@ -438,6 +447,7 @@
     "1634914413444a0acc",
     "1635324676b1c60a4b",
     "promo-grid2",
+    "1635337190cc65ddaf",
     "163454067579e18513",
     "1635324918275a11f0",
     "163456592274a2a708",
