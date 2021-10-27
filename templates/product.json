@@ -1,5 +1,15 @@
 {
   "sections": {
+    "16353484310285ef66": {
+      "type": "background-image",
+      "settings": {
+        "image-left": "shopify:\/\/shop_images\/decor_salon_5.png",
+        "image_left_width": 20,
+        "image_left_position": 100,
+        "image_right_width": 20,
+        "image_right_position": 0
+      }
+    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -138,11 +148,14 @@
         "fixed_height": false,
         "height": 300,
         "margin_top": true,
-        "margin_bottom": true
+        "margin_bottom": true,
+        "image_width": 50,
+        "image_position": 50
       }
     }
   },
   "order": [
+    "16353484310285ef66",
     "main",
     "sub",
     "product-recommendations",
