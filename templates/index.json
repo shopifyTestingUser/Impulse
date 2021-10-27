@@ -30,7 +30,9 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "title": ""
+            "title": "",
+            "image_width": 50,
+            "image_position": 50
           }
         },
         "text": {
@@ -115,6 +117,17 @@
         "color_text": "main"
       }
     },
+    "1635324531ff360720": {
+      "type": "background-image",
+      "settings": {
+        "image-left": "shopify:\/\/shop_images\/1.png",
+        "image_left_width": 15,
+        "image_left_position": 11,
+        "image-right": "shopify:\/\/shop_images\/decor_home_2.png",
+        "image_right_width": 30,
+        "image_right_position": 0
+      }
+    },
     "16345470819de01f0b": {
       "type": "featured-collection",
       "settings": {
@@ -174,6 +187,16 @@
         "space_above": false,
         "space_below": false,
         "color_text": "main"
+      }
+    },
+    "1635324676b1c60a4b": {
+      "type": "background-image",
+      "settings": {
+        "image_left_width": 50,
+        "image_left_position": 50,
+        "image-right": "shopify:\/\/shop_images\/IMG_9698.png",
+        "image_right_width": 7,
+        "image_right_position": 50
       }
     },
     "promo-grid2": {
@@ -265,6 +288,17 @@
         "divider": false
       }
     },
+    "1635324918275a11f0": {
+      "type": "background-image",
+      "settings": {
+        "image-left": "shopify:\/\/shop_images\/decor_home_4.png",
+        "image_left_width": 42,
+        "image_left_position": 70,
+        "image-right": "shopify:\/\/shop_images\/decor_home_5.png",
+        "image_right_width": 11,
+        "image_right_position": 4
+      }
+    },
     "163456592274a2a708": {
       "type": "title-with-instagram",
       "settings": {
@@ -294,55 +328,16 @@
         "space_around": true
       }
     },
-    "1634221283617c7d01": {
-      "type": "promo-grid",
-      "disabled": true,
-      "blocks": {
-        "9af2c52a-7b9c-47a7-8dac-6e5dfe3a5fa4": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/langhaarmaedchen_172924029_203011817995695_588333778872068653_n_1.png",
-            "link": "",
-            "width": "33"
-          }
-        },
-        "de34e03f-d06f-4dc9-bd3e-fb5efa423741": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/langhaarmaedchen_242213492_582162596250537_5666823319806348994_n_1.png",
-            "link": "",
-            "width": "33"
-          }
-        },
-        "63bb705f-43c1-48aa-91ec-3bea08a45e43": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/langhaarmaedchen_240821307_133636738979486_7818150166621372249_n_1.png",
-            "link": "",
-            "width": "33"
-          }
-        }
-      },
-      "block_order": [
-        "9af2c52a-7b9c-47a7-8dac-6e5dfe3a5fa4",
-        "de34e03f-d06f-4dc9-bd3e-fb5efa423741",
-        "63bb705f-43c1-48aa-91ec-3bea08a45e43"
-      ],
-      "settings": {
-        "full_width": false,
-        "gutter_size": 0,
-        "space_above": false,
-        "space_below": true,
-        "color_text": "main"
-      }
-    },
     "1634220966d1ce4e28": {
       "type": "rich-text",
       "blocks": {
         "1634220966d1ce4e28-0": {
           "type": "heading",
           "settings": {
-            "title": "Be a part of LHM family"
+            "title": "Be a part of LHM family",
+            "image": "shopify:\/\/shop_images\/Vector.png",
+            "image_width": 32,
+            "image_position": 61
           }
         },
         "1634220966d1ce4e28-1": {
@@ -381,6 +376,17 @@
         "margin_bottom": false
       }
     },
+    "1635325283a370760b": {
+      "type": "background-image",
+      "settings": {
+        "image-left": "shopify:\/\/shop_images\/decor_salon_1_17a622e0-7ec2-4d49-9b73-4ea7f38c4b76.png",
+        "image_left_width": 7,
+        "image_left_position": 100,
+        "image-right": "shopify:\/\/shop_images\/decor_home_8.png",
+        "image_right_width": 38,
+        "image_right_position": 0
+      }
+    },
     "blog-posts": {
       "type": "blog-posts",
       "settings": {
@@ -412,7 +418,6 @@
       "type": "map",
       "settings": {
         "map_title": "Contacts",
-        "font_size": 48,
         "address": "<p>301 Front St W Toronto, <br\/>Canada<\/p><p>Mon - Fri, 8:30am - 10:30pm<br\/>Saturday, 8:30am - 10:30pm<br\/>Sunday, 8:30am - 10:30pm<\/p>",
         "map_address": "301 Front St W, Toronto, ON M5V 2T6",
         "api_key": "",
@@ -427,15 +432,18 @@
     "16342858496dc05777",
     "rich-text",
     "promo-grid",
+    "1635324531ff360720",
     "16345470819de01f0b",
     "1634914413444a0acc",
+    "1635324676b1c60a4b",
     "promo-grid2",
     "163454067579e18513",
+    "1635324918275a11f0",
     "163456592274a2a708",
     "16352358192ec4b529",
-    "1634221283617c7d01",
     "1634220966d1ce4e28",
     "background-image-text",
+    "1635325283a370760b",
     "blog-posts",
     "1634220823e34085fd",
     "map"

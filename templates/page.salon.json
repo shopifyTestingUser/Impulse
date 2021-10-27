@@ -66,7 +66,10 @@
         "163490746248b9e19e-0": {
           "type": "heading",
           "settings": {
-            "title": "Our services"
+            "title": "Our services",
+            "image": "shopify:\/\/shop_images\/Vector.png",
+            "image_width": 100,
+            "image_position": 0
           }
         },
         "163490746248b9e19e-1": {
@@ -131,6 +134,16 @@
         "divider": false,
         "margin_top": false,
         "margin_bottom": false
+      }
+    },
+    "16353267820d2b0e1e": {
+      "type": "background-image",
+      "settings": {
+        "image_left_width": 50,
+        "image_left_position": 50,
+        "image-right": "shopify:\/\/shop_images\/IMG_9698.png",
+        "image_right_width": 10,
+        "image_right_position": 100
       }
     },
     "16349076903b384634": {
@@ -217,7 +230,9 @@
         "16349078470f63730c-0": {
           "type": "heading",
           "settings": {
-            "title": "Meet our team"
+            "title": "Meet our team",
+            "image_width": 50,
+            "image_position": 50
           }
         }
       },
@@ -430,7 +445,9 @@
         "1634908162416e3f0b-0": {
           "type": "heading",
           "settings": {
-            "title": "To help you"
+            "title": "To help you",
+            "image_width": 50,
+            "image_position": 50
           }
         },
         "3be373b2-4e8e-434d-95a4-3f3522e79847": {
@@ -475,6 +492,7 @@
     "163490746248b9e19e",
     "16349074948fa012fe",
     "1634907540ba6957b3",
+    "16353267820d2b0e1e",
     "16349076903b384634",
     "16349077831e0c599d",
     "16349078470f63730c",
