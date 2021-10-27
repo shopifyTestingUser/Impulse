@@ -317,48 +317,6 @@
         "space_around": true
       }
     },
-    "1634221283617c7d01": {
-      "type": "promo-grid",
-      "disabled": true,
-      "blocks": {
-        "9af2c52a-7b9c-47a7-8dac-6e5dfe3a5fa4": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/langhaarmaedchen_172924029_203011817995695_588333778872068653_n_1.png",
-            "link": "",
-            "width": "33"
-          }
-        },
-        "de34e03f-d06f-4dc9-bd3e-fb5efa423741": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/langhaarmaedchen_242213492_582162596250537_5666823319806348994_n_1.png",
-            "link": "",
-            "width": "33"
-          }
-        },
-        "63bb705f-43c1-48aa-91ec-3bea08a45e43": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/langhaarmaedchen_240821307_133636738979486_7818150166621372249_n_1.png",
-            "link": "",
-            "width": "33"
-          }
-        }
-      },
-      "block_order": [
-        "9af2c52a-7b9c-47a7-8dac-6e5dfe3a5fa4",
-        "de34e03f-d06f-4dc9-bd3e-fb5efa423741",
-        "63bb705f-43c1-48aa-91ec-3bea08a45e43"
-      ],
-      "settings": {
-        "full_width": false,
-        "gutter_size": 0,
-        "space_above": false,
-        "space_below": true,
-        "color_text": "main"
-      }
-    },
     "1634220966d1ce4e28": {
       "type": "rich-text",
       "blocks": {
@@ -366,8 +324,9 @@
           "type": "heading",
           "settings": {
             "title": "Be a part of LHM family",
-            "image_width": 50,
-            "image_position": 50
+            "image": "shopify:\/\/shop_images\/Vector.png",
+            "image_width": 32,
+            "image_position": 61
           }
         },
         "1634220966d1ce4e28-1": {
@@ -459,7 +418,6 @@
     "163454067579e18513",
     "163456592274a2a708",
     "16352358192ec4b529",
-    "1634221283617c7d01",
     "1634220966d1ce4e28",
     "background-image-text",
     "blog-posts",
