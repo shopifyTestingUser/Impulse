@@ -1323,7 +1323,7 @@ body{
 }
 
 p{
-  margin:0 0 15px 0
+  margin:0 0 40px 0
 }
 
 p img{
@@ -1438,24 +1438,22 @@ label{
 }
 
 .h2,h2{
-  font-size:calc(var(--typeHeaderSize)*0.62);
+  font-size:calc(var(--typeHeaderSize)*0.5);
     margin-bottom: 40px;
 }
 
 .h3,h3{
-  font-size:calc(var(--typeHeaderSize)*0.45);
+  font-size:calc(var(--typeHeaderSize)*0.5);
   margin-bottom: 30px;
 }
 
 @media only screen and (min-width:769px){
   .h1,h1{
     font-size:var(--typeHeaderSize);
-    margin-bottom: 32px;
   }
 
   .h2,h2{
     font-size:calc(var(--typeHeaderSize)*0.75);
-    margin-bottom: 32px;
   }
 
   .h3,h3{
@@ -1488,7 +1486,7 @@ label{
 }
 
 .text-spacing,.text-spacing.rte:last-child{
-  margin-bottom:15px;
+  margin-bottom:40px;
 }
 
 @media only screen and (max-width:768px){
@@ -2018,9 +2016,8 @@ button[disabled],html input[disabled]{
 
 .btn--full{
   width:100%;
-  padding:11px 20px;
   transition:none;
-  padding:13px 20px
+  padding:16px 36px
 }
 
 [data-button_style=angled] .btn--full{
@@ -2253,37 +2250,13 @@ button[disabled],html input[disabled]{
   min-height:50px;
   width: 100%;
   border-radius: 50px;
+  display: flex;
 }
 .product-single__form > .payment-buttons > *{
   margin-bottom: 10px;
 }
-
-@media (min-width: 577px) {
-  .payment-buttons{
-    display: flex;
-    flex-direction: row-reverse;
-    justify-content: space-between;
-  }
-  .product-single__form > .payment-buttons > *{
-    margin-right: 10px;
-  }
-}
-@media (min-width: 769px) {
-  .payment-buttons{
-    flex-direction: column;
-    justify-content: start;
-  }
-}
-@media (min-width: 1500px) {
-  .payment-buttons{
-    flex-direction: row-reverse;
-    justify-content: start;
-  }
-  .product-single__form > .payment-buttons > *{
-    margin-right: 10px;
-    min-width: 48%;
-    max-width: 48%
-  }
+.shopify-payment-button > div{
+  width: 100%;
 }
 .add-to-cart.btn--secondary{
   border:1px solid;
@@ -11619,6 +11592,9 @@ html[dir=rtl] .product-single__meta .rte{
     }
 }
 .shopify-payment-button button.shopify-payment-button__button--unbranded, p.btn,button.btn, a.btn{
+  display: flex;
+  justify-content: center;
+  align-items: center;
   letter-spacing: 0 !important;
   background: var(--colorBtnPrimary) !important;
   color: var(--colorBtnPrimaryText) !important;

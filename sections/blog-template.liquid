@@ -2,11 +2,12 @@
 
 <div data-section-id="{{ section.id }}" data-section-type="blog">
   <div class="page-width">
-
-    {%- render 'breadcrumbs' -%}
+    {% if section.settings.blog_show_breadcrumbs == true %}
+      {%- render 'breadcrumbs' -%}
+    {% endif %}
 
     <header class="section-header{% if section.settings.blog_show_tag_filter and blog.tags.size > 0 %}{% unless settings.type_headers_align_text %} section-header--with-link{% endunless %}{% endif %}">
-      <h1 class="section-header__title">
+      <h3 class="section-header__title">
         {% if section.settings.blog_has_title %}
           {{ blog.title }}
         {% endif %}
@@ -16,7 +17,7 @@
             <span class="icon__fallback-text">RSS</span>
           </a>
         {%- endif -%}
-      </h1>
+      </h3>
 
       {%- if section.settings.blog_show_tag_filter and blog.tags.size > 0 -%}
         <select id="BlogTagFilter">
@@ -55,8 +56,13 @@
       },
       {
         "type": "checkbox",
-        "id": "blog_show_rss",
-        "label": "Show RSS link"
+        "id": "blog_show_breadcrumbs",
+        "label": "Show breadcrumbs"
+      },
+      {
+      "type": "checkbox",
+      "id": "blog_show_rss",
+      "label": "Show RSS link"
       },
       {
         "type": "checkbox",
