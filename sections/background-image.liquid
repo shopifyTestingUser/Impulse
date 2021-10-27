@@ -1,12 +1,5 @@
 {% style %}
-    .bg-section__wrapper-{{ section.id }} {
-        position: relative;
-        width: 100%;
-    }
-    .bg-section__wrapper-{{ section.id }} .bg-section__img {
-        position: absolute;
-        top: 0;
-    }
+
     {%- if section.settings.image-left != blank -%}
         .bg-section__img-left-{{ section.id }}[data-sizes=auto] {
             left: 0;
