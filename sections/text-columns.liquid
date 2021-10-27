@@ -1,3 +1,12 @@
+{% style %}
+  @media (max-width: 768px) {
+    .grid__item--{{ section.id }}{
+      margin-bottom: 40px !important;
+    }
+  }
+
+{% endstyle %}
+
 {%- if section.settings.divider -%}<div class="section--divider">{%- endif -%}
 
 <div class="page-width">
@@ -25,7 +34,7 @@
       {%- else -%}
         {%- assign column_width = grid_item_width -%}
       {%- endif -%}
-      <div class="grid__item {{ column_width }} text-{{ section.settings.align_text }}" {{ block.shopify_attributes }} data-aos="row-of-3">
+      <div class="grid__item grid__item--{{ section.id }} {{ column_width }} text-{{ section.settings.align_text }}" {{ block.shopify_attributes }} data-aos="row-of-3">
         {%- if block.settings.enable_image -%}
           <div style="{% if section.settings.align_text == 'center' %}margin: 0 auto;{% endif %} max-width: {{ block.settings.image_width }}px;">
             {%- if block.settings.button_link != blank -%}

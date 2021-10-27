@@ -17,7 +17,15 @@
     assign display_map = true
   endif
 -%}
-
+{% style %}
+  .map-section--{{ section.id }} iframe{
+    position: absolute;
+    border: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+  }
+{% endstyle %}
 {% if bg_image.src != blank %}
   {%- unless display_map -%}
     {%- style -%}
@@ -36,8 +44,7 @@
     {%- endstyle -%}
   {%- endunless -%}
 {% endif %}
-
-<div class="map-section" data-section-id="{{ section.id }}" data-section-type="map" data-aos="map-section__animation">
+<div class="map-section map-section--{{ section.id }}" data-section-id="{{ section.id }}" data-section-type="map" data-aos="map-section__animation">
   {%- if section.settings.title != blank or section.settings.address != blank -%}
     <div class="map-section__overlay-wrapper">
       <div class="animation-cropper">
@@ -57,18 +64,23 @@
       </div>
     </div>
   {%- endif -%}
-  <a class="map-section__link" href="https://www.google.com/maps/place/{{ section.settings.map_address | escape }}" target="_blank" rel="noopener" aria-label="{{ section.settings.map_address | escape }}"></a>
-  {%- if onboarding -%}
-    <div class="map-onboarding">
-      {{ 'lifestyle-1' | placeholder_svg_tag: 'placeholder-svg' }}
-    </div>
-  {%- endif -%}
-  <div
-    id="Map-{{ section.id }}"
-    data-map
-    class="map-section__container map-{{ section.id }}"
-    data-address-setting="{{ section.settings.map_address | escape }}"
-    data-api-key="{{ section.settings.api_key }}"></div>
+
+  {% if section.settings.map_iframe !=blank %}
+    {{ section.settings.map_iframe }}
+  {% else %}
+    <a class="map-section__link" href="https://www.google.com/maps/place/{{ section.settings.map_address | escape }}" target="_blank" rel="noopener" aria-label="{{ section.settings.map_address | escape }}"></a>
+    {%- if onboarding -%}
+      <div class="map-onboarding">
+        {{ 'lifestyle-1' | placeholder_svg_tag: 'placeholder-svg' }}
+      </div>
+    {%- endif -%}
+    <div
+        id="Map-{{ section.id }}"
+        data-map
+        class="map-section__container map-{{ section.id }}"
+        data-address-setting="{{ section.settings.map_address | escape }}"
+        data-api-key="{{ section.settings.api_key }}"></div>
+  {% endif %}
 </div>
 
 {% schema %}
@@ -94,6 +106,11 @@
         "label": "Map address",
         "info": "Google maps will find the exact location",
         "default": "301 Front St W, Toronto, ON M5V 2T6"
+      },
+      {
+        "type": "html",
+        "id": "map_iframe",
+        "label": "Map iframe"
       },
       {
         "id": "api_key",
