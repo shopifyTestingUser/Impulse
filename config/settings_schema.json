@@ -58,18 +58,6 @@
       },
       {
         "type": "color",
-        "id": "color_button",
-        "label": "Buttons",
-        "default": "#1c1d1d"
-      },
-      {
-        "type": "color",
-        "id": "color_button_text",
-        "label": "Button text",
-        "default": "#ffffff"
-      },
-      {
-        "type": "color",
         "id": "color_sale_tag",
         "label": "Sale tags",
         "default": "#1c1d1d"
@@ -97,6 +85,58 @@
         "id": "color_large_image_bg",
         "label": "Image section background",
         "default": "#1c1d1d"
+      },
+      {
+        "type": "header",
+        "content": "Button"
+      },
+      {
+        "type": "color",
+        "id": "color_button",
+        "label": "Buttons",
+        "default": "#1c1d1d"
+      },
+      {
+        "type": "color",
+        "id": "color_button_text",
+        "label": "Button text",
+        "default": "#ffffff"
+      },
+      {
+        "type": "color",
+        "id": "secondary_color_button",
+        "label": "Secondary buttons",
+        "default": "#1c1d1d"
+      },
+      {
+        "type": "color",
+        "id": "secondary_color_button_text",
+        "label": "Secondary button text",
+        "default": "#ffffff"
+      },
+      {
+        "type": "color",
+        "id": "hover_color_button",
+        "label": "Hover buttons",
+        "default": "#1c1d1d"
+      },
+      {
+        "type": "color",
+        "id": "hover_color_button_text",
+        "label": "Hover button text",
+        "default": "#ffffff"
+      },
+      {
+        "type": "color",
+        "id": "hover_secondary_color_button",
+        "label": "Hover secondary buttons",
+        "default": "#1c1d1d"
+      },
+      {
+        "type": "color",
+        "id": "hover_secondary_color_button_text",
+        "label": "Hover secondary button text",
+        "default": "#ffffff"
       },
       {
         "type": "header",
