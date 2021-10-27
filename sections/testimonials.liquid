@@ -2,6 +2,26 @@
   .testimonials-slider__text--{{ section.id }} {
     border: 2px solid #F8E6D4;
   }
+  .section-header--{{ section.id }} {
+    position: relative;
+    margin-bottom: 0px !important;
+  }
+  .section-header--{{ section.id }} .testimonials__header--{{ section.id }} {
+    position: relative;
+    margin-bottom: 20px;
+    line-height: 120%;
+  }
+  .section-header--{{ section.id }} .bg-section__img {
+    position: absolute;
+    top: 0;
+    object-fit: contain;
+  {%- if section.settings.image_width != blank -%}
+    width: {{ section.settings.image_width }}%;
+  {%- endif -%}
+  {%- if section.settings.image_position != blank -%}
+    left: {{ section.settings.image_position }}%;
+  {%- endif -%}
+  }
 }
 {%- endstyle -%}
 
@@ -14,26 +34,6 @@
     <div class="page-width">
       <div class="section-header section-header--{{ section.id }}">
         {%- if section.settings.image != blank -%}
-          {% style %}
-            .section-header--{{ section.id }} {
-              position: relative;
-            }
-            .section-header--{{ section.id }} .testimonials__header--{{ section.id }} {
-              position: relative;
-            }
-            .section-header--{{ section.id }} .bg-section__img {
-              position: absolute;
-              top: 0;
-              object-fit: contain;
-            {%- if section.settings.image_width != blank -%}
-              width: {{ section.settings.image_width }}%;
-            {%- endif -%}
-            {%- if section.settings.image_position != blank -%}
-              left: {{ section.settings.image_position }}%;
-            {%- endif -%}
-            }
-          {% endstyle %}
-
           {%- assign img_url = section.settings.image | img_url: '1x1' | replace: '_1x1.', '_{width}x.' -%}
           <img class="bg-section__img lazyload"
                data-src="{{ img_url }}"
