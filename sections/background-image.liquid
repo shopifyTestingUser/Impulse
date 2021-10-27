@@ -1,16 +1,14 @@
 {% style %}
-    .bg-section__wrapper {
+    .bg-section__wrapper-{{ section.id }} {
         position: relative;
-    }
-    .bg-section__wrapper {
         width: 100%;
     }
-    .bg-section__img {
+    .bg-section__wrapper-{{ section.id }} .bg-section__img {
         position: absolute;
         top: 0;
     }
     {%- if section.settings.image-left != blank -%}
-        .bg-section__img-left[data-sizes=auto] {
+        .bg-section__img-left-{{ section.id }}[data-sizes=auto] {
             left: 0;
             {%- if section.settings.image_left_width != blank -%}
                 width: {{ section.settings.image_left_width }}%;
@@ -21,7 +19,7 @@
         }
     {%- endif -%}
     {%- if section.settings.image-right != blank -%}
-        .bg-section__img-right[data-sizes=auto] {
+        .bg-section__img-right-{{ section.id }}[data-sizes=auto] {
             right: 0;
         {%- if section.settings.image_right_width != blank -%}
                 width: {{ section.settings.image_right_width }}%;
@@ -34,10 +32,10 @@
 
 {% endstyle %}
 
-<section class="bg-section__wrapper">
+<section class="bg-section__wrapper bg-section__wrapper-{{ section.id }}">
     {%- if section.settings.image-left != blank -%}
         {%- assign img_url = section.settings.image-left | img_url: '1x1' | replace: '_1x1.', '_{width}x.' -%}
-        <img class="bg-section__img bg-section__img-left lazyload"
+        <img class="bg-section__img bg-section__img-left-{{ section.id }} lazyload"
              data-src="{{ img_url }}"
              data-widths="[180, 360, 540, 750, 900, 1080]"
              data-aspectratio="{{ section.settings.image-left.aspect_ratio }}"
@@ -46,7 +44,7 @@
     {%- endif -%}
     {%- if section.settings.image-right != blank -%}
         {%- assign img_url = section.settings.image-right | img_url: '1x1' | replace: '_1x1.', '_{width}x.' -%}
-        <img class="bg-section__img bg-section__img-right lazyload"
+        <img class="bg-section__img bg-section__img-right-{{ section.id }} lazyload"
              data-src="{{ img_url }}"
              data-widths="[180, 360, 540, 750, 900, 1080]"
              data-aspectratio="{{ section.settings.image-right.aspect_ratio }}"
