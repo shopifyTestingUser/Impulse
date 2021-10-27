@@ -9,6 +9,8 @@
   {%- for block in section.blocks -%}
     <div class="theme-block" {{ block.shopify_attributes }}>
       {%- case block.type -%}
+        {%- when 'background' -%}
+          {% render 'background-image', section: block %}
         {%- when 'subheading' -%}
           <span class="rich-text__header h2 rte-custom">{{ block.settings.subtitle | escape }}</span>
         {%- when 'heading' -%}
@@ -121,6 +123,70 @@
             "id": "subtitle",
             "label": "Sub Heading",
             "default": "Rich text"
+          }
+        ]
+      },
+      {
+        "type": "background",
+        "name": "Background image",
+        "settings": [
+          {
+            "type": "header",
+            "content": "Image left"
+          },
+          {
+            "type": "image_picker",
+            "id": "image-left",
+            "label": "Adding image"
+          },
+          {
+            "type": "range",
+            "id": "image_left_width",
+            "label": "Image width",
+            "default": 50,
+            "min": 0,
+            "max": 100,
+            "step": 1,
+            "unit": "%"
+          },
+          {
+            "type": "range",
+            "id": "image_left_position",
+            "label": "Image position",
+            "default": 50,
+            "min": 0,
+            "max": 100,
+            "step": 1,
+            "unit": "%"
+          },
+          {
+            "type": "header",
+            "content": "Image right"
+          },
+          {
+            "type": "image_picker",
+            "id": "image-right",
+            "label": "Adding image"
+          },
+          {
+            "type": "range",
+            "id": "image_right_width",
+            "label": "Image position",
+            "default": 50,
+            "min": 0,
+            "max": 100,
+            "step": 1,
+            "unit": "%"
+          },
+          {
+            "type": "range",
+            "id": "image_right_position",
+            "label": "Image position",
+            "default": 50,
+            "min": 0,
+            "max": 100,
+            "step": 1,
+            "unit": "%"
           }
         ]
       },
