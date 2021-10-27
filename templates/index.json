@@ -189,14 +189,14 @@
         "color_text": "main"
       }
     },
-    "1635324676b1c60a4b": {
+    "1635337190cc65ddaf": {
       "type": "background-image",
       "settings": {
-        "image_left_width": 50,
-        "image_left_position": 50,
-        "image-right": "shopify:\/\/shop_images\/IMG_9698.png",
-        "image_right_width": 7,
-        "image_right_position": 50
+        "image-left": "shopify:\/\/shop_images\/decor_home_3.png",
+        "image_left_width": 100,
+        "image_left_position": 19,
+        "image_right_width": 20,
+        "image_right_position": 0
       }
     },
     "promo-grid2": {
@@ -235,15 +235,6 @@
         "space_above": true,
         "space_below": true,
         "color_text": "second"
-      }
-    },
-    "1635337190cc65ddaf": {
-      "type": "background-image",
-      "settings": {
-        "image_left_width": 20,
-        "image_left_position": 0,
-        "image_right_width": 20,
-        "image_right_position": 0
       }
     },
     "163454067579e18513": {
@@ -445,9 +436,8 @@
     "1635324531ff360720",
     "16345470819de01f0b",
     "1634914413444a0acc",
-    "1635324676b1c60a4b",
-    "promo-grid2",
     "1635337190cc65ddaf",
+    "promo-grid2",
     "163454067579e18513",
     "1635324918275a11f0",
     "163456592274a2a708",
