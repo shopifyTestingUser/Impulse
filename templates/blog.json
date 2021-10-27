@@ -35,6 +35,17 @@
         "autoplay_speed": 5
       }
     },
+    "1635348072363ebd4d": {
+      "type": "background-image",
+      "settings": {
+        "image-left": "shopify:\/\/shop_images\/decor_salon_5_1.png",
+        "image_left_width": 16,
+        "image_left_position": 0,
+        "image-right": "shopify:\/\/shop_images\/decor_home_2_1.png",
+        "image_right_width": 28,
+        "image_right_position": 0
+      }
+    },
     "1634820519c1e44c71": {
       "type": "rich-text",
       "blocks": {
@@ -58,8 +69,9 @@
       "type": "blog-template",
       "settings": {
         "blog_show_tag_filter": false,
+        "blog_show_breadcrumbs": false,
         "blog_show_rss": false,
-        "blog_has_title": true,
+        "blog_has_title": false,
         "blog_show_tags": false,
         "blog_show_date": false,
         "blog_show_comments": false,
@@ -97,6 +109,7 @@
   },
   "order": [
     "163482016929a668b3",
+    "1635348072363ebd4d",
     "1634820519c1e44c71",
     "main",
     "163482061896fc3932"
