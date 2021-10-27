@@ -357,6 +357,16 @@
         "image_position": 50
       }
     },
+    "16353379449714c0e2": {
+      "type": "background-image",
+      "settings": {
+        "image-left": "shopify:\/\/shop_images\/decor_home_6_1.png",
+        "image_left_width": 21,
+        "image_left_position": 26,
+        "image_right_width": 20,
+        "image_right_position": 0
+      }
+    },
     "16349080873877e43b": {
       "type": "testimonials",
       "blocks": {
@@ -493,15 +503,6 @@
         "show_phone": false,
         "narrow_column": true
       }
-    },
-    "16353379449714c0e2": {
-      "type": "background-image",
-      "settings": {
-        "image_left_width": 20,
-        "image_left_position": 0,
-        "image_right_width": 20,
-        "image_right_position": 0
-      }
     }
   },
   "order": [
@@ -519,10 +520,10 @@
     "16349079880795f629",
     "163490805600b213e0",
     "1634908061ca3b3a9f",
+    "16353379449714c0e2",
     "16349080873877e43b",
     "16349081204e24a109",
     "1634908162416e3f0b",
-    "16349081684b16f546",
-    "16353379449714c0e2"
+    "16349081684b16f546"
   ]
 }
