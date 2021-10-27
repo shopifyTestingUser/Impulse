@@ -30,7 +30,7 @@
 
   --colorBorder:#ccc7c3;
 
-  --colorNav:#ffffff;
+  --colorNav:#fff9f4;
   --colorNavText:#131516;
   --colorAnnouncement:#131516;
   --colorAnnouncementText:#ffffff;
@@ -4207,7 +4207,7 @@ form+.footer__social{
 .site-header{
   position:relative;
   padding:6px 0;
-  background:#ffffff;
+  background:#fff9f4;
   background:var(--colorNav)
 }
 
@@ -4543,7 +4543,7 @@ form+.footer__social{
 }
 
 .toolbar{
-  background:#ffffff;
+  background:#fff9f4;
   background:var(--colorNav);
   color:#131516;
   color:var(--colorNavText);
@@ -4703,13 +4703,6 @@ form+.footer__social{
 .section-header--with-link .section-header__title{
     flex:1 1 auto
 }
-
-@media only screen and (min-width:769px){
-
-.section-header--hero .section-header__title{
-      font-size:calc(var(--typeHeaderSize)*1.45)
-}
-  }
 
 .section-header__link{
   flex:0 1 auto;
