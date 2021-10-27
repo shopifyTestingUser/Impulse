@@ -35,6 +35,8 @@
 
 * Shopify API reference docs - https://shopify.dev/api
 
+* Theme commands - https://shopify.dev/themes/tools/cli/theme-commands
+
 * Liquid reference - https://shopify.dev/api/liquid
 
 * Liquid phpStorm - https://www.jetbrains.com/help/phpstorm/liquid.html
