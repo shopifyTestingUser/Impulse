@@ -2,6 +2,21 @@
   .rich-text-wrapper--{{ section.id }} .theme-block:first-of-type{
     margin-bottom: 0
   }
+  .rich-text-wrapper--{{ section.id }} .rich-text__subheader {
+  position: relative;
+  margin-bottom: 20px;
+  }
+  .rich-text-wrapper--{{ section.id }} .bg-section__img {
+  position: absolute;
+  top: 0;
+  object-fit: contain;
+  {%- if block.settings.image_width != blank -%}
+    width: {{ block.settings.image_width }}%;
+  {%- endif -%}
+  {%- if block.settings.image_position != blank -%}
+    left: {{ block.settings.image_position }}%;
+  {%- endif -%}
+  }
 {% endstyle %}
 {%- if section.settings.divider -%}<div class="section--divider">{%- endif -%}
 
@@ -128,6 +143,70 @@
             "id": "subtitle",
             "label": "Sub Heading",
             "default": "Rich text"
+          }
+        ]
+      },
+      {
+        "type": "background",
+        "name": "Background image",
+        "settings": [
+          {
+            "type": "header",
+            "content": "Image left"
+          },
+          {
+            "type": "image_picker",
+            "id": "image-left",
+            "label": "Adding image"
+          },
+          {
+            "type": "range",
+            "id": "image_left_width",
+            "label": "Image width",
+            "default": 50,
+            "min": 0,
+            "max": 100,
+            "step": 1,
+            "unit": "%"
+          },
+          {
+            "type": "range",
+            "id": "image_left_position",
+            "label": "Image position",
+            "default": 50,
+            "min": 0,
+            "max": 100,
+            "step": 1,
+            "unit": "%"
+          },
+          {
+            "type": "header",
+            "content": "Image right"
+          },
+          {
+            "type": "image_picker",
+            "id": "image-right",
+            "label": "Adding image"
+          },
+          {
+            "type": "range",
+            "id": "image_right_width",
+            "label": "Image position",
+            "default": 50,
+            "min": 0,
+            "max": 100,
+            "step": 1,
+            "unit": "%"
+          },
+          {
+            "type": "range",
+            "id": "image_right_position",
+            "label": "Image position",
+            "default": 50,
+            "min": 0,
+            "max": 100,
+            "step": 1,
+            "unit": "%"
           }
         ]
       },

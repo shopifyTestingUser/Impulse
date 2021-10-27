@@ -889,9 +889,13 @@ html[dir=rtl] .grid__item{
 }
 
 .grid--flush-bottom>.grid__item{
-    margin-bottom:22px;
+  margin-bottom:22px;
+}
+@media screen and (max-width: 768px) {
+  .grid--flush-bottom>.grid__item{
+    margin-bottom: 50px;
   }
-
+}
 .grid--center{
   text-align:center
 }
@@ -1444,7 +1448,7 @@ label{
 
 .h3,h3{
   font-size:calc(var(--typeHeaderSize)*0.5);
-  margin-bottom: 30px;
+  margin-bottom: 30px !important;
 }
 
 @media only screen and (min-width:769px){
@@ -1464,7 +1468,7 @@ label{
 .h4,h4{
   letter-spacing:0.3em;
   font-size:calc(var(--typeHeaderSize)*0.375);
-    margin-bottom: 30px;
+  margin-bottom: 20px;
 }
 .h5, h5 {
   text-transform:uppercase;
@@ -5706,10 +5710,8 @@ form+.footer__social{
   display:block;
   position:absolute;
   right:0;
-  top:50%;
   width:10px;
   height:10px;
-  transform:translateY(-50%)
 }
 
 @media only screen and (min-width:769px){
@@ -7254,7 +7256,12 @@ input[type=image]{
 
 .collection-filter__item{
   flex:1 1 auto;
-  margin:15px 0;
+}
+
+@media screen and (max-width: 768px) {
+  .collection-filter__item{
+    margin: 50px 0 40px;
+  }
 }
 
 .collection-filter .btn:not(.btn--tertiary-active),.collection-filter__sort-container{
@@ -8612,7 +8619,7 @@ html[dir=rtl] .grid-product__content{
 }
 
 .article__grid-meta{
-  margin-bottom:30px
+  margin-bottom:50px
 }
 
 @media only screen and (min-width:769px){
