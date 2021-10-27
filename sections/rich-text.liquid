@@ -3,13 +3,13 @@
     margin-bottom: 0
   }
   .rich-text-wrapper--{{ section.id }} .rich-text__subheader {
-    position: relative;
-    margin-bottom: 20px;
+  position: relative;
+  margin-bottom: 20px;
   }
   .rich-text-wrapper--{{ section.id }} .bg-section__img {
-    position: absolute;
-    top: 0;
-    object-fit: contain;
+  position: absolute;
+  top: 0;
+  object-fit: contain;
   {%- if block.settings.image_width != blank -%}
     width: {{ block.settings.image_width }}%;
   {%- endif -%}
@@ -24,12 +24,37 @@
   {%- for block in section.blocks -%}
     <div class="theme-block" {{ block.shopify_attributes }}>
       {%- case block.type -%}
-        {%- when 'background' -%}
-          {% render 'background-image', section: block %}
         {%- when 'subheading' -%}
           <span class="rich-text__header h2 rte-custom">{{ block.settings.subtitle | escape }}</span>
         {%- when 'heading' -%}
           {%- if block.settings.image != blank -%}
+            {% style %}
+              .rich-text-wrapper--{{ section.id }} .theme-block {
+                position: relative;
+              }
+              .rich-text-wrapper--{{ section.id }} .rich-text__subheader {
+                position: relative;
+              }
+              .rich-text-wrapper--{{ section.id }} .bg-section__img {
+                position: absolute;
+                top: 0;
+                object-fit: contain;
+                {%- if block.settings.image_width != blank -%}
+                  width: {{ block.settings.image_width }}%;
+                {%- endif -%}
+                {%- if block.settings.image_position != blank -%}
+                  left: {{ block.settings.image_position }}%;
+                {%- endif -%}
+              }
+              @media only screen and (max-width:568px){
+                object-fit: contain;
+                object-position: right;
+                width: 100%;
+                height: 100%;
+                left: 0;
+              }
+            {% endstyle %}
+
             {%- assign img_url = block.settings.image | img_url: '1x1' | replace: '_1x1.', '_{width}x.' -%}
             <img class="bg-section__img lazyload"
                  data-src="{{ img_url }}"

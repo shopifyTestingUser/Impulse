@@ -14,18 +14,42 @@
         min-height: {{ block.settings.height | times: 0.8 }}px;
       }
     }
-
     @media only screen and (min-width: 1140px) {
       .flex-grid__item--{{ block.id }} {
         min-height: {{ block.settings.height }}px;
       }
     }
   {% endif %}
+  {% if block.settings.width_content %}
+      @media only screen and (min-width: 992px) {
+          .promo-grid__content--{{ section.id }}{
+              max-width: {{ block.settings.width_content }}%;
+          }
+      }
+  {% endif %}
+  {% if block.settings.text_size %}
+      .flex-grid__item--{{ block.id }} .promo-grid__text .h6, h6 {
+          font-size: .70589em;
+      }
+      .flex-grid__item--{{ block.id }} .promo-grid__text .h3, h3 {
+          font-size: 2.1177em;
+      }
+      .flex-grid__item--{{ block.id }} .promo-grid__text {
+          font-size: {{ block.settings.text_size | default: 100.0 | divided_by: 100.0 | times: 0.85 }}em;
+      }
+      .flex-grid__item--{{ block.id }}.flex-grid__item--50 .promo-grid__text {
+          font-size: {{ block.settings.text_size | default: 100.0 | divided_by: 100.0 }}em;
+      }
+      @media only screen and (min-width: 769px) {
+          .flex-grid__item--{{ block.id }} .promo-grid__text {
+              font-size: {{ block.settings.text_size | default: 100.0 | divided_by: 100.0 }}em;
+          }
+      }
+  {% endif %}
 
 {%- endstyle -%}
 <div class="promo-grid__container {% if block.settings.boxed %} promo-grid__container--boxed{% endif %}
             {% if block.settings.framed %} promo-grid__container--framed{% endif %} {{ block.settings.text_align }}">
-
 
   <div class="promo-grid__bg">
     {%- if block.settings.video_url != '' -%}
@@ -94,7 +118,7 @@
   {%- if block.settings.subheading != blank or block.settings.heading != blank or block.settings.textarea != blank or block.settings.cta_text1 != blank or block.settings.cta_text2 != blank -%}
     <div
         class="promo-grid__content promo-grid__content--{{ section.id }} {% if block.settings.boxed %} promo-grid__content--boxed{% endif %}{% if block.settings.framed %} promo-grid__content--framed{% endif %}">
-      <div class="text-color--{{ section.id }}">
+      <div class="promo-grid__text text-color--{{ section.id }}">
         {%- if block.settings.subheading != blank -%}
           <h6>
             {{ block.settings.subheading }}

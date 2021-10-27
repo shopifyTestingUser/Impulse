@@ -7,11 +7,11 @@
     "color_price_lite": "#868482",
     "color_savings_text": "#C20000",
     "color_borders": "#ccc7c3",
-    "color_button": "#f8e6d4",
-    "color_button_text": "#131516",
     "color_cart_dot": "#ff4f33",
     "color_small_image_bg": "#ffffff",
     "color_large_image_bg": "#0f0f0f",
+    "color_button": "#f8e6d4",
+    "color_button_text": "#131516",
     "color_header": "#fff9f4",
     "color_header_text": "#131516",
     "color_announcement": "#131516",
@@ -119,8 +119,8 @@
           "toolbar_menu": "",
           "toolbar_social": false,
           "show_locale_selector": false,
-          "show_currency_selector": true,
-          "show_currency_flags": true
+          "show_currency_selector": false,
+          "show_currency_flags": false
         }
       },
       "footer": {
