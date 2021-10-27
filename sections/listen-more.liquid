@@ -8,17 +8,23 @@
   }
   .listen-more__content-text--{{ section.id }} {
     margin: 16px 0 20px;
+    padding: 0 10px;
+    text-align: center;
     color: {{ settings.second_color_body_text }};
     font-size: {{ settings.type_base_size }}px;
-    line-height: {{ settings.type_base_line_height }}
+    line-height: {{ settings.type_base_line_height }};
   }
-
+  .listen-more__content-buttons--{{ section.id }} {
+    width: 100%;
+  }
   @media(min-width: 769px){
     .listen-more__content-buttons--{{ section.id }} {
       display: flex;
       flex-direction: row;
+      width: unset;
     }
   }
+
   .listen-more__btn--{{ section.id }} {
     margin: 6px 12px;
     display: flex;
