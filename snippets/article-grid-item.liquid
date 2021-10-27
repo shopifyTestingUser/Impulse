@@ -5,12 +5,22 @@
 
 {% style %}
   .date--{{ section.id }}{
-  color: {{ settings.color_price_lite }}
+    color: {{ settings.color_price_lite }}
   }
+  @media (max-width: 768px) {
+    .grid--{{ section.id }}{
+      display: flex;
+      flex-direction: column;
+    }
+    .grid__item--{{ section.id }}{
+      width: 100%
+    }
+  }
+
 {% endstyle %}
 <div class="grid__item {{ grid_item_width }}" data-aos="row-of-{{ per_row }}">
-  <div class="grid">
-    <div class="grid__item small--one-third">
+  <div class="grid grid--{{ section.id }}">
+    <div class="grid__item grid__item--{{ section.id }} small--one-third">
       {%- if article.image -%}
         <a href="{{ article.url }}" class="article__grid-image" aria-label="{{ article.title | escape }}">
           {%- if fixed_aspect_ratio -%}
@@ -57,7 +67,7 @@
         </div>
       {%- endif -%}
     </div>
-    <div class="grid__item small--two-thirds">
+    <div class="grid__item grid__item--{{ section.id }} small--two-thirds">
       <div class="article__grid-meta">
         <a href="{{ article.url }}" class="article__title h4">{{ article.title }}</a>
         {%- if section.settings.blog_show_excerpt -%}

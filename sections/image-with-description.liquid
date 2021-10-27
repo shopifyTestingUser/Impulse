@@ -1,12 +1,23 @@
 {% style %}
   .flex-revert--{{ section.id }}{
-    display: flex;
-    align-items: center;
-
     {% if section.settings.swap %}flex-direction: row-reverse;{% endif %}
   }
+  @media (min-width: 769px) {
+  .flex-revert--{{ section.id }}{
+      display: flex;
+      align-items: center;
+    }
   .image-wrapper--{{ section.id }}{
-    {% if section.settings.swap %}margin-left: 50px;{% else %} margin-right: 50px; {% endif %}
+      {% if section.settings.swap %}margin-left: 50px;{% else %} margin-right: 50px; {% endif %}
+    }
+  }
+  @media (max-width: 768px){
+    .flex-revert--{{ section.id }}{
+      margin-bottom: 20px;
+    }
+    .image-wrapper--{{ section.id }}{
+      margin-bottom: 20px
+    }
   }
   .title--{{ section.id }}{
     margin-bottom: 20px;
