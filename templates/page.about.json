@@ -113,8 +113,9 @@
         "image-left": "shopify:\/\/shop_images\/decor_about_us_4.png",
         "image_left_width": 17,
         "image_left_position": 0,
-        "image_right_width": 50,
-        "image_right_position": 50
+        "image-right": "shopify:\/\/shop_images\/decor_about_us_5.png",
+        "image_right_width": 20,
+        "image_right_position": 19
       }
     },
     "1634908297f953607d": {
