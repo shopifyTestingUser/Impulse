@@ -66,7 +66,10 @@
         "163490746248b9e19e-0": {
           "type": "heading",
           "settings": {
-            "title": "Our services"
+            "title": "Our services",
+            "image": "shopify:\/\/shop_images\/Vector.png",
+            "image_width": 37,
+            "image_position": 32
           }
         },
         "163490746248b9e19e-1": {
@@ -217,7 +220,9 @@
         "16349078470f63730c-0": {
           "type": "heading",
           "settings": {
-            "title": "Meet our team"
+            "title": "Meet our team",
+            "image_width": 50,
+            "image_position": 50
           }
         }
       },
@@ -430,7 +435,9 @@
         "1634908162416e3f0b-0": {
           "type": "heading",
           "settings": {
-            "title": "To help you"
+            "title": "To help you",
+            "image_width": 50,
+            "image_position": 50
           }
         },
         "3be373b2-4e8e-434d-95a4-3f3522e79847": {
