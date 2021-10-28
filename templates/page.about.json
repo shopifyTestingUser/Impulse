@@ -26,7 +26,7 @@
       "type": "text-and-image",
       "settings": {
         "image": "shopify:\/\/shop_images\/49A0163_1_1.png",
-        "image_width": 700,
+        "image_width": 600,
         "image_position": "left-bottom",
         "image_bg_color": "#f8e6d4",
         "image_bg": "shopify:\/\/shop_images\/IMG_9697_f4a32e95-2e33-4122-8f9e-2e5d29b39cc4.png",
@@ -49,7 +49,7 @@
       "type": "text-and-image",
       "settings": {
         "image": "shopify:\/\/shop_images\/49A0928_1_1.png",
-        "image_width": 700,
+        "image_width": 600,
         "image_position": "left-bottom",
         "image_bg_color": "#f8e6d4",
         "subtitle": "",

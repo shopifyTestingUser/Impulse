@@ -114,7 +114,9 @@
         "163482061896fc3932-1"
       ],
       "settings": {
-        "title": "Have a question?"
+        "title": "Have a question?",
+        "image_width": 50,
+        "image_position": 50
       }
     }
   },
