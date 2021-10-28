@@ -1,21 +1,12 @@
 {% style %}
-  .rich-text-wrapper--{{ section.id }} .theme-block:first-of-type{
+  .rich-text-wrapper--{{ section.id }} .theme-block{
     margin-bottom: 0
   }
-  .rich-text-wrapper--{{ section.id }} .rich-text__subheader {
-  position: relative;
-  margin-bottom: 20px;
+  .rich-text-wrapper--{{ section.id }} .rich-text__subheader, .rich-text-wrapper--{{ section.id }} .rich-text__header{
+    margin-bottom: 20px;
   }
-  .rich-text-wrapper--{{ section.id }} .bg-section__img {
-  position: absolute;
-  top: 0;
-  object-fit: contain;
-  {%- if block.settings.image_width != blank -%}
-    width: {{ block.settings.image_width }}%;
-  {%- endif -%}
-  {%- if block.settings.image_position != blank -%}
-    left: {{ block.settings.image_position }}%;
-  {%- endif -%}
+  .rich-text-wrapper--{{ section.id }} .btn{
+    margin-top: 20px;
   }
 {% endstyle %}
 {%- if section.settings.divider -%}<div class="section--divider">{%- endif -%}
@@ -25,15 +16,16 @@
     <div class="theme-block" {{ block.shopify_attributes }}>
       {%- case block.type -%}
         {%- when 'subheading' -%}
-          <span class="rich-text__header h2 rte-custom">{{ block.settings.subtitle | escape }}</span>
+          <span class="rich-text__subheader h2 rte-custom">{{ block.settings.subtitle | escape }}</span>
         {%- when 'heading' -%}
           {%- if block.settings.image != blank -%}
             {% style %}
               .rich-text-wrapper--{{ section.id }} .theme-block {
                 position: relative;
               }
-              .rich-text-wrapper--{{ section.id }} .rich-text__subheader {
+              .rich-text-wrapper--{{ section.id }} .rich-text__header {
                 position: relative;
+                margin-bottom: 20px;
               }
               .rich-text-wrapper--{{ section.id }} .bg-section__img {
                 position: absolute;
@@ -63,7 +55,7 @@
                  data-sizes="auto"
                  alt="{{ block.settings.image.alt }}">
           {%- endif -%}
-          <h2 class="rich-text__subheader">{{ block.settings.title | escape }}</h2>
+          <h2 class="rich-text__header">{{ block.settings.title | escape }}</h2>
         {%- when 'page' -%}
           <div class="rte">
             {%- if block.settings.page_text != blank -%}
@@ -191,7 +183,7 @@
           {
             "type": "range",
             "id": "image_right_width",
-            "label": "Image position",
+            "label": "Image width",
             "default": 50,
             "min": 0,
             "max": 100,
