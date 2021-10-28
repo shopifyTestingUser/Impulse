@@ -856,7 +856,25 @@ html[dir=rtl] .grid{
   width:100%;
   min-height:1px
 }
+.grid__item-sticky {
+    position: sticky;
+    top: 0;
+}
 
+@media only screen and (min-width:769px){
+
+    .grid-flex{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .grid__item-divider-left{
+        border-left: 1px solid var(--colorBorder);
+    }
+    .grid__item-divider-right {
+        padding-right: 22px;
+        border-right: 1px solid var(--colorBorder);
+    }
+}
 @media only screen and (max-width:768px){
 
 .grid__item{
@@ -1249,6 +1267,12 @@ body,html{
   border:0;
 }
 
+@media only screen and (min-width:769px){
+    .table--no-border{
+        border-collapse: collapse;
+    }
+}
+
 @media only screen and (max-width:768px){
     .table--responsive thead{
       display:none;
@@ -1279,6 +1303,7 @@ body,html{
   }
 
 @media only screen and (max-width:768px){
+
   .table--small-hide{
     display:none !important;
   }
