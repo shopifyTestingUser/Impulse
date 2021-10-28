@@ -18,7 +18,7 @@
         "link": "",
         "color_accent": "#f8e6d4",
         "text_align": "vertical-bottom horizontal-center",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=BHACKCNDMW8",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=e9YzaxT6cn4",
         "overlay_opacity": 0,
         "section_height": "724px",
         "mobile_height": "auto"
@@ -143,7 +143,8 @@
         "height": 510,
         "margin_top": false,
         "margin_bottom": false,
-        "image_width": 50,
+        "image": "shopify:\/\/shop_images\/Vector.png",
+        "image_width": 20,
         "image_position": 50
       }
     },
