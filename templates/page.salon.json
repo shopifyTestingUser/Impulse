@@ -211,7 +211,7 @@
           "settings": {
             "image-left": "shopify:\/\/shop_images\/image_for_esperts.png",
             "image_left_width": 100,
-            "image_left_position": 70,
+            "image_left_position": 60,
             "image-right": "shopify:\/\/shop_images\/decor_home_2_695dd7ff-ae83-4bc3-a0f9-3c28bca98544.png",
             "image_right_width": 30,
             "image_right_position": 0
