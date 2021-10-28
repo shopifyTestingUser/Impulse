@@ -27,9 +27,13 @@
       border-top: 1px solid {{ settings.color_borders }};
     }
   {%- endif -%}
+  .page-width--{{ section.id }}{
+    max-width: 1420px;
+    margin: 0 auto;
+  }
 {%- endstyle -%}
 
-<hr style="margin: 0; position: relative;">
+<hr class="page-width--{{ section.id }}">
   <footer class="site-footer" data-section-id="{{ section.id }}" data-section-type="footer-section">
     <div class="page-width">
       <div class="grid">
