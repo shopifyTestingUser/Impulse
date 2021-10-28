@@ -34,7 +34,7 @@
         "subtitle": "",
         "title": "About us",
         "another_text": false,
-        "text": "<p>Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. <em>Exercitation<\/em> veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Exercitation veniam consequat sunt nostrud amet. Velit officia consequat duis enim velit mollit. <\/p>",
+        "text": "<p>Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Exercitation veniam consequat sunt nostrud amet. Velit officia consequat duis enim velit mollit. <\/p>",
         "button_label": "",
         "button_link": "",
         "button_style": "primary",
@@ -62,7 +62,7 @@
         "button_style": "primary",
         "align_text": "center",
         "layout": "left",
-        "text_image_bg": "shopify:\/\/shop_images\/Frame_106.png",
+        "text_image_bg": "shopify:\/\/shop_images\/decor_about_us_2.png",
         "divider": false,
         "margin_top": false,
         "margin_bottom": true
@@ -111,11 +111,11 @@
       "type": "background-image",
       "settings": {
         "image-left": "shopify:\/\/shop_images\/decor_about_us_4.png",
-        "image_left_width": 17,
+        "image_left_width": 24,
         "image_left_position": 0,
         "image-right": "shopify:\/\/shop_images\/decor_about_us_5.png",
-        "image_right_width": 20,
-        "image_right_position": 19
+        "image_right_width": 25,
+        "image_right_position": 27
       }
     },
     "1634908297f953607d": {
