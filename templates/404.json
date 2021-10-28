@@ -8,7 +8,20 @@
     "featured-collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "Popular picks"
+        "title": "Popular picks",
+        "home_featured_products": "",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false,
+        "has_meta": false,
+        "fixed_height": false,
+        "height": 600,
+        "margin_top": false,
+        "margin_bottom": false,
+        "image_width": 50,
+        "image_position": 50
       }
     }
   },
