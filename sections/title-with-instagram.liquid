@@ -7,7 +7,7 @@
   }
 {% endstyle %}
 
-<div class="page-width page-width--narrow title-with-instagram {% if section.settings.margin_top %} promo-grid--space-top {% endif %}">
+<div class="page-width page-width--narrow {% if section.settings.margin_top %} promo-grid--space-top {% endif %}">
   <div class="title-with-instagram__content content-align__wrapper--{{ section.id }}">
     <a target="_blank"
        class="content-align--{{ section.id }}"
@@ -29,6 +29,7 @@
 {% schema %}
 	{
     "name": "Title with instagram",
+    "class": "title-with-instagram",
     "settings": [
       {
         "type": "text",
