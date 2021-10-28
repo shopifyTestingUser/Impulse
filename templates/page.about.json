@@ -16,7 +16,7 @@
         "link": "",
         "color_accent": "rgba(0,0,0,0)",
         "text_align": "vertical-center horizontal-center",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=o0qphg2NLfU",
         "overlay_opacity": 0,
         "section_height": "650px",
         "mobile_height": "auto"
@@ -25,11 +25,10 @@
     "16348250212312d01d": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/49A0163_1_1.png",
+        "image": "shopify:\/\/shop_images\/49A0163_1_ffd10205-6f9b-4531-9e4a-acb61e420aaa.png",
         "image_width": 700,
         "image_position": "left-bottom",
         "image_bg_color": "#f8e6d4",
-        "image_bg": "shopify:\/\/shop_images\/IMG_9697_f4a32e95-2e33-4122-8f9e-2e5d29b39cc4.png",
         "subtitle": "",
         "title": "About us",
         "another_text": false,
@@ -48,7 +47,7 @@
     "16348250262b8f3a96": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/49A0928_1_1.png",
+        "image": "shopify:\/\/shop_images\/49A0928_1_9ed38a57-d388-42c1-8d95-73f7afef64cc.png",
         "image_width": 700,
         "image_position": "left-bottom",
         "image_bg_color": "#f8e6d4",
@@ -129,7 +128,7 @@
       "type": "featured-video",
       "settings": {
         "title": "",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=0Qja56gQaC4&list=PLWHeQDKk9Zb8n04sF-MGaEhs0IlA-qYsq",
         "divider": false
       }
     },

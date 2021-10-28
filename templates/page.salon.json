@@ -11,10 +11,10 @@
             "title_size": 64,
             "subheading": "",
             "link": "",
-            "link_text": "Visit us",
+            "link_text": "",
             "link_2": "",
             "link_text_2": "",
-            "color_accent": "#f8e6d4",
+            "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
             "image": "shopify:\/\/shop_images\/the_1st_image_for_slider.png",
             "overlay_opacity": 0,
@@ -29,7 +29,7 @@
             "title_size": 64,
             "subheading": "",
             "link": "",
-            "link_text": "Optional button",
+            "link_text": "",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
@@ -68,7 +68,7 @@
           "settings": {
             "title": "Our services",
             "image": "shopify:\/\/shop_images\/Vector.png",
-            "image_width": 38,
+            "image_width": 33,
             "image_position": 40
           }
         },
@@ -211,7 +211,7 @@
           "settings": {
             "image-left": "shopify:\/\/shop_images\/image_for_esperts.png",
             "image_left_width": 100,
-            "image_left_position": 70,
+            "image_left_position": 60,
             "image-right": "shopify:\/\/shop_images\/decor_home_2_695dd7ff-ae83-4bc3-a0f9-3c28bca98544.png",
             "image_right_width": 30,
             "image_right_position": 0
@@ -361,9 +361,9 @@
     "16353379449714c0e2": {
       "type": "background-image",
       "settings": {
-        "image-left": "shopify:\/\/shop_images\/image_for_vacancies.png",
-        "image_left_width": 100,
-        "image_left_position": 16,
+        "image-left": "shopify:\/\/shop_images\/decor_home_6_2.png",
+        "image_left_width": 28,
+        "image_left_position": 10,
         "image-right": "shopify:\/\/shop_images\/decor_home_8.png",
         "image_right_width": 27,
         "image_right_position": 0

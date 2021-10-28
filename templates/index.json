@@ -11,16 +11,16 @@
     "16342858496dc05777": {
       "type": "hero-video",
       "settings": {
-        "title": "Langhaar\nMädchen",
-        "title_size": 64,
+        "title": "Langhaar \nMädchen",
+        "title_size": 48,
         "subheading": "",
         "link_text": "vizit us",
-        "link": "",
+        "link": "shopify:\/\/pages\/salon",
         "color_accent": "#f8e6d4",
         "text_align": "vertical-bottom horizontal-center",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=BHACKCNDMW8",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=e9YzaxT6cn4",
         "overlay_opacity": 0,
-        "section_height": "724px",
+        "section_height": "650px",
         "mobile_height": "auto"
       }
     },
@@ -63,11 +63,11 @@
             "heading": "DM loves us",
             "textarea": "",
             "cta_text1": "go to the dm.de",
-            "cta_link1": "shopify:\/\/collections\/all",
+            "cta_link1": "https:\/\/www.dm.de\/search?query=Langhaarm%C3%A4dchen&searchType=product&brandName=Langhaarm%C3%A4dchen",
             "cta_text2": "",
             "cta_link2": "",
             "image": "shopify:\/\/shop_images\/DM_loves_us_image_c8a8c435-1add-4d1c-ae78-62d886ada757.png",
-            "image_inner": "shopify:\/\/shop_images\/banner.png",
+            "image_inner": "shopify:\/\/shop_images\/langhaarmaedchen_172924029_203011817995695_588333778872068653_n_1.png",
             "video_url": "",
             "width": "50",
             "height": 680,
@@ -86,8 +86,8 @@
             "subheading": "",
             "heading": "Haircare   for you",
             "textarea": "",
-            "cta_text1": "",
-            "cta_link1": "",
+            "cta_text1": "about the salon",
+            "cta_link1": "shopify:\/\/pages\/salon",
             "cta_text2": "",
             "cta_link2": "",
             "image": "shopify:\/\/shop_images\/to_the_catalog_image.png",
@@ -143,7 +143,8 @@
         "height": 510,
         "margin_top": false,
         "margin_bottom": false,
-        "image_width": 50,
+        "image": "shopify:\/\/shop_images\/Vector.png",
+        "image_width": 20,
         "image_position": 50
       }
     },
@@ -155,7 +156,7 @@
           "settings": {
             "custom_sale_collection": "",
             "image": "shopify:\/\/shop_images\/Julia_Mona_freigestellt_1.png",
-            "middle_text": "50%",
+            "middle_text": "-50%",
             "bottom_text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
             "width": "50",
             "color_tint": "#f8e6d4",
@@ -169,7 +170,7 @@
           "settings": {
             "custom_sale_collection": "",
             "image": "shopify:\/\/shop_images\/Julia_Mona_weisse_Mauer_1_1.png",
-            "middle_text": "50%",
+            "middle_text": "-50%",
             "bottom_text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
             "width": "50",
             "color_tint": "#efdbd5",
@@ -387,7 +388,7 @@
         "image_left_width": 7,
         "image_left_position": 100,
         "image-right": "shopify:\/\/shop_images\/decor_home_8.png",
-        "image_right_width": 38,
+        "image_right_width": 27,
         "image_right_position": 0
       }
     },
