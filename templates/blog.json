@@ -26,7 +26,7 @@
         "163482016929a668b3-0"
       ],
       "settings": {
-        "section_height": "650px",
+        "section_height": "550px",
         "mobile_height": "auto",
         "parallax": true,
         "style": "bars",
@@ -98,14 +98,14 @@
           "type": "question",
           "settings": {
             "title": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"
+            "text": "<p><strong>Use this text to answer questions in as much detail as possible for your customers.<\/strong><\/p>"
           }
         },
         "163482061896fc3932-1": {
           "type": "question",
           "settings": {
             "title": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"
+            "text": "<p><strong>Use this text to answer questions in as much detail as possible for your customers.<\/strong><\/p>"
           }
         }
       },
