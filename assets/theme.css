@@ -7,13 +7,13 @@
 
 :root{
   --colorBtnPrimary:#f8e6d4;
-  --colorBtnSecondary:#1c1d1d;
+  --colorBtnSecondary:#ffffff;
   --colorBtnPrimaryText:#131516;
-  --colorBtnSecondaryText:#ffffff;
+  --colorBtnSecondaryText:#000000;
 
-  --colorBtnPrimaryHover:#1c1d1d;
+  --colorBtnPrimaryHover:#ffffff;
   --colorBtnSecondaryHover:#1c1d1d;
-  --colorBtnPrimaryTextHover:#ffffff;
+  --colorBtnPrimaryTextHover:#000000;
   --colorBtnSecondaryTextHover:#ffffff;
 
   --colorBtnPrimaryLight:#ffffff;
