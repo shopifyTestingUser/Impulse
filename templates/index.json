@@ -155,7 +155,7 @@
           "settings": {
             "custom_sale_collection": "",
             "image": "shopify:\/\/shop_images\/Julia_Mona_freigestellt_1.png",
-            "middle_text": "50%",
+            "middle_text": "-50%",
             "bottom_text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
             "width": "50",
             "color_tint": "#f8e6d4",
@@ -169,7 +169,7 @@
           "settings": {
             "custom_sale_collection": "",
             "image": "shopify:\/\/shop_images\/Julia_Mona_weisse_Mauer_1_1.png",
-            "middle_text": "50%",
+            "middle_text": "-50%",
             "bottom_text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
             "width": "50",
             "color_tint": "#efdbd5",
