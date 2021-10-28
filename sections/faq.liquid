@@ -3,7 +3,40 @@
 <div class="page-width page-width--narrow">
 
   {%- if section.settings.title != blank -%}
-    <header class="section-header">
+    <header class="section-header section-header--{{ section.id }}">
+      {%- if section.settings.image != blank -%}
+        {% style %}
+          .section-header--{{ section.id }} .section-header__title {
+            position: relative;
+          }
+          .section-header--{{ section.id }} .bg-section__img {
+            position: absolute;
+            top: 0;
+            object-fit: contain;
+          {%- if section.settings.image_width != blank -%}
+            width: {{ section.settings.image_width }}%;
+          {%- endif -%}
+          {%- if section.settings.image_position != blank -%}
+            left: {{ section.settings.image_position }}%;
+          {%- endif -%}
+          }
+          @media only screen and (max-width:568px){
+            object-fit: contain;
+            object-position: right;
+            width: 100%;
+            height: 100%;
+            left: 0;
+          }
+        {% endstyle %}
+
+        {%- assign img_url = section.settings.image | img_url: '1x1' | replace: '_1x1.', '_{width}x.' -%}
+        <img class="bg-section__img lazyload"
+             data-src="{{ img_url }}"
+             data-widths="[180, 360, 540, 750, 900, 1080]"
+             data-aspectratio="{{ section.settings.image.aspect_ratio }}"
+             data-sizes="auto"
+             alt="{{ section.settings.image.alt }}">
+      {%- endif -%}
       <h2 class="section-header__title">
         {{ section.settings.title | escape }}
       </h2>
@@ -68,6 +101,35 @@
         "id": "title",
         "label": "Heading",
         "default": "FAQs"
+      },
+      {
+        "type": "header",
+        "content": "Background image"
+      },
+      {
+        "type": "image_picker",
+        "id": "image",
+        "label": "Adding image"
+      },
+      {
+        "type": "range",
+        "id": "image_width",
+        "label": "Image width",
+        "default": 50,
+        "min": 0,
+        "max": 100,
+        "step": 1,
+        "unit": "%"
+      },
+      {
+        "type": "range",
+        "id": "image_position",
+        "label": "Image position",
+        "default": 50,
+        "min": 0,
+        "max": 100,
+        "step": 1,
+        "unit": "%"
       }
     ],
     "blocks": [
