@@ -11,9 +11,9 @@
 {% endstyle %}
 {%- if section.settings.divider -%}<div class="section--divider">{%- endif -%}
 
-<div class="text-{{ section.settings.align_text }} rich-text-wrapper--{{ section.id }} page-width{% if section.settings.narrow_column %} page-width--narrow{% endif %}">
+<div class="text-{{ section.settings.align_text }} rich-text-wrapper--{{ section.id }} page-width{% if section.settings.narrow_column %} page-width--narrow{% endif %} {% if section.settings.margin_top %} promo-grid--space-top {% endif %} {% if section.settings.margin_bottom %} promo-grid--space-bottom {% endif %}">
   {%- for block in section.blocks -%}
-    <div class="theme-block" {{ block.shopify_attributes }}>
+    <div class="theme-block " {{ block.shopify_attributes }}>
       {%- case block.type -%}
         {%- when 'subheading' -%}
           <span class="rich-text__subheader h2 rte-custom">{{ block.settings.subtitle | escape }}</span>
@@ -122,6 +122,18 @@
         "type": "checkbox",
         "id": "divider",
         "label": "Show section divider",
+        "default": false
+      },
+      {
+        "type": "checkbox",
+        "id": "margin_top",
+        "label": "Add padding top",
+        "default": false
+      },
+      {
+        "type": "checkbox",
+        "id": "margin_bottom",
+        "label": "Add padding bottom",
         "default": false
       }
     ],

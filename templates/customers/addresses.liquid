@@ -1,3 +1,24 @@
+{% style %}
+  .buttons-wrapper--{{ section.id }}{
+    display: grid;
+    grid-gap: 10px;
+  }
+  @media (min-width: 769px) {
+    .buttons-wrapper--{{ section.id }}{
+      grid-template-columns: 3fr 3fr 1fr;
+    }
+  }
+
+  @media (min-width: 1250px) {
+    .buttons-wrapper--{{ section.id }}{
+      grid-template-columns: 1fr 1fr 1fr;
+    }
+  }
+  .buttons-wrapper--{{ section.id }} button.btn {
+    margin: 0px !important;
+  }
+{% endstyle %}
+
 {%- paginate customer.addresses by 5 -%}
 
 <div class="page-width page-width--narrow page-content">
@@ -11,7 +32,7 @@
   {%- endif -%}
 
   <header class="section-header{% unless settings.type_headers_align_text %} section-header--with-link{% endunless %}">
-    <h1 class="section-header__title">{{ 'customer.addresses.title' | t }}</h1>
+    <h2 class="section-header__title">{{ 'customer.addresses.title' | t }}</h2>
     <button type="button" class="btn btn--secondary btn--small section-header__link address-new-toggle">{{ 'customer.addresses.add_new' | t }}</a>
   </header>
 
@@ -163,15 +184,12 @@
           {{ form.set_as_default_checkbox }}
           <label for="address_default_address_{{form.id}}" class="inline">{{ 'customer.addresses.set_default' | t }}</label>
         </p>
-
-        <p>
-          <button type="submit" class="btn">
-            {{ 'customer.addresses.update' | t }}
-          </button>
-        </p>
-        <p>
-          <button type="button" class="text-link address-edit-toggle" data-form-id="{{ form.id }}">{{ 'customer.addresses.cancel' | t }}</button>
-        </p>
+        <div class="buttons-wrapper--{{ section.id }}">
+            <button type="submit" class="btn">
+              {{ 'customer.addresses.update' | t }}
+            </button>
+            <button type="button" class="text-link address-edit-toggle btn btn--secondary" data-form-id="{{ form.id }}">{{ 'customer.addresses.cancel' | t }}</button>
+        </div>
       {%- endform -%}
     </div>
 
