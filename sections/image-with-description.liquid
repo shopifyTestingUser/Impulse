@@ -1,5 +1,6 @@
 {% style %}
   .flex-revert--{{ section.id }}{
+    position: relative;
     {% if section.settings.swap %}flex-direction: row-reverse;{% endif %}
   }
   @media (min-width: 769px) {

@@ -26,7 +26,9 @@
       {% endif %}
     }
   {% endif %}
-
+  .btn.btn--{{ section.id }}{
+    margin-top: 40px;
+  }
 
 {%- endstyle -%}
 
@@ -115,7 +117,7 @@
         {%- endif -%}
         {%- if section.settings.button_label != blank and section.settings.another_text == false -%}
           <div class="appear-delay{% cycle '','-1','-2','-3','-4' %}">
-            <a href="{{ section.settings.button_link }}" class="btn{% if section.settings.button_style == 'secondary' %} btn--tertiary{% endif %}">
+            <a href="{{ section.settings.button_link }}" class="btn btn--{{ section.id }}{% if section.settings.button_style == 'secondary' %} btn--tertiary{% endif %}">
               {{ section.settings.button_label }}
             </a>
           </div>
