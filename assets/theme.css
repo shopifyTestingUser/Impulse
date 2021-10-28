@@ -33,7 +33,7 @@
   --colorBody:#fff9f4;
   --colorBodyDim:#ffebdb;
 
-  --colorFooter:#ffffff;
+  --colorFooter:#fff9f4;
   --colorFooterText:#000000;
 
   --colorBorder:#ccc7c3;
@@ -3534,7 +3534,7 @@ svg.icon:not(.icon--full-color) circle,svg.icon:not(.icon--full-color) ellipse,s
 
 .site-footer{
   padding-bottom:30px;
-  background-color:#ffffff;
+  background-color:#fff9f4;
   background-color:var(--colorFooter);
   color:#000000;
   color:var(--colorFooterText)
@@ -3667,7 +3667,7 @@ ul+.footer__small-text{
 
 .footer__newsletter-input{
   padding:10px 45px 10px 10px;
-  background-color:#ffffff;
+  background-color:#fff9f4;
   background-color:var(--colorFooter);
   color:#000000;
   color:var(--colorFooterText);
