@@ -174,11 +174,11 @@
         "has_meta": true,
         "fixed_height": false,
         "height": 300,
-        "margin_top": true,
+        "margin_top": false,
         "margin_bottom": true,
         "image": "shopify:\/\/shop_images\/Vector.png",
-        "image_width": 24,
-        "image_position": 39
+        "image_width": 15,
+        "image_position": 56
       }
     }
   },
