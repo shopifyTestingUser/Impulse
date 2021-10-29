@@ -126,6 +126,22 @@
       "settings": {
       }
     },
+    "16354899260702133e": {
+      "type": "hero-video",
+      "settings": {
+        "title": "",
+        "title_size": 80,
+        "subheading": "",
+        "link_text": "",
+        "link": "",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "overlay_opacity": 0,
+        "section_height": "650px",
+        "mobile_height": "auto"
+      }
+    },
     "1634821019bfe3b379": {
       "type": "featured-video",
       "disabled": true,
@@ -158,11 +174,11 @@
         "has_meta": true,
         "fixed_height": false,
         "height": 300,
-        "margin_top": true,
+        "margin_top": false,
         "margin_bottom": true,
         "image": "shopify:\/\/shop_images\/Vector.png",
-        "image_width": 24,
-        "image_position": 39
+        "image_width": 15,
+        "image_position": 56
       }
     }
   },
@@ -173,6 +189,7 @@
     "product-recommendations",
     "recently-viewed",
     "collection-return",
+    "16354899260702133e",
     "1634821019bfe3b379",
     "16354039156c23565b",
     "16348210811bd81bd1"
