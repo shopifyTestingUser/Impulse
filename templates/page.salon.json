@@ -76,7 +76,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
+            "text": "<p><\/p><p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
           }
         }
       },
@@ -87,7 +87,9 @@
       "settings": {
         "align_text": "center",
         "narrow_column": true,
-        "divider": false
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
       }
     },
     "16349074948fa012fe": {
@@ -95,7 +97,6 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/hairstyle1_1.png",
         "image2": "shopify:\/\/shop_images\/hairstyle2_1.png",
-        "image_width": 700,
         "image_position": "left-bottom",
         "image_bg_color": "#f8e6d4",
         "image_bg": "shopify:\/\/shop_images\/Frame_106.png",
@@ -119,7 +120,6 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/hairstule3_1.png",
         "image2": "shopify:\/\/shop_images\/hairstyle4_1.png",
-        "image_width": 700,
         "image_position": "left-bottom",
         "image_bg_color": "#f6dad6",
         "image_bg": "shopify:\/\/shop_images\/Frame_106_1.png",
@@ -248,7 +248,9 @@
       "settings": {
         "align_text": "center",
         "narrow_column": true,
-        "divider": false
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
       }
     },
     "1634907866597b00bd": {
@@ -335,7 +337,9 @@
       "settings": {
         "align_text": "left",
         "narrow_column": true,
-        "divider": false
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
       }
     },
     "1634908061ca3b3a9f": {
@@ -451,7 +455,9 @@
       "settings": {
         "align_text": "center",
         "narrow_column": true,
-        "divider": false
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
       }
     },
     "1634908162416e3f0b": {
@@ -494,7 +500,9 @@
       "settings": {
         "align_text": "center",
         "narrow_column": true,
-        "divider": false
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
       }
     },
     "16349081684b16f546": {
