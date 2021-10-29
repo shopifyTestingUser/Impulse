@@ -45,19 +45,22 @@
     }
   {% endif %}
 {%- endstyle -%}
-
+{% if product.metafields.my_fields.video_url != blank %}
+  {%- capture video_url %}{{ product.metafields.my_fields.video_url}}{% endcapture -%}
+{% else %}
+  {%- capture video_url %}{{ section.settings.video_url}}{% endcapture -%}
+{% endif %}
 <div
   data-section-id="{{ section.id }}"
   data-section-type="video-section"
   class="video-parent-section hero hero--{{ section.id }} hero--{{ section.settings.section_height }} hero--mobile--{{ section.settings.mobile_height }}"
   data-mobile-natural="false"
   data-aos="hero__animation">
-
   <div class="hero__media hero__media--{{ section.id }}">
+
     <div class="hero__media-container">
-
-      {%- if section.settings.video_url contains 'youtube.com/watch' -%}
-        {%- assign video_id = section.settings.video_url | split: 'v=' -%}
+      {%- if video_url contains 'youtube.com/watch' -%}
+        {%- assign video_id = video_url | split: 'v=' -%}
         {%- assign video_id = video_id[1] | split: '&' | first -%}
         <div
           id="YouTubeVideo-{{ section.id }}"
@@ -66,8 +69,8 @@
           data-video-id="{{ video_id }}"></div>
       {%- endif -%}
 
-      {%- if section.settings.video_url contains 'youtu.be/' -%}
-        {%- assign video_id = section.settings.video_url | split: '.be/' -%}
+      {%- if video_url contains 'youtu.be/' -%}
+        {%- assign video_id = video_url | split: '.be/' -%}
         {%- assign video_id = video_id[1] | split: '&' | first -%}
         <div
           id="YouTubeVideo-{{ section.id }}"
@@ -76,8 +79,8 @@
           data-video-id="{{ video_id }}"></div>
       {%- endif -%}
 
-      {%- if section.settings.video_url contains 'vimeo.com' -%}
-        {%- assign video_id = section.settings.video_url | split: '.com/' -%}
+      {%- if video_url contains 'vimeo.com' -%}
+        {%- assign video_id = video_url | split: '.com/' -%}
         {%- assign video_id = video_id[1] | split: '/' | first -%}
         <div
           id="Vimeo-{{ section.id }}"
@@ -86,15 +89,14 @@
           data-video-id="{{ video_id }}"></div>
       {%- endif -%}
 
-      {%- if section.settings.video_url contains '.mp4' or section.settings.video_url contains '.MP4' -%}
+      {%- if video_url contains '.mp4' or video_url contains '.MP4' -%}
         <video
           id="Mp4Video-{{ section.id }}"
           class="video-div"
           data-type="mp4"
-          src="{{ section.settings.video_url }}"
+          src="{{ video_url }}"
           loop muted playsinline autoplay></video>
       {%- endif -%}
-
     </div>
   </div>
 
@@ -102,7 +104,7 @@
     <div class="page-width">
       <div class="hero__text-content {{ section.settings.text_align }}">
         <div class="hero__text-shadow">
-          {%- if section.settings.video_url contains 'vimeo.com' -%}
+          {%- if video_url contains 'vimeo.com' -%}
             <button type="button" id="VimeoTrigger-{{ section.id }}" class="vimeo-mobile-trigger medium-up--hide">
               <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-play" viewBox="18.24 17.35 24.52 28.3"><path fill="#323232" d="M22.1 19.151v25.5l20.4-13.489-20.4-12.011z"/></svg>
             </button>
@@ -126,7 +128,7 @@
             {%- if section.settings.link_text != blank -%}
               {%- assign link_href = section.settings.link -%}
               {%- if section.settings.link == blank -%}
-                {%- assign link_href = section.settings.video_url -%}
+                {%- assign link_href = video_url -%}
               {%- endif -%}
               <div class="hero__link">
                 <div class="animation-cropper">
