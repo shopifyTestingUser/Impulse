@@ -146,8 +146,8 @@
         "margin_top": false,
         "margin_bottom": false,
         "image": "shopify:\/\/shop_images\/Vector.png",
-        "image_width": 14,
-        "image_position": 49
+        "image_width": 15,
+        "image_position": 50
       }
     },
     "1634914413444a0acc": {
@@ -431,7 +431,7 @@
         "map_title": "Contacts",
         "address": "<p>301 Front St W Toronto, <br\/>Canada<\/p><p>Mon - Fri, 8:30am - 10:30pm<br\/>Saturday, 8:30am - 10:30pm<br\/>Sunday, 8:30am - 10:30pm<\/p>",
         "map_address": "301 Front St W, Toronto, ON M5V 2T6",
-        "map_iframe": "<iframe src=\"https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d184551.8085844517!2d-79.51814045437209!3d43.71840381064974!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d4cb90d7c63ba5%3A0x323555502ab4c477!2z0KLQvtGA0L7QvdGC0L4sINCe0L3RgtCw0YDQuNC-LCDQmtCw0L3QsNC00LA!5e0!3m2!1sru!2sby!4v1635492409895!5m2!1sru!2sby\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\"><\/iframe>",
+        "map_iframe": "",
         "api_key": "",
         "show_button": false,
         "background_image": "shopify:\/\/shop_images\/Rectangle.png",
