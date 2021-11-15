@@ -133,7 +133,7 @@
     "16345470819de01f0b": {
       "type": "featured-collection",
       "settings": {
-        "title": "See our Salonboxes",
+        "title": "Langhaarmädchen Onlineshop",
         "home_featured_products": "frontpage",
         "per_row": 4,
         "rows": 1,
@@ -341,7 +341,7 @@
         "1634220966d1ce4e28-0": {
           "type": "heading",
           "settings": {
-            "title": "Be a part of LHM family",
+            "title": "Brief",
             "image": "shopify:\/\/shop_images\/Vector.png",
             "image_width": 32,
             "image_position": 61
