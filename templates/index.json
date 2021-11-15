@@ -156,10 +156,10 @@
         "bd246b77-f1dc-4968-ac80-f6200fb27e61": {
           "type": "custom_sale_collection",
           "settings": {
-            "custom_sale_collection": "",
+            "custom_sale_collection": "boxes",
             "image": "shopify:\/\/shop_images\/Julia_Mona_freigestellt_1.png",
-            "middle_text": "-50%",
-            "bottom_text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
+            "middle_text": "Über uns",
+            "bottom_text": "Wir sind Mona & Julia. Friseurmeisterinnen, Gründerinnen und Freundinnen, die groß träumen.",
             "width": "50",
             "color_tint": "#f8e6d4",
             "color_tint_opacity": 100,
