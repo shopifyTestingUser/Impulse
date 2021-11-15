@@ -371,9 +371,9 @@
       "type": "background-image-text",
       "settings": {
         "subtitle": "Impressive",
-        "title": "Event title",
-        "text": "<p>Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. <\/p>",
-        "button_label": "Take part in event",
+        "title": "Unsere Philosophie",
+        "text": "<p>Wir möchten dich und uns gegenseitig zum träumen inspirieren, damit wir alle den Mut entwickeln, unseren eigenen Weg zu gehen.<\/p>",
+        "button_label": "Erlebe uns live",
         "button_link": "shopify:\/\/pages\/salon",
         "image": "shopify:\/\/shop_images\/49A1187_1.png",
         "focal_point": "center",
