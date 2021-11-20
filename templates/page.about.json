@@ -178,11 +178,29 @@
             "overlay_opacity": 0,
             "focal_point": "center center"
           }
+        },
+        "62b6ea82-7f7e-46eb-97b8-577d6058758a": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Two line\ntitle slide.",
+            "title_size": 80,
+            "subheading": "And optional subtext",
+            "link": "",
+            "link_text": "Optional button",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
         }
       },
       "block_order": [
         "16348253938dde6455-1",
-        "b3f462ed-298e-4ec4-a378-817c3a6d1563"
+        "b3f462ed-298e-4ec4-a378-817c3a6d1563",
+        "62b6ea82-7f7e-46eb-97b8-577d6058758a"
       ],
       "settings": {
         "section_height": "650px",
