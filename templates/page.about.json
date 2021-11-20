@@ -160,10 +160,29 @@
             "overlay_opacity": 0,
             "focal_point": "center center"
           }
+        },
+        "b3f462ed-298e-4ec4-a378-817c3a6d1563": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Stylingbus BOP",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/DTW_4277.jpg",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
         }
       },
       "block_order": [
-        "16348253938dde6455-1"
+        "16348253938dde6455-1",
+        "b3f462ed-298e-4ec4-a378-817c3a6d1563"
       ],
       "settings": {
         "section_height": "650px",
