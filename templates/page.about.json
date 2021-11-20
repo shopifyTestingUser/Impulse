@@ -165,7 +165,7 @@
           "type": "image",
           "settings": {
             "top_subheading": "",
-            "title": "Stylingbus BOP",
+            "title": "Believe and you're halfway there!",
             "title_size": 80,
             "subheading": "",
             "link": "",
@@ -181,6 +181,7 @@
         },
         "62b6ea82-7f7e-46eb-97b8-577d6058758a": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "top_subheading": "",
             "title": "Two line\ntitle slide.",
