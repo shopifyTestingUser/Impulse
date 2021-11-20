@@ -346,8 +346,8 @@
           "settings": {
             "title": "Unsere Vision",
             "image": "shopify:\/\/shop_images\/Vector.png",
-            "image_width": 32,
-            "image_position": 61
+            "image_width": 51,
+            "image_position": 54
           }
         },
         "1634220966d1ce4e28-1": {
@@ -373,8 +373,8 @@
     "background-image-text": {
       "type": "background-image-text",
       "settings": {
-        "subtitle": "Impressive",
-        "title": "Unsere Philosophie",
+        "subtitle": "",
+        "title": "Philosophie",
         "text": "<p>Wir möchten dich und uns gegenseitig zum träumen inspirieren, damit wir alle den Mut entwickeln, unseren eigenen Weg zu gehen.<\/p>",
         "button_label": "Erlebe uns live",
         "button_link": "shopify:\/\/pages\/salon",
