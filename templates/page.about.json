@@ -133,9 +133,9 @@
     "163490834132526263": {
       "type": "listen-more",
       "settings": {
-        "text": "Listen more LHM podcasts on Youtube and Spotify!",
-        "first_btn_text": "Watch on Youtube",
-        "second_btn_text": "Listen on Spotify",
+        "text": "Lerne uns über über YOUTUBE & SPOTIFY kennen:",
+        "first_btn_text": "Youtube",
+        "second_btn_text": "Spotify",
         "margin_top": false,
         "margin_bottom": true
       }
