@@ -401,6 +401,7 @@
     },
     "blog-posts": {
       "type": "blog-posts",
+      "disabled": true,
       "settings": {
         "title": "",
         "blog": "news",
