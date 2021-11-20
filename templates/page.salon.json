@@ -511,14 +511,14 @@
         "3be373b2-4e8e-434d-95a4-3f3522e79847": {
           "type": "subheading",
           "settings": {
-            "subtitle": "Für Fragen oder Input meldet dich gerne jederzeit per E-Mail."
+            "subtitle": ""
           }
         },
         "d3606e9f-2ede-4b10-98eb-c074aaa9153a": {
           "type": "button",
           "settings": {
             "link": "",
-            "link_text": "More about"
+            "link_text": "Kontaktformular"
           }
         }
       },
