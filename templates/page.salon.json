@@ -113,6 +113,7 @@
     },
     "16349074948fa012fe": {
       "type": "text-and-image",
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/hairstyle1_1.png",
         "image2": "shopify:\/\/shop_images\/hairstyle2_1.png",
@@ -136,6 +137,7 @@
     },
     "1634907540ba6957b3": {
       "type": "text-and-image",
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/hairstule3_1.png",
         "image2": "shopify:\/\/shop_images\/hairstyle4_1.png",
@@ -159,6 +161,7 @@
     },
     "16349076903b384634": {
       "type": "services-columns",
+      "disabled": true,
       "blocks": {
         "16349076903b384634-0": {
           "type": "text_block",
@@ -216,10 +219,10 @@
         "4045078a-851e-4712-8e24-fd7eae750b22": {
           "type": "banner",
           "settings": {
-            "heading": "a piece of advice",
-            "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
+            "heading": "",
+            "text": "",
             "link": "",
-            "label": "See more on Instagram",
+            "label": "Folge uns auf Instagram",
             "color_tint": "#000000",
             "color_tint_opacity": 100,
             "framed": false
