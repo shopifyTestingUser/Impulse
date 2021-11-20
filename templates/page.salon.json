@@ -7,7 +7,7 @@
           "type": "image",
           "settings": {
             "top_subheading": "",
-            "title": "Welcome \nto the salon",
+            "title": "Willkommen!",
             "title_size": 64,
             "subheading": "",
             "link": "",
@@ -16,7 +16,7 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/the_1st_image_for_slider.png",
+            "image": "shopify:\/\/shop_images\/49A3099.jpg",
             "overlay_opacity": 0,
             "focal_point": "center center"
           }
@@ -25,7 +25,7 @@
           "type": "image",
           "settings": {
             "top_subheading": "",
-            "title": "Welcome \nto the salon",
+            "title": "Exklusiv &  gefühlvoll nur für Dich!",
             "title_size": 64,
             "subheading": "",
             "link": "",
@@ -34,7 +34,25 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/the_2nd_image_for_slider.png",
+            "image": "shopify:\/\/shop_images\/49A3398.jpg",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        },
+        "8949461a-e3e2-4b2f-a40f-1c2d65799d70": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Deine Wohlfühloase!",
+            "title_size": 80,
+            "subheading": "And optional subtext",
+            "link": "",
+            "link_text": "Optional button",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/49A3207.jpg",
             "overlay_opacity": 0,
             "focal_point": "center center"
           }
@@ -42,7 +60,8 @@
       },
       "block_order": [
         "16349073092065b984-0",
-        "16349073092065b984-1"
+        "16349073092065b984-1",
+        "8949461a-e3e2-4b2f-a40f-1c2d65799d70"
       ],
       "settings": {
         "section_height": "550px",
