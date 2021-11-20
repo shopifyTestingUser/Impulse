@@ -132,6 +132,7 @@
     },
     "16345470819de01f0b": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "Langhaarmädchen Onlineshop",
         "home_featured_products": "frontpage",
@@ -152,6 +153,7 @@
     },
     "1634914413444a0acc": {
       "type": "promo-grid",
+      "disabled": true,
       "blocks": {
         "bd246b77-f1dc-4968-ac80-f6200fb27e61": {
           "type": "custom_sale_collection",
@@ -212,7 +214,7 @@
           "settings": {
             "subheading": "special offer",
             "heading": "Salon Box",
-            "textarea": "Zur Eröffnung unseres Salons gibt es für euch die limitierte Salon Box im Wert von 50€ für 19.95€!",
+            "textarea": "Zur Eröffnung unseres Salons gibt es für euch die limitierte Salon Box im Wert von 50€ für 19.95€! Das ideale Weihnachtsgeschenk für dich & deine Mädels!",
             "cta_text1": "Shop now",
             "cta_link1": "shopify:\/\/collections\/all",
             "cta_text2": "",
