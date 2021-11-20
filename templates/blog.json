@@ -49,6 +49,7 @@
     },
     "1634820519c1e44c71": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "4d00af59-c0f3-44c8-bdf5-c9f5baee296c": {
           "type": "page",
