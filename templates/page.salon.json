@@ -302,10 +302,10 @@
       "type": "image-with-description",
       "settings": {
         "image": "shopify:\/\/shop_images\/julia_1.png",
-        "title": "Expert Name",
-        "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.",
+        "title": "Roby",
+        "text": "Unsere Salonleitung und Master Stylistin Roberta überzeugt mit ihrem Temperament und ganz viel Amore für ihr Handwerk.",
         "swap": false,
-        "btn_text": "Contact us",
+        "btn_text": "Terminbuchung",
         "btn_link": "",
         "margin_top": false,
         "margin_bottom": false
