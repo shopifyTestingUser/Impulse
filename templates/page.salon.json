@@ -300,6 +300,7 @@
     },
     "163490787431a0100d": {
       "type": "image-with-description",
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/julia_1.png",
         "title": "Roby",
@@ -313,6 +314,7 @@
     },
     "1634907893f803f2d3": {
       "type": "image-with-description",
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/mona_1.png",
         "title": "Mona",
@@ -326,10 +328,11 @@
     },
     "16349079880795f629": {
       "type": "background-image-text",
+      "disabled": true,
       "settings": {
         "subtitle": "following events",
         "title": "Event title",
-        "text": "<p>Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. <\/p>",
+        "text": "",
         "button_label": "Take part in event",
         "button_link": "",
         "image": "shopify:\/\/shop_images\/49A1187_1.png",
@@ -344,9 +347,11 @@
     },
     "163490805600b213e0": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "163490805600b213e0-1": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "enlarge_text": true,
             "text": "<p>Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.<\/p>"
@@ -366,6 +371,7 @@
     },
     "1634908061ca3b3a9f": {
       "type": "blog-posts",
+      "disabled": true,
       "settings": {
         "title": "",
         "blog": "news",
@@ -386,6 +392,7 @@
     },
     "16353379449714c0e2": {
       "type": "background-image",
+      "disabled": true,
       "settings": {
         "image-left": "shopify:\/\/shop_images\/decor_home_6_2.png",
         "image_left_width": 28,
@@ -397,6 +404,7 @@
     },
     "16349080873877e43b": {
       "type": "testimonials",
+      "disabled": true,
       "blocks": {
         "16349080873877e43b-0": {
           "type": "testimonial",
@@ -462,6 +470,7 @@
     },
     "16349081204e24a109": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "16349081204e24a109-1": {
           "type": "text",
@@ -488,7 +497,7 @@
         "9292962a-57a6-4692-8032-82942f22e6f3": {
           "type": "subheading",
           "settings": {
-            "subtitle": "Our mission is"
+            "subtitle": "Unsere Mission ist es"
           }
         },
         "1634908162416e3f0b-0": {
