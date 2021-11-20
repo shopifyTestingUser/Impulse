@@ -95,7 +95,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Platzhalter Preisliste PDF<\/p>"
+            "text": "<p>Platzhalter Preisliste PDF + Telefonnummer<\/p>"
           }
         }
       },
