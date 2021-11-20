@@ -228,6 +228,7 @@
       "blocks": {
         "339f6a5c-6b47-45c8-bb9a-76a2a1334787": {
           "type": "page",
+          "disabled": true,
           "settings": {
             "page_text": "about-us"
           }
