@@ -432,13 +432,13 @@
     "map": {
       "type": "map",
       "settings": {
-        "map_title": "Contacts",
-        "address": "<p>301 Front St W Toronto, <br\/>Canada<\/p><p>Mon - Fri, 8:30am - 10:30pm<br\/>Saturday, 8:30am - 10:30pm<br\/>Sunday, 8:30am - 10:30pm<\/p>",
-        "map_address": "301 Front St W, Toronto, ON M5V 2T6",
+        "map_title": "Adresse",
+        "address": "<p>Langhaarmädchen Salon<\/p><p>Kaiserstr. 45, 80801 München<\/p><p>Di - Fr nach Absprache<\/p><p>089-21528933<\/p>",
+        "map_address": "Kaiserstraße 45, 80801 München",
         "map_iframe": "",
         "api_key": "",
         "show_button": false,
-        "background_image": "shopify:\/\/shop_images\/Rectangle.png",
+        "background_image": "shopify:\/\/shop_images\/IMG_9878.png",
         "background_image_position": "center center"
       }
     }
