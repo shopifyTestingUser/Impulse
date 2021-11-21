@@ -52,7 +52,7 @@
         "subtitle": "",
         "title": "Image with text",
         "another_text": true,
-        "text": "<p>Wir wollen dich zum <em>Träumen <\/em>inspirieren, damit du den<br\/><em>Mut <br\/><\/em>entwickelst deinen <em>eigenen<\/em> Weg zu gehen!<\/p>",
+        "text": "<p>Wir wollen dich zum <em>Träumen<\/em> inspirieren, damit du den <em>Mut <\/em>entwickelst deinen <em>eigenen<\/em> Weg zu gehen!<\/p>",
         "button_label": "",
         "button_link": "",
         "button_style": "primary",

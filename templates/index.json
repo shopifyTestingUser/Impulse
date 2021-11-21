@@ -20,7 +20,7 @@
         "text_align": "vertical-bottom horizontal-center",
         "video_url": "https:\/\/www.youtube.com\/watch?v=e9YzaxT6cn4",
         "overlay_opacity": 0,
-        "section_height": "650px",
+        "section_height": "550px",
         "mobile_height": "auto"
       }
     },
@@ -433,7 +433,7 @@
       "type": "map",
       "settings": {
         "map_title": "Adresse",
-        "address": "<p>Langhaarmädchen Salon<\/p><p>Kaiserstr. 45, 80801 München<\/p><p>Di - Fr nach Absprache<\/p><p>089-21528933<\/p>",
+        "address": "<p><\/p><p>Langhaarmädchen Salon   <\/p><p>Kaiserstr. 45, 80801 München<\/p><p>Di - Fr nach Absprache<\/p><p><strong>089-21528933<\/strong><\/p>",
         "map_address": "Kaiserstraße 45, 80801 München",
         "map_iframe": "",
         "api_key": "",
