@@ -139,14 +139,6 @@
               "container_width": 17
             }
           },
-          "993deeb6-38eb-487d-8ec9-8006272b630d": {
-            "type": "menu",
-            "settings": {
-              "show_footer_title": true,
-              "menu": "",
-              "container_width": 18
-            }
-          },
           "a95adc85-ada0-4b3f-99eb-f37753c5fe8a": {
             "type": "custom",
             "settings": {
@@ -156,20 +148,29 @@
               "container_width": 34
             }
           },
+          "993deeb6-38eb-487d-8ec9-8006272b630d": {
+            "type": "menu",
+            "disabled": true,
+            "settings": {
+              "show_footer_title": true,
+              "menu": "",
+              "container_width": 18
+            }
+          },
           "1494292487693": {
             "type": "newsletter",
             "settings": {
               "show_footer_title": true,
               "title": "News",
               "text": "<p>Be the first to know about our biggest and best sales. We’ll never send more than one email a month<\/p>",
-              "container_width": 31
+              "container_width": 45
             }
           }
         },
         "block_order": [
           "1494301487049",
-          "993deeb6-38eb-487d-8ec9-8006272b630d",
           "a95adc85-ada0-4b3f-99eb-f37753c5fe8a",
+          "993deeb6-38eb-487d-8ec9-8006272b630d",
           "1494292487693"
         ],
         "settings": {
