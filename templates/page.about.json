@@ -78,7 +78,7 @@
         "button_link": "",
         "button_style": "primary",
         "align_text": "center",
-        "layout": "left",
+        "layout": "right",
         "text_image_bg": "shopify:\/\/shop_images\/decor_about_us_2.png",
         "divider": false,
         "margin_top": false,
