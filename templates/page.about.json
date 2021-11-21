@@ -48,11 +48,11 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/image_about_us_2.png",
         "image_position": "left-bottom",
-        "image_bg_color": "#F8E6D4",
+        "image_bg_color": "#f8e6d4",
         "subtitle": "",
         "title": "",
         "another_text": false,
-        "text": "<p>Innerhalb von nur <strong>2 Jahren <\/strong>haben wir uns von Friseurmeisterinnen zu <strong>erfolgreichen Jung- Unternehmerinnen <\/strong>entwickelt.<\/p><p>Entstanden<br\/> ist Mona‘s Idee zur eigenen Haarpflegemarke auf ihrer Weltreise! Ich, <br\/>Julia, kündigte spontan meinen Job und begleitete Mona die letzten 4 <br\/>Wochen auf ihrem Roadtrip durchs Leben. Unsere Reise endete bei uns <br\/>selbst und zurück kamen wir als <strong>Langhaarmädchen<\/strong>!<\/p>",
+        "text": "<p>Innerhalb von nur <strong>2 Jahren <\/strong>haben wir uns von Friseurmeisterinnen zu <strong>erfolgreichen Jung- Unternehmerinnen <\/strong>entwickelt.<\/p><p>Entstanden ist Mona‘s Idee zur eigenen Haarpflegemarke auf ihrer Weltreise! Ich, Julia, kündigte spontan meinen Job und begleitete Mona die letzten 4 Wochen auf ihrem Roadtrip durchs Leben. Unsere Reise endete bei uns <br\/>selbst und zurück kamen wir als <strong>Langhaarmädchen<\/strong>!<\/p>",
         "button_label": "",
         "button_link": "",
         "button_style": "primary",
