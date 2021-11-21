@@ -114,7 +114,7 @@
         ],
         "settings": {
           "main_menu_link_list": "header",
-          "mega_menu_images": true,
+          "mega_menu_images": false,
           "main_menu_alignment": "center-split",
           "header_style": "sticky",
           "sticky_index": false,
