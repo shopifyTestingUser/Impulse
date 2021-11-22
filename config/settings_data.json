@@ -136,7 +136,7 @@
             "settings": {
               "show_footer_title": true,
               "menu": "langhaar-m-dchen",
-              "container_width": 17
+              "container_width": 20
             }
           },
           "a95adc85-ada0-4b3f-99eb-f37753c5fe8a": {
@@ -145,16 +145,15 @@
               "show_footer_title": true,
               "title": "Contacts",
               "text": "<p><strong>089-21528933<\/strong><br\/>Kaiserstr. 45, 80801 München<br\/><br\/>Di - Fr nach Absprache<\/p>",
-              "container_width": 34
+              "container_width": 20
             }
           },
-          "993deeb6-38eb-487d-8ec9-8006272b630d": {
+          "5b405560-2725-4fc1-8ed6-f7cd4349fff0": {
             "type": "menu",
-            "disabled": true,
             "settings": {
               "show_footer_title": true,
-              "menu": "",
-              "container_width": 18
+              "menu": "legal-pages",
+              "container_width": 25
             }
           },
           "1494292487693": {
@@ -163,14 +162,14 @@
               "show_footer_title": true,
               "title": "News",
               "text": "<p>Sei als Erste:r mit dabei, wenn es News bei uns in der Langhaarmädchen Welt gibt:<\/p>",
-              "container_width": 45
+              "container_width": 35
             }
           }
         },
         "block_order": [
           "1494301487049",
           "a95adc85-ada0-4b3f-99eb-f37753c5fe8a",
-          "993deeb6-38eb-487d-8ec9-8006272b630d",
+          "5b405560-2725-4fc1-8ed6-f7cd4349fff0",
           "1494292487693"
         ],
         "settings": {
