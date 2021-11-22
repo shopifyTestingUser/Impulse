@@ -433,7 +433,7 @@
       "type": "map",
       "settings": {
         "map_title": "Adresse",
-        "address": "<p><\/p><p>Langhaarmädchen Salon   <\/p><p>Kaiserstr. 45, 80801 München<\/p><p>Di - Fr nach Absprache<\/p><p><strong>089-21528933<\/strong><\/p>",
+        "address": "<p><\/p><p>Langhaarmädchen Salon <\/p><p>Kaiserstr. 45, 80801 München<\/p><p>Di - Fr nach Absprache<\/p><p><strong>089-21528933<\/strong><\/p>",
         "map_address": "Kaiserstraße 45, 80801 München",
         "map_iframe": "",
         "api_key": "",
