@@ -64,6 +64,44 @@
         "margin_bottom": false
       }
     },
+    "1637579099ee41e176": {
+      "type": "text-and-image",
+      "settings": {
+        "image_position": "left-bottom",
+        "image_bg_color": "#F8E6D4",
+        "subtitle": "",
+        "title": "Image with text",
+        "another_text": false,
+        "text": "<p>Pair large text with an image to tell a story, explain a detail about your product, or describe a new promotion.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "center",
+        "layout": "right",
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
+      }
+    },
+    "1637579228e83d5a15": {
+      "type": "text-and-image",
+      "settings": {
+        "image_position": "left-bottom",
+        "image_bg_color": "#F8E6D4",
+        "subtitle": "",
+        "title": "Image with text",
+        "another_text": false,
+        "text": "<p>Pair large text with an image to tell a story, explain a detail about your product, or describe a new promotion.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "center",
+        "layout": "left",
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
+      }
+    },
     "16348250262b8f3a96": {
       "type": "text-and-image",
       "settings": {
@@ -272,6 +310,8 @@
     "16348249862f5b3040",
     "16348250212312d01d",
     "163749150275738067",
+    "1637579099ee41e176",
+    "1637579228e83d5a15",
     "16348250262b8f3a96",
     "163482516833cd4adb",
     "16353258166a19b026",
