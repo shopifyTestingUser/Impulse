@@ -79,6 +79,7 @@
         "button_style": "primary",
         "align_text": "center",
         "layout": "right",
+        "text_image_bg": "shopify:\/\/shop_images\/line_f1cc6dd6-fb41-46c0-b6a8-740985f4c66f.png",
         "divider": false,
         "margin_top": false,
         "margin_bottom": false
@@ -99,6 +100,7 @@
         "button_style": "primary",
         "align_text": "center",
         "layout": "left",
+        "text_image_bg": "shopify:\/\/shop_images\/line_f1cc6dd6-fb41-46c0-b6a8-740985f4c66f.png",
         "divider": false,
         "margin_top": false,
         "margin_bottom": false
