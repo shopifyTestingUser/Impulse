@@ -143,7 +143,7 @@
             "type": "custom",
             "settings": {
               "show_footer_title": true,
-              "title": "Contacts",
+              "title": "Kontakt",
               "text": "<p><strong>089-21528933<\/strong><br\/>Kaiserstr. 45, 80801 München<br\/><br\/>Di - Fr nach Absprache<\/p>",
               "container_width": 20
             }
