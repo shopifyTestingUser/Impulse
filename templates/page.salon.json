@@ -101,6 +101,7 @@
     },
     "163490746248b9e19e": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "163490746248b9e19e-0": {
           "type": "heading",
@@ -135,6 +136,27 @@
       "settings": {
         "align_text": "center",
         "narrow_column": true,
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
+      }
+    },
+    "16376017988340a1c9": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/WhatsApp_Image_2021-11-22_at_16.42.32.jpg",
+        "image_position": "left-bottom",
+        "image_bg_color": "rgba(0,0,0,0)",
+        "subtitle": "",
+        "title": "Unser Service für dich",
+        "another_text": false,
+        "text": "<p>Wir freuen uns auf deinen Anruf: <strong>089-21528933<\/strong><\/p>",
+        "button_label": "Preisliste herunterladen",
+        "button_link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0285\/6969\/8348\/files\/WhatsApp_Image_2021-11-22_at_16.42.32.jpg?v=1637588627",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "left",
+        "text_image_bg": "shopify:\/\/shop_images\/decor_home_2_1.png",
         "divider": false,
         "margin_top": false,
         "margin_bottom": false
@@ -276,8 +298,8 @@
       "settings": {
         "full_width": true,
         "gutter_size": 0,
-        "space_above": true,
-        "space_below": true,
+        "space_above": false,
+        "space_below": false,
         "color_text": "second"
       }
     },
@@ -300,7 +322,7 @@
         "align_text": "center",
         "narrow_column": true,
         "divider": false,
-        "margin_top": false,
+        "margin_top": true,
         "margin_bottom": false
       }
     },
@@ -581,6 +603,7 @@
     "16349073092065b984",
     "main",
     "163490746248b9e19e",
+    "16376017988340a1c9",
     "16349074948fa012fe",
     "1634907540ba6957b3",
     "16349076903b384634",
