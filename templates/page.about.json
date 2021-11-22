@@ -67,6 +67,7 @@
     "1637579099ee41e176": {
       "type": "text-and-image",
       "settings": {
+        "image": "shopify:\/\/shop_images\/49A0314_1.png",
         "image_position": "left-bottom",
         "image_bg_color": "#F8E6D4",
         "subtitle": "",
@@ -86,6 +87,7 @@
     "1637579228e83d5a15": {
       "type": "text-and-image",
       "settings": {
+        "image": "shopify:\/\/shop_images\/49A1933_1.png",
         "image_position": "left-bottom",
         "image_bg_color": "#F8E6D4",
         "subtitle": "",
