@@ -524,6 +524,7 @@
         },
         "d3606e9f-2ede-4b10-98eb-c074aaa9153a": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "link": "",
             "link_text": "Kontaktformular"
