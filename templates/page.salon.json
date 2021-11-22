@@ -101,7 +101,6 @@
     },
     "163490746248b9e19e": {
       "type": "rich-text",
-      "disabled": true,
       "blocks": {
         "163490746248b9e19e-0": {
           "type": "heading",
@@ -116,7 +115,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Wir freuen uns auf deinen Anruf: <strong>089-21528933<\/strong><\/p>"
+            "text": "<p>Wir freuen uns auf deinen Anruf: <strong>089-21528933<\/strong><\/p><p><\/p>"
           }
         },
         "27193771-10c1-4631-8c71-604006234c2b": {
@@ -141,8 +140,32 @@
         "margin_bottom": false
       }
     },
+    "1637605754143b0ca8": {
+      "type": "promo-grid",
+      "blocks": {
+        "64b120ac-f0a9-4b9f-988e-ec5040c3146a": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/WhatsApp_Image_2021-11-22_at_16.42.32.jpg",
+            "link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0285\/6969\/8348\/files\/WhatsApp_Image_2021-11-22_at_16.42.32.jpg?v=1637588627",
+            "width": "50"
+          }
+        }
+      },
+      "block_order": [
+        "64b120ac-f0a9-4b9f-988e-ec5040c3146a"
+      ],
+      "settings": {
+        "full_width": false,
+        "gutter_size": 20,
+        "space_above": false,
+        "space_below": true,
+        "color_text": "main"
+      }
+    },
     "16376017988340a1c9": {
       "type": "text-and-image",
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/WhatsApp_Image_2021-11-22_at_16.42.32.jpg",
         "image_position": "left-bottom",
@@ -519,29 +542,6 @@
         "image_position": 50
       }
     },
-    "16349081204e24a109": {
-      "type": "rich-text",
-      "disabled": true,
-      "blocks": {
-        "16349081204e24a109-1": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "16349081204e24a109-1"
-      ],
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false,
-        "margin_top": false,
-        "margin_bottom": false
-      }
-    },
     "1634908162416e3f0b": {
       "type": "rich-text",
       "blocks": {
@@ -603,6 +603,7 @@
     "16349073092065b984",
     "main",
     "163490746248b9e19e",
+    "1637605754143b0ca8",
     "16376017988340a1c9",
     "16349074948fa012fe",
     "1634907540ba6957b3",
@@ -617,7 +618,6 @@
     "1634908061ca3b3a9f",
     "16353379449714c0e2",
     "16349080873877e43b",
-    "16349081204e24a109",
     "1634908162416e3f0b",
     "16349081684b16f546"
   ]
