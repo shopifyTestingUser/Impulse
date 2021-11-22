@@ -56,12 +56,32 @@
             "overlay_opacity": 20,
             "focal_point": "center center"
           }
+        },
+        "2e1f389a-1fc2-4990-948a-99f4f6fca46e": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/49A3220.jpg",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
         }
       },
       "block_order": [
         "16349073092065b984-0",
         "16349073092065b984-1",
-        "8949461a-e3e2-4b2f-a40f-1c2d65799d70"
+        "8949461a-e3e2-4b2f-a40f-1c2d65799d70",
+        "2e1f389a-1fc2-4990-948a-99f4f6fca46e"
       ],
       "settings": {
         "section_height": "550px",
