@@ -69,11 +69,11 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/49A0314_1.png",
         "image_position": "left-bottom",
-        "image_bg_color": "#F8E6D4",
+        "image_bg_color": "#f8e6d4",
         "subtitle": "",
-        "title": "Image with text",
+        "title": "dm liebt Langhaarmädchen",
         "another_text": false,
-        "text": "<p>Pair large text with an image to tell a story, explain a detail about your product, or describe a new promotion.<\/p>",
+        "text": "<p>Wir dürfen uns seit 2018 das erste Start-Up nennen, was es geschafft hat eine eigene Exklusivmarke in Kooperation mit dm Deutschland zu launchen.<\/p>",
         "button_label": "",
         "button_link": "",
         "button_style": "primary",
@@ -90,7 +90,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/49A1933_1.png",
         "image_position": "left-bottom",
-        "image_bg_color": "#F8E6D4",
+        "image_bg_color": "#f8e6d4",
         "subtitle": "",
         "title": "Image with text",
         "another_text": false,
