@@ -76,7 +76,7 @@
           </div>
         {%- when 'button' -%}
           <div class="rte">
-            <a href="{{ block.settings.link }}" class="btn">
+            <a href="{{ block.settings.link }}" {%- if block.settings.target_blank -%} target="_blank" {% endif -%} class="btn">
               {{ block.settings.link_text }}
             </a>
           </div>
@@ -277,6 +277,12 @@
         "type": "button",
         "name": "Button",
         "settings": [
+          {
+            "type": "checkbox",
+            "id": "target_blank",
+            "label": "Open in a new window",
+            "default": true
+          },
           {
             "type": "url",
             "id": "link",
