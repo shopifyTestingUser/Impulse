@@ -57,6 +57,15 @@
     "main-collection": {
       "type": "main-collection",
       "blocks": {
+        "product_grid": {
+          "type": "product_grid",
+          "settings": {
+            "enable_collection_count": false,
+            "per_row": 4,
+            "rows_per_page": 7,
+            "mobile_flush_grid": false
+          }
+        },
         "067f2a08-1c47-4e28-86b0-54be92210644": {
           "type": "advanced",
           "settings": {
@@ -89,15 +98,6 @@
             "subcollections_per_row": 5
           }
         },
-        "product_grid": {
-          "type": "product_grid",
-          "settings": {
-            "enable_collection_count": false,
-            "per_row": 4,
-            "rows_per_page": 7,
-            "mobile_flush_grid": false
-          }
-        },
         "f7c44fa5-2e65-4a6c-93e3-b7b3b2f3cf2d": {
           "type": "collection_description",
           "settings": {
@@ -115,15 +115,17 @@
         }
       },
       "block_order": [
+        "product_grid",
         "067f2a08-1c47-4e28-86b0-54be92210644",
         "subcollections",
-        "product_grid",
         "f7c44fa5-2e65-4a6c-93e3-b7b3b2f3cf2d",
         "3559b6de-858f-4999-b0a6-3507db49d7a2"
       ],
       "settings": {
         "enable_sidebar": true,
         "collapsed": true,
+        "space_above": true,
+        "space_below": true,
         "filter_style": "sidebar",
         "has_meta": true,
         "enable_color_swatches": false,
