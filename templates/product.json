@@ -154,11 +154,11 @@
     "16354039156c23565b": {
       "type": "background-image",
       "settings": {
-        "image_left_width": 20,
-        "image_left_position": 0,
+        "image_left_width": 29,
+        "image_left_position": 47,
         "image-right": "shopify:\/\/shop_images\/decor_about_us_2.png",
-        "image_right_width": 33,
-        "image_right_position": 41
+        "image_right_width": 51,
+        "image_right_position": 27
       }
     },
     "16348210811bd81bd1": {

@@ -5,6 +5,7 @@
       "blocks": {
         "163482016929a668b3-0": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "top_subheading": "",
             "title": "Blog",
@@ -48,9 +49,11 @@
     },
     "1634820519c1e44c71": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "4d00af59-c0f3-44c8-bdf5-c9f5baee296c": {
           "type": "page",
+          "disabled": true,
           "settings": {
             "page_text": "blog"
           }
@@ -62,11 +65,14 @@
       "settings": {
         "align_text": "left",
         "narrow_column": true,
-        "divider": false
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
       }
     },
     "main": {
       "type": "blog-template",
+      "disabled": true,
       "settings": {
         "blog_show_tag_filter": false,
         "blog_show_breadcrumbs": false,

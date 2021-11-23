@@ -9,14 +9,14 @@
     "16348249862f5b3040": {
       "type": "hero-video",
       "settings": {
-        "title": "",
-        "title_size": 80,
+        "title": "Unsere Geschichte",
+        "title_size": 58,
         "subheading": "",
         "link_text": "",
         "link": "",
         "color_accent": "rgba(0,0,0,0)",
         "text_align": "vertical-center horizontal-center",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=o0qphg2NLfU",
+        "video_url": "https:\/\/youtu.be\/LyhF0qi2xxA",
         "overlay_opacity": 0,
         "section_height": "650px",
         "mobile_height": "auto"
@@ -31,13 +31,76 @@
         "subtitle": "",
         "title": "About us",
         "another_text": false,
-        "text": "<p>Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Exercitation veniam consequat sunt nostrud amet. Velit officia consequat duis enim velit mollit. <\/p>",
+        "text": "<p>Wir sind <strong>Mona & Julia, <\/strong>Friseurmeisterinnen und Gründerinnen von Langhaarmädchen! <\/p><p>Wir haben uns gegenseitig gestärkt und inspiriert, an uns zu selbst zu glauben und mit Beharrlichkeit, Ehrgeiz & dem Herz am rechten Fleck <strong>unseren Traum wahr werden lassen!<\/strong><\/p>",
         "button_label": "",
         "button_link": "",
         "button_style": "primary",
         "align_text": "center",
         "layout": "right",
         "text_image_bg": "shopify:\/\/shop_images\/decor_salon_1_17a622e0-7ec2-4d49-9b73-4ea7f38c4b76.png",
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
+      }
+    },
+    "163749150275738067": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/image_about_us_2.png",
+        "image_position": "left-bottom",
+        "image_bg_color": "#f8e6d4",
+        "subtitle": "",
+        "title": "",
+        "another_text": false,
+        "text": "<p>Innerhalb von nur <strong>2 Jahren <\/strong>haben wir uns von Friseurmeisterinnen zu <strong>erfolgreichen Jung- Unternehmerinnen <\/strong>entwickelt.<\/p><p>Entstanden ist Mona‘s Idee zur eigenen Haarpflegemarke auf ihrer Weltreise! Ich, Julia, kündigte spontan meinen Job und begleitete Mona die letzten 4 Wochen auf ihrem Roadtrip durchs Leben. Unsere Reise endete bei uns selbst und zurück kamen wir als <strong>Langhaarmädchen<\/strong>!<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "center",
+        "layout": "left",
+        "text_image_bg": "shopify:\/\/shop_images\/decor_home_2_1.png",
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
+      }
+    },
+    "1637579099ee41e176": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/49A0314_1.png",
+        "image_position": "left-bottom",
+        "image_bg_color": "#f8e6d4",
+        "subtitle": "",
+        "title": "dm liebt Langhaarmädchen",
+        "another_text": false,
+        "text": "<p>Wir dürfen uns seit 2018 das erste Start-Up nennen, was es geschafft hat eine eigene Exklusivmarke in Kooperation mit dm Deutschland zu launchen.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "center",
+        "layout": "right",
+        "text_image_bg": "shopify:\/\/shop_images\/line_f1cc6dd6-fb41-46c0-b6a8-740985f4c66f.png",
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
+      }
+    },
+    "1637579228e83d5a15": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/49A1933_1.png",
+        "image_position": "left-bottom",
+        "image_bg_color": "#f8e6d4",
+        "subtitle": "",
+        "title": "Wir wollen dich glücklich machen!",
+        "another_text": false,
+        "text": "<p>Unsere vegane Haarpflegeserie mit über 25 Produkten in über 3.500 dm Märkten gibt es in 13 Ländern und soll dich mit unserer Expertise, der Qualität und unserem Gefühl überzeugen.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "center",
+        "layout": "left",
+        "text_image_bg": "shopify:\/\/shop_images\/line_f1cc6dd6-fb41-46c0-b6a8-740985f4c66f.png",
         "divider": false,
         "margin_top": false,
         "margin_bottom": false
@@ -52,12 +115,12 @@
         "subtitle": "",
         "title": "Image with text",
         "another_text": true,
-        "text": "<p>Wir wollen den Mädels den<br\/><em>Mut <br\/><\/em>entwickeln ihren eigenen Weg zu gehen<\/p>",
+        "text": "<p>Wir wollen dich zum <em>Träumen<\/em> inspirieren, damit du den <em>Mut <\/em>entwickelst deinen <em>eigenen<\/em> Weg zu gehen!<\/p>",
         "button_label": "",
         "button_link": "",
         "button_style": "primary",
         "align_text": "center",
-        "layout": "left",
+        "layout": "right",
         "text_image_bg": "shopify:\/\/shop_images\/decor_about_us_2.png",
         "divider": false,
         "margin_top": false,
@@ -117,9 +180,9 @@
     "1634908297f953607d": {
       "type": "find-more-on",
       "settings": {
-        "text": "Find more on",
+        "text": "Besuche uns auf",
         "margin_top": false,
-        "margin_bottom": true
+        "margin_bottom": false
       }
     },
     "1634825297d0948712": {
@@ -133,9 +196,9 @@
     "163490834132526263": {
       "type": "listen-more",
       "settings": {
-        "text": "Listen more LHM podcasts on Youtube and Spotify!",
-        "first_btn_text": "Watch on Youtube",
-        "second_btn_text": "Listen on Spotify",
+        "text": "Lerne uns über YOUTUBE & SPOTIFY kennen:",
+        "first_btn_text": "Youtube",
+        "second_btn_text": "Spotify",
         "margin_top": false,
         "margin_bottom": true
       }
@@ -147,7 +210,7 @@
           "type": "image",
           "settings": {
             "top_subheading": "",
-            "title": "Our story",
+            "title": "Do what YOU love!!",
             "title_size": 48,
             "subheading": "",
             "link": "",
@@ -160,10 +223,48 @@
             "overlay_opacity": 0,
             "focal_point": "center center"
           }
+        },
+        "b3f462ed-298e-4ec4-a378-817c3a6d1563": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Believe and you're halfway there!",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/DTW_4277.jpg",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        },
+        "62b6ea82-7f7e-46eb-97b8-577d6058758a": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "top_subheading": "",
+            "title": "Two line\ntitle slide.",
+            "title_size": 80,
+            "subheading": "And optional subtext",
+            "link": "",
+            "link_text": "Optional button",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
         }
       },
       "block_order": [
-        "16348253938dde6455-1"
+        "16348253938dde6455-1",
+        "b3f462ed-298e-4ec4-a378-817c3a6d1563",
+        "62b6ea82-7f7e-46eb-97b8-577d6058758a"
       ],
       "settings": {
         "section_height": "650px",
@@ -190,6 +291,7 @@
       "blocks": {
         "339f6a5c-6b47-45c8-bb9a-76a2a1334787": {
           "type": "page",
+          "disabled": true,
           "settings": {
             "page_text": "about-us"
           }
@@ -211,6 +313,9 @@
     "main",
     "16348249862f5b3040",
     "16348250212312d01d",
+    "163749150275738067",
+    "1637579099ee41e176",
+    "1637579228e83d5a15",
     "16348250262b8f3a96",
     "163482516833cd4adb",
     "16353258166a19b026",
