@@ -100,7 +100,6 @@
         },
         "product_grid": {
           "type": "product_grid",
-          "disabled": true,
           "settings": {
             "enable_collection_count": false,
             "per_row": 4,
