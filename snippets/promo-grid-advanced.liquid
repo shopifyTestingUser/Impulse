@@ -46,10 +46,30 @@
           }
       }
   {% endif %}
-
+  {% if block.settings.overlay_opacity > 0 %}
+      .promo-grid__protection--{{ block.id }} .promo-grid__bg:after {
+          content: '';
+          position: absolute;
+          left: 0;
+          right: 0;
+          top: 0;
+          bottom: 0;
+          z-index: 3;
+          background-color: #000;
+          opacity: {{ block.settings.overlay_opacity | divided_by: 100.0 }};
+      }
+  {% endif %}
 {%- endstyle -%}
+{%- liquid
+    assign has_mobile_image = false
+    if block.settings.image_mobile != blank
+        assign has_mobile_image = true
+    endif
+-%}
+
 <div class="promo-grid__container {% if block.settings.boxed %} promo-grid__container--boxed{% endif %}
-            {% if block.settings.framed %} promo-grid__container--framed{% endif %} {{ block.settings.text_align }}">
+            {% if block.settings.framed %} promo-grid__container--framed{% endif %} {{ block.settings.text_align }}
+            {% if block.settings.overlay_opacity > 0 %} promo-grid__protection--{{ block.id }}{% endif %}">
 
   <div class="promo-grid__bg">
     {%- if block.settings.video_url != '' -%}
@@ -65,12 +85,21 @@
         {%- assign img_url = block.settings.image | img_url: '1x1' | replace: '_1x1.', '_{width}x.' -%}
 
         <img
-            class="image-fit promo-grid__bg-image promo-grid__bg-image--{{ block.id }} lazyload"
+            class="image-fit promo-grid__bg-image promo-grid__bg-image--{{ block.id }} lazyload{% if has_mobile_image %} small--hide{% endif %}"
             src="{{ block.settings.image | img_url: '300x' }}"
             data-src="{{ img_url }}"
             data-aspectratio="{{ block.settings.image.aspect_ratio }}"
             data-sizes="auto"
             alt="{{ block.settings.image.alt | escape }}">
+        {%- if has_mobile_image -%}
+            {%- assign img_url_mobile = block.settings.image_mobile | img_url: '1x1' | replace: '_1x1.', '_{width}x.' -%}
+            <img class="22222222 hero__image hero__image--{{ block.id }} lazyload medium-up--hide"
+                 src="{{ block.settings.image_mobile | img_url: '300x' }}"
+                 data-src="{{ img_url_mobile }}"
+                 data-aspectratio="{{ block.settings.image_mobile.aspect_ratio }}"
+                 data-sizes="auto"
+                 alt="{{ block.settings.image_mobile.alt | escape }}">
+        {%- endif -%}
         <noscript>
           <img
               class="image-fit promo-grid__bg-image promo-grid__bg-image--{{ block.id }} lazyloaded"
