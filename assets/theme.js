@@ -1359,7 +1359,6 @@ lazySizesConfig.expFactor = 4;
     AjaxRenderer.prototype = Object.assign({}, AjaxRenderer.prototype, {
       renderPage: function (basePath, searchParams, updateURLHash = true) {
         if (searchParams) this.appendPreservedParams(searchParams);
-  
         const sectionRenders = this.sections.map(section => {
           const url = `${basePath}?section_id=${section.sectionId}&${searchParams}`;
           const cachedSectionUrl = cachedSection => cachedSection.url === url;
@@ -4732,6 +4731,9 @@ lazySizesConfig.expFactor = 4;
       this.sectionId = this.container.getAttribute('data-section-id');
       this.namespace = '.map-' + this.sectionId;
       this.map = container.querySelector(selectors.map);
+      if (!this.map) {
+        return;
+      }
       this.key = this.map.dataset.apiKey;
   
       errors = {
@@ -4751,7 +4753,7 @@ lazySizesConfig.expFactor = 4;
         threshold: 20
       });
     }
-  
+
     // API has loaded, load all Map instances in queue
     function initAllMaps() {
       mapsToLoad.forEach(instance => {
@@ -5970,8 +5972,11 @@ lazySizesConfig.expFactor = 4;
   
       setFilterStickyPosition: function() {
         var headerHeight = document.querySelector('.site-header').offsetHeight;
-        document.querySelector(selectors.filters).style.top = headerHeight + 10 + 'px';
-  
+
+        if (document.querySelector(selectors.filters) !== null) {
+          document.querySelector(selectors.filters).style.top = headerHeight + 10 + 'px';
+        }
+
         // Also update top position of sticky sidebar
         var stickySidebar = document.querySelector('.grid__item--sidebar');
         if (stickySidebar) {
