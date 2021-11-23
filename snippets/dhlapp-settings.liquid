@@ -1,0 +1,46 @@
+
+    {% assign locationSearchEnabled = shop.metafields.dhlapp.locationSearchEnabled %}
+
+    {% assign not_available_products = 0 %}
+    
+    {% for item in cart.items %}
+        {% if item.variant.inventory_management != '' and item.variant.inventory_management != blank %}
+            {% if item.variant.inventory_quantity <= 0 %}
+                {% assign not_available_products = not_available_products | plus: 1 %}
+            {% endif %}
+        {% endif %}
+    {% endfor %}
+    <script>
+        var DHLAPP = {};
+        DHLAPP.POST_CLIENT_ITEM_ACCESS_TOKEN = '2d1ed54b55524d5c981a7091bfc3879c'
+        DHLAPP.env = 'production'
+        const allProductsInStock = ( {{not_available_products}} === 0 );
+        const preferredDayVariantPrice = '1.20';
+        const preferredTimeVariantPrice = '4.80';
+
+        DHLAPP.SHOP_CURRENCY = '{{shop.currency}}';
+
+        DHLAPP.PREFERRED_ENABLED = {
+            preferredNeighbour: 'true', 
+            preferredLocation: 'true', 
+            preferredDay: allProductsInStock && true, 
+            preferredTime: allProductsInStock && false 
+        };
+        DHLAPP.PREFERRED_SETTINGS = {
+            preferredDay: {
+                variantId: 39689548202164,
+                variantPrice: preferredDayVariantPrice,
+            },
+            preferredTime: {
+                variantId: 39689548464308,
+                variantPrice: preferredTimeVariantPrice,
+            },            
+        };
+        DHLAPP.DEFAULT_MAP_POS = { lat: 52.520645, lng: 13.409779 };
+        DHLAPP.PREFERRED_TOTAL_DAYS = 6;
+        DHLAPP.PREFERRED_OFFSET_DAYS = 2;
+        DHLAPP.PREFERRED_CUTTOFF_TIME = '14:30';
+        DHLAPP.SHOP = 'langhaarmadchen.myshopify.com';
+        DHLAPP.DHL_PARCEL_URL = 'https://dhlapp.vilango.com/dhlparcellocation/';
+    </script>
+    
