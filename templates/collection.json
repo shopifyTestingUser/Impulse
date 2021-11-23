@@ -67,23 +67,30 @@
         "product_grid": {
           "type": "product_grid",
           "settings": {
-            "enable_collection_count": true,
+            "enable_collection_count": false,
             "per_row": 4,
             "rows_per_page": 7,
             "mobile_flush_grid": false
           }
         },
+        "f7c44fa5-2e65-4a6c-93e3-b7b3b2f3cf2d": {
+          "type": "collection_description",
+          "settings": {
+          }
+        },
         "3559b6de-858f-4999-b0a6-3507db49d7a2": {
           "type": "banner",
+          "disabled": true,
           "settings": {
             "text": "Damit zur Salon Eröffnung nicht nur die Münchner etwas davon haben..",
             "color_tint": "#000000",
             "color_tint_opacity": 100,
-            "framed": false
+            "framed": true
           }
         },
         "067f2a08-1c47-4e28-86b0-54be92210644": {
           "type": "advanced",
+          "disabled": true,
           "settings": {
             "subheading": "special offer ab 23. November",
             "heading": "Limitierte Salon Box",
@@ -111,6 +118,7 @@
       "block_order": [
         "subcollections",
         "product_grid",
+        "f7c44fa5-2e65-4a6c-93e3-b7b3b2f3cf2d",
         "3559b6de-858f-4999-b0a6-3507db49d7a2",
         "067f2a08-1c47-4e28-86b0-54be92210644"
       ],
