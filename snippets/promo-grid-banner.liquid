@@ -26,6 +26,15 @@
         background: {{ block.settings.color_tint | color_modify: 'alpha', color_tint_opacity }};
         }
     {% endif %}
+    @media (min-width: 768px){
+        .type-banner__text--{{ section.id }} {
+            max-width: 1460px;
+            width: 100%;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+    }
 
 {%- endstyle -%}
 {%- if block.settings.link -%}
@@ -53,7 +62,7 @@
                 </div>
             </div>
         {%- endif -%}
-        <div class="type-banner__text text-color--{{ section.id }}">
+        <div class="type-banner__text type-banner__text--{{ section.id }} text-color--{{ section.id }}">
             {%- if block.settings.heading != blank -%}
                 <p class="h5">{{ block.settings.heading }}</p>
             {%- endif -%}

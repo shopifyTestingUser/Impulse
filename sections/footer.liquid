@@ -22,11 +22,6 @@
     }
   }
 
-  {%- if settings.color_footer == settings.color_body_bg -%}
-    .site-footer {
-      border-top: 1px solid {{ settings.color_borders }};
-    }
-  {%- endif -%}
   .page-width--{{ section.id }}{
     max-width: 1420px;
     margin: 0 auto;
