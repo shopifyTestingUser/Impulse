@@ -1,25 +1,31 @@
+{% style %}
+  .hr--{{ section.id }}{
+    margin-top: 20px;
+  }
+{% endstyle %}
+
 {%- paginate search.results by 12 -%}
 
 <div class="page-width page-content">
   {%- render 'breadcrumbs' -%}
 
   <header class="section-header">
-    <h1 class="section-header__title">
+    <h3 class="section-header__title">
       {{ 'general.search.title' | t }}
-    </h1>
+    </h3>
   </header>
 
   {%- render 'search-bar', search_btn_style: 'btn', search_bar_location: 'search-bar--page' -%}
 
   {%- if search.performed -%}
 
-    <hr class="hr--medium">
+    <hr class="hr--medium hr--{{ section.id }}">
 
     <div data-section-id="{{ section.id }}" data-section-type="collection-template">
       <div class="section-header">
-        <h2 class="section-header__title">
+        <h3 class="section-header__title">
           {{ 'general.search.result_count' | t: count: search.results_count }}
-        </h2>
+        </h3>
         {%- if search.results_count == 0 -%}
           <p>
             {{ 'general.search.no_results_html' | t: terms: search.terms | replace: '*', '' }}

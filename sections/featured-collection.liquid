@@ -21,7 +21,7 @@
       <div class="section-header section-header--{{ section.id }}{% if section.settings.view_all %}{% unless settings.type_headers_align_text %} section-header--with-link{% endunless %}{% endif %}">
         {%- if section.settings.image != blank -%}
           {% style %}
-            .section-header--{{ section.id }} .theme-block {
+            .section-header--{{ section.id }} {
               position: relative;
             }
             .section-header--{{ section.id }} .section-header__title {
