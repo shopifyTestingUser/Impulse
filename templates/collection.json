@@ -57,6 +57,22 @@
     "main-collection": {
       "type": "main-collection",
       "blocks": {
+        "subcollections": {
+          "type": "subcollections",
+          "disabled": true,
+          "settings": {
+            "subcollections_per_row": 5
+          }
+        },
+        "product_grid": {
+          "type": "product_grid",
+          "settings": {
+            "enable_collection_count": true,
+            "per_row": 4,
+            "rows_per_page": 7,
+            "mobile_flush_grid": false
+          }
+        },
         "3559b6de-858f-4999-b0a6-3507db49d7a2": {
           "type": "banner",
           "settings": {
@@ -90,29 +106,13 @@
             "boxed": false,
             "framed": false
           }
-        },
-        "subcollections": {
-          "type": "subcollections",
-          "disabled": true,
-          "settings": {
-            "subcollections_per_row": 5
-          }
-        },
-        "product_grid": {
-          "type": "product_grid",
-          "settings": {
-            "enable_collection_count": false,
-            "per_row": 4,
-            "rows_per_page": 7,
-            "mobile_flush_grid": false
-          }
         }
       },
       "block_order": [
-        "3559b6de-858f-4999-b0a6-3507db49d7a2",
-        "067f2a08-1c47-4e28-86b0-54be92210644",
         "subcollections",
-        "product_grid"
+        "product_grid",
+        "3559b6de-858f-4999-b0a6-3507db49d7a2",
+        "067f2a08-1c47-4e28-86b0-54be92210644"
       ],
       "settings": {
         "enable_sidebar": true,
