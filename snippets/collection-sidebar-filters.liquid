@@ -7,7 +7,9 @@
         <a class="btn btn--small" href="{{ filter_value.url_to_remove }}">
           {{ filter_value.label | escape }}
         </a>
-        <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-close" viewBox="0 0 64 64"><path d="M19 17.61l27.12 27.13m0-27.12L19 44.74"/></svg>
+        <a href="{{ filter_value.url_to_remove }}" class="icon icon-close">
+            <svg aria-hidden="true" focusable="false" role="presentation"  viewBox="0 0 64 64"><path d="M19 17.61l27.12 27.13m0-27.12L19 44.74"/></svg>
+        </a>
       </li>
     {%- endfor -%}
   {%- endfor -%}
