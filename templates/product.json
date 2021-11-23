@@ -64,7 +64,7 @@
         "contact": {
           "type": "contact",
           "settings": {
-            "title": "Ask a question",
+            "title": "Du hast eine Frage?",
             "phone": false
           }
         },
