@@ -1,3 +1,9 @@
+{% style %}
+  .hr--{{ section.id }}{
+    margin-top: 20px;
+  }
+{% endstyle %}
+
 {%- paginate search.results by 12 -%}
 
 <div class="page-width page-content">
@@ -13,7 +19,7 @@
 
   {%- if search.performed -%}
 
-    <hr class="hr--medium" style="margin-top: 20px">
+    <hr class="hr--medium hr--{{ section.id }}">
 
     <div data-section-id="{{ section.id }}" data-section-type="collection-template">
       <div class="section-header">
