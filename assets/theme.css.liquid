@@ -5734,12 +5734,18 @@ form+.footer__social{
   position:relative;
 }
 
+.collapsible-trigger.h6{
+    margin-bottom: 0;
+}
+
 .collapsible-trigger__icon{
   display:block;
   position:absolute;
-  right:0;
   width:10px;
   height:10px;
+  top: 50%;
+  right:0;
+  transform: translateY(-50%);
 }
 
 @media only screen and (min-width:769px){
@@ -7613,7 +7619,6 @@ input[type=image]{
     right:10px;
     top:50%;
     transform:translateY(-50%);
-    pointer-events:none;
     color:{{ settings.color_button_text | default: "#fff" }};
     color:var(--colorBtnPrimaryText);
   }
@@ -11715,9 +11720,26 @@ input.btn.btn--secondary:hover ,p.btn.btn--secondary:hover,button.btn.btn--secon
     width: 50%
   }
 }
+
 .shopify-section{
   position: relative;
 }
+
 #PageContainer{
   overflow: hidden;
+}
+
+.shopify-policy__container h1,
+.shopify-policy__container .h1{
+  font-size: 2.5vw;
+}
+@media (max-width: 768px){
+  .shopify-policy__container h1,
+  .shopify-policy__container .h1{
+    font-size: 4.5vw;
+  }
+}
+.shopify-policy__container p,
+.shopify-policy__container span{
+  word-break: break-word;
 }
