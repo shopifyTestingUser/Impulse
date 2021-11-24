@@ -115,7 +115,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Wir freuen uns auf deinen Anruf: <strong>089-21528933<\/strong><\/p><p><\/p>"
+            "text": "<p>Wir freuen uns auf deinen Anruf: <a href=\"tel:089-21528933\" title=\"tel:089-21528933\"><strong>089-21528933<\/strong><\/a><\/p><p><\/p>"
           }
         },
         "27193771-10c1-4631-8c71-604006234c2b": {
