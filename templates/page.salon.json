@@ -115,7 +115,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Wir freuen uns auf deinen Anruf: <a href=\"tel:089-21528933\" title=\"tel:089-21528933\"><strong>089-21528933<\/strong><\/a><\/p><p>Adresse:<\/p><p><a href=\"https:\/\/www.google.de\/maps\/place\/Kaiserstra%C3%9Fe+45,+M%C3%BCnchen\/@48.0504751,11.7103485,15z\/data=!4m5!3m4!1s0x479e75c697a0a553:0xa35b4aec031d8371!8m2!3d48.1610349!4d11.578951\" target=\"_blank\" title=\"Adresse Langhaarmädchen Salon\">Kaiserstrasse 45<br\/>80801 München<\/a><\/p><p><\/p>"
+            "text": "<p>Hey Herzensmensch!<\/p><p>Herzlich willkommen in unserem ersten Langhaarmädchen Salon in München! Unser nächster Traum ist wahr geworden! Bei uns geht’s um deine Schönheit von Innen & Aussen! <\/p><p><\/p><p>Wir freuen uns auf deinen Anruf: <a href=\"tel:089-21528933\" title=\"tel:089-21528933\"><strong>089-21528933<\/strong><\/a><\/p><p>Adresse:<\/p><p><a href=\"https:\/\/www.google.de\/maps\/place\/Kaiserstra%C3%9Fe+45,+M%C3%BCnchen\/@48.0504751,11.7103485,15z\/data=!4m5!3m4!1s0x479e75c697a0a553:0xa35b4aec031d8371!8m2!3d48.1610349!4d11.578951\" target=\"_blank\" title=\"Adresse Langhaarmädchen Salon\">Kaiserstrasse 45<br\/>80801 München<\/a><\/p><p><\/p><p><\/p>"
           }
         },
         "27193771-10c1-4631-8c71-604006234c2b": {
@@ -136,6 +136,52 @@
       "settings": {
         "align_text": "center",
         "narrow_column": true,
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
+      }
+    },
+    "16349074948fa012fe": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/49A3099_22337862-81c0-4de8-ad0d-c144813e4b11.jpg",
+        "image2": "shopify:\/\/shop_images\/49A3220.jpg",
+        "image_position": "left-bottom",
+        "image_bg_color": "#f8e6d4",
+        "image_bg": "shopify:\/\/shop_images\/Frame_106.png",
+        "subtitle": "",
+        "title": "Komm uns besuchen",
+        "another_text": false,
+        "text": "<p>Dich erwarten unsere eigens entwickelten dm liebt Langhaarmädchen Haarpflegeprodukte<br\/>und die dazugehörige Herzensberatung. Wir hoffen du kannst deine Zeit bei uns nutzen, durch unsere Storytellingwand über<br\/>deine Träume nachzudenken und bei uns Mut & Inspirationen zu tanken!<\/p>",
+        "button_label": "TERMIN ANFRAGEN",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "text_image_bg": "shopify:\/\/shop_images\/decor_salon_1_17a622e0-7ec2-4d49-9b73-4ea7f38c4b76.png",
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
+      }
+    },
+    "1634907540ba6957b3": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/49A3375.jpg",
+        "image2": "shopify:\/\/shop_images\/salon_portrait.jpg",
+        "image_position": "left-bottom",
+        "image_bg_color": "#f6dad6",
+        "image_bg": "shopify:\/\/shop_images\/Frame_106_1.png",
+        "subtitle": "",
+        "title": "Wir sind für dich da",
+        "another_text": false,
+        "text": "<p>Wir sind in unserem Salon spezialisiert auf lange Haare, Haarverdichtung, Balayage und Keratinglättung! Alles<br\/>was dich und deine langen Haare glücklich macht! Genieße in unserer Wellness-Oase, umringt von Traumfängern, Zeit für dich und lass'<br\/>deine Seele baumeln! <\/p><p>Du musst es selbst erleben! Höchste Qualität, Good Vibes, ehrliche Gespräche oder einfach Ruhe für dich!Mona und unser Friseurmeister Team freuen sich unendlich auf dich!Fühl dich fest gedrückt und bis bald!!<\/p>",
+        "button_label": "book an appointment",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "left",
+        "text_image_bg": "shopify:\/\/shop_images\/decor_salon_2.png",
         "divider": false,
         "margin_top": false,
         "margin_bottom": false
@@ -234,54 +280,6 @@
         "align_text": "left",
         "layout": "left",
         "text_image_bg": "shopify:\/\/shop_images\/decor_home_2_1.png",
-        "divider": false,
-        "margin_top": false,
-        "margin_bottom": false
-      }
-    },
-    "16349074948fa012fe": {
-      "type": "text-and-image",
-      "disabled": true,
-      "settings": {
-        "image": "shopify:\/\/shop_images\/hairstyle1_1.png",
-        "image2": "shopify:\/\/shop_images\/hairstyle2_1.png",
-        "image_position": "left-bottom",
-        "image_bg_color": "#f8e6d4",
-        "image_bg": "shopify:\/\/shop_images\/Frame_106.png",
-        "subtitle": "$100",
-        "title": "Service 1",
-        "another_text": false,
-        "text": "<p>Pair large text with an image to tell a story, explain a detail about your product, or describe a new promotion.<\/p>",
-        "button_label": "book an appointment",
-        "button_link": "",
-        "button_style": "primary",
-        "align_text": "left",
-        "layout": "right",
-        "text_image_bg": "shopify:\/\/shop_images\/decor_salon_1_17a622e0-7ec2-4d49-9b73-4ea7f38c4b76.png",
-        "divider": false,
-        "margin_top": false,
-        "margin_bottom": false
-      }
-    },
-    "1634907540ba6957b3": {
-      "type": "text-and-image",
-      "disabled": true,
-      "settings": {
-        "image": "shopify:\/\/shop_images\/hairstule3_1.png",
-        "image2": "shopify:\/\/shop_images\/hairstyle4_1.png",
-        "image_position": "left-bottom",
-        "image_bg_color": "#f6dad6",
-        "image_bg": "shopify:\/\/shop_images\/Frame_106_1.png",
-        "subtitle": "$100",
-        "title": "Service 2",
-        "another_text": false,
-        "text": "<p>Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.<\/p>",
-        "button_label": "book an appointment",
-        "button_link": "",
-        "button_style": "primary",
-        "align_text": "left",
-        "layout": "left",
-        "text_image_bg": "shopify:\/\/shop_images\/decor_salon_2.png",
         "divider": false,
         "margin_top": false,
         "margin_bottom": false
@@ -603,11 +601,11 @@
     "16349073092065b984",
     "main",
     "163490746248b9e19e",
+    "16349074948fa012fe",
+    "1634907540ba6957b3",
     "16349076903b384634",
     "1637605754143b0ca8",
     "16376017988340a1c9",
-    "16349074948fa012fe",
-    "1634907540ba6957b3",
     "16349077831e0c599d",
     "16349078470f63730c",
     "1634907866597b00bd",
