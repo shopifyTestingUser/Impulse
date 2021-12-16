@@ -141,6 +141,59 @@
         "margin_bottom": false
       }
     },
+    "16349076903b384634": {
+      "type": "services-columns",
+      "blocks": {
+        "16349076903b384634-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/shopify_expertise_haarverdichtung.jpg",
+            "title": "Haarverdichtung",
+            "price": "ab 490 €",
+            "text": "<p>Du vermisst Volumen und eine Haarpracht, mit der du dich so richtig wohlfühlst?! Wir<br\/>liiieben natürliche Haarverdichtungen, arbeiten seit 8 Jahren mit den besten Tape Extensions von hairtalk und werden dir damit ganz neue Haar-Träume ermöglichen!<\/p>",
+            "button_label": "BERATUNG",
+            "button_link": "tel:\/\/08921528933"
+          }
+        },
+        "16349076903b384634-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/shopify_expertise_baladings.jpg",
+            "title": "Balayage",
+            "price": "280 €",
+            "text": "<p>Du suchst eine Haarfarbe die deine Persönlichkeit widerspiegelt, die lange hält und fließend rauswächst? Lass dich am Telefon ganz persönlich beraten oder wünsche dir einen Facetime Call von uns!<\/p><p><\/p>",
+            "button_label": "BERATUNG",
+            "button_link": "tel:\/\/08921528933"
+          }
+        },
+        "16349076903b384634-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/shopify_expertise_keratin.jpg",
+            "title": "Keratinglättung",
+            "price": "450 €",
+            "text": "<p>Du kommst mit deinem Frizz nicht klar? Du wünschst dir eine Beruhigung deiner Struktur<br\/>oder endlich ganz glatte Haare ohne viel Aufwand? Die schonendste Keratinglättung findest<br\/>du bei uns! Wir kümmern uns um deine Träume!<\/p>",
+            "button_label": "BERATUNG",
+            "button_link": "tel:\/\/08921528933"
+          }
+        }
+      },
+      "block_order": [
+        "16349076903b384634-0",
+        "16349076903b384634-1",
+        "16349076903b384634-2"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "left",
+        "divider": false,
+        "image_width": 50,
+        "image_position": 50
+      }
+    },
     "1637605754143b0ca8": {
       "type": "promo-grid",
       "blocks": {
@@ -232,59 +285,6 @@
         "divider": false,
         "margin_top": false,
         "margin_bottom": false
-      }
-    },
-    "16349076903b384634": {
-      "type": "services-columns",
-      "blocks": {
-        "16349076903b384634-0": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify:\/\/shop_images\/shopify_expertise_haarverdichtung.jpg",
-            "title": "Haarverdichtung",
-            "price": "ab 490 €",
-            "text": "<p>Du vermisst Volumen und eine Haarpracht, mit der du dich so richtig wohlfühlst?! Wir<br\/>liiieben natürliche Haarverdichtungen, arbeiten seit 8 Jahren mit den besten Tape Extensions von hairtalk und werden dir damit ganz neue Haar-Träume ermöglichen!<\/p>",
-            "button_label": "BERATUNG",
-            "button_link": "tel:\/\/08921528933"
-          }
-        },
-        "16349076903b384634-1": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify:\/\/shop_images\/shopify_expertise_baladings.jpg",
-            "title": "Balayage",
-            "price": "280 €",
-            "text": "<p>Du suchst eine Haarfarbe die deine Persönlichkeit widerspiegelt, die lange hält und fließend rauswächst? Lass dich am Telefon ganz persönlich beraten oder wünsche dir einen Facetime Call von uns!<\/p><p><\/p>",
-            "button_label": "BERATUNG",
-            "button_link": "tel:\/\/08921528933"
-          }
-        },
-        "16349076903b384634-2": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify:\/\/shop_images\/shopify_expertise_keratin.jpg",
-            "title": "Keratinglättung",
-            "price": "450 €",
-            "text": "<p>Du kommst mit deinem Frizz nicht klar? Du wünschst dir eine Beruhigung deiner Struktur<br\/>oder endlich ganz glatte Haare ohne viel Aufwand? Die schonendste Keratinglättung findest<br\/>du bei uns! Wir kümmern uns um deine Träume!<\/p>",
-            "button_label": "BERATUNG",
-            "button_link": "tel:\/\/08921528933"
-          }
-        }
-      },
-      "block_order": [
-        "16349076903b384634-0",
-        "16349076903b384634-1",
-        "16349076903b384634-2"
-      ],
-      "settings": {
-        "title": "",
-        "align_text": "left",
-        "divider": false,
-        "image_width": 50,
-        "image_position": 50
       }
     },
     "16349077831e0c599d": {
@@ -603,11 +603,11 @@
     "16349073092065b984",
     "main",
     "163490746248b9e19e",
+    "16349076903b384634",
     "1637605754143b0ca8",
     "16376017988340a1c9",
     "16349074948fa012fe",
     "1634907540ba6957b3",
-    "16349076903b384634",
     "16349077831e0c599d",
     "16349078470f63730c",
     "1634907866597b00bd",
