@@ -194,7 +194,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify:\/\/shop_images\/shopify_expertise_haarverdichtung.jpg",
+            "image": "shopify:\/\/shop_images\/verdichtung.png",
             "title": "Haarverdichtung",
             "price": "ab 490 €",
             "text": "<p>Du vermisst Volumen und eine Haarpracht, mit der du dich so richtig wohlfühlst?! Wir<br\/>liiieben natürliche Haarverdichtungen, arbeiten seit 8 Jahren mit den besten Tape Extensions von hairtalk und werden dir damit ganz neue Haar-Träume ermöglichen!<\/p>",
@@ -218,7 +218,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify:\/\/shop_images\/shopify_expertise_keratin.jpg",
+            "image": "shopify:\/\/shop_images\/glattung.png",
             "title": "Keratinglättung",
             "price": "450 €",
             "text": "<p>Du kommst mit deinem Frizz nicht klar? Du wünschst dir eine Beruhigung deiner Struktur<br\/>oder endlich ganz glatte Haare ohne viel Aufwand? Die schonendste Keratinglättung findest<br\/>du bei uns! Wir kümmern uns um deine Träume!<\/p>",
