@@ -13,13 +13,13 @@
       "settings": {
         "title": "Langhaarmädchen",
         "title_size": 48,
-        "subheading": "",
-        "link_text": "Ab jetzt in München",
-        "link": "shopify:\/\/pages\/salon",
+        "subheading": "Besuch uns in München",
+        "link_text": "TERMIN BUCHEN",
+        "link": "https:\/\/www.e-cut.de\/online-buchung\/index.php?salon=langhaarmaedchen_nersingen",
         "color_accent": "#f8e6d4",
         "text_align": "vertical-bottom horizontal-center",
         "video_url": "https:\/\/youtu.be\/7KpYR3jA20M",
-        "overlay_opacity": 0,
+        "overlay_opacity": 30,
         "section_height": "550px",
         "mobile_height": "auto"
       }
