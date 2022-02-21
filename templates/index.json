@@ -103,7 +103,7 @@
             "width_content": 100,
             "text_align": "vertical-bottom horizontal-center",
             "focal_point": "bottom",
-            "color_accent": "rgba(0,0,0,0)",
+            "color_accent": "#f8dbd7",
             "boxed": false,
             "framed": false
           }
