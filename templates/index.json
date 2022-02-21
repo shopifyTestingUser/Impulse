@@ -80,7 +80,7 @@
             "focal_point": "bottom",
             "color_accent": "#f8e6d4",
             "boxed": false,
-            "framed": false
+            "framed": true
           }
         },
         "promo-1": {
