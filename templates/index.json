@@ -41,11 +41,28 @@
             "enlarge_text": true,
             "text": "<p>Langhaarmädchen ist, wer sich als Langhaarmädchen fühlt!<\/p><p>Herzlich Willkommen in unserer Welt!<\/p>"
           }
+        },
+        "d6a1f4c2-aff6-40e9-962e-4ecdbfad5478": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><\/p><p>Schau dich um auf unsere Seite und lerne unsere <strong>Produkte <\/strong>und unsere <strong>Werte <\/strong>kennen oder komm uns direkt im Herzen von München besuchen. <\/p>"
+          }
+        },
+        "1d1a4f28-2bfc-46ab-a2de-0b7d5b37f9db": {
+          "type": "button",
+          "settings": {
+            "target_blank": true,
+            "link": "https:\/\/www.google.com\/maps\/dir\/\/langhaarm%C3%A4dchen+salon\/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x479e75f2ec32fdb9:0xa95104f65a1b74a?sa=X&ved=2ahUKEwjU5MHumJH2AhWDQ_EDHWWQAgMQ9Rd6BAgkEAU",
+            "link_text": "zum Langhaarmädchen Salon"
+          }
         }
       },
       "block_order": [
         "heading",
-        "text"
+        "text",
+        "d6a1f4c2-aff6-40e9-962e-4ecdbfad5478",
+        "1d1a4f28-2bfc-46ab-a2de-0b7d5b37f9db"
       ],
       "settings": {
         "align_text": "center",
