@@ -105,7 +105,7 @@
             "focal_point": "bottom",
             "color_accent": "#f8dbd7",
             "boxed": false,
-            "framed": false
+            "framed": true
           }
         }
       },
