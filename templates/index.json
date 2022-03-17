@@ -8,8 +8,82 @@
         "margin_bottom": false
       }
     },
+    "1647507061504d8042": {
+      "type": "slideshow",
+      "blocks": {
+        "1647507061cc047f37-0": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Willkommen!",
+            "title_size": 60,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/49A3099_22337862-81c0-4de8-ad0d-c144813e4b11.jpg",
+            "overlay_opacity": 20,
+            "focal_point": "center center"
+          }
+        },
+        "1647507061cc047f37-1": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Exklusiv &  gefühlvoll nur für Dich!",
+            "title_size": 60,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/49A3398.jpg",
+            "overlay_opacity": 20,
+            "focal_point": "center center"
+          }
+        },
+        "2aa04067-fe88-4da6-9ae7-50a315da0d90": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Deine Wohlfühloase!",
+            "title_size": 60,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/49A3207_00c697ed-b4f3-4086-9812-aa5fe1ba3574.jpg",
+            "overlay_opacity": 20,
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "1647507061cc047f37-0",
+        "1647507061cc047f37-1",
+        "2aa04067-fe88-4da6-9ae7-50a315da0d90"
+      ],
+      "settings": {
+        "section_height": "550px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "arrows": true,
+        "autoplay": true,
+        "autoplay_speed": 5
+      }
+    },
     "16342858496dc05777": {
       "type": "hero-video",
+      "disabled": true,
       "settings": {
         "title": "Langhaarmädchen",
         "title_size": 48,
@@ -265,60 +339,6 @@
         "color_text": "second"
       }
     },
-    "163454067579e18513": {
-      "type": "text-columns",
-      "disabled": true,
-      "blocks": {
-        "163454067579e18513-0": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify:\/\/shop_images\/diamond_1.png",
-            "image_width": 44,
-            "title": "advantage 1",
-            "text": "<p>Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.<\/p>",
-            "button_label": "",
-            "button_link": ""
-          }
-        },
-        "163454067579e18513-1": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify:\/\/shop_images\/Group_1.png",
-            "image_width": 44,
-            "title": "advantage 2",
-            "text": "<p>Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.<\/p>",
-            "button_label": "",
-            "button_link": ""
-          }
-        },
-        "163454067579e18513-2": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify:\/\/shop_images\/insignia_1.png",
-            "image_width": 44,
-            "title": "advantage 3",
-            "text": "<p>Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.<\/p>",
-            "button_label": "",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "163454067579e18513-0",
-        "163454067579e18513-1",
-        "163454067579e18513-2"
-      ],
-      "settings": {
-        "title": "",
-        "align_text": "center",
-        "divider": false,
-        "image_width": 50,
-        "image_position": 50
-      }
-    },
     "1635324918275a11f0": {
       "type": "background-image",
       "settings": {
@@ -466,6 +486,7 @@
   },
   "order": [
     "16348201304e0aefe8",
+    "1647507061504d8042",
     "16342858496dc05777",
     "rich-text",
     "promo-grid",
@@ -474,7 +495,6 @@
     "1634914413444a0acc",
     "1635337190cc65ddaf",
     "promo-grid2",
-    "163454067579e18513",
     "1635324918275a11f0",
     "163456592274a2a708",
     "16352358192ec4b529",

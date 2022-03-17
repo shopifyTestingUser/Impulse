@@ -1,7 +1,24 @@
 {
   "sections": {
+    "16475075815ec4bf82": {
+      "type": "hero-video",
+      "settings": {
+        "title": "Langhaarmädchen",
+        "title_size": 48,
+        "subheading": "Besuch uns in München",
+        "link_text": "TERMIN BUCHEN",
+        "link": "https:\/\/www.e-cut.de\/online-buchung\/index.php?salon=langhaarmaedchen_nersingen",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-bottom horizontal-center",
+        "video_url": "https:\/\/youtu.be\/7KpYR3jA20M",
+        "overlay_opacity": 30,
+        "section_height": "550px",
+        "mobile_height": "auto"
+      }
+    },
     "16349073092065b984": {
       "type": "slideshow",
+      "disabled": true,
       "blocks": {
         "16349073092065b984-0": {
           "type": "image",
@@ -474,72 +491,6 @@
         "image_right_position": 0
       }
     },
-    "16349080873877e43b": {
-      "type": "testimonials",
-      "disabled": true,
-      "blocks": {
-        "16349080873877e43b-0": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "none",
-            "testimonial": "<p>Add here a description of your vacancy. Add here a description of your vacancy.<\/p>",
-            "author": "Vacancy",
-            "author_info": "City"
-          }
-        },
-        "16349080873877e43b-1": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "none",
-            "testimonial": "<p>Add here a description of your vacancy. Add here a description of your vacancy.<\/p>",
-            "author": "Vacancy",
-            "author_info": "City"
-          }
-        },
-        "16349080873877e43b-2": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "none",
-            "testimonial": "<p>Add here a description of your vacancy. Add here a description of your vacancy.<\/p>",
-            "author": "Vacancy",
-            "author_info": "City"
-          }
-        },
-        "16349080873877e43b-3": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "none",
-            "testimonial": "<p>Add here a description of your vacancy. Add here a description of your vacancy.<\/p>",
-            "author": "Vacancy",
-            "author_info": "City"
-          }
-        },
-        "16349080873877e43b-4": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "none",
-            "testimonial": "<p>Add here a description of your vacancy. Add here a description of your vacancy.<\/p>",
-            "author": "Vacancy",
-            "author_info": "City"
-          }
-        }
-      },
-      "block_order": [
-        "16349080873877e43b-0",
-        "16349080873877e43b-1",
-        "16349080873877e43b-2",
-        "16349080873877e43b-3",
-        "16349080873877e43b-4"
-      ],
-      "settings": {
-        "subtitle": "We are seeking",
-        "title": "for you!",
-        "align_text": "center",
-        "round_images": true,
-        "image_width": 50,
-        "image_position": 50
-      }
-    },
     "1634908162416e3f0b": {
       "type": "rich-text",
       "blocks": {
@@ -598,6 +549,7 @@
     }
   },
   "order": [
+    "16475075815ec4bf82",
     "16349073092065b984",
     "main",
     "163490746248b9e19e",
@@ -615,7 +567,6 @@
     "163490805600b213e0",
     "1634908061ca3b3a9f",
     "16353379449714c0e2",
-    "16349080873877e43b",
     "1634908162416e3f0b",
     "16349081684b16f546"
   ]
