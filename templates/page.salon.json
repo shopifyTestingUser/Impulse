@@ -316,6 +316,7 @@
       "blocks": {
         "4045078a-851e-4712-8e24-fd7eae750b22": {
           "type": "banner",
+          "disabled": true,
           "settings": {
             "heading": "",
             "text": "",
