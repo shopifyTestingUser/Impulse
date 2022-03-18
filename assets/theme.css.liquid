@@ -1282,6 +1282,43 @@ html[dir=rtl] .grid--center .grid__item {
 .text-center {
     text-align: center !important;
 }
+.grid-services-over {
+    overflow: visible;
+}
+
+.text-over {
+    position: relative;
+    color: var(--color-white);
+}
+.text-over .services-column__price{
+    color: var(--color-white);
+}
+.text-over__container {
+    position: absolute;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+    width: 100%;
+    height: 100%;
+    bottom: 0;
+    padding: 15px;
+}
+@media only screen and (min-width: 769px) {
+    .text-over__container {
+        padding: 38px 15px;
+    }
+}
+.text-over .image-wrap {
+    width: 100%;
+    margin-bottom: 0;
+}
+.text-over a.btn {
+    background: transparent !important;
+    color: var(--color-white) !important;
+    border: 1px solid  var(--color-white) !important;
+}
 
 @media only screen and (max-width: 768px) {
     .small--show {
@@ -3099,6 +3136,49 @@ svg.icon:not(.icon--full-color) circle, svg.icon:not(.icon--full-color) ellipse,
     position: absolute;
     height: 1px;
     width: 1px;
+}
+
+.icon-tiktok-red, .icon-tiktok-blue {
+    fill: #000;
+}
+.icon-tiktok-black {
+    fill: #000;
+}
+.icon-link-tiktok:hover .icon-tiktok-red {
+    fill: #FF004F;
+}
+.icon-link-tiktok:hover .icon-tiktok-blue {
+    fill: #00F2EA;
+}
+.icon-link-tiktok:hover .icon-tiktok-black {
+    fill: #000;
+}
+.icon-link-pinterest:hover .icon-pinterest {
+    fill: #CB1F27;
+}
+.icon-link-youtube:hover .icon-youtube {
+    fill: #FF0000;
+}
+.icon-link-facebook:hover .icon-facebook {
+    fill: #4267B1;
+}
+.icon-link-twitter:hover .icon-twitter {
+    fill: #0DA7E9;
+}
+.icon-link-snapchat:hover .icon-snapchat {
+    fill: #F4EE38;
+}
+.icon-link-tumblr:hover .icon-tumblr {
+    fill: #394d64;
+}
+.icon-link-linkedin:hover .icon-linkedin {
+    fill: #0e76a8;
+}
+.icon-link-vimeo:hover .icon-vimeo {
+    fill: #25b1e3;
+}
+.icon-link-spotify:hover .icon-spotify {
+    fill: #1ED760;
 }
 
 .js-drawer-open {
@@ -5220,7 +5300,7 @@ form + .footer__social {
     margin: 0;
 }
 
-.site-nav__phone {
+.site-nav__phone.site-nav__link {
     display: flex;
     align-items: center;
     gap: 3px;
@@ -5243,6 +5323,8 @@ form + .footer__social {
 .site-nav__phone span {
     font-size: 16px;
     font-weight: 600;
+    display: block;
+    padding-top: 2px;
 }
 @media only screen and (max-width: 1199px) {
     .site-nav__phone span {
