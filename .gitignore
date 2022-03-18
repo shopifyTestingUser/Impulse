@@ -19,6 +19,7 @@ vendor/bundle
 *.gem
 node_modules
 package.json
+package-lock.json
 yarn.lock
 packaging/builds
 packaging/debian/shopify-cli

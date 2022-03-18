@@ -1,11 +1,15 @@
 {% style %}
   .services-column__title--{{ section.id }} {
     margin-top: 20px;
-    color: {{ settings.color_body_text }};
+    {% unless section.settings.align_text == 'over' %}
+      color: {{ settings.color_body_text }};
+    {%- endunless -%}
   }
   .services-column__text--{{ section.id }} {
     margin-top: 20px;
-    color: {{ settings.color_body_text }};
+    {% unless section.settings.align_text == 'over' %}
+      color: {{ settings.color_body_text }};
+    {%- endunless -%}
   }
   .services-column__btn--{{ section.id }} {
     background-color:{{ settings.color_button }};
@@ -51,7 +55,7 @@
     </div>
   {%- endif -%}
 
-  <div class="grid{% unless section.blocks.size == 5 %} grid--uniform{% endunless %} grid--flush-bottom">
+  <div class="grid-services-{{ section.settings.align_text }} grid{% unless section.blocks.size == 5 %} grid--uniform{% endunless %} grid--flush-bottom">
     {%- liquid
       assign grid_item_width = 'medium-up--one-third'
       case section.blocks.size
@@ -93,6 +97,9 @@
             {%- endif -%}
           </div>
         {%- endif -%}
+        {% if section.settings.align_text == 'over' %}
+          <div class="text-over__container">
+        {%- endif -%}
         {%- if block.settings.title != blank -%}
           <h3 class="services-column__title--{{ section.id }}">{{ block.settings.title }}</h3>
         {%- endif -%}
@@ -106,6 +113,9 @@
           <a href="{{ block.settings.button_link }}" class="btn services-column__btn--{{ section.id }}">
             {{ block.settings.button_label }}
           </a>
+        {%- endif -%}
+        {% if section.settings.align_text == 'over' %}
+          </div>
         {%- endif -%}
       </div>
     {%- endfor -%}
@@ -141,6 +151,10 @@
           {
             "value": "right",
             "label": "Right"
+          },
+          {
+            "value": "over",
+            "label": "Over the image"
           }
         ]
       },

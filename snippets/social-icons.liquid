@@ -1,0 +1,188 @@
+<ul class="{%- if class_name != blank -%}{{ class_name }}{%- endif -%}">
+    {% assign min = 0 %}
+    {% assign max = 99999999 %}
+    {% assign diff = max | minus: min %}
+    {% assign randomNumber = "now" | date: "%N" | modulo: diff | plus: min %}
+    {%- if settings.social_instagram_link != blank -%}
+        <li>
+            <a class="icon-link-instagram" target="_blank" rel="noopener" href="{{ settings.social_instagram_link }}"
+               title="{{ 'layout.footer.social_platform' | t: name: shop.name, platform: 'Instagram' }}">
+                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+                     class="icon icon-instagram"
+                     style="enable-background:new 0 0 512 512;" version="1.1" viewBox="0 0 512 512"
+                     xml:space="preserve">
+                    <style type="text/css">
+                        .icon-link-instagram:hover .st0-{{ randomNumber }} {
+                            fill: url(#SVGID_1_{{ randomNumber }});
+                        }
+
+                        .icon-link-instagram:hover .st1-{{ randomNumber }} {
+                            fill: url(#SVGID_2_{{ randomNumber }});
+                        }
+
+                        .icon-link-instagram:hover .st2-{{ randomNumber }} {
+                            fill: #654C9F;
+                        }
+                    </style>
+                    <g id="Edges"/>
+                    <g id="Symbol">
+                        <g>
+                            <radialGradient cx="56.3501" cy="19.2179"
+                                            gradientTransform="matrix(0.9986 -5.233596e-02 4.448556e-02 0.8488 -36.9742 443.8014)"
+                                            gradientUnits="userSpaceOnUse" id="SVGID_1_{{ randomNumber }}" r="711.335">
+                                <stop offset="0" style="stop-color:#FED576"/>
+                                <stop offset="0.2634" style="stop-color:#F47133"/>
+                                <stop offset="0.6091" style="stop-color:#BC3081"/>
+                                <stop offset="1" style="stop-color:#4C63D2"/>
+                            </radialGradient>
+                            <path class="st0-{{ randomNumber }}"
+                                  d="M96.1,23.2c-16.2,6.3-29.9,14.7-43.6,28.4C38.8,65.2,30.4,79,24.1,95.1c-6.1,15.6-10.2,33.5-11.4,59.7    c-1.2,26.2-1.5,34.6-1.5,101.4s0.3,75.2,1.5,101.4c1.2,26.2,5.4,44.1,11.4,59.7c6.3,16.2,14.7,29.9,28.4,43.6    c13.7,13.7,27.4,22.1,43.6,28.4c15.6,6.1,33.5,10.2,59.7,11.4c26.2,1.2,34.6,1.5,101.4,1.5c66.8,0,75.2-0.3,101.4-1.5    c26.2-1.2,44.1-5.4,59.7-11.4c16.2-6.3,29.9-14.7,43.6-28.4c13.7-13.7,22.1-27.4,28.4-43.6c6.1-15.6,10.2-33.5,11.4-59.7    c1.2-26.2,1.5-34.6,1.5-101.4s-0.3-75.2-1.5-101.4c-1.2-26.2-5.4-44.1-11.4-59.7C484,79,475.6,65.2,462,51.6    c-13.7-13.7-27.4-22.1-43.6-28.4c-15.6-6.1-33.5-10.2-59.7-11.4c-26.2-1.2-34.6-1.5-101.4-1.5s-75.2,0.3-101.4,1.5    C129.6,12.9,111.7,17.1,96.1,23.2z M356.6,56c24,1.1,37,5.1,45.7,8.5c11.5,4.5,19.7,9.8,28.3,18.4c8.6,8.6,13.9,16.8,18.4,28.3    c3.4,8.7,7.4,21.7,8.5,45.7c1.2,25.9,1.4,33.7,1.4,99.4s-0.3,73.5-1.4,99.4c-1.1,24-5.1,37-8.5,45.7c-4.5,11.5-9.8,19.7-18.4,28.3    c-8.6,8.6-16.8,13.9-28.3,18.4c-8.7,3.4-21.7,7.4-45.7,8.5c-25.9,1.2-33.7,1.4-99.4,1.4s-73.5-0.3-99.4-1.4    c-24-1.1-37-5.1-45.7-8.5c-11.5-4.5-19.7-9.8-28.3-18.4c-8.6-8.6-13.9-16.8-18.4-28.3c-3.4-8.7-7.4-21.7-8.5-45.7    c-1.2-25.9-1.4-33.7-1.4-99.4s0.3-73.5,1.4-99.4c1.1-24,5.1-37,8.5-45.7c4.5-11.5,9.8-19.7,18.4-28.3c8.6-8.6,16.8-13.9,28.3-18.4    c8.7-3.4,21.7-7.4,45.7-8.5c25.9-1.2,33.7-1.4,99.4-1.4S330.7,54.8,356.6,56z"/>
+                            <radialGradient cx="154.0732" cy="134.5501"
+                                            gradientTransform="matrix(0.9986 -5.233596e-02 4.448556e-02 0.8488 -24.3617 253.2946)"
+                                            gradientUnits="userSpaceOnUse" id="SVGID_2_{{ randomNumber }}" r="365.2801">
+                                <stop offset="0" style="stop-color:#FED576"/>
+                                <stop offset="0.2634" style="stop-color:#F47133"/>
+                                <stop offset="0.6091" style="stop-color:#BC3081"/>
+                                <stop offset="1" style="stop-color:#4C63D2"/>
+                            </radialGradient>
+                            <path class="st1-{{ randomNumber }}"
+                                  d="M130.9,256.3c0,69.8,56.6,126.3,126.3,126.3s126.3-56.6,126.3-126.3S327,130,257.2,130    S130.9,186.5,130.9,256.3z M339.2,256.3c0,45.3-36.7,82-82,82s-82-36.7-82-82c0-45.3,36.7-82,82-82S339.2,211,339.2,256.3z"/>
+                            <circle class="st2-{{ randomNumber }}" cx="388.6" cy="125" r="29.5"/>
+                        </g>
+                    </g>
+                </svg>
+                <span class="icon__fallback-text">Instagram</span>
+            </a>
+        </li>
+    {%- endif -%}
+    {%- if settings.social_facebook_link != blank -%}
+        <li>
+            <a class="icon-link-facebook" target="_blank" rel="noopener" href="{{ settings.social_facebook_link }}"
+               title="{{ 'layout.footer.social_platform' | t: name: shop.name, platform: 'Facebook' }}">
+                <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-facebook"
+                     viewBox="0 0 14222 14222">
+                    <path d="M14222 7112c0 3549.352-2600.418 6491.344-6000 7024.72V9168h1657l315-2056H8222V5778c0-562 275-1111 1159-1111h897V2917s-814-139-1592-139c-1624 0-2686 984-2686 2767v1567H4194v2056h1806v4968.72C2600.418 13603.344 0 10661.352 0 7112 0 3184.703 3183.703 1 7111 1s7111 3183.703 7111 7111zm-8222 7025c362 57 733 86 1111 86-377.945 0-749.003-29.485-1111-86.28zm2222 0v-.28a7107.458 7107.458 0 0 1-167.717 24.267A7407.158 7407.158 0 0 0 8222 14137zm-167.717 23.987C7745.664 14201.89 7430.797 14223 7111 14223c319.843 0 634.675-21.479 943.283-62.013z"/>
+                </svg>
+                <span class="icon__fallback-text">Facebook</span>
+            </a>
+        </li>
+    {%- endif -%}
+    {%- if settings.social_youtube_link != blank -%}
+        <li>
+            <a class="icon-link-youtube" target="_blank" rel="noopener" href="{{ settings.social_youtube_link }}"
+               title="{{ 'layout.footer.social_platform' | t: name: shop.name, platform: 'YouTube' }}">
+                <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-youtube"
+                     viewBox="0 0 21 20">
+                    <path fill="#444"
+                          d="M-.196 15.803q0 1.23.812 2.092t1.977.861h14.946q1.165 0 1.977-.861t.812-2.092V3.909q0-1.23-.82-2.116T17.539.907H2.593q-1.148 0-1.969.886t-.82 2.116v11.894zm7.465-2.149V6.058q0-.115.066-.18.049-.016.082-.016l.082.016 7.153 3.806q.066.066.066.164 0 .066-.066.131l-7.153 3.806q-.033.033-.066.033-.066 0-.098-.033-.066-.066-.066-.131z"/>
+                </svg>
+                <span class="icon__fallback-text">YouTube</span>
+            </a>
+        </li>
+    {%- endif -%}
+    {%- if settings.social_twitter_link != blank -%}
+        <li>
+            <a class="icon-link-twitter" target="_blank" rel="noopener" href="{{ settings.social_twitter_link }}"
+               title="{{ 'layout.footer.social_platform' | t: name: shop.name, platform: 'Twitter' }}">
+                <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-twitter"
+                     viewBox="0 0 32 32">
+                    <path fill="#444"
+                          d="M31.281 6.733q-1.304 1.924-3.13 3.26 0 .13.033.408t.033.408q0 2.543-.75 5.086t-2.282 4.858-3.635 4.108-5.053 2.869-6.341 1.076q-5.282 0-9.65-2.836.913.065 1.5.065 4.401 0 7.857-2.673-2.054-.033-3.668-1.255t-2.266-3.146q.554.13 1.206.13.88 0 1.663-.261-2.184-.456-3.619-2.184t-1.435-3.977v-.065q1.239.652 2.836.717-1.271-.848-2.021-2.233t-.75-2.983q0-1.63.815-3.195 2.38 2.967 5.754 4.678t7.319 1.907q-.228-.815-.228-1.434 0-2.608 1.858-4.45t4.532-1.842q1.304 0 2.51.522t2.054 1.467q2.152-.424 4.01-1.532-.685 2.217-2.771 3.488 1.989-.261 3.619-.978z"/>
+                </svg>
+                <span class="icon__fallback-text">Twitter</span>
+            </a>
+        </li>
+    {%- endif -%}
+    {%- if settings.social_pinterest_link != blank -%}
+        <li>
+            <a class="icon-link-pinterest" target="_blank" rel="noopener" href="{{ settings.social_pinterest_link }}"
+               title="{{ 'layout.footer.social_platform' | t: name: shop.name, platform: 'Pinterest' }}">
+                <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-pinterest"
+                     viewBox="0 0 256 256">
+                    <path d="M0 128.002c0 52.414 31.518 97.442 76.619 117.239-.36-8.938-.064-19.668 2.228-29.393 2.461-10.391 16.47-69.748 16.47-69.748s-4.089-8.173-4.089-20.252c0-18.969 10.994-33.136 24.686-33.136 11.643 0 17.268 8.745 17.268 19.217 0 11.704-7.465 29.211-11.304 45.426-3.207 13.578 6.808 24.653 20.203 24.653 24.252 0 40.586-31.149 40.586-68.055 0-28.054-18.895-49.052-53.262-49.052-38.828 0-63.017 28.956-63.017 61.3 0 11.152 3.288 19.016 8.438 25.106 2.368 2.797 2.697 3.922 1.84 7.134-.614 2.355-2.024 8.025-2.608 10.272-.852 3.242-3.479 4.401-6.409 3.204-17.884-7.301-26.213-26.886-26.213-48.902 0-36.361 30.666-79.961 91.482-79.961 48.87 0 81.035 35.364 81.035 73.325 0 50.213-27.916 87.726-69.066 87.726-13.819 0-26.818-7.47-31.271-15.955 0 0-7.431 29.492-9.005 35.187-2.714 9.869-8.026 19.733-12.883 27.421a127.897 127.897 0 0 0 36.277 5.249c70.684 0 127.996-57.309 127.996-128.005C256.001 57.309 198.689 0 128.005 0 57.314 0 0 57.309 0 128.002z"/>
+                </svg>
+                <span class="icon__fallback-text">Pinterest</span>
+            </a>
+        </li>
+    {%- endif -%}
+    {%- if settings.social_snapchat_link != blank -%}
+        <li>
+            <a class="icon-link-snapchat" target="_blank" rel="noopener" href="{{ settings.social_snapchat_link }}"
+               title="{{ 'layout.footer.social_platform' | t: name: shop.name, platform: 'Snapchat' }}">
+                <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-snapchat"
+                     viewBox="0 0 56.693 56.693">
+                    <path d="M28.66 51.683c-.128 0-.254-.004-.38-.01a3.24 3.24 0 0 1-.248.01c-2.944 0-4.834-1.336-6.661-2.628-1.262-.892-2.453-1.733-3.856-1.967a12.448 12.448 0 0 0-2.024-.17c-1.186 0-2.122.182-2.806.316-.415.081-.773.151-1.045.151-.285 0-.593-.061-.727-.519-.116-.397-.2-.78-.281-1.152-.209-.956-.357-1.544-.758-1.605-4.67-.722-6.006-1.705-6.304-2.403a.898.898 0 0 1-.072-.299.526.526 0 0 1 .44-.548c7.178-1.182 10.397-8.519 10.53-8.83l.012-.026c.44-.89.526-1.663.257-2.297-.493-1.16-2.1-1.67-3.163-2.008-.26-.082-.507-.16-.701-.237-2.123-.84-2.3-1.7-2.216-2.14.142-.747 1.142-1.268 1.95-1.268.222 0 .417.039.581.116.955.447 1.815.673 2.558.673 1.025 0 1.473-.43 1.528-.487-.026-.486-.059-.993-.092-1.517-.213-3.394-.478-7.61.595-10.018 3.218-7.215 10.043-7.776 12.057-7.776l.884-.009h.119c2.02 0 8.858.562 12.078 7.78 1.074 2.41.808 6.63.594 10.021l-.009.147c-.03.473-.058.932-.082 1.371.051.052.463.449 1.393.485h.001c.707-.028 1.52-.253 2.41-.67.262-.122.552-.148.75-.148.3 0 .607.058.86.164l.016.007c.721.255 1.193.76 1.204 1.289.009.497-.37 1.244-2.233 1.98-.193.076-.44.154-.7.237-1.065.338-2.671.848-3.164 2.008-.269.633-.183 1.406.257 2.297l.011.026c.134.311 3.35 7.646 10.532 8.83.265.043.454.28.44.548a.884.884 0 0 1-.074.3c-.296.693-1.632 1.675-6.303 2.397-.381.059-.53.556-.757 1.599-.083.38-.167.752-.282 1.144-.1.34-.312.5-.668.5h-.058c-.248 0-.6-.045-1.046-.133-.79-.154-1.677-.297-2.805-.297-.659 0-1.34.058-2.026.171-1.401.234-2.591 1.074-3.85 1.964-1.831 1.295-3.72 2.63-6.666 2.63z"/>
+                </svg>
+                <span class="icon__fallback-text">Snapchat</span>
+            </a>
+        </li>
+    {%- endif -%}
+    {%- if settings.social_tiktok_link != blank -%}
+        <li>
+            <a class="icon-link-tiktok" target="_blank" rel="noopener" href="{{ settings.social_tiktok_link }}"
+               title="{{ 'layout.footer.social_platform' | t: name: shop.name, platform: 'TikTok' }}">
+                <svg class="icon icon-tiktok icon--full-color" width="256" height="290" viewBox="0 0 256 290"
+                     fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path class="icon-tiktok-red"
+                          d="M189.72 104.421C208.398 117.766 231.28 125.618 255.993 125.618V78.088C251.316 78.089 246.651 77.601 242.075 76.632V114.045C217.364 114.045 194.485 106.194 175.803 92.85V189.846C175.803 238.369 136.447 277.701 87.903 277.701C69.79 277.701 52.954 272.228 38.969 262.841C54.931 279.154 77.191 289.273 101.817 289.273C150.365 289.273 189.722 249.941 189.722 201.416V104.421H189.72ZM206.89 56.469C197.344 46.046 191.076 32.576 189.72 17.684V11.571H176.531C179.851 30.498 191.175 46.668 206.889 56.469H206.89ZM69.673 225.607C64.3399 218.619 61.457 210.068 61.47 201.277C61.47 179.085 79.471 161.091 101.68 161.091C105.818 161.089 109.932 161.724 113.877 162.974V114.381C109.267 113.75 104.615 113.481 99.965 113.58V151.402C96.0183 150.151 91.9022 149.516 87.762 149.52C65.554 149.52 47.554 167.512 47.554 189.707C47.554 205.401 56.551 218.988 69.673 225.607Z"/>
+                    <path class="icon-tiktok-black"
+                          d="M175.803 92.849C194.486 106.193 217.363 114.044 242.075 114.044V76.631C228.281 73.694 216.07 66.49 206.889 56.469C191.174 46.667 179.851 30.497 176.531 11.571H141.888V201.414C141.809 223.546 123.839 241.466 101.678 241.466C88.62 241.466 77.018 235.245 69.671 225.606C56.551 218.988 47.553 205.4 47.553 189.708C47.553 167.515 65.553 149.521 87.761 149.521C92.016 149.521 96.117 150.183 99.964 151.403V113.581C52.272 114.566 13.917 153.514 13.917 201.415C13.917 225.327 23.468 247.004 38.97 262.843C52.955 272.228 69.79 277.703 87.904 277.703C136.449 277.703 175.804 238.368 175.804 189.846V92.85H175.803V92.849Z"/>
+                    <path class="icon-tiktok-blue"
+                          d="M242.075 76.63V66.516C229.636 66.5348 217.443 63.0532 206.889 56.469C216.231 66.6911 228.532 73.7403 242.075 76.632V76.63ZM176.53 11.57C176.214 9.76161 175.971 7.94111 175.802 6.113V0H127.968V189.845C127.892 211.975 109.922 229.895 87.76 229.895C81.4773 229.904 75.2804 228.436 69.67 225.608C77.017 235.245 88.619 241.465 101.677 241.465C123.837 241.465 141.809 223.547 141.887 201.415V11.571H176.53V11.57ZM99.966 113.58V102.811C95.9689 102.265 91.9392 101.991 87.905 101.993C39.355 101.993 0 141.327 0 189.845C0 220.264 15.467 247.072 38.971 262.841C23.469 247.003 13.918 225.325 13.918 201.414C13.918 153.514 52.272 114.566 99.966 113.581V113.58Z"/>
+                </svg>
+                <span class="icon__fallback-text">TikTok</span>
+            </a>
+        </li>
+    {%- endif -%}
+    {%- if settings.social_tumblr_link != blank -%}
+        <li>
+            <a class="icon-link-tumblr" target="_blank" rel="noopener" href="{{ settings.social_tumblr_link }}"
+               title="{{ 'layout.footer.social_platform' | t: name: shop.name, platform: 'Tumblr' }}">
+                <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-tumblr"
+                     viewBox="0 0 32 32">
+                    <path fill="#444"
+                          d="M6.997 13.822h3.022v10.237q0 1.852.414 3.047.463 1.097 1.438 1.95.951.877 2.511 1.438 1.487.512 3.388.512 1.657 0 3.096-.366 1.243-.244 3.242-1.194v-4.582q-2.023 1.389-4.192 1.389-1.072 0-2.145-.561-.634-.414-.951-1.146-.244-.804-.244-3.242v-7.483h6.581V9.239h-6.581V1.902h-3.949q-.195 2.072-.951 3.681-.756 1.56-1.901 2.486Q8.581 9.19 6.996 9.678v4.144z"/>
+                </svg>
+                <span class="icon__fallback-text">Tumblr</span>
+            </a>
+        </li>
+    {%- endif -%}
+    {%- if settings.social_linkedin_link != blank -%}
+        <li>
+            <a class="icon-link-linkedin" target="_blank" rel="noopener" href="{{ settings.social_linkedin_link }}"
+               title="{{ 'layout.footer.social_platform' | t: name: shop.name, platform: 'LinkedIn' }}">
+                <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-linkedin"
+                     viewBox="0 0 24 24">
+                    <path d="M4.98 3.5C4.98 4.881 3.87 6 2.5 6S.02 4.881.02 3.5C.02 2.12 1.13 1 2.5 1s2.48 1.12 2.48 2.5zM5 8H0v16h5V8zm7.982 0H8.014v16h4.969v-8.399c0-4.67 6.029-5.052 6.029 0V24H24V13.869c0-7.88-8.922-7.593-11.018-3.714V8z"/>
+                </svg>
+                <span class="icon__fallback-text">LinkedIn</span>
+            </a>
+        </li>
+    {%- endif -%}
+    {%- if settings.social_vimeo_link != blank -%}
+        <li>
+            <a class="icon-link-vimeo" target="_blank" rel="noopener" href="{{ settings.social_vimeo_link }}"
+               title="{{ 'layout.footer.social_platform' | t: name: shop.name, platform: 'Vimeo' }}">
+                <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-vimeo"
+                     viewBox="0 0 32 32">
+                    <path fill="#444"
+                          d="M.343 10.902l1.438 1.926q1.999-1.487 2.413-1.487 1.584 0 2.949 5.046l1.194 4.521q.828 3.132 1.292 4.814 1.804 5.046 4.534 5.046 4.339 0 10.53-8.336 6.069-7.922 6.288-12.528v-.536q0-5.606-4.485-5.752h-.341q-6.02 0-8.287 7.385 1.316-.561 2.291-.561 2.072 0 2.072 2.145 0 .268-.024.561-.146 1.731-2.047 4.729-1.95 3.144-2.901 3.144-1.267 0-2.242-4.777-.293-1.121-1.243-7.239-.414-2.632-1.536-3.9-.975-1.097-2.437-1.121-.195 0-.414.024-1.536.146-4.558 2.803-1.56 1.462-4.485 4.095z"/>
+                </svg>
+                <span class="icon__fallback-text">Vimeo</span>
+            </a>
+        </li>
+    {%- endif -%}
+    {%- if settings.social_spotify_link != blank -%}
+        <li>
+            <a class="icon-link-spotify" target="_blank" rel="noopener" href="{{ settings.social_spotify_link }}"
+               title="{{ 'layout.footer.social_platform' | t: name: shop.name, platform: 'Spotify' }}">
+                <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-spotify"
+                     viewBox="0 0 20 20">
+                    <path fill="#2F2823"
+                          d="M10 0a10 10 0 1 0 0 20 10 10 0 0 0 0-20Zm4.586 14.422a.622.622 0 0 1-.857.207c-2.349-1.434-5.304-1.759-8.785-.963a.623.623 0 1 1-.278-1.216c3.81-.87 7.078-.496 9.713 1.115a.625.625 0 0 1 .207.857ZM15.81 11.7a.78.78 0 0 1-1.072.256c-2.688-1.651-6.785-2.13-9.965-1.165A.781.781 0 0 1 4.32 9.3c3.631-1.101 8.146-.568 11.232 1.329a.78.78 0 0 1 .258 1.072Zm.105-2.835C12.693 6.95 7.375 6.774 4.298 7.707a.935.935 0 1 1-.543-1.79c3.531-1.07 9.404-.864 13.115 1.338a.936.936 0 0 1-.955 1.61Z"/>
+                </svg>
+                <span class="icon__fallback-text">Spotify</span>
+            </a>
+        </li>
+    {%- endif -%}
+</ul>
