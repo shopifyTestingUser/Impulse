@@ -265,6 +265,29 @@
     ]
   },
   {
+    "name": "Contact",
+    "settings": [
+      {
+        "type": "text",
+        "id": "contact_phone",
+        "label": "Phone",
+        "default": "089-21528933"
+      },
+      {
+        "type": "text",
+        "id": "contact_address",
+        "label": "Betriebsdauer",
+        "default": "Kaiserstr. 45, 80801 München"
+      },
+      {
+        "type": "text",
+        "id": "contact_schedule",
+        "label": "Work schedule",
+        "default": "Di - Fr nach Absprache"
+      }
+    ]
+  },
+  {
     "name": "Typography",
     "settings": [
       {
