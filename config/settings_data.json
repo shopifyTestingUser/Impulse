@@ -120,6 +120,7 @@
           "header_style": "sticky",
           "sticky_index": false,
           "sticky_collection": false,
+          "show_icons_instead_search": true,
           "announcement_compact": true,
           "announcement_above_header": false,
           "toolbar_menu": "",
