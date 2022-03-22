@@ -180,6 +180,7 @@
       "blocks": {
         "16479488421d6495bb-0": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "title": "Service 1",
             "image_width": 50,
