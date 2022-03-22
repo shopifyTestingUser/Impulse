@@ -212,7 +212,7 @@
         "narrow_column": true,
         "divider": false,
         "margin_top": false,
-        "margin_bottom": false
+        "margin_bottom": true
       }
     },
     "16349074948fa012fe": {
