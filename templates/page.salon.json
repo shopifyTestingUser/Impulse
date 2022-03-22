@@ -167,6 +167,54 @@
         "margin_bottom": false
       }
     },
+    "16479487964b071b51": {
+      "type": "featured-video",
+      "settings": {
+        "title": "",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=GJUhvQLphsk",
+        "divider": false
+      }
+    },
+    "164794884227c625c7": {
+      "type": "rich-text",
+      "blocks": {
+        "16479488421d6495bb-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Service 1",
+            "image_width": 50,
+            "image_position": 50
+          }
+        },
+        "16479488421d6495bb-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "8a3100e4-7c38-4c48-aa67-4202145908af": {
+          "type": "button",
+          "settings": {
+            "target_blank": true,
+            "link": "",
+            "link_text": "facetime call"
+          }
+        }
+      },
+      "block_order": [
+        "16479488421d6495bb-0",
+        "16479488421d6495bb-1",
+        "8a3100e4-7c38-4c48-aa67-4202145908af"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
+      }
+    },
     "16349074948fa012fe": {
       "type": "text-and-image",
       "settings": {
@@ -425,70 +473,6 @@
         "margin_bottom": false
       }
     },
-    "16349079880795f629": {
-      "type": "background-image-text",
-      "disabled": true,
-      "settings": {
-        "subtitle": "following events",
-        "title": "Event title",
-        "text": "",
-        "button_label": "Take part in event",
-        "button_link": "",
-        "image": "shopify:\/\/shop_images\/49A1187_1.png",
-        "focal_point": "center",
-        "layout": "left",
-        "height": 550,
-        "framed": false,
-        "parallax": false,
-        "margin_top": false,
-        "margin_bottom": false
-      }
-    },
-    "163490805600b213e0": {
-      "type": "rich-text",
-      "disabled": true,
-      "blocks": {
-        "163490805600b213e0-1": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "163490805600b213e0-1"
-      ],
-      "settings": {
-        "align_text": "left",
-        "narrow_column": true,
-        "divider": false,
-        "margin_top": false,
-        "margin_bottom": false
-      }
-    },
-    "1634908061ca3b3a9f": {
-      "type": "blog-posts",
-      "disabled": true,
-      "settings": {
-        "title": "",
-        "blog": "news",
-        "post_limit": 3,
-        "blog_show_excerpt": true,
-        "blog_show_tags": false,
-        "blog_show_date": true,
-        "blog_show_comments": false,
-        "blog_show_author": false,
-        "view_all": false,
-        "blog_image_size": "wide",
-        "divider": false,
-        "margin_top": false,
-        "margin_bottom": false,
-        "image_width": 50,
-        "image_position": 50
-      }
-    },
     "16353379449714c0e2": {
       "type": "background-image",
       "disabled": true,
@@ -563,6 +547,8 @@
     "16349073092065b984",
     "main",
     "163490746248b9e19e",
+    "16479487964b071b51",
+    "164794884227c625c7",
     "16349074948fa012fe",
     "1634907540ba6957b3",
     "16349076903b384634",
@@ -573,9 +559,6 @@
     "1634907866597b00bd",
     "163490787431a0100d",
     "1634907893f803f2d3",
-    "16349079880795f629",
-    "163490805600b213e0",
-    "1634908061ca3b3a9f",
     "16353379449714c0e2",
     "1634908162416e3f0b",
     "16349081684b16f546"
