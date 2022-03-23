@@ -127,7 +127,7 @@
           "type": "button",
           "settings": {
             "target_blank": true,
-            "link": "https:\/\/www.google.com\/maps\/dir\/\/langhaarm%C3%A4dchen+salon\/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x479e75f2ec32fdb9:0xa95104f65a1b74a?sa=X&ved=2ahUKEwjU5MHumJH2AhWDQ_EDHWWQAgMQ9Rd6BAgkEAU",
+            "link": "shopify:\/\/pages\/salon",
             "link_text": "zum Langhaarmädchen Salon"
           }
         }
