@@ -165,6 +165,7 @@
     },
     "16348210811bd81bd1": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "You may also like",
         "home_featured_products": "frontpage",
