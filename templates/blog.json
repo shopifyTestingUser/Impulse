@@ -1,7 +1,28 @@
 {
   "sections": {
+    "16496931957da1105e": {
+      "type": "blog-posts",
+      "settings": {
+        "title": "Blog posts",
+        "blog": "news",
+        "post_limit": 3,
+        "blog_show_excerpt": false,
+        "blog_show_tags": false,
+        "blog_show_date": true,
+        "blog_show_comments": false,
+        "blog_show_author": false,
+        "view_all": true,
+        "blog_image_size": "wide",
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false,
+        "image_width": 50,
+        "image_position": 50
+      }
+    },
     "163482016929a668b3": {
       "type": "slideshow",
+      "disabled": true,
       "blocks": {
         "163482016929a668b3-0": {
           "type": "image",
@@ -99,6 +120,7 @@
     },
     "163482061896fc3932": {
       "type": "faq",
+      "disabled": true,
       "blocks": {
         "163482061896fc3932-0": {
           "type": "question",
@@ -127,6 +149,7 @@
     }
   },
   "order": [
+    "16496931957da1105e",
     "163482016929a668b3",
     "1635348072363ebd4d",
     "1634820519c1e44c71",
