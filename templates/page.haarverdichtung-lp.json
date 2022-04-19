@@ -317,6 +317,7 @@
     },
     "1637605754143b0ca8": {
       "type": "promo-grid",
+      "disabled": true,
       "blocks": {
         "64b120ac-f0a9-4b9f-988e-ec5040c3146a": {
           "type": "image",
