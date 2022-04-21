@@ -194,6 +194,14 @@
             "text": "<p>Lass dich von unsere Gründerin und Extnension Expertin kostenlos in ein Facetime Gespräch beraten. Es ist völlig unverbindlich. <\/p>"
           }
         },
+        "5d9b17b2-98e6-4e75-9e43-e718df2de7f1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "enlarge_text": true,
+            "text": ""
+          }
+        },
         "8a3100e4-7c38-4c48-aa67-4202145908af": {
           "type": "button",
           "settings": {
@@ -206,6 +214,7 @@
       "block_order": [
         "16479488421d6495bb-0",
         "16479488421d6495bb-1",
+        "5d9b17b2-98e6-4e75-9e43-e718df2de7f1",
         "8a3100e4-7c38-4c48-aa67-4202145908af"
       ],
       "settings": {
@@ -214,6 +223,35 @@
         "divider": false,
         "margin_top": false,
         "margin_bottom": true
+      }
+    },
+    "1650531531e8d51d0d": {
+      "type": "advanced-content",
+      "blocks": {
+        "16505315315fcd04c2-0": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "16505315315fcd04c2-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<!-- Calendly Inline-Widget Beginn -->\n<div class=\"calendly-inline-widget\" data-url=\"https:\/\/calendly.com\/langhaarmaedchen\" style=\"min-width:320px;height:630px;\"><\/div>\n<script type=\"text\/javascript\" src=\"https:\/\/assets.calendly.com\/assets\/external\/widget.js\" async><\/script>\n<!-- Calendly Inline-Widget Ende -->",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "16505315315fcd04c2-0",
+        "16505315315fcd04c2-1"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
       }
     },
     "16349074948fa012fe": {
@@ -551,6 +589,7 @@
     "163490746248b9e19e",
     "16479487964b071b51",
     "164794884227c625c7",
+    "1650531531e8d51d0d",
     "16349074948fa012fe",
     "1634907540ba6957b3",
     "16349076903b384634",
