@@ -176,6 +176,98 @@
         "divider": false
       }
     },
+    "1650550827aa9686d7": {
+      "type": "rich-text",
+      "blocks": {
+        "165055082675f0563e-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Bekannt aus:",
+            "image_width": 50,
+            "image_position": 50
+          }
+        },
+        "165055082675f0563e-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "165055082675f0563e-0",
+        "165055082675f0563e-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
+      }
+    },
+    "1650549005713f9a6c": {
+      "type": "logo-list",
+      "blocks": {
+        "165054900571537ebd-0": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/png-clipart-dm-drogerie-markt-slovakia-dm_-dm-drogerie-markt-nordhorn-kehl-dm-text-logo_5c636e00-76ce-4489-9dc2-3ed1830dfa9b.png",
+            "link": ""
+          }
+        },
+        "165054900571537ebd-1": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/logo-taff_4b19a6f9-dff0-4ed3-bd7e-8884811793a1.png",
+            "link": ""
+          }
+        },
+        "165054900571537ebd-2": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Logo_InStyle_958c5591-b861-4cd6-b0b5-4fecc6d3b164.png",
+            "link": ""
+          }
+        },
+        "165054900571537ebd-3": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/v12801_2a8f2fc6-2315-496a-8ae2-94c0aeb26145.png",
+            "link": ""
+          }
+        },
+        "5fb6184c-e24f-4c26-806b-d6830fe080da": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Gala_Magazin_logo_sw.png",
+            "link": ""
+          }
+        },
+        "970bc693-5afe-42f1-9254-f2f8f2877e69": {
+          "type": "logo_image",
+          "disabled": true,
+          "settings": {
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "165054900571537ebd-0",
+        "165054900571537ebd-1",
+        "165054900571537ebd-2",
+        "165054900571537ebd-3",
+        "5fb6184c-e24f-4c26-806b-d6830fe080da",
+        "970bc693-5afe-42f1-9254-f2f8f2877e69"
+      ],
+      "settings": {
+        "title": "",
+        "logo_opacity": 76,
+        "divider": false
+      }
+    },
     "164794884227c625c7": {
       "type": "rich-text",
       "blocks": {
@@ -589,6 +681,8 @@
     "main",
     "163490746248b9e19e",
     "16479487964b071b51",
+    "1650550827aa9686d7",
+    "1650549005713f9a6c",
     "164794884227c625c7",
     "1650531531e8d51d0d",
     "16349074948fa012fe",
