@@ -313,7 +313,7 @@
         "narrow_column": true,
         "divider": false,
         "margin_top": false,
-        "margin_bottom": true
+        "margin_bottom": false
       }
     },
     "1650633786bff38ddb": {
@@ -343,7 +343,7 @@
       ],
       "settings": {
         "full_width": false,
-        "space_around": true
+        "space_around": false
       }
     },
     "1650531531e8d51d0d": {
@@ -373,7 +373,7 @@
       ],
       "settings": {
         "full_width": false,
-        "space_around": true
+        "space_around": false
       }
     },
     "16349074948fa012fe": {
