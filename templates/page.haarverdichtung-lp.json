@@ -297,7 +297,7 @@
           "type": "button",
           "settings": {
             "target_blank": true,
-            "link": "https:\/\/www.langhaarmaedchen.de\/pages\/haarverdichtung-landingpage#cal",
+            "link": "#cal",
             "link_text": "FaceTime Beratung buchen"
           }
         }
