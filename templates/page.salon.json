@@ -167,54 +167,6 @@
         "margin_bottom": false
       }
     },
-    "16479487964b071b51": {
-      "type": "featured-video",
-      "settings": {
-        "title": "",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=GJUhvQLphsk",
-        "divider": false
-      }
-    },
-    "164794884227c625c7": {
-      "type": "rich-text",
-      "blocks": {
-        "16479488421d6495bb-0": {
-          "type": "heading",
-          "settings": {
-            "title": "Haarverlän­gerung und Haarverdichtung in München",
-            "image_width": 50,
-            "image_position": 50
-          }
-        },
-        "16479488421d6495bb-1": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>Lass Dich in unserem schönen Salon verwöhnen & verwirkliche deinen Traum vom langen und vollen Haar.<\/p>"
-          }
-        },
-        "8a3100e4-7c38-4c48-aa67-4202145908af": {
-          "type": "button",
-          "settings": {
-            "target_blank": true,
-            "link": "https:\/\/calendly.com\/langhaarmaedchen\/facetime-mit-mona",
-            "link_text": "FaceTime Beratung buchen"
-          }
-        }
-      },
-      "block_order": [
-        "16479488421d6495bb-0",
-        "16479488421d6495bb-1",
-        "8a3100e4-7c38-4c48-aa67-4202145908af"
-      ],
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false,
-        "margin_top": false,
-        "margin_bottom": true
-      }
-    },
     "16349074948fa012fe": {
       "type": "text-and-image",
       "settings": {
@@ -273,7 +225,7 @@
             "price": "ab 490 €",
             "text": "<p>Du vermisst Volumen und eine Haarpracht, mit der du dich so richtig wohlfühlst?! Wir<br\/>liiieben natürliche Haarverdichtungen, arbeiten seit 8 Jahren mit den besten Tape Extensions von hairtalk und werden dir damit ganz neue Haar-Träume ermöglichen!<\/p>",
             "button_label": "JETZT BUCHEN",
-            "button_link": "https:\/\/calendly.com\/langhaarmaedchen\/facetime-mit-mona"
+            "button_link": "https:\/\/www.e-cut.de\/online-buchung\/index.php?salon=langhaarmaedchen_nersingen"
           }
         },
         "16349076903b384634-1": {
@@ -312,6 +264,54 @@
         "divider": false,
         "image_width": 50,
         "image_position": 50
+      }
+    },
+    "16479487964b071b51": {
+      "type": "featured-video",
+      "settings": {
+        "title": "",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=GJUhvQLphsk",
+        "divider": false
+      }
+    },
+    "164794884227c625c7": {
+      "type": "rich-text",
+      "blocks": {
+        "16479488421d6495bb-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Haarverlän­gerung und Haarverdichtung in München",
+            "image_width": 50,
+            "image_position": 50
+          }
+        },
+        "16479488421d6495bb-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Lass Dich in unserem schönen Salon verwöhnen & verwirkliche deinen Traum vom langen und vollen Haar.<\/p>"
+          }
+        },
+        "8a3100e4-7c38-4c48-aa67-4202145908af": {
+          "type": "button",
+          "settings": {
+            "target_blank": true,
+            "link": "https:\/\/calendly.com\/langhaarmaedchen\/facetime-mit-mona",
+            "link_text": "FaceTime Beratung buchen"
+          }
+        }
+      },
+      "block_order": [
+        "16479488421d6495bb-0",
+        "16479488421d6495bb-1",
+        "8a3100e4-7c38-4c48-aa67-4202145908af"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": true
       }
     },
     "1637605754143b0ca8": {
@@ -547,11 +547,11 @@
     "16349073092065b984",
     "main",
     "163490746248b9e19e",
-    "16479487964b071b51",
-    "164794884227c625c7",
     "16349074948fa012fe",
     "1634907540ba6957b3",
     "16349076903b384634",
+    "16479487964b071b51",
+    "164794884227c625c7",
     "1637605754143b0ca8",
     "16376017988340a1c9",
     "16349077831e0c599d",
