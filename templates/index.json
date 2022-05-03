@@ -301,6 +301,7 @@
     },
     "promo-grid2": {
       "type": "promo-grid",
+      "disabled": true,
       "blocks": {
         "promo2-0": {
           "type": "advanced",
@@ -350,6 +351,26 @@
         "image_right_position": 4
       }
     },
+    "16515771728a228a74": {
+      "type": "blog-posts",
+      "settings": {
+        "title": "Blog posts",
+        "blog": "news",
+        "post_limit": 3,
+        "blog_show_excerpt": false,
+        "blog_show_tags": false,
+        "blog_show_date": true,
+        "blog_show_comments": false,
+        "blog_show_author": false,
+        "view_all": true,
+        "blog_image_size": "wide",
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false,
+        "image_width": 50,
+        "image_position": 50
+      }
+    },
     "163456592274a2a708": {
       "type": "title-with-instagram",
       "settings": {
@@ -362,7 +383,7 @@
       "type": "apps",
       "blocks": {
         "2a1ca891-f6cd-49e5-8132-e60379d84d8b": {
-          "type": "shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "type": "shopify:\/\/apps\/instafeed-instagram-feed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
           "settings": {
             "heading_font": "helvetica_n4",
             "heading_size": 20,
@@ -496,6 +517,7 @@
     "1635337190cc65ddaf",
     "promo-grid2",
     "1635324918275a11f0",
+    "16515771728a228a74",
     "163456592274a2a708",
     "16352358192ec4b529",
     "1634220966d1ce4e28",
