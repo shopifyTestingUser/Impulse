@@ -422,6 +422,62 @@
         "margin_bottom": false
       }
     },
+    "1634908162416e3f0b": {
+      "type": "rich-text",
+      "blocks": {
+        "9292962a-57a6-4692-8032-82942f22e6f3": {
+          "type": "subheading",
+          "settings": {
+            "subtitle": "Wollen wir telefonieren?"
+          }
+        },
+        "1634908162416e3f0b-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Du hast noch fragen? Wir rufen dich gerne zurück.",
+            "image_width": 50,
+            "image_position": 50
+          }
+        },
+        "3be373b2-4e8e-434d-95a4-3f3522e79847": {
+          "type": "subheading",
+          "settings": {
+            "subtitle": ""
+          }
+        },
+        "d3606e9f-2ede-4b10-98eb-c074aaa9153a": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "target_blank": true,
+            "link": "",
+            "link_text": "Kontaktformular"
+          }
+        }
+      },
+      "block_order": [
+        "9292962a-57a6-4692-8032-82942f22e6f3",
+        "1634908162416e3f0b-0",
+        "3be373b2-4e8e-434d-95a4-3f3522e79847",
+        "d3606e9f-2ede-4b10-98eb-c074aaa9153a"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
+      }
+    },
+    "16349081684b16f546": {
+      "type": "contact-form",
+      "settings": {
+        "title": "",
+        "text": "",
+        "show_phone": true,
+        "narrow_column": true
+      }
+    },
     "16349076903b384634": {
       "type": "services-columns",
       "blocks": {
@@ -646,62 +702,6 @@
         "image_right_width": 27,
         "image_right_position": 0
       }
-    },
-    "1634908162416e3f0b": {
-      "type": "rich-text",
-      "blocks": {
-        "9292962a-57a6-4692-8032-82942f22e6f3": {
-          "type": "subheading",
-          "settings": {
-            "subtitle": "Unsere Mission ist es"
-          }
-        },
-        "1634908162416e3f0b-0": {
-          "type": "heading",
-          "settings": {
-            "title": "dich & deine Haare glücklich zu machen!",
-            "image_width": 50,
-            "image_position": 50
-          }
-        },
-        "3be373b2-4e8e-434d-95a4-3f3522e79847": {
-          "type": "subheading",
-          "settings": {
-            "subtitle": ""
-          }
-        },
-        "d3606e9f-2ede-4b10-98eb-c074aaa9153a": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "target_blank": true,
-            "link": "",
-            "link_text": "Kontaktformular"
-          }
-        }
-      },
-      "block_order": [
-        "9292962a-57a6-4692-8032-82942f22e6f3",
-        "1634908162416e3f0b-0",
-        "3be373b2-4e8e-434d-95a4-3f3522e79847",
-        "d3606e9f-2ede-4b10-98eb-c074aaa9153a"
-      ],
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false,
-        "margin_top": false,
-        "margin_bottom": false
-      }
-    },
-    "16349081684b16f546": {
-      "type": "contact-form",
-      "settings": {
-        "title": "",
-        "text": "",
-        "show_phone": false,
-        "narrow_column": true
-      }
     }
   },
   "order": [
@@ -717,6 +717,8 @@
     "1650531531e8d51d0d",
     "16349074948fa012fe",
     "1634907540ba6957b3",
+    "1634908162416e3f0b",
+    "16349081684b16f546",
     "16349076903b384634",
     "1637605754143b0ca8",
     "16376017988340a1c9",
@@ -725,8 +727,6 @@
     "1634907866597b00bd",
     "163490787431a0100d",
     "1634907893f803f2d3",
-    "16353379449714c0e2",
-    "1634908162416e3f0b",
-    "16349081684b16f546"
+    "16353379449714c0e2"
   ]
 }
