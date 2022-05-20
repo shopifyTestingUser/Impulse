@@ -376,52 +376,6 @@
         "space_around": false
       }
     },
-    "16349074948fa012fe": {
-      "type": "text-and-image",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Marina_Nachher.jpg",
-        "image2": "shopify:\/\/shop_images\/Marina_Vorher.jpg",
-        "image_position": "left-bottom",
-        "image_bg_color": "#f8e6d4",
-        "image_bg": "shopify:\/\/shop_images\/Frame_106.png",
-        "subtitle": "",
-        "title": "Haarverdichtung",
-        "another_text": false,
-        "text": "<p>Wir Langhaarmädchen ticken anders! Bei uns gibt es keine Haarverdichtung, um den Optimierungswahn auf die Spitze zu treiben. Bei uns gibt es Haarverdichtungen, die dich darin unterstützen sollen, dein Selbstbewusstsein, deine Schönheit und deine Persönlichkeit, die längst schon da ist, zu<br\/>unterstreichen!<\/p>",
-        "button_label": "FACETIME BERATUNG BUCHEN",
-        "button_link": "https:\/\/www.langhaarmaedchen.de\/pages\/haarverdichtung-landingpage#cal",
-        "button_style": "primary",
-        "align_text": "left",
-        "layout": "right",
-        "text_image_bg": "shopify:\/\/shop_images\/decor_salon_1_17a622e0-7ec2-4d49-9b73-4ea7f38c4b76.png",
-        "divider": false,
-        "margin_top": false,
-        "margin_bottom": false
-      }
-    },
-    "1634907540ba6957b3": {
-      "type": "text-and-image",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_3454_2.jpg",
-        "image2": "shopify:\/\/shop_images\/IMG_3453_2.jpg",
-        "image_position": "left-bottom",
-        "image_bg_color": "#f6dad6",
-        "image_bg": "shopify:\/\/shop_images\/Frame_106_1.png",
-        "subtitle": "",
-        "title": "Hairtalk Extensions",
-        "another_text": false,
-        "text": "<p>hairtalk ist seit Jahren weltweit die führende Marke für Tape-Extensions. Als Pionier dieser Methode zur Haarverlängerung und Haarverdichtung wissen sie genau, worauf es ankommt: Deshalb ist unser hairtalk Tape Extensions System besonders schonend zum Eigenhaar, außergewöhnlich komfortabel zu tragen und wird ausschließlich von uns Profis als hairtalk Partnersalons eingearbeitet.<\/p><p><strong>Wie funktonieren Hairtalk Extensions?<\/strong><\/p><p>Mit hairtalk extensions sind lange, gesunde Haare kein<br\/>unerfüllbarer Traum mehr. Das einzigartige Klebesystem ist besonders schonend zum Eigenhaar und fügt sich nahtlos in das Naturhaar<br\/>ein. Alle hairtalk Produkte überzeugen durch einzigartigen Tragekomfort und ein breites Spektrum an Farbnuancen, die sich mit dem<br\/>Eigenhaar zu einem überzeugenden, natürlichen Ergebnis verbinden.<\/p><p><\/p><p><\/p>",
-        "button_label": "FACETIME BERATUNG BUCHEN",
-        "button_link": "https:\/\/www.langhaarmaedchen.de\/pages\/haarverdichtung-landingpage#cal",
-        "button_style": "primary",
-        "align_text": "left",
-        "layout": "left",
-        "text_image_bg": "shopify:\/\/shop_images\/decor_salon_2.png",
-        "divider": false,
-        "margin_top": false,
-        "margin_bottom": false
-      }
-    },
     "1634908162416e3f0b": {
       "type": "rich-text",
       "blocks": {
@@ -476,6 +430,52 @@
         "text": "",
         "show_phone": true,
         "narrow_column": true
+      }
+    },
+    "16349074948fa012fe": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Marina_Nachher.jpg",
+        "image2": "shopify:\/\/shop_images\/Marina_Vorher.jpg",
+        "image_position": "left-bottom",
+        "image_bg_color": "#f8e6d4",
+        "image_bg": "shopify:\/\/shop_images\/Frame_106.png",
+        "subtitle": "",
+        "title": "Haarverdichtung",
+        "another_text": false,
+        "text": "<p>Wir Langhaarmädchen ticken anders! Bei uns gibt es keine Haarverdichtung, um den Optimierungswahn auf die Spitze zu treiben. Bei uns gibt es Haarverdichtungen, die dich darin unterstützen sollen, dein Selbstbewusstsein, deine Schönheit und deine Persönlichkeit, die längst schon da ist, zu<br\/>unterstreichen!<\/p>",
+        "button_label": "FACETIME BERATUNG BUCHEN",
+        "button_link": "https:\/\/www.langhaarmaedchen.de\/pages\/haarverdichtung-landingpage#cal",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "text_image_bg": "shopify:\/\/shop_images\/decor_salon_1_17a622e0-7ec2-4d49-9b73-4ea7f38c4b76.png",
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
+      }
+    },
+    "1634907540ba6957b3": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_3454_2.jpg",
+        "image2": "shopify:\/\/shop_images\/IMG_3453_2.jpg",
+        "image_position": "left-bottom",
+        "image_bg_color": "#f6dad6",
+        "image_bg": "shopify:\/\/shop_images\/Frame_106_1.png",
+        "subtitle": "",
+        "title": "Hairtalk Extensions",
+        "another_text": false,
+        "text": "<p>hairtalk ist seit Jahren weltweit die führende Marke für Tape-Extensions. Als Pionier dieser Methode zur Haarverlängerung und Haarverdichtung wissen sie genau, worauf es ankommt: Deshalb ist unser hairtalk Tape Extensions System besonders schonend zum Eigenhaar, außergewöhnlich komfortabel zu tragen und wird ausschließlich von uns Profis als hairtalk Partnersalons eingearbeitet.<\/p><p><strong>Wie funktonieren Hairtalk Extensions?<\/strong><\/p><p>Mit hairtalk extensions sind lange, gesunde Haare kein<br\/>unerfüllbarer Traum mehr. Das einzigartige Klebesystem ist besonders schonend zum Eigenhaar und fügt sich nahtlos in das Naturhaar<br\/>ein. Alle hairtalk Produkte überzeugen durch einzigartigen Tragekomfort und ein breites Spektrum an Farbnuancen, die sich mit dem<br\/>Eigenhaar zu einem überzeugenden, natürlichen Ergebnis verbinden.<\/p><p><\/p><p><\/p>",
+        "button_label": "FACETIME BERATUNG BUCHEN",
+        "button_link": "https:\/\/www.langhaarmaedchen.de\/pages\/haarverdichtung-landingpage#cal",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "left",
+        "text_image_bg": "shopify:\/\/shop_images\/decor_salon_2.png",
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
       }
     },
     "16349076903b384634": {
@@ -715,10 +715,10 @@
     "164794884227c625c7",
     "1650633786bff38ddb",
     "1650531531e8d51d0d",
-    "16349074948fa012fe",
-    "1634907540ba6957b3",
     "1634908162416e3f0b",
     "16349081684b16f546",
+    "16349074948fa012fe",
+    "1634907540ba6957b3",
     "16349076903b384634",
     "1637605754143b0ca8",
     "16376017988340a1c9",
