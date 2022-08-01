@@ -2,11 +2,58 @@
   "sections": {
     "main": {
       "type": "main-page-full-width",
+      "disabled": true,
       "settings": {
+      }
+    },
+    "16593556506a6f1829": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/49A3220.jpg",
+        "image2": "shopify:\/\/shop_images\/49A3398_2d9d4203-f61a-4b2f-b9a7-f535f8db9830.jpg",
+        "image_position": "right-top",
+        "image_bg_color": "#F8E6D4",
+        "image_bg": "shopify:\/\/shop_images\/decor_article_3.png",
+        "subtitle": "",
+        "title": "Hallo du Liebe",
+        "another_text": false,
+        "text": "<p>Du möchtest mehr über die Langhaarmädchen, ihre Geschichte oder den Langhaarmädchen Salon erfahren? <\/p>",
+        "button_label": "Dann klicke hier",
+        "button_link": "https:\/\/langhaarmaedchen.de",
+        "button_style": "primary",
+        "align_text": "center",
+        "layout": "left",
+        "text_image_bg": "shopify:\/\/shop_images\/decor_article_2.png",
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
+      }
+    },
+    "16593562918eab3e3a": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/20210908_090246669_iOS_fa9dc0c0-8ff8-49b7-be64-955b7be07665.jpg",
+        "image2": "shopify:\/\/shop_images\/photo-output.jpg",
+        "image_position": "left-bottom",
+        "image_bg_color": "#F8E6D4",
+        "subtitle": "",
+        "title": "Unsere Produkte bei dm",
+        "another_text": false,
+        "text": "<p>Falls du unsere Produkte online bestellen möchtest, dann findest du alle Produkte auf dm.de. <\/p>",
+        "button_label": "dann klicke hier",
+        "button_link": "https:\/\/www.dm.de\/marken\/langhaarmaedchen\/?",
+        "button_style": "primary",
+        "align_text": "center",
+        "layout": "right",
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
       }
     }
   },
   "order": [
-    "main"
+    "main",
+    "16593556506a6f1829",
+    "16593562918eab3e3a"
   ]
 }
