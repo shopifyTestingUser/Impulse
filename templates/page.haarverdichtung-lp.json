@@ -24,11 +24,11 @@
           "type": "image",
           "settings": {
             "top_subheading": "",
-            "title": "Langhaarmädchen",
+            "title": "Unser Kernwert :",
             "title_size": 60,
-            "subheading": "",
+            "subheading": "Haargesundheit und Schonung des Eigenhaars",
             "link": "https:\/\/www.langhaarmaedchen.de\/pages\/haarverdichtung-landingpage#cal",
-            "link_text": "Jetzt Termin Buchen",
+            "link_text": "jetzt beratung buchen",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
@@ -132,7 +132,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p><\/p><p>Hallo du Liebe und herzlich willkommen in unserem Salon. <\/p><p>Volles, voluminöses Haar unterstreicht die individuelle Schönheit, bietet viele Möglichkeiten für ein perfektes Styling. In unserem Salon können du deine Haarwünsche wahr werdenlassen. Wir sind ein zertifizierter Partner von hairtalk Deutschland. Mit hairtalk Extensions ist langes, gesundes Haar kein unerreichbarer Traum mehr. Das einzigartige Haftsystem fügt sich nahtlos in das Naturhaar ein, die Übergänge sind kaum wahrnehmbar. Es ist eine Art Haarzauber.<\/p><p><\/p><p><\/p><p><\/p><p><\/p><p><\/p>"
+            "text": "<p>Hallo du Liebe!<\/p><p>Volles, voluminöses Haar unterstreicht die individuelle Schönheit, bietet viele Möglichkeiten für ein perfektes Styling. In unserem Salon können du deine Haarwünsche wahr werdenlassen. Wir sind ein zertifizierter Partner von hairtalk Deutschland. Mit hairtalk Extensions ist langes, gesundes Haar kein unerreichbarer Traum mehr. Das einzigartige Haftsystem fügt sich nahtlos in das Naturhaar ein, die Übergänge sind kaum wahrnehmbar. Es ist eine Art Haarzauber.<\/p><p><\/p><p><\/p><p><\/p><p><\/p><p><\/p>"
           }
         },
         "27193771-10c1-4631-8c71-604006234c2b": {
@@ -140,7 +140,7 @@
           "settings": {
             "target_blank": false,
             "link": "#cal",
-            "link_text": "FaceTime Beratung buchen"
+            "link_text": "jetzt beratung buchen"
           }
         },
         "12dccdf1-2617-42d2-86b5-244daa861c8a": {
@@ -702,6 +702,35 @@
         "image_right_width": 27,
         "image_right_position": 0
       }
+    },
+    "1664530913fc84995b": {
+      "type": "advanced-content",
+      "blocks": {
+        "166453091366fc6f3b-0": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "166453091366fc6f3b-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<script src=\"https:\/\/apps.elfsight.com\/p\/platform.js\" defer><\/script>\n<div class=\"elfsight-app-cac9947b-5af9-4e45-9f90-49b20c82e291\"><\/div>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "166453091366fc6f3b-0",
+        "166453091366fc6f3b-1"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
     }
   },
   "order": [
@@ -727,6 +756,7 @@
     "1634907866597b00bd",
     "163490787431a0100d",
     "1634907893f803f2d3",
-    "16353379449714c0e2"
+    "16353379449714c0e2",
+    "1664530913fc84995b"
   ]
 }
