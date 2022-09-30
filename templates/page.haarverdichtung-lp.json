@@ -321,6 +321,7 @@
         "166453091366fc6f3b-0": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/20211118_085343000_klein.jpg",
             "link": "",
             "width": "50%",
             "alignment": "center"
