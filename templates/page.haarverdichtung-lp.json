@@ -123,15 +123,15 @@
           "settings": {
             "title": "Haarverdichtung mit Hairtalk",
             "image": "shopify:\/\/shop_images\/Vector.png",
-            "image_width": 0,
-            "image_position": 21
+            "image_width": 33,
+            "image_position": 40
           }
         },
         "163490746248b9e19e-1": {
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Hallo du Liebe!<\/p><p>Volles, voluminöses Haar unterstreicht die individuelle Schönheit, bietet viele Möglichkeiten für ein perfektes Styling. In unserem Salon kannst du deine Haarwünsche wahr werdenlassen. Wir sind ein zertifizierter Partner von hairtalk Deutschland. Mit hairtalk Extensions ist langes, gesundes Haar kein unerreichbarer Traum mehr. Das einzigartige Haftsystem fügt sich nahtlos in das Naturhaar ein, die Übergänge sind kaum wahrnehmbar. Es ist eine Art Haarzauber.<\/p><p><\/p><p><\/p><p><\/p><p><\/p><p><\/p>"
+            "text": "<p>Hallo du Liebe!<\/p><p>Volles, voluminöses Haar unterstreicht die individuelle Schönheit, bietet viele Möglichkeiten für ein perfektes Styling. In unserem Salon könnst du deine Haarwünsche wahr werdenlassen. Wir sind ein zertifizierter Partner von hairtalk Deutschland. Mit hairtalk Extensions ist langes, gesundes Haar kein unerreichbarer Traum mehr. Das einzigartige Haftsystem fügt sich nahtlos in das Naturhaar ein, die Übergänge sind kaum wahrnehmbar. Es ist eine Art Haarzauber.<\/p><p><\/p><p><\/p><p><\/p><p><\/p><p><\/p>"
           }
         },
         "27193771-10c1-4631-8c71-604006234c2b": {
@@ -280,7 +280,7 @@
         "16479488421d6495bb-0": {
           "type": "heading",
           "settings": {
-            "title": "Deine Haarverlän­gerung und Haarverdichtung",
+            "title": "Haarverlän­gerung und Haarverdichtung in München",
             "image_width": 50,
             "image_position": 50
           }
@@ -289,7 +289,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p><\/p><p><\/p><p>Lass' dich von unserer Gründerin  Mona und unseren Expertinnen kostenlos über Whatsapp oder Video Chat beraten. Es ist völlig unverbindlich. <\/p><p><em><strong>Dein kostenloses Beratungsgespräch in nur 3 Schritten:<\/strong><\/em><\/p><p><strong>1)<\/strong>  Schreibe uns eine WhatsApp Nachricht<\/p><p><strong>2)  <\/strong>Sende uns eine Selfie von deinen Haaren über Whatsapp und eine kurze Sprachnachricht, was du dir wünschst<\/p><p><strong>3)<\/strong>  Wir melden uns bei dir & du bekommst dein persönliches Beratungsgespräch von unserem Expertenteam<\/p><p>Wir freuen uns auf DICH!! <\/p>"
+            "text": "<p>Lass dich von unsere Gründerin und Extnension Expertin kostenlos über Whatsapp und Video Chat beraten. Es ist völlig unverbindlich. <\/p><p><em>Dein kostenloses Beratungsgespräch in nur 3-Schritten:<\/em><\/p><p><\/p><p><strong>1)<\/strong> Schreib uns eine WhatsApp Nachricht<\/p><p><strong>2) <\/strong>Sende uns eine Selfie von deinen Haaren über Whatsapp und eine kurze Sprachnachricht, was du dir wünschst<\/p><p><strong>3)<\/strong> Ein unverbindliches Gespräch mit unserem Expertenteam<\/p><p>Wir freuen uns auf DICH!<\/p>"
           }
         },
         "5d9b17b2-98e6-4e75-9e43-e718df2de7f1": {
@@ -320,7 +320,6 @@
       "blocks": {
         "166453091366fc6f3b-0": {
           "type": "image",
-          "disabled": true,
           "settings": {
             "link": "",
             "width": "50%",
@@ -331,8 +330,8 @@
           "type": "liquid",
           "settings": {
             "code": "<script src=\"https:\/\/apps.elfsight.com\/p\/platform.js\" defer><\/script>\n<div class=\"elfsight-app-cac9947b-5af9-4e45-9f90-49b20c82e291\" id=\"whatsapp\"><\/div>",
-            "width": "100%",
-            "alignment": "center"
+            "width": "50%",
+            "alignment": "top-middle"
           }
         }
       },
@@ -361,7 +360,7 @@
           "type": "liquid",
           "settings": {
             "code": "<div id=\"cal\"><\/div>",
-            "width": "100%",
+            "width": "33%",
             "alignment": "center"
           }
         }
