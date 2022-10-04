@@ -123,8 +123,8 @@
           "settings": {
             "title": "Haarverdichtung mit Hairtalk",
             "image": "shopify:\/\/shop_images\/Vector.png",
-            "image_width": 33,
-            "image_position": 40
+            "image_width": 0,
+            "image_position": 42
           }
         },
         "163490746248b9e19e-1": {
