@@ -125,7 +125,7 @@
             "title": "Unser Service für dich",
             "image": "shopify:\/\/shop_images\/Vector.png",
             "image_width": 33,
-            "image_position": 40
+            "image_position": 29
           }
         },
         "163490746248b9e19e-1": {
@@ -222,7 +222,7 @@
             "enable_image": true,
             "image": "shopify:\/\/shop_images\/Design_ohne_Titel-8.png",
             "title": "Haarverdichtung",
-            "price": "ab 490 €",
+            "price": "ab 500 €",
             "text": "<p>Du vermisst Volumen und eine Haarpracht, mit der du dich so richtig wohlfühlst?! Wir<br\/>liiieben natürliche Haarverdichtungen, arbeiten seit 8 Jahren mit den besten Tape Extensions von hairtalk und werden dir damit ganz neue Haar-Träume ermöglichen!<\/p>",
             "button_label": "JETZT BUCHEN",
             "button_link": "https:\/\/www.langhaarmaedchen.de\/pages\/haarverdichtung-landingpage"
@@ -320,9 +320,9 @@
         "64b120ac-f0a9-4b9f-988e-ec5040c3146a": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Salon_Preisliste_28.Juni.png",
-            "link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0285\/6969\/8348\/files\/Salon_Preisliste_28.Juni_900x.png?v=1656407430",
-            "width": "50"
+            "image": "shopify:\/\/shop_images\/Salon_Preisliste_11aa2b21-8c4a-4080-a270-f3b5ce3bdf6e.jpg",
+            "link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0285\/6969\/8348\/files\/Salon_Preisliste_11aa2b21-8c4a-4080-a270-f3b5ce3bdf6e_1600x.jpg?v=1664895960",
+            "width": "100"
           }
         }
       },
