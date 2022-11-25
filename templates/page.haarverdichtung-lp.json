@@ -24,7 +24,7 @@
           "type": "image",
           "settings": {
             "top_subheading": "",
-            "title": "Unser Kernwert <br>",
+            "title": "Unser Kernwert <p><\/p>",
             "title_size": 60,
             "subheading": "Haargesundheit und Schonung des Eigenhaars",
             "link": "https:\/\/www.langhaarmaedchen.de\/pages\/haarverdichtung-landingpage#whatsapp",
@@ -33,7 +33,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/Hairtalk.jpg",
+            "image": "shopify:\/\/shop_images\/Hairtalk_e125f33b-0b40-41ad-a5a7-6cd00cc7cd02.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Hairtal_mobilek.jpg",
             "overlay_opacity": 20,
             "focal_point": "center center"
           }
