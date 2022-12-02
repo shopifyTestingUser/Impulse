@@ -166,6 +166,36 @@
         "margin_bottom": false
       }
     },
+    "1664530913fc84995b": {
+      "type": "advanced-content",
+      "blocks": {
+        "166453091366fc6f3b-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Hairtalk_e125f33b-0b40-41ad-a5a7-6cd00cc7cd02.jpg",
+            "link": "",
+            "width": "66%",
+            "alignment": "center"
+          }
+        },
+        "166453091366fc6f3b-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<script src=\"https:\/\/apps.elfsight.com\/p\/platform.js\" defer><\/script>\n<div class=\"elfsight-app-cac9947b-5af9-4e45-9f90-49b20c82e291\" id=\"whatsapp\"><\/div>",
+            "width": "33%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "166453091366fc6f3b-0",
+        "166453091366fc6f3b-1"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
     "16479487964b071b51": {
       "type": "featured-video",
       "settings": {
@@ -314,36 +344,6 @@
         "divider": false,
         "margin_top": false,
         "margin_bottom": false
-      }
-    },
-    "1664530913fc84995b": {
-      "type": "advanced-content",
-      "blocks": {
-        "166453091366fc6f3b-0": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Hairtalk_e125f33b-0b40-41ad-a5a7-6cd00cc7cd02.jpg",
-            "link": "",
-            "width": "66%",
-            "alignment": "center"
-          }
-        },
-        "166453091366fc6f3b-1": {
-          "type": "liquid",
-          "settings": {
-            "code": "<script src=\"https:\/\/apps.elfsight.com\/p\/platform.js\" defer><\/script>\n<div class=\"elfsight-app-cac9947b-5af9-4e45-9f90-49b20c82e291\" id=\"whatsapp\"><\/div>",
-            "width": "33%",
-            "alignment": "center"
-          }
-        }
-      },
-      "block_order": [
-        "166453091366fc6f3b-0",
-        "166453091366fc6f3b-1"
-      ],
-      "settings": {
-        "full_width": false,
-        "space_around": true
       }
     },
     "1650633786bff38ddb": {
@@ -740,11 +740,11 @@
     "16349073092065b984",
     "main",
     "163490746248b9e19e",
+    "1664530913fc84995b",
     "16479487964b071b51",
     "1650550827aa9686d7",
     "1650549005713f9a6c",
     "164794884227c625c7",
-    "1664530913fc84995b",
     "1650633786bff38ddb",
     "1650531531e8d51d0d",
     "1634908162416e3f0b",
