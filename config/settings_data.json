@@ -458,15 +458,13 @@
             "1521051841065": {
               "type": "announcement",
               "settings": {
-                "text": "<p>Free shipping<\/p>",
-                "link": "shopify:\/\/collections\/all"
+                "text": "<p>Free shipping<\/p>"
               }
             },
             "1520888647304": {
               "type": "announcement",
               "settings": {
-                "text": "<p>Hassle-free returns<\/p>",
-                "link": "shopify:\/\/collections\/all"
+                "text": "<p>Hassle-free returns<\/p>"
               }
             }
           },
