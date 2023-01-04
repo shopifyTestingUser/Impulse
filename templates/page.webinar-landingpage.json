@@ -19,6 +19,7 @@
     },
     "16349073092065b984": {
       "type": "slideshow",
+      "disabled": true,
       "blocks": {
         "8949461a-e3e2-4b2f-a40f-1c2d65799d70": {
           "type": "image",
@@ -269,6 +270,60 @@
         "divider": false
       }
     },
+    "1634907866597b00bd": {
+      "type": "promo-grid",
+      "blocks": {
+        "1bb5e329-0ca1-4b8b-8843-aea4d62207a9": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/49A1192_2_2_1.jpg",
+            "link": "",
+            "width": "100"
+          }
+        }
+      },
+      "block_order": [
+        "1bb5e329-0ca1-4b8b-8843-aea4d62207a9"
+      ],
+      "settings": {
+        "full_width": false,
+        "gutter_size": 20,
+        "space_above": false,
+        "space_below": true,
+        "color_text": "main"
+      }
+    },
+    "0a81850c-118f-40d2-ae53-fd8ad774fe78": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16735646646538__0a81850c-118f-40d2-ae53-fd8ad774fe78-1672850258676298a8-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Das ist ein text über LHM",
+            "image_width": 50,
+            "image_position": 50
+          }
+        },
+        "template--16735646646538__0a81850c-118f-40d2-ae53-fd8ad774fe78-1672850258676298a8-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Langhaarmädchen ist eine luxuriöse Linie von Haarpflegeprodukten von <strong>dm<\/strong>. Langhaarmädchen wurde 2016 gegründet und hat sich der Bereitstellung von Produkten höchster Qualität verschrieben, die schönes Haar nähren, schützen und verschönern. Sie sind spezialisiert auf Shampoos, Conditioner, Stylingprodukte und Haarbehandlungen, die speziell für langes Haar entwickelt wurden. <\/p><p>Ihre einzigartige Sammlung natürlicher Inhaltsstoffe wie Arganöl, Sheabutter und Aloe Vera machen das Haar weich, gesund und gepflegt. Langhaarmädchen hat eine komplette Produktlinie entwickelt, die hilft, das Haar vor Sonne, Hitzestyling und Umweltschäden zu schützen. Ihre Produkte wurden entwickelt, um Ihrem Haar ohne aggressive Chemikalien Glanz und Fülle zu verleihen. Alle Produkte sind tierversuchsfrei.<\/p><p> Egal, ob Sie ein nährendes tägliches Shampoo, eine tiefgreifende Pflegebehandlung oder ein Stylingprodukt suchen, Langhaarmädchen hat etwas für Sie. Sie werden Ihnen sicher dabei helfen, Ihr Haar schön und gesund aussehen zu lassen.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16735646646538__0a81850c-118f-40d2-ae53-fd8ad774fe78-1672850258676298a8-0",
+        "template--16735646646538__0a81850c-118f-40d2-ae53-fd8ad774fe78-1672850258676298a8-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
+      }
+    },
     "1664530913fc84995b": {
       "type": "advanced-content",
       "blocks": {
@@ -508,29 +563,6 @@
         "margin_bottom": false
       }
     },
-    "1634907866597b00bd": {
-      "type": "promo-grid",
-      "blocks": {
-        "1bb5e329-0ca1-4b8b-8843-aea4d62207a9": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/49A1192_2_2_1.jpg",
-            "link": "",
-            "width": "100"
-          }
-        }
-      },
-      "block_order": [
-        "1bb5e329-0ca1-4b8b-8843-aea4d62207a9"
-      ],
-      "settings": {
-        "full_width": false,
-        "gutter_size": 20,
-        "space_above": false,
-        "space_below": true,
-        "color_text": "main"
-      }
-    },
     "16353379449714c0e2": {
       "type": "background-image",
       "disabled": true,
@@ -583,6 +615,8 @@
     "29d28c65-b26c-4411-90ac-f7850a492059",
     "1650550827aa9686d7",
     "1650549005713f9a6c",
+    "1634907866597b00bd",
+    "0a81850c-118f-40d2-ae53-fd8ad774fe78",
     "1664530913fc84995b",
     "16479487964b071b51",
     "16349081684b16f546",
@@ -591,7 +625,6 @@
     "cceeac84-5aca-40e3-9a22-60da842e6378",
     "16349077831e0c599d",
     "16349078470f63730c",
-    "1634907866597b00bd",
     "16353379449714c0e2",
     "71c97a9c-710d-49d8-811e-2720300ceb04"
   ]
