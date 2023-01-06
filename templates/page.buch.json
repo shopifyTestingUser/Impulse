@@ -22,14 +22,16 @@
     "7549d0fd-b7f0-4d20-be93-d167dce94c2b": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/langhaarmaedchen-mutig-ist-das-neue-schoen-taschenbuch-julia-schindelmann.webp",
+        "image": "shopify:\/\/shop_images\/langhaarmaedchen-mutig-ist-das-neue-schoen-taschenbuch-julia-schindelmann.png",
+        "image2": "shopify:\/\/shop_images\/49A0314_1.png",
         "image_position": "left-bottom",
         "image_bg_color": "#F8E6D4",
+        "image_bg": "shopify:\/\/shop_images\/decor_about_us_6.png",
         "subtitle": "Die Geschichte der Langhaarmädchen",
         "title": "Mutig ist das neue Schön",
         "another_text": false,
         "text": "<p>Dies ist die Geschichte der Langhaarmädchen, die mit viel Mut begann und davon erzählt wie Mona Mayr und Julia Schindelmann, Friseurmeisterinnen und die internationale Haarpflegemarke „Langhaarmädchen“ gründen.  <\/p><p><\/p>",
-        "button_label": "",
+        "button_label": "JETZT VORBESTELLEN",
         "button_link": "",
         "button_style": "primary",
         "align_text": "left",
