@@ -42,7 +42,7 @@
         "template--16889014386954__8e6b1332-0ffe-4b14-bbe6-c77939ceab51-16732190923dae5732-1": {
           "type": "liquid",
           "settings": {
-            "code": "<h2 id=\"literatur\"2>Literaturempfehlungen Link<\/h2><p>Use this advanced section to build your own layouts or to add custom HTML, Liquid, or scripts.<\/p>",
+            "code": "<h2 id=\"literatur\">Literaturempfehlungen Link<\/h2><p>Use this advanced section to build your own layouts or to add custom HTML, Liquid, or scripts.<\/p>",
             "width": "50%",
             "alignment": "center"
           }
