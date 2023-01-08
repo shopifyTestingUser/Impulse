@@ -71,7 +71,7 @@
         "506b8b8f-70ae-454c-82c3-1be64b5ec698": {
           "type": "liquid",
           "settings": {
-            "code": "<h2 id=\"haarberatun\">Haarberatung<\/h2><p>Use this advanced section to build your own layouts or to add custom HTML, Liquid, or scripts.<\/p>",
+            "code": "<h2 id=\"haarberatung\">Haarberatung<\/h2><p>Use this advanced section to build your own layouts or to add custom HTML, Liquid, or scripts.<\/p>",
             "width": "50%",
             "alignment": "center"
           }
