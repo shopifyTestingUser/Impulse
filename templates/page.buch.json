@@ -12,7 +12,7 @@
         "image": "shopify:\/\/shop_images\/langhaarmaedchen-mutig-ist-das-neue-schoen-taschenbuch-julia-schindelmann.png",
         "image2": "shopify:\/\/shop_images\/49A0314_1.png",
         "image_position": "left-bottom",
-        "image_bg_color": "#F8E6D4",
+        "image_bg_color": "#f8e6d4",
         "image_bg": "shopify:\/\/shop_images\/decor_about_us_6.png",
         "subtitle": "Die Geschichte der Langhaarmädchen",
         "title": "Mutig ist das neue Schön",
@@ -27,10 +27,160 @@
         "margin_top": false,
         "margin_bottom": false
       }
+    },
+    "8e6b1332-0ffe-4b14-bbe6-c77939ceab51": {
+      "type": "advanced-content",
+      "blocks": {
+        "template--16889014386954__8e6b1332-0ffe-4b14-bbe6-c77939ceab51-16732190923dae5732-0": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "template--16889014386954__8e6b1332-0ffe-4b14-bbe6-c77939ceab51-16732190923dae5732-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2 id=\"literatur\"2>Literaturempfehlungen Link<\/h2><p>Use this advanced section to build your own layouts or to add custom HTML, Liquid, or scripts.<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--16889014386954__8e6b1332-0ffe-4b14-bbe6-c77939ceab51-16732190923dae5732-0",
+        "template--16889014386954__8e6b1332-0ffe-4b14-bbe6-c77939ceab51-16732190923dae5732-1"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
+    "232f9b2a-c58c-414c-9b9b-c31240281a69": {
+      "type": "advanced-content",
+      "blocks": {
+        "8bae1326-9ace-483a-b3a2-86c78e6d5ec9": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "506b8b8f-70ae-454c-82c3-1be64b5ec698": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2 id=\"haarberatun\">Haarberatung<\/h2><p>Use this advanced section to build your own layouts or to add custom HTML, Liquid, or scripts.<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "8bae1326-9ace-483a-b3a2-86c78e6d5ec9",
+        "506b8b8f-70ae-454c-82c3-1be64b5ec698"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
+    "7bdc4571-fbff-47d2-abda-37831c8c3c03": {
+      "type": "advanced-content",
+      "blocks": {
+        "91b9348a-b14f-4548-80bd-9dc7f822b4ba": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "c6015b93-99db-4f38-9909-cab05a0bf9e5": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2 id=\"sprachnachricht\">Sprachnachricht Roby<\/h2><p>Use this advanced section to build your own layouts or to add custom HTML, Liquid, or scripts.<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "91b9348a-b14f-4548-80bd-9dc7f822b4ba",
+        "c6015b93-99db-4f38-9909-cab05a0bf9e5"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
+    "33a516f1-3d6f-40d7-8ca4-293e54df3687": {
+      "type": "advanced-content",
+      "blocks": {
+        "ab54527b-8db7-4f0e-a2d0-803fae7e23e8": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "ac2241a3-aab5-49be-9fbf-96cc1fa92ac8": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2 id=\"videobotschaf\">Videobotschaft<\/h2><p>Use this advanced section to build your own layouts or to add custom HTML, Liquid, or scripts.<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "ab54527b-8db7-4f0e-a2d0-803fae7e23e8",
+        "ac2241a3-aab5-49be-9fbf-96cc1fa92ac8"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
+    "5cd3bb2e-c0bc-4f06-bdd8-277d720ad3e1": {
+      "type": "advanced-content",
+      "blocks": {
+        "2c8310b9-bb4c-425c-9fa7-010416751bea": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "08670477-98b8-4893-a5d5-77c88b3a835f": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2 id=\"haarspende\">Haarspende<\/h2><p>Use this advanced section to build your own layouts or to add custom HTML, Liquid, or scripts.<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "2c8310b9-bb4c-425c-9fa7-010416751bea",
+        "08670477-98b8-4893-a5d5-77c88b3a835f"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
     }
   },
   "order": [
     "main",
-    "7549d0fd-b7f0-4d20-be93-d167dce94c2b"
+    "7549d0fd-b7f0-4d20-be93-d167dce94c2b",
+    "8e6b1332-0ffe-4b14-bbe6-c77939ceab51",
+    "232f9b2a-c58c-414c-9b9b-c31240281a69",
+    "7bdc4571-fbff-47d2-abda-37831c8c3c03",
+    "33a516f1-3d6f-40d7-8ca4-293e54df3687",
+    "5cd3bb2e-c0bc-4f06-bdd8-277d720ad3e1"
   ]
 }
