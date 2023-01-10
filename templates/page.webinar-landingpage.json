@@ -125,10 +125,10 @@
         "image_position": "left-bottom",
         "image_bg_color": "#f6dad6",
         "image_bg": "shopify:\/\/shop_images\/Frame_106_1.png",
-        "subtitle": "wir haben die Lösung für dich!",
-        "title": "Du träumst auch von Schönen langenund Vollen Haaren?",
+        "subtitle": "Dann ist eine professionelle Haardichtung genau das Richtige für dich.",
+        "title": "Du träumst auch von schönen langen und vollen Haaren?",
         "another_text": false,
-        "text": "<p>Dann ist eine professionelle Haardichtung genau dasRichtige für dich.Volles, voluminöses Haar unterstreicht deinSelbstbewusstsein, deine individuelle Schönheit deineSchönheit und deine Persönlichkeit, die längst in dir ist.In unserem Live-Webinar am xx.01.2023 beantworten wir dir persönlich alle Fragen rund um das ThemaHaarverdichtung und-verlängerung.<\/p>",
+        "text": "<p>Volles, voluminöses Haar unterstreicht dein Selbstbewusstsein, deine individuelle Schönheit und deine Persönlichkeit, die längst in dir ist.<\/p><p><\/p><p>In unserem Live-Webinar am <strong>23.01.2023 um 18.00 Uhr <\/strong>beantworten wir dir persönlich alle Fragen rund um das Thema Haarverdichtung und-verlängerung.<\/p>",
         "button_label": "",
         "button_link": "",
         "button_style": "primary",
@@ -225,7 +225,7 @@
         "template--16735646646538__0e3c7267-c614-43ff-aba8-7cf4dc3c06c0-1672849110dc106737-1": {
           "type": "liquid",
           "settings": {
-            "code": "<!-- Begin Sendinblue Form -->\n<!-- START - We recommend to place the below code in head tag of your website html  -->\n<style>\n  @font-face {\n    font-display: block;\n    font-family: Roboto;\n    src: url(https:\/\/assets.sendinblue.com\/font\/Roboto\/Latin\/normal\/normal\/7529907e9eaf8ebb5220c5f9850e3811.woff2) format(\"woff2\"), url(https:\/\/assets.sendinblue.com\/font\/Roboto\/Latin\/normal\/normal\/25c678feafdc175a70922a116c9be3e7.woff) format(\"woff\")\n  }\n\n  @font-face {\n    font-display: fallback;\n    font-family: Roboto;\n    font-weight: 600;\n    src: url(https:\/\/assets.sendinblue.com\/font\/Roboto\/Latin\/medium\/normal\/6e9caeeafb1f3491be3e32744bc30440.woff2) format(\"woff2\"), url(https:\/\/assets.sendinblue.com\/font\/Roboto\/Latin\/medium\/normal\/71501f0d8d5aa95960f6475d5487d4c2.woff) format(\"woff\")\n  }\n\n  @font-face {\n    font-display: fallback;\n    font-family: Roboto;\n    font-weight: 700;\n    src: url(https:\/\/assets.sendinblue.com\/font\/Roboto\/Latin\/bold\/normal\/3ef7cf158f310cf752d5ad08cd0e7e60.woff2) format(\"woff2\"), url(https:\/\/assets.sendinblue.com\/font\/Roboto\/Latin\/bold\/normal\/ece3a1d82f18b60bcce0211725c476aa.woff) format(\"woff\")\n  }\n\n  #sib-container input:-ms-input-placeholder {\n    text-align: left;\n    font-family: \"Lucida Grande\", sans-serif;\n    color: #c0ccda;\n  }\n\n  #sib-container input::placeholder {\n    text-align: left;\n    font-family: \"Lucida Grande\", sans-serif;\n    color: #c0ccda;\n  }\n<\/style>\n<link rel=\"stylesheet\" href=\"https:\/\/sibforms.com\/forms\/end-form\/build\/sib-styles.css\">\n<!--  END - We recommend to place the above code in head tag of your website html -->\n\n<!-- START - We recommend to place the below code where you want the form in your website html  -->\n<div class=\"sib-form\" style=\"text-align: center;\n         background-color: transparent;                                           \">\n  <div id=\"sib-form-container\" class=\"sib-form-container\">\n    <div id=\"sib-container\" class=\"sib-container--large sib-container--horizontal\" style=\"text-align:center; background-color:rgba(250,243,237,1); max-width:540px; border-radius:3px; border-width:0px; border-color:#C0CCD9; border-style:solid;\">\n      <form id=\"sib-form\" method=\"POST\" action=\"https:\/\/3317bc50.sibforms.com\/serve\/MUIEAOYAJh9bOj9G8ef9nhPWwt3D3bv432yhyJEr9P8BZUBO0Tcxe2CF4uRHRGwBzOZJuN2sW5oXpcaBRjcr1K5BFph3ZGyhNxhk7bcnNGrO9uhxeK3UmOHZFnNjnRV09QQDijF-IPl3vT3dpc_RRMit-RRxR21go8JiEdm5FVOh8qrayxWJ5JygNViDbvsIG7RG0SFZ3xIFohOj\">\n        <div style=\"padding: 8px 0;\">\n          <div class=\"sib-input sib-form-block\">\n            <div class=\"form__entry entry_block\">\n              <div class=\"form__label-row form__label-row--horizontal\">\n\n                <div class=\"entry__field\">\n                  <input class=\"input\" maxlength=\"200\" type=\"text\" id=\"VORNAME\" name=\"VORNAME\" autocomplete=\"off\" placeholder=\"VORNAME\" data-required=\"true\" required \/>\n                <\/div>\n              <\/div>\n\n              <label class=\"entry__error entry__error--primary\" style=\"font-size:16px; text-align:left; font-family:&quot;Helvetica&quot;, sans-serif; color:#661d1d; background-color:#ffeded; border-radius:3px; border-color:#ff4949;\">\n              <\/label>\n            <\/div>\n          <\/div>\n        <\/div>\n        <div style=\"padding: 8px 0;\">\n          <div class=\"sib-input sib-form-block\">\n            <div class=\"form__entry entry_block\">\n              <div class=\"form__label-row form__label-row--horizontal\">\n\n                <div class=\"entry__field\">\n                  <input class=\"input\" type=\"text\" id=\"EMAIL\" name=\"EMAIL\" autocomplete=\"off\" placeholder=\"EMAIL\" data-required=\"true\" required \/>\n                <\/div>\n              <\/div>\n\n\n<label class=\"entry__error entry__error--primary\" style=\"font-size:16px; text-align:left; font-family:&quot;Helvetica&quot;, sans-serif; color:#661d1d; background-color:#ffeded; border-radius:3px; border-color:#ff4949;\">\n              <\/label>\n            <\/div>\n          <\/div>\n        <\/div>\n        <div style=\"padding: 8px 0;\">\n          <div class=\"sib-form-block\" style=\"text-align: center\">\n            <button class=\"sib-form-block__button sib-form-block__button-with-loader\" style=\"font-size:15px; text-align:center; font-family:&quot;Lucida Grande&quot;, sans-serif; color:#FFFFFF; background-color:#ce9e8c; border-radius:10px; border-width:0px;\" form=\"sib-form\" type=\"submit\">\n              <svg class=\"icon clickable__icon progress-indicator__icon sib-hide-loader-icon\" viewBox=\"0 0 512 512\">\n                <path d=\"M460.116 373.846l-20.823-12.022c-5.541-3.199-7.54-10.159-4.663-15.874 30.137-59.886 28.343-131.652-5.386-189.946-33.641-58.394-94.896-95.833-161.827-99.676C261.028 55.961 256 50.751 256 44.352V20.309c0-6.904 5.808-12.337 12.703-11.982 83.556 4.306 160.163 50.864 202.11 123.677 42.063 72.696 44.079 162.316 6.031 236.832-3.14 6.148-10.75 8.461-16.728 5.01z\" \/>\n              <\/svg>\n              jetzt kostenlos zum Webinar anmelden\n            <\/button>\n          <\/div>\n        <\/div>\n        <input type=\"text\" name=\"email_address_check\" value=\"\" class=\"input--hidden\">\n        <input type=\"hidden\" name=\"locale\" value=\"de\">\n        <input type=\"hidden\" name=\"html_type\" value=\"simple\">\n      <\/form>\n    <\/div>\n  <\/div>\n<\/div>\n<!-- END - We recommend to place the below code where you want the form in your website html  -->",
+            "code": "<div class=\"sib-form\" style=\"text-align: center;\n         background-color: transparent;                                           \">\n  <div id=\"sib-form-container\" class=\"sib-form-container\">\n    <div id=\"sib-container\" class=\"sib-container--large sib-container--horizontal\" style=\"text-align:center; background-color:rgba(250,243,237,1); max-width:540px; border-radius:3px; border-width:0px; border-color:#C0CCD9; border-style:solid;\">\n      <form id=\"sib-form\" method=\"POST\" action=\"https:\/\/3317bc50.sibforms.com\/serve\/MUIEAOYAJh9bOj9G8ef9nhPWwt3D3bv432yhyJEr9P8BZUBO0Tcxe2CF4uRHRGwBzOZJuN2sW5oXpcaBRjcr1K5BFph3ZGyhNxhk7bcnNGrO9uhxeK3UmOHZFnNjnRV09QQDijF-IPl3vT3dpc_RRMit-RRxR21go8JiEdm5FVOh8qrayxWJ5JygNViDbvsIG7RG0SFZ3xIFohOj\">\n        <div style=\"padding: 8px 0;\">\n          <div class=\"sib-input sib-form-block\">\n            <div class=\"form__entry entry_block\">\n              <div class=\"form__label-row form__label-row--horizontal\">\n\n                <div class=\"entry__field\">\n                  <input class=\"input\" maxlength=\"200\" type=\"text\" id=\"VORNAME\" name=\"VORNAME\" autocomplete=\"off\" placeholder=\"VORNAME\" data-required=\"true\" required \/>\n                <\/div>\n              <\/div>\n\n              <label class=\"entry__error entry__error--primary\" style=\"font-size:16px; text-align:left; font-family:&quot;Helvetica&quot;, sans-serif; color:#661d1d; background-color:#ffeded; border-radius:3px; border-color:#ff4949;\">\n              <\/label>\n            <\/div>\n          <\/div>\n        <\/div>\n        <div style=\"padding: 8px 0;\">\n          <div class=\"sib-input sib-form-block\">\n            <div class=\"form__entry entry_block\">\n              <div class=\"form__label-row form__label-row--horizontal\">\n\n                <div class=\"entry__field\">\n                  <input class=\"input\" type=\"text\" id=\"EMAIL\" name=\"EMAIL\" autocomplete=\"off\" placeholder=\"EMAIL\" data-required=\"true\" required \/>\n                <\/div>\n              <\/div>\n\n\n<label class=\"entry__error entry__error--primary\" style=\"font-size:16px; text-align:left; font-family:&quot;Helvetica&quot;, sans-serif; color:#661d1d; background-color:#ffeded; border-radius:3px; border-color:#ff4949;\">\n              <\/label>\n            <\/div>\n          <\/div>\n        <\/div>\n        <div style=\"padding: 8px 0;\">\n          <div class=\"sib-form-block\" style=\"text-align: center\">\n            <button class=\"sib-form-block__button sib-form-block__button-with-loader\" style=\"font-size:15px; text-align:center; font-family:&quot;Lucida Grande&quot;, sans-serif; color:#FFFFFF; background-color:#ce9e8c; border-radius:10px; border-width:0px;\" form=\"sib-form\" type=\"submit\">\n              <svg class=\"icon clickable__icon progress-indicator__icon sib-hide-loader-icon\" viewBox=\"0 0 512 512\">\n                <path d=\"M460.116 373.846l-20.823-12.022c-5.541-3.199-7.54-10.159-4.663-15.874 30.137-59.886 28.343-131.652-5.386-189.946-33.641-58.394-94.896-95.833-161.827-99.676C261.028 55.961 256 50.751 256 44.352V20.309c0-6.904 5.808-12.337 12.703-11.982 83.556 4.306 160.163 50.864 202.11 123.677 42.063 72.696 44.079 162.316 6.031 236.832-3.14 6.148-10.75 8.461-16.728 5.01z\" \/>\n              <\/svg>\n              jetzt kostenlos zum Webinar anmelden\n            <\/button>\n          <\/div>\n        <\/div>\n        <input type=\"text\" name=\"email_address_check\" value=\"\" class=\"input--hidden\">\n        <input type=\"hidden\" name=\"locale\" value=\"de\">\n        <input type=\"hidden\" name=\"html_type\" value=\"simple\">\n      <\/form>\n    <\/div>\n  <\/div>\n<\/div>",
             "width": "100%",
             "alignment": "center"
           }
@@ -238,6 +238,51 @@
       "settings": {
         "full_width": false,
         "space_around": true
+      }
+    },
+    "0230f784-1e05-4bbf-8825-10b0eec4f3dc": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Langhaarmaedchen_gretacaptures_Edit_161.jpg",
+        "image_position": "left-bottom",
+        "image_bg_color": "rgba(0,0,0,0)",
+        "image_bg": "shopify:\/\/shop_images\/Frame_106_1.png",
+        "subtitle": "",
+        "title": "Das sind wir",
+        "another_text": false,
+        "text": "<p>Wir sind <strong>Mona & Julia, <\/strong>Friseurmeisterinnen und Gründerinnen von Langhaarmädchen! <\/p><p>Wir haben uns gegenseitig gestärkt und inspiriert, an uns zu selbst zu glauben und mit Beharrlichkeit, Ehrgeiz & dem Herz am rechten Fleck <strong>unseren Traum wahr werden lassen!<\/strong><\/p><p><\/p><p>Mit unserer veganen Haarpflegeserie sind wir in über 3.500 dm Märkten gibt es in 13 Ländern. In unserem Salon in München sind wir spezialisiert auf l<strong>ange Haare, Haarverdichtung, Balayage und Keratinglättung<\/strong>! <\/p><p>Alles was dich und deine langen Haare glücklich macht! <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "left",
+        "text_image_bg": "shopify:\/\/shop_images\/decor_home_2_695dd7ff-ae83-4bc3-a0f9-3c28bca98544.png",
+        "divider": true,
+        "margin_top": false,
+        "margin_bottom": false
+      }
+    },
+    "51c9a177-c20f-47b8-8927-9b72b4c491f0": {
+      "type": "rich-text",
+      "blocks": {
+        "cc8f2282-53ea-4833-954f-268b45b7a8c9": {
+          "type": "button",
+          "settings": {
+            "target_blank": false,
+            "link": "",
+            "link_text": "Ich bin dabei"
+          }
+        }
+      },
+      "block_order": [
+        "cc8f2282-53ea-4833-954f-268b45b7a8c9"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
       }
     },
     "1650550827aa9686d7": {
@@ -332,60 +377,6 @@
         "divider": false
       }
     },
-    "1634907866597b00bd": {
-      "type": "promo-grid",
-      "blocks": {
-        "1bb5e329-0ca1-4b8b-8843-aea4d62207a9": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/49A1192_2_2_1.jpg",
-            "link": "",
-            "width": "100"
-          }
-        }
-      },
-      "block_order": [
-        "1bb5e329-0ca1-4b8b-8843-aea4d62207a9"
-      ],
-      "settings": {
-        "full_width": false,
-        "gutter_size": 20,
-        "space_above": false,
-        "space_below": true,
-        "color_text": "main"
-      }
-    },
-    "0a81850c-118f-40d2-ae53-fd8ad774fe78": {
-      "type": "rich-text",
-      "blocks": {
-        "template--16735646646538__0a81850c-118f-40d2-ae53-fd8ad774fe78-1672850258676298a8-0": {
-          "type": "heading",
-          "settings": {
-            "title": "Das ist ein text über LHM",
-            "image_width": 50,
-            "image_position": 50
-          }
-        },
-        "template--16735646646538__0a81850c-118f-40d2-ae53-fd8ad774fe78-1672850258676298a8-1": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>Langhaarmädchen ist eine luxuriöse Linie von Haarpflegeprodukten von <strong>dm<\/strong>. Langhaarmädchen wurde 2016 gegründet und hat sich der Bereitstellung von Produkten höchster Qualität verschrieben, die schönes Haar nähren, schützen und verschönern. Sie sind spezialisiert auf Shampoos, Conditioner, Stylingprodukte und Haarbehandlungen, die speziell für langes Haar entwickelt wurden. <\/p><p>Ihre einzigartige Sammlung natürlicher Inhaltsstoffe wie Arganöl, Sheabutter und Aloe Vera machen das Haar weich, gesund und gepflegt. Langhaarmädchen hat eine komplette Produktlinie entwickelt, die hilft, das Haar vor Sonne, Hitzestyling und Umweltschäden zu schützen. Ihre Produkte wurden entwickelt, um Ihrem Haar ohne aggressive Chemikalien Glanz und Fülle zu verleihen. Alle Produkte sind tierversuchsfrei.<\/p><p> Egal, ob Sie ein nährendes tägliches Shampoo, eine tiefgreifende Pflegebehandlung oder ein Stylingprodukt suchen, Langhaarmädchen hat etwas für Sie. Sie werden Ihnen sicher dabei helfen, Ihr Haar schön und gesund aussehen zu lassen.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--16735646646538__0a81850c-118f-40d2-ae53-fd8ad774fe78-1672850258676298a8-0",
-        "template--16735646646538__0a81850c-118f-40d2-ae53-fd8ad774fe78-1672850258676298a8-1"
-      ],
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false,
-        "margin_top": false,
-        "margin_bottom": false
-      }
-    },
     "1664530913fc84995b": {
       "type": "advanced-content",
       "blocks": {
@@ -412,15 +403,6 @@
         "title": "",
         "video_url": "https:\/\/youtu.be\/4Zre3VfMh-k",
         "divider": false
-      }
-    },
-    "16349081684b16f546": {
-      "type": "contact-form",
-      "settings": {
-        "title": "Ich möchte dabei sein!",
-        "text": "",
-        "show_phone": false,
-        "narrow_column": false
       }
     },
     "164794884227c625c7": {
@@ -710,13 +692,12 @@
     "29d28c65-b26c-4411-90ac-f7850a492059",
     "08b53936-ee44-4318-8660-50fd34abe843",
     "0e3c7267-c614-43ff-aba8-7cf4dc3c06c0",
+    "0230f784-1e05-4bbf-8825-10b0eec4f3dc",
+    "51c9a177-c20f-47b8-8927-9b72b4c491f0",
     "1650550827aa9686d7",
     "1650549005713f9a6c",
-    "1634907866597b00bd",
-    "0a81850c-118f-40d2-ae53-fd8ad774fe78",
     "1664530913fc84995b",
     "16479487964b071b51",
-    "16349081684b16f546",
     "164794884227c625c7",
     "1650633786bff38ddb",
     "cceeac84-5aca-40e3-9a22-60da842e6378",
