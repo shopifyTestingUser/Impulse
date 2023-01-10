@@ -426,7 +426,7 @@
         "166453091366fc6f3b-1": {
           "type": "liquid",
           "settings": {
-            "code": "<script src=\"https:\/\/cdn.logwork.com\/widget\/countdown.js\"><\/script>\n<a href=\"https:\/\/logwork.com\/countdown-xhbd\" class=\"countdown-timer\" data-timezone=\"Europe\/Berlin\" data-language=\"de\" data-date=\"2023-01-31 14:03\" data-background=\"#ebb7a7\" data-digitscolor=\"#734f43\">WEBINAR COUNTDOWN<\/a>",
+            "code": "<script src=\"https:\/\/cdn.logwork.com\/widget\/countdown.js\"><\/script>\n<a href=\"https:\/\/logwork.com\/countdown-xhbd\" class=\"countdown-timer\" data-timezone=\"Europe\/Berlin\" data-language=\"de\" data-date=\"2023-01-23 18:00\" data-background=\"#ebb7a7\" data-digitscolor=\"#734f43\">WEBINAR COUNTDOWN<\/a>",
             "width": "100%",
             "alignment": "center"
           }
