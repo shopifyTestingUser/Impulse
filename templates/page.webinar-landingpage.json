@@ -241,6 +241,71 @@
         "space_around": true
       }
     },
+    "16479487964b071b51": {
+      "type": "featured-video",
+      "settings": {
+        "title": "",
+        "video_url": "https:\/\/youtu.be\/4Zre3VfMh-k",
+        "divider": false
+      }
+    },
+    "164794884227c625c7": {
+      "type": "rich-text",
+      "blocks": {
+        "8a3100e4-7c38-4c48-aa67-4202145908af": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "target_blank": false,
+            "link": "#cal",
+            "link_text": "FaceTime Beratung buchen"
+          }
+        },
+        "16479488421d6495bb-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Was dich im Live-Talk erwartet",
+            "image_width": 50,
+            "image_position": 50
+          }
+        },
+        "d8da7a9a-1b54-40f4-ba09-cc910dd13933": {
+          "type": "subheading",
+          "settings": {
+            "subtitle": "Von der Beratung bis zum Wohlfühlgefühl"
+          }
+        },
+        "16479488421d6495bb-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><\/p><p><strong>✓<\/strong> <strong>HAARTYPEN <br\/><\/strong>Du weißt nicht genau, ob eine Haarverdichtung bei deinen Haaren überhaupt funktioniert?<\/p><p><strong>✓ KOSTEN UND DAUER<br\/><\/strong>Wie lange halten Haarextentions und mit welchen Kosten muss ich rechnen?<\/p><p><strong>✓  ALLTAGSPFLEGE & TIPPS<br\/><\/strong>Wir zeigen dir, wie eine Haarverdichtung im Alltag aussieht und worauf du achten solltest.<\/p><p><strong>✓ DIE GRÖSSTEN MYTHEN<\/strong><br\/>Du denkst über eine Haarverlängerung nach, bist dir aber unsicher? Wir klären die Mythen über Haar Extensions auf. <br\/><br\/><br\/><\/p>"
+          }
+        },
+        "d1e6ab19-e821-47aa-8f86-4b41755ebc06": {
+          "type": "button",
+          "settings": {
+            "target_blank": true,
+            "link": "https:\/\/www.langhaarmaedchen.de\/pages\/webinar-landing-page-v1\/#anmelden",
+            "link_text": "JA, ICH BIN DABEI"
+          }
+        }
+      },
+      "block_order": [
+        "8a3100e4-7c38-4c48-aa67-4202145908af",
+        "16479488421d6495bb-0",
+        "d8da7a9a-1b54-40f4-ba09-cc910dd13933",
+        "16479488421d6495bb-1",
+        "d1e6ab19-e821-47aa-8f86-4b41755ebc06"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
+      }
+    },
     "0230f784-1e05-4bbf-8825-10b0eec4f3dc": {
       "type": "text-and-image",
       "settings": {
@@ -398,75 +463,9 @@
         "margin_bottom": false
       }
     },
-    "16479487964b071b51": {
-      "type": "featured-video",
-      "settings": {
-        "title": "",
-        "video_url": "https:\/\/youtu.be\/4Zre3VfMh-k",
-        "divider": false
-      }
-    },
-    "164794884227c625c7": {
-      "type": "rich-text",
-      "blocks": {
-        "8a3100e4-7c38-4c48-aa67-4202145908af": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "target_blank": false,
-            "link": "#cal",
-            "link_text": "FaceTime Beratung buchen"
-          }
-        },
-        "16479488421d6495bb-0": {
-          "type": "heading",
-          "settings": {
-            "title": "Was dich im Live-Talk erwartet",
-            "image_width": 50,
-            "image_position": 50
-          }
-        },
-        "16479488421d6495bb-1": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p><\/p><p><strong>✓<\/strong> <strong>HAARTYPEN <br\/><\/strong>Du weißt nicht genau, ob eineHaarverdichtung bei dir funktioniert?<\/p><p><strong>✓ KOSTEN UND DAUER<br\/><\/strong>Wie lange halten Haarextentions undwas kostet es?<\/p><p><strong>✓  ALLTAGSPFLEGE & TIPPS<br\/><\/strong>Wir zeigen dir, wir eine Haarverdichtung im Alltag aussieht und worauf man achtensollte.<\/p><p><strong>✓ DIE GRÖSSTEN MYTHEN<\/strong><br\/>Du denkst über eine Haarverlängerung nach,bist dir aber unsicher? Wir klären die Mythen über Haar Extensions auf. <br\/><br\/><br\/><\/p>"
-          }
-        },
-        "5d9b17b2-98e6-4e75-9e43-e718df2de7f1": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "enlarge_text": true,
-            "text": ""
-          }
-        },
-        "d1e6ab19-e821-47aa-8f86-4b41755ebc06": {
-          "type": "button",
-          "settings": {
-            "target_blank": true,
-            "link": "",
-            "link_text": "JA, ICH BIN DABEI"
-          }
-        }
-      },
-      "block_order": [
-        "8a3100e4-7c38-4c48-aa67-4202145908af",
-        "16479488421d6495bb-0",
-        "16479488421d6495bb-1",
-        "5d9b17b2-98e6-4e75-9e43-e718df2de7f1",
-        "d1e6ab19-e821-47aa-8f86-4b41755ebc06"
-      ],
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false,
-        "margin_top": false,
-        "margin_bottom": false
-      }
-    },
     "1650633786bff38ddb": {
       "type": "advanced-content",
+      "disabled": true,
       "blocks": {
         "1650633786b6ab87c3-0": {
           "type": "image",
@@ -495,6 +494,29 @@
         "space_around": false
       }
     },
+    "914f5d0d-cc18-49a6-bc91-a3b8007de511": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16735646646538__914f5d0d-cc18-49a6-bc91-a3b8007de511-1673345188efc74526-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Eine Haarverdichtung ist für dich das Richtige, wenn du...",
+            "image_width": 50,
+            "image_position": 50
+          }
+        }
+      },
+      "block_order": [
+        "template--16735646646538__914f5d0d-cc18-49a6-bc91-a3b8007de511-1673345188efc74526-0"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
+      }
+    },
     "cceeac84-5aca-40e3-9a22-60da842e6378": {
       "type": "text-columns",
       "blocks": {
@@ -502,9 +524,10 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image_width": 44,
-            "title": "Haarausfal",
-            "text": "<p>Haarausfall ist ein Problem für viele Frauen. Ursachen können hormonelle Veränderungen, Stress, genetische Veranlagung und Medikamente sein. Behandlung hilft manchal, weiteren Verlust zu verhindern.<\/p>",
+            "image": "shopify:\/\/shop_images\/Haarausfall.jpg",
+            "image_width": 100,
+            "title": "Haarausfall",
+            "text": "<p>Haarausfall ist ein Problem für viele Frauen. Ursachen können hormonelle Veränderungen, Stress, genetische Veranlagung und Medikamente sein. <\/p>",
             "button_label": "Optional button",
             "button_link": ""
           }
@@ -513,9 +536,10 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image_width": 44,
+            "image": "shopify:\/\/shop_images\/feines_Haar.jpg",
+            "image_width": 100,
             "title": "Feines Haar",
-            "text": "<p>Feines Haar kann für Frauen eine Herausforderung sein, da es leicht zu beschädigen ist und sich schwer stylen lässt. Es neigt dazu, schnell fettig zu werden und zu verkleben, was zu ungewolltem Volumenverlust führt.<\/p>",
+            "text": "<p>Feines Haar kann für Frauen eine Herausforderung sein, da es leicht zu beschädigen ist und sich schwer stylen lässt. <\/p>",
             "button_label": "Optional button",
             "button_link": ""
           }
@@ -524,9 +548,10 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image_width": 44,
+            "image": "shopify:\/\/shop_images\/geschaedigtes_Haar.jpg",
+            "image_width": 100,
             "title": "Geschädigtem Haar",
-            "text": "<p>Geschädigtes Haar kann brechen, splissen und spröde werden. Es kann das Ergebnis von Styling oder  chemischen Behandlungen sein .Es ist schwierig zu reparieren, aber pflegen und schützen hilft, weiteren Schaden zu vermeiden.<\/p>",
+            "text": "<p>Geschädigtes Haar kann brechen, splissen und spröde werden. Es kann das Ergebnis von Styling oder  chemischen Behandlungen sein.<\/p>",
             "button_label": "Optional button",
             "button_link": ""
           }
@@ -693,14 +718,15 @@
     "29d28c65-b26c-4411-90ac-f7850a492059",
     "08b53936-ee44-4318-8660-50fd34abe843",
     "0e3c7267-c614-43ff-aba8-7cf4dc3c06c0",
+    "16479487964b071b51",
+    "164794884227c625c7",
     "0230f784-1e05-4bbf-8825-10b0eec4f3dc",
     "1650550827aa9686d7",
     "1650549005713f9a6c",
     "1664530913fc84995b",
     "51c9a177-c20f-47b8-8927-9b72b4c491f0",
-    "16479487964b071b51",
-    "164794884227c625c7",
     "1650633786bff38ddb",
+    "914f5d0d-cc18-49a6-bc91-a3b8007de511",
     "cceeac84-5aca-40e3-9a22-60da842e6378",
     "16349077831e0c599d",
     "16349078470f63730c",
