@@ -17,15 +17,46 @@
         "subtitle": "Die Geschichte der Langhaarmädchen",
         "title": "Mutig ist das neue Schön",
         "another_text": false,
-        "text": "<p>Dies ist die Geschichte der Langhaarmädchen, die mit viel Mut begann und davon erzählt wie Mona Mayr und Julia Schindelmann, Friseurmeisterinnen und die internationale Haarpflegemarke „Langhaarmädchen“ gründen.  <\/p><p><\/p>",
+        "text": "<p>Liebe Leserin, lieber Leser! <\/p><p>Wie wundervoll, dass du über unser Buch „Mutig ist das neue Schön“ zu uns gefunden<br\/>hast!<\/p><p>Du befindest dich nun in unserer Langhaarmädchen-Welt, die über das Buch hinaus unsere Herzensempfehlungen & persönliche Botschaften beinhalten!<\/p><p><strong>In “Mutig ist das neue Schön“ findest du an gewissen Stellen immer wieder QR-Codes zum Abscannen, die dich noch tiefer in unsere Welt eintauchen lassen! Optimalerweise lässt du dich von unserem Buch leiten und immer wieder gezielt hier her zaubern! Viel Freude, Genuss, Wachstum & Gänsehaut-Momente wünschen wir dir!<\/strong><\/p><p><em>Deine Langhaarmädchen Mona & Julia<\/em><\/p>",
         "button_label": "JETZT VORBESTELLEN",
-        "button_link": "",
+        "button_link": "https:\/\/www.thalia.de\/shop\/home\/artikeldetails\/A1063517954",
         "button_style": "primary",
         "align_text": "left",
         "layout": "right",
+        "text_image_bg": "shopify:\/\/shop_images\/decor_about_us_6.png",
         "divider": false,
         "margin_top": false,
         "margin_bottom": false
+      }
+    },
+    "f87c86db-aafc-4aba-8379-2693de2fb46e": {
+      "type": "advanced-content",
+      "blocks": {
+        "template--16889014386954__f87c86db-aafc-4aba-8379-2693de2fb46e-1675869364320e47bb-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Mutig_ist_das_neue_Schoen_Buch.jpg",
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "template--16889014386954__f87c86db-aafc-4aba-8379-2693de2fb46e-1675869364320e47bb-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>Um was geht es in unserem Buch?\n<\/h2><p>Mit Mut beginnen die schönsten Geschichten. Eine davon haben Mona Mayr und Julia Schindelmann, Friseurmeisterinnen und Gründerinnen der Haarpflegemarke „Langhaarmädchen“, zu erzählen. Mit nichts in der Tasche - außer einer bewegenden Vision und der Euphorie für ihr Handwerk - stehen sie damals vor der dm Drogeriemarkt-Zentrale Karlsruhe und überzeugen den Konzernriesen zum Deal ihres Lebens.<p>\nWie die zwei jungen Mädchen geprägt durch ihre Weltanschauung mit viel Einfühlungsvermögen  und trotz vieler Selbstzweifel die Erfolgsgeschichte ihres Lebens schreiben, lassen sie uns direkt neben ihnen auf der Sitzbank ihres Vans durch Australien und vorbei an vielen weiteren Meilensteinen hautnah miterleben. Ein zauberhaft authentisches Buch über die Höhen und Tiefen auf der Reise zu sich selbst, gespickt mit Inspirationen, Mutmachern und spirituellen Wegweisern, um in die eigene Stärke zu kommen und seiner Begeisterung zu folgen.<p> \n„Mutig ist das neue Schön“ bewegt mit intimen Gedanken, kraftvollen Umsetzungen und ganz viel Weiblichkeit und motiviert zur eigenen Definition von Erfolg.\n<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--16889014386954__f87c86db-aafc-4aba-8379-2693de2fb46e-1675869364320e47bb-0",
+        "template--16889014386954__f87c86db-aafc-4aba-8379-2693de2fb46e-1675869364320e47bb-1"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
       }
     },
     "8e6b1332-0ffe-4b14-bbe6-c77939ceab51": {
@@ -177,6 +208,7 @@
   "order": [
     "main",
     "7549d0fd-b7f0-4d20-be93-d167dce94c2b",
+    "f87c86db-aafc-4aba-8379-2693de2fb46e",
     "8e6b1332-0ffe-4b14-bbe6-c77939ceab51",
     "232f9b2a-c58c-414c-9b9b-c31240281a69",
     "7bdc4571-fbff-47d2-abda-37831c8c3c03",
