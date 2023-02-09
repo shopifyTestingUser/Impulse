@@ -65,6 +65,7 @@
         "template--16889014386954__8e6b1332-0ffe-4b14-bbe6-c77939ceab51-16732190923dae5732-0": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/close-up-of-a-stack-of-books.jpg",
             "link": "",
             "width": "50%",
             "alignment": "center"
@@ -73,7 +74,7 @@
         "template--16889014386954__8e6b1332-0ffe-4b14-bbe6-c77939ceab51-16732190923dae5732-1": {
           "type": "liquid",
           "settings": {
-            "code": "<h2 id=\"literatur\">Literaturempfehlungen Link<\/h2><p>Use this advanced section to build your own layouts or to add custom HTML, Liquid, or scripts.<\/p>",
+            "code": "<h2 id=\"literatur\">Literaturempfehlungen<\/h2><p><ul>\n<h4>Unternehmertum:\n<\/h4>\n  <li><a href=\"#\">Der Weg zum erfolgreichen Unternehmer<\/a> von <b>Stefan Merath<\/b><\/li>\n  <li><a href=\"#\">Love Brands<\/a> von <b>Silvia Danne<\/b><\/li>\n  <li><a href=\"#\">Die Gesetze der Gewinner<\/a> von <b>Bodo Schäfer<\/b><\/li>\n  <li><a href=\"#\">Der Weg zur finanziellen Freiheit<\/a> von <b>Bodo Schäfer<\/b><\/li>\n  <li><a href=\"#\">Die Kunst, seine Kunden zu lieben<\/a> von <b>Stefan Merath<\/b><\/li>\n  <li><a href=\"#\">Rich dad poor dad<\/a> von <b>Robert Kiyosaki<\/b><\/li>\n  <li><a href=\"#\">Denke nach und werde reich<\/a> von <b>Napoleon Hill<\/b><\/li>\n  <li><a href=\"#\">Womit ich nie gerechnet habe<\/a> von dm Gründer <b>Götz Werner<\/b><\/li>\n  <li><a href=\"#\">Das 80\/20 PRINZIP<\/a> von <b>Richard Koch<\/b><\/li>\n<\/ul><\/p>\n\n<h4>Spiritualität : \n<\/h4>\n<ul>\n  <li><a href=\"#\">Gespräche mit Gott<\/a> von <b>Neale Donald Walsch<\/b> (Julias Lieblingsbücher)<\/li>\n  <li><a href=\"#\">Jetzt! - Die Kraft der Gegenwart<\/a> von <b>Eckhart Tolle<\/b> (Julias Gamechanger)<\/li>\n  <li><a href=\"#\">Der Weg zum Glück<\/a><\/li>\n<\/ul>\n<h4>Persönlichkeitsentwicklung:<\/h4>\n„Der Alchimist“ von Paulo Coelho\n„Wie man Freunde gewinnt“ von Dale Carnegie\n„Sorge dich nicht, lebe“ von Dale Carnegie\n„Das Kind in dir muss Heimat finden“ von Stefanie Stahl\n„Das Cafe am Rande der Welt“ John Strelecky\n„Heirate dich selbst“ von Veit Lindau\n„Lebensmeisterschaft“ von Patrick Reiser\n<p>\n<p>\n<b>Alle Bücher von Laura Seiler<\/b>",
             "width": "50%",
             "alignment": "center"
           }
