@@ -95,6 +95,7 @@
         "8bae1326-9ace-483a-b3a2-86c78e6d5ec9": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Hairtal_mobilek.jpg",
             "link": "",
             "width": "50%",
             "alignment": "center"
@@ -103,7 +104,7 @@
         "506b8b8f-70ae-454c-82c3-1be64b5ec698": {
           "type": "liquid",
           "settings": {
-            "code": "<h2 id=\"haarberatung\">Haarberatung<\/h2><p>Use this advanced section to build your own layouts or to add custom HTML, Liquid, or scripts.<\/p>",
+            "code": "<h2 id=\"haarberatung\">Haarberatung<\/h2><p>Das Langhaarmädchen Haarbertungs-Bot ist eine praktische Ressource für Frauen mit langen und kurzen Haaren. Es bietet eine einfache und bequeme Möglichkeit, Antworten auf Fragen zu Haarpflege und -styling zu erhalten. Der Bot ist über Facebook Messenger oder Instagram verfügbar:\n\n<ul>\n  <li><a href=\"http:\/\/m.me\/1621615048160618\">Facebook Messenger Bot<\/a><\/li>\n  <li><a href=\"https:\/\/instagram.com\/langhaarmaedchen?igshid=YmMyMTA2M2Y=\">Instagram Bot<\/a><\/li>\n<\/ul><p>\nMit dem  Haarbertungs-Bot kann man sich einfach und bequem von Experten beraten lassen und wertvolle Informationen erhalten, die dabei helfen, das volle Potenzial von langen Haaren zu entfalten.",
             "width": "50%",
             "alignment": "center"
           }
