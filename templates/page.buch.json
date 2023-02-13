@@ -125,15 +125,16 @@
         "91b9348a-b14f-4548-80bd-9dc7f822b4ba": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Clipboard03.jpg",
             "link": "",
             "width": "50%",
-            "alignment": "center"
+            "alignment": "bottom-middle"
           }
         },
         "c6015b93-99db-4f38-9909-cab05a0bf9e5": {
           "type": "liquid",
           "settings": {
-            "code": "<h2 id=\"sprachnachricht\">Sprachnachricht Roby<\/h2><p>Use this advanced section to build your own layouts or to add custom HTML, Liquid, or scripts.<\/p>",
+            "code": "<h2 id=\"sprachnachricht\">Sprachnachricht Roby<\/h2><p>\n<iframe width=\"100%\" height=\"300\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https:\/\/w.soundcloud.com\/player\/?url=https%3A\/\/api.soundcloud.com\/tracks\/1445932732&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true\"><\/iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https:\/\/soundcloud.com\/rahimiobaid\" title=\"rahimiobaid\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">rahimiobaid<\/a> · <a href=\"https:\/\/soundcloud.com\/rahimiobaid\/roby-voice-message\" title=\"Roby Voice Message\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Roby Voice Message<\/a><\/div>",
             "width": "50%",
             "alignment": "center"
           }
