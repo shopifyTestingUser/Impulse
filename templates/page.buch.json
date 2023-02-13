@@ -184,6 +184,7 @@
         "2c8310b9-bb4c-425c-9fa7-010416751bea": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/haarspende.jpg",
             "link": "",
             "width": "50%",
             "alignment": "center"
