@@ -192,7 +192,7 @@
         "08670477-98b8-4893-a5d5-77c88b3a835f": {
           "type": "liquid",
           "settings": {
-            "code": "<h2 id=\"haarspende\">Haarspende<\/h2><p>Use this advanced section to build your own layouts or to add custom HTML, Liquid, or scripts.<\/p>",
+            "code": "<h2 id=\"haarspende\">Haarspende<\/h2><p>Die Langhaarmädchen in München setzen sich für einen guten Zweck ein und starten eine Haarspende-Kampagne. Die Idee dahinter ist es, Haare zu sammeln und an Organisationen zu spenden, die damit Perücken für Menschen herstellen, die aufgrund von Krankheit oder medizinischen Bedingungen ihr eigenes Haar verloren haben.\n<P>\nDiese Haarspende-Kampagne ist eine wunderbare Möglichkeit, Gutes zu tun und jemandem zu helfen, der es dringend braucht. Es ist auch eine Möglichkeit, das eigene lange Haar zu schonen, indem man es abschneidet und spendet, anstatt es abzubrennen oder zu beschädigen.\n<p>\nDie Langhaarmädchen in München sind stolz darauf, Teil dieser Bewegung zu sein und ermutigen alle, die lange Haare haben, sich an der Haarspende-Kampagne zu beteiligen. Es ist eine einfache und befriedigende Möglichkeit, einen Unterschied in der Welt zu machen und jemandem zu helfen, der es am dringendsten braucht.",
             "width": "50%",
             "alignment": "center"
           }
