@@ -31,7 +31,7 @@
           "type": "image",
           "settings": {
             "top_subheading": "Das Langhaarmädchen Buch",
-            "title": "Mutig is das neue schön",
+            "title": "Mutig ist das neue schön",
             "title_size": 40,
             "subheading": "",
             "link": "https:\/\/amzn.to\/40LzTAt",
@@ -80,7 +80,7 @@
         "layout": "right",
         "text_image_bg": "shopify:\/\/shop_images\/decor_about_us_6.png",
         "divider": false,
-        "margin_top": false,
+        "margin_top": true,
         "margin_bottom": false
       }
     },
