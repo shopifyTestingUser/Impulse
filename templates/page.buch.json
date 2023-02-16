@@ -38,12 +38,12 @@
             "link_text": "JETZT VORBESTELLEN",
             "link_2": "https:\/\/amzn.to\/40LzTAt",
             "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
+            "color_accent": "#f8e6d4",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/49A2223.jpg",
+            "image": "shopify:\/\/shop_images\/49A2223_mitbuch.jpg",
             "image_mobile": "shopify:\/\/shop_images\/49A2223.jpg",
             "overlay_opacity": 12,
-            "focal_point": "center center"
+            "focal_point": "20% 50%"
           }
         }
       },
