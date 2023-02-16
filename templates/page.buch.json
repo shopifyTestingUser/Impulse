@@ -41,7 +41,7 @@
             "color_accent": "#f8e6d4",
             "text_align": "vertical-center horizontal-center",
             "image": "shopify:\/\/shop_images\/49A2223_mitbuch.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/49A2223.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/49A2223_mitbuch.jpg",
             "overlay_opacity": 12,
             "focal_point": "20% 100%"
           }
