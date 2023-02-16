@@ -40,10 +40,10 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/36328815-a5ad-4315-a94b-5935a468d4d8.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/Clipboard02.jpg",
+            "image": "shopify:\/\/shop_images\/49A2223.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/49A2223.jpg",
             "overlay_opacity": 12,
-            "focal_point": "80% 50%"
+            "focal_point": "center center"
           }
         }
       },
