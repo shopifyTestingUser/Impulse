@@ -61,6 +61,24 @@
         "autoplay_speed": 5
       }
     },
+    "655a5458-a219-4819-b31a-4e243c195a42": {
+      "type": "background-image-text",
+      "settings": {
+        "subtitle": "Die Autorin",
+        "title": "Julia Schindelmann",
+        "text": "<p>Als Friseurmeisterin und Mitgründerin von Langhaarmädchen habe ich zusammen mit Mona unsere Haarpflegemarke während eines Roadtrips in Australien 2016 ins Leben gerufen. Ein Jahr später gelang es uns, Langhaarmädchen exklusiv bei einer führenden Drogeriemarktkette in Deutschland zu platzieren.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "image": "shopify:\/\/shop_images\/julia_big.jpg",
+        "focal_point": "center",
+        "layout": "left",
+        "height": 650,
+        "framed": true,
+        "parallax": true,
+        "margin_top": false,
+        "margin_bottom": false
+      }
+    },
     "7549d0fd-b7f0-4d20-be93-d167dce94c2b": {
       "type": "text-and-image",
       "settings": {
@@ -81,6 +99,24 @@
         "text_image_bg": "shopify:\/\/shop_images\/decor_about_us_6.png",
         "divider": false,
         "margin_top": true,
+        "margin_bottom": false
+      }
+    },
+    "63c0a9f2-a658-448e-8132-66739721dc0b": {
+      "type": "background-image-text",
+      "settings": {
+        "subtitle": "Die Autorin",
+        "title": "Ramona Mayr",
+        "text": "<p>Ich bin Mona, Friseurmeisterin, Mitgründerin und Visionärin von Langhaarmädchen. Unter anderem durch meine vielseitigen Erfahrungen in der High Fashion Branche, aber auch durch meine Essstörung, entstand auf meinem Australien-Roadtrip zu mir selbst, die Vision einer eigenen Haarpflegemarke mit Tiefgang.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "image": "shopify:\/\/shop_images\/mona_gross.jpg",
+        "focal_point": "center",
+        "layout": "left",
+        "height": 650,
+        "framed": true,
+        "parallax": true,
+        "margin_top": false,
         "margin_bottom": false
       }
     },
@@ -271,56 +307,20 @@
         "full_width": false,
         "space_around": true
       }
-    },
-    "655a5458-a219-4819-b31a-4e243c195a42": {
-      "type": "background-image-text",
-      "settings": {
-        "subtitle": "Die Autorin",
-        "title": "Julia Schindelmann",
-        "text": "<p>Als Friseurmeisterin und Mitgründerin von Langhaarmädchen habe ich zusammen mit Mona unsere Haarpflegemarke während eines Roadtrips in Australien 2016 ins Leben gerufen. Ein Jahr später gelang es uns, Langhaarmädchen exklusiv bei einer führenden Drogeriemarktkette in Deutschland zu platzieren.<\/p>",
-        "button_label": "",
-        "button_link": "",
-        "image": "shopify:\/\/shop_images\/julia_big.jpg",
-        "focal_point": "center",
-        "layout": "left",
-        "height": 650,
-        "framed": true,
-        "parallax": true,
-        "margin_top": false,
-        "margin_bottom": false
-      }
-    },
-    "63c0a9f2-a658-448e-8132-66739721dc0b": {
-      "type": "background-image-text",
-      "settings": {
-        "subtitle": "Die Autorin",
-        "title": "Ramona Mayr",
-        "text": "<p>Ich bin Mona, Friseurmeisterin, Mitgründerin und Visionärin von Langhaarmädchen. Unter anderem durch meine vielseitigen Erfahrungen in der High Fashion Branche, aber auch durch meine Essstörung, entstand auf meinem Australien-Roadtrip zu mir selbst, die Vision einer eigenen Haarpflegemarke mit Tiefgang.<\/p>",
-        "button_label": "",
-        "button_link": "",
-        "image": "shopify:\/\/shop_images\/mona_gross.jpg",
-        "focal_point": "center",
-        "layout": "left",
-        "height": 650,
-        "framed": true,
-        "parallax": true,
-        "margin_top": false,
-        "margin_bottom": false
-      }
     }
   },
   "order": [
     "main",
     "dd494447-c81a-4acb-bafc-55e9c0522369",
+    "655a5458-a219-4819-b31a-4e243c195a42",
     "7549d0fd-b7f0-4d20-be93-d167dce94c2b",
+    "63c0a9f2-a658-448e-8132-66739721dc0b",
     "f87c86db-aafc-4aba-8379-2693de2fb46e",
     "8e6b1332-0ffe-4b14-bbe6-c77939ceab51",
     "232f9b2a-c58c-414c-9b9b-c31240281a69",
     "7bdc4571-fbff-47d2-abda-37831c8c3c03",
     "33a516f1-3d6f-40d7-8ca4-293e54df3687",
     "c5440950-c169-4931-b58e-03d645b5a36b",
-    "5cd3bb2e-c0bc-4f06-bdd8-277d720ad3e1",
-    "655a5458-a219-4819-b31a-4e243c195a42",
-    "63c0a9f2-a658-448e-8132-66739721dc0b"
+    "5cd3bb2e-c0bc-4f06-bdd8-277d720ad3e1"
   ]
 }
