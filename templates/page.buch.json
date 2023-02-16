@@ -6,6 +6,60 @@
       "settings": {
       }
     },
+    "dd494447-c81a-4acb-bafc-55e9c0522369": {
+      "type": "slideshow",
+      "blocks": {
+        "template--16889014386954__dd494447-c81a-4acb-bafc-55e9c0522369-1676540255467e49ec-0": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Endless\npossibilities.",
+            "title_size": 80,
+            "subheading": "Bring your brand to life",
+            "link": "",
+            "link_text": "Optional button",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        },
+        "template--16889014386954__dd494447-c81a-4acb-bafc-55e9c0522369-1676540255467e49ec-1": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "https:\/\/amzn.to\/40LzTAt",
+            "link_text": "JETZT VORBESTELLEN",
+            "link_2": "https:\/\/amzn.to\/40LzTAt",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/36328815-a5ad-4315-a94b-5935a468d4d8.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Clipboard02.jpg",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "template--16889014386954__dd494447-c81a-4acb-bafc-55e9c0522369-1676540255467e49ec-0",
+        "template--16889014386954__dd494447-c81a-4acb-bafc-55e9c0522369-1676540255467e49ec-1"
+      ],
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "arrows": true,
+        "autoplay": true,
+        "autoplay_speed": 5
+      }
+    },
     "7549d0fd-b7f0-4d20-be93-d167dce94c2b": {
       "type": "text-and-image",
       "settings": {
@@ -35,7 +89,7 @@
         "template--16889014386954__f87c86db-aafc-4aba-8379-2693de2fb46e-1675869364320e47bb-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Mutig_ist_das_neue_Schoen_Buch.jpg",
+            "image": "shopify:\/\/shop_images\/Clipboard01_ef4aac23-059a-4b92-ac66-f9b3702a625e.jpg",
             "link": "",
             "width": "50%",
             "alignment": "center"
@@ -211,6 +265,7 @@
   },
   "order": [
     "main",
+    "dd494447-c81a-4acb-bafc-55e9c0522369",
     "7549d0fd-b7f0-4d20-be93-d167dce94c2b",
     "f87c86db-aafc-4aba-8379-2693de2fb46e",
     "8e6b1332-0ffe-4b14-bbe6-c77939ceab51",
