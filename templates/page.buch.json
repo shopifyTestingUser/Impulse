@@ -209,6 +209,7 @@
       "blocks": {
         "ab54527b-8db7-4f0e-a2d0-803fae7e23e8": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "link": "",
             "width": "50%",
@@ -218,8 +219,8 @@
         "ac2241a3-aab5-49be-9fbf-96cc1fa92ac8": {
           "type": "liquid",
           "settings": {
-            "code": "<h2 id=\"videobotschaf\">Videobotschaft<\/h2><p>Use this advanced section to build your own layouts or to add custom HTML, Liquid, or scripts.<\/p>",
-            "width": "50%",
+            "code": "<center><h2 id=\"videobotschaf\">Videobotschaft<\/h2><\/center>",
+            "width": "100%",
             "alignment": "center"
           }
         }
@@ -231,6 +232,14 @@
       "settings": {
         "full_width": false,
         "space_around": true
+      }
+    },
+    "c5440950-c169-4931-b58e-03d645b5a36b": {
+      "type": "featured-video",
+      "settings": {
+        "title": "",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=zw1B8BsJS0Q",
+        "divider": false
       }
     },
     "5cd3bb2e-c0bc-4f06-bdd8-277d720ad3e1": {
@@ -273,6 +282,7 @@
     "232f9b2a-c58c-414c-9b9b-c31240281a69",
     "7bdc4571-fbff-47d2-abda-37831c8c3c03",
     "33a516f1-3d6f-40d7-8ca4-293e54df3687",
+    "c5440950-c169-4931-b58e-03d645b5a36b",
     "5cd3bb2e-c0bc-4f06-bdd8-277d720ad3e1"
   ]
 }
