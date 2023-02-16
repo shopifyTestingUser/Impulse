@@ -43,7 +43,7 @@
             "image": "shopify:\/\/shop_images\/49A2223_mitbuch.jpg",
             "image_mobile": "shopify:\/\/shop_images\/49A2223.jpg",
             "overlay_opacity": 12,
-            "focal_point": "20% 50%"
+            "focal_point": "20% 100%"
           }
         }
       },
