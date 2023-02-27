@@ -176,6 +176,162 @@
         "space_around": true
       }
     },
+    "9b710fbc-dae9-4f10-97ce-d0d0e09ad2e2": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16889014386954__9b710fbc-dae9-4f10-97ce-d0d0e09ad2e2-167749749550899329-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Jetzt Bestellen",
+            "image_width": 50,
+            "image_position": 50
+          }
+        },
+        "template--16889014386954__9b710fbc-dae9-4f10-97ce-d0d0e09ad2e2-167749749550899329-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>„Mutig ist das neue Schön” erzählt von der äußeren und inneren Reise zweier Friseurinnen<br\/>und lädt auf unaufdringliche Weise dazu ein, seine eigenen Grenzen neu zu denken.<br\/>AUTHENTISCH - BERUHREND - INSPIRIEREND<br\/><br\/>JETZT BESIELLEN BEI:<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16889014386954__9b710fbc-dae9-4f10-97ce-d0d0e09ad2e2-167749749550899329-0",
+        "template--16889014386954__9b710fbc-dae9-4f10-97ce-d0d0e09ad2e2-167749749550899329-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
+      }
+    },
+    "1fa849f0-945c-4bd6-a748-cd686ec6255e": {
+      "type": "logo-list",
+      "blocks": {
+        "template--16889014386954__1fa849f0-945c-4bd6-a748-cd686ec6255e-16774974762edacdb8-0": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/hugel_dubel.jpg",
+            "link": ""
+          }
+        },
+        "template--16889014386954__1fa849f0-945c-4bd6-a748-cd686ec6255e-16774974762edacdb8-1": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/thalia.jpg",
+            "link": ""
+          }
+        },
+        "template--16889014386954__1fa849f0-945c-4bd6-a748-cd686ec6255e-16774974762edacdb8-2": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/amazon2.jpg",
+            "link": ""
+          }
+        },
+        "template--16889014386954__1fa849f0-945c-4bd6-a748-cd686ec6255e-16774974762edacdb8-3": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/amazon.jpg",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16889014386954__1fa849f0-945c-4bd6-a748-cd686ec6255e-16774974762edacdb8-0",
+        "template--16889014386954__1fa849f0-945c-4bd6-a748-cd686ec6255e-16774974762edacdb8-1",
+        "template--16889014386954__1fa849f0-945c-4bd6-a748-cd686ec6255e-16774974762edacdb8-2",
+        "template--16889014386954__1fa849f0-945c-4bd6-a748-cd686ec6255e-16774974762edacdb8-3"
+      ],
+      "settings": {
+        "title": "",
+        "logo_opacity": 76,
+        "divider": false
+      }
+    },
+    "bed3a8b0-053f-442f-8040-c28c4532e305": {
+      "type": "advanced-content",
+      "blocks": {
+        "template--16889014386954__bed3a8b0-053f-442f-8040-c28c4532e305-1677494991b0bd85fa-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1940x600_Header_Neu_Amazon_MutigIstdasneuSchoen43.jpg",
+            "link": "",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--16889014386954__bed3a8b0-053f-442f-8040-c28c4532e305-1677494991b0bd85fa-0"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
+    "93e6541a-1a9f-4642-aba4-ff070e50fca6": {
+      "type": "logo-list",
+      "blocks": {
+        "template--16889014386954__93e6541a-1a9f-4642-aba4-ff070e50fca6-16774974762edacdb8-0": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Gala_Magazin_logo_sw.png",
+            "link": ""
+          }
+        },
+        "template--16889014386954__93e6541a-1a9f-4642-aba4-ff070e50fca6-16774974762edacdb8-1": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/v12801_2a8f2fc6-2315-496a-8ae2-94c0aeb26145.png",
+            "link": ""
+          }
+        },
+        "template--16889014386954__93e6541a-1a9f-4642-aba4-ff070e50fca6-16774974762edacdb8-2": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/logo-taff_4b19a6f9-dff0-4ed3-bd7e-8884811793a1.png",
+            "link": ""
+          }
+        },
+        "template--16889014386954__93e6541a-1a9f-4642-aba4-ff070e50fca6-16774974762edacdb8-3": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/png-clipart-dm-drogerie-markt-slovakia-dm_-dm-drogerie-markt-nordhorn-kehl-dm-text-logo_5c636e00-76ce-4489-9dc2-3ed1830dfa9b.png",
+            "link": ""
+          }
+        },
+        "6a8e2a6f-a227-478c-9a38-b37896009123": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Logo_InStyle.png",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16889014386954__93e6541a-1a9f-4642-aba4-ff070e50fca6-16774974762edacdb8-0",
+        "template--16889014386954__93e6541a-1a9f-4642-aba4-ff070e50fca6-16774974762edacdb8-1",
+        "template--16889014386954__93e6541a-1a9f-4642-aba4-ff070e50fca6-16774974762edacdb8-2",
+        "template--16889014386954__93e6541a-1a9f-4642-aba4-ff070e50fca6-16774974762edacdb8-3",
+        "6a8e2a6f-a227-478c-9a38-b37896009123"
+      ],
+      "settings": {
+        "title": "",
+        "logo_opacity": 76,
+        "divider": false
+      }
+    },
+    "1b77238e-eb8a-42a9-8e32-2fac13f15551": {
+      "type": "featured-video",
+      "settings": {
+        "title": "",
+        "video_url": "https:\/\/youtu.be\/VhkYBtAmH8U",
+        "divider": false
+      }
+    },
     "8e6b1332-0ffe-4b14-bbe6-c77939ceab51": {
       "type": "advanced-content",
       "blocks": {
@@ -342,6 +498,11 @@
     "254a2662-6aa4-4496-8deb-9041ed78d01a",
     "f87c86db-aafc-4aba-8379-2693de2fb46e",
     "837b297b-2dbb-4ed3-875d-2c0b7ad9d594",
+    "9b710fbc-dae9-4f10-97ce-d0d0e09ad2e2",
+    "1fa849f0-945c-4bd6-a748-cd686ec6255e",
+    "bed3a8b0-053f-442f-8040-c28c4532e305",
+    "93e6541a-1a9f-4642-aba4-ff070e50fca6",
+    "1b77238e-eb8a-42a9-8e32-2fac13f15551",
     "8e6b1332-0ffe-4b14-bbe6-c77939ceab51",
     "232f9b2a-c58c-414c-9b9b-c31240281a69",
     "7bdc4571-fbff-47d2-abda-37831c8c3c03",
