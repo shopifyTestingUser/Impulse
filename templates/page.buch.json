@@ -132,26 +132,47 @@
             "width": "100%",
             "alignment": "center"
           }
-        },
-        "04ce7ae5-73a1-489f-b341-da4726de5d85": {
+        }
+      },
+      "block_order": [
+        "d43eaaf9-6411-4ec8-9764-6a6105686701",
+        "template--16889014386954__f87c86db-aafc-4aba-8379-2693de2fb46e-1675869364320e47bb-1"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": true
+      }
+    },
+    "837b297b-2dbb-4ed3-875d-2c0b7ad9d594": {
+      "type": "advanced-content",
+      "blocks": {
+        "template--16889014386954__837b297b-2dbb-4ed3-875d-2c0b7ad9d594-1677494991b0bd85fa-1": {
           "type": "liquid",
           "settings": {
-            "code": "<div style=\"display: flex; flex-wrap: wrap;\">\n  <div style=\"flex-basis: 50%; display: flex; align-items: center; justify-content: center; order: 2;\">\n    <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0285\/6969\/8348\/files\/mona_julia_2_720x.jpg?v=1677496702\" alt=\"Mona und Julia am Strand\" style=\"max-width: 100%; height: auto;\">\n  <\/div>\n  <div style=\"flex-basis: 50%; display: flex; align-items: center; justify-content: center; order: 1;\">\n    <div>\n      <p>Erfahre auf der Reise mit Julia und Mona...<\/p>\n      <ul>\n        <li>wie man trotz Unsicherheit und Selbstzweifeln den eigenen Traum verwirklichen kann.<\/li>\n        <li>wie man es schafft das Unmögliche zu manifestieren.<\/li>\n        <li>wie man gleichzeitig Freundin und Business-Partnerin sein kann.<\/li>\n        <li>wie persönliche Weiterentwicklung das Fundament des Langhaarmädchenerfolgs bildet.<\/li>\n        <li>wie man mit genug Glauben an sich selbst, wirklich alles schaffen kann.<\/li>\n      <\/ul>\n    <\/div>\n  <\/div>\n<\/div>",
-            "width": "100%",
+            "code": "<div>\n      <p>Erfahre auf der Reise mit Julia und Mona...<\/p>\n      <ul>\n        <li>wie man trotz Unsicherheit und Selbstzweifeln den eigenen Traum verwirklichen kann.<\/li>\n        <li>wie man es schafft das Unmögliche zu manifestieren.<\/li>\n        <li>wie man gleichzeitig Freundin und Business-Partnerin sein kann.<\/li>\n        <li>wie persönliche Weiterentwicklung das Fundament des Langhaarmädchenerfolgs bildet.<\/li>\n        <li>wie man mit genug Glauben an sich selbst, wirklich alles schaffen kann.<\/li>\n      <\/ul>\n    <\/div>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "template--16889014386954__837b297b-2dbb-4ed3-875d-2c0b7ad9d594-1677494991b0bd85fa-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/mona_julia_2.jpg",
+            "link": "",
+            "width": "50%",
             "alignment": "center"
           }
         }
       },
       "block_order": [
-        "d43eaaf9-6411-4ec8-9764-6a6105686701",
-        "template--16889014386954__f87c86db-aafc-4aba-8379-2693de2fb46e-1675869364320e47bb-1",
-        "04ce7ae5-73a1-489f-b341-da4726de5d85"
-      ],
-      "custom_css": [
-        "img {display: block; margin: 0 auto; border-block-color: blue; border: 10;}"
+        "template--16889014386954__837b297b-2dbb-4ed3-875d-2c0b7ad9d594-1677494991b0bd85fa-1",
+        "template--16889014386954__837b297b-2dbb-4ed3-875d-2c0b7ad9d594-1677494991b0bd85fa-0"
       ],
       "settings": {
-        "full_width": true,
+        "full_width": false,
         "space_around": true
       }
     },
@@ -188,6 +209,14 @@
     "232f9b2a-c58c-414c-9b9b-c31240281a69": {
       "type": "advanced-content",
       "blocks": {
+        "506b8b8f-70ae-454c-82c3-1be64b5ec698": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2 id=\"haarberatung\">Haarberatung<\/h2><p>Du hast da noch ein paar Fragen über deine Haare? Oder möchtest wissen, welche Produkte am besten zu dir passen? Wir wollen, dass du mit unserer Haarpflegemarke wirklich den Unterschied spürst! Hol dir unsere geballte Erfahrung, Power und Expertise für deine ganz persönliche Haarberatung direkt ab und lass dich von Julia Si’s größtem Werk, unserem Haarberatungs-BOT bei der Auswahl deiner Lieblingsprodukte unterstützen! Damit keine Frage unbeantwortet bleibt, hat Julia Si eine virtuelle Assistentin erschaffen. Alles, was der Langhaarmädchen BOT nicht beantworten kann, beantwortet Julia Si dann persönlich. Probier’s aus!\n \nDer Bot ist über Facebook Messenger oder Instagram verfügbar:\n\n<ul>\n  <li><a href=\"http:\/\/m.me\/1621615048160618\">Facebook Messenger Bot<\/a><\/li>\n  <li><a href=\"https:\/\/instagram.com\/langhaarmaedchen?igshid=YmMyMTA2M2Y=\">Instagram Bot<\/a><\/li>\n<\/ul><p>\nMit dem  Haarbertungs-Bot kann man sich einfach und bequem von Experten beraten lassen und wertvolle Informationen erhalten, die dabei helfen, das volle Potenzial von langen Haaren zu entfalten.",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
         "8bae1326-9ace-483a-b3a2-86c78e6d5ec9": {
           "type": "image",
           "settings": {
@@ -196,19 +225,11 @@
             "width": "50%",
             "alignment": "center"
           }
-        },
-        "506b8b8f-70ae-454c-82c3-1be64b5ec698": {
-          "type": "liquid",
-          "settings": {
-            "code": "<h2 id=\"haarberatung\">Haarberatung<\/h2><p>Du hast da noch ein paar Fragen über deine Haare? Oder möchtest wissen, welche Produkte am besten zu dir passen? Wir wollen, dass du mit unserer Haarpflegemarke wirklich den Unterschied spürst! Hol dir unsere geballte Erfahrung, Power und Expertise für deine ganz persönliche Haarberatung direkt ab und lass dich von Julia Si’s größtem Werk, unserem Haarberatungs-BOT bei der Auswahl deiner Lieblingsprodukte unterstützen! Damit keine Frage unbeantwortet bleibt, hat Julia Si eine virtuelle Assistentin erschaffen. Alles, was der Langhaarmädchen BOT nicht beantworten kann, beantwortet Julia Si dann persönlich. Probier’s aus!\n \nDer Bot ist über Facebook Messenger oder Instagram verfügbar:\n\n<ul>\n  <li><a href=\"http:\/\/m.me\/1621615048160618\">Facebook Messenger Bot<\/a><\/li>\n  <li><a href=\"https:\/\/instagram.com\/langhaarmaedchen?igshid=YmMyMTA2M2Y=\">Instagram Bot<\/a><\/li>\n<\/ul><p>\nMit dem  Haarbertungs-Bot kann man sich einfach und bequem von Experten beraten lassen und wertvolle Informationen erhalten, die dabei helfen, das volle Potenzial von langen Haaren zu entfalten.",
-            "width": "50%",
-            "alignment": "center"
-          }
         }
       },
       "block_order": [
-        "8bae1326-9ace-483a-b3a2-86c78e6d5ec9",
-        "506b8b8f-70ae-454c-82c3-1be64b5ec698"
+        "506b8b8f-70ae-454c-82c3-1be64b5ec698",
+        "8bae1326-9ace-483a-b3a2-86c78e6d5ec9"
       ],
       "settings": {
         "full_width": false,
@@ -320,6 +341,7 @@
     "7549d0fd-b7f0-4d20-be93-d167dce94c2b",
     "254a2662-6aa4-4496-8deb-9041ed78d01a",
     "f87c86db-aafc-4aba-8379-2693de2fb46e",
+    "837b297b-2dbb-4ed3-875d-2c0b7ad9d594",
     "8e6b1332-0ffe-4b14-bbe6-c77939ceab51",
     "232f9b2a-c58c-414c-9b9b-c31240281a69",
     "7bdc4571-fbff-47d2-abda-37831c8c3c03",
