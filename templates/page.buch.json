@@ -127,6 +127,24 @@
         "space_around": true
       }
     },
+    "30584904-4bf2-472b-82e8-22c464fe3471": {
+      "type": "background-image-text",
+      "settings": {
+        "subtitle": "",
+        "title": "Erfahre auf der Reise mit Julia & Mona",
+        "text": "<ul><li>wie man trotz Unsicherheit und Selbstzweifeln den eigenen Traum verwirklichen kann.<\/li><li>wie man es schafft das Unmögliche zu manifestieren.<\/li><li>wie man gleichzeitig Freundin und Business-Partnerin sein kann.<\/li><li>wie persönliche Weiterentwicklung das Fundament von Erfolg bildet.<\/li><li>wie man mit genug Glauben an sich selbst wirklich alles schaffen kann.<\/li><\/ul>",
+        "button_label": "Jetzt bestellen",
+        "button_link": "https:\/\/amzn.to\/40LzTAt",
+        "image": "shopify:\/\/shop_images\/JONASBLANK_30452a6f-a745-44b1-bef2-18451cea73fd.png",
+        "focal_point": "20% 50%",
+        "layout": "right",
+        "height": 750,
+        "framed": false,
+        "parallax": false,
+        "margin_top": false,
+        "margin_bottom": false
+      }
+    },
     "d1f96e8a-7d74-4bfe-9b6b-789286633c48": {
       "type": "slideshow",
       "blocks": {
@@ -224,36 +242,6 @@
         "space_around": true
       }
     },
-    "837b297b-2dbb-4ed3-875d-2c0b7ad9d594": {
-      "type": "advanced-content",
-      "blocks": {
-        "template--16889014386954__837b297b-2dbb-4ed3-875d-2c0b7ad9d594-1677494991b0bd85fa-1": {
-          "type": "liquid",
-          "settings": {
-            "code": "<div>\n      <p>Erfahre auf der Reise mit Julia und Mona...<\/p>\n      <ul>\n        <li>wie man trotz Unsicherheit und Selbstzweifeln den eigenen Traum verwirklichen kann.<\/li>\n        <li>wie man es schafft das Unmögliche zu manifestieren.<\/li>\n        <li>wie man gleichzeitig Freundin und Business-Partnerin sein kann.<\/li>\n        <li>wie persönliche Weiterentwicklung das Fundament des Langhaarmädchenerfolgs bildet.<\/li>\n        <li>wie man mit genug Glauben an sich selbst, wirklich alles schaffen kann.<\/li>\n      <\/ul>\n    <\/div>",
-            "width": "50%",
-            "alignment": "center"
-          }
-        },
-        "template--16889014386954__837b297b-2dbb-4ed3-875d-2c0b7ad9d594-1677494991b0bd85fa-0": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/mona_julia_2.jpg",
-            "link": "",
-            "width": "50%",
-            "alignment": "center"
-          }
-        }
-      },
-      "block_order": [
-        "template--16889014386954__837b297b-2dbb-4ed3-875d-2c0b7ad9d594-1677494991b0bd85fa-1",
-        "template--16889014386954__837b297b-2dbb-4ed3-875d-2c0b7ad9d594-1677494991b0bd85fa-0"
-      ],
-      "settings": {
-        "full_width": false,
-        "space_around": true
-      }
-    },
     "9b710fbc-dae9-4f10-97ce-d0d0e09ad2e2": {
       "type": "rich-text",
       "blocks": {
@@ -264,18 +252,10 @@
             "image_width": 50,
             "image_position": 50
           }
-        },
-        "template--16889014386954__9b710fbc-dae9-4f10-97ce-d0d0e09ad2e2-167749749550899329-1": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>„Mutig ist das neue Schön” erzählt von der äußeren und inneren Reise zweier Friseurinnen<br\/>und lädt auf unaufdringliche Weise dazu ein, seine eigenen Grenzen neu zu denken.<br\/>AUTHENTISCH - BERUHREND - INSPIRIEREND<br\/><br\/>JETZT BESIELLEN BEI:<\/p>"
-          }
         }
       },
       "block_order": [
-        "template--16889014386954__9b710fbc-dae9-4f10-97ce-d0d0e09ad2e2-167749749550899329-0",
-        "template--16889014386954__9b710fbc-dae9-4f10-97ce-d0d0e09ad2e2-167749749550899329-1"
+        "template--16889014386954__9b710fbc-dae9-4f10-97ce-d0d0e09ad2e2-167749749550899329-0"
       ],
       "settings": {
         "align_text": "center",
@@ -586,24 +566,6 @@
         "margin_top": false,
         "margin_bottom": false
       }
-    },
-    "30584904-4bf2-472b-82e8-22c464fe3471": {
-      "type": "background-image-text",
-      "settings": {
-        "subtitle": "",
-        "title": "Erfahre auf der Reise mit Julia & Mona",
-        "text": "<ul><li>wie man trotz Unsicherheit und Selbstzweifeln den eigenen Traum verwirklichen kann.<\/li><li>wie man es schafft das Unmögliche zu manifestieren.<\/li><li>wie man gleichzeitig Freundin und Business-Partnerin sein kann.<\/li><li>wie persönliche Weiterentwicklung das Fundament von Erfolg bildet.<\/li><li>wie man mit genug Glauben an sich selbst wirklich alles schaffen kann.<\/li><\/ul>",
-        "button_label": "Jetzt bestellen",
-        "button_link": "https:\/\/amzn.to\/40LzTAt",
-        "image": "shopify:\/\/shop_images\/JONASBLANK_30452a6f-a745-44b1-bef2-18451cea73fd.png",
-        "focal_point": "20% 50%",
-        "layout": "right",
-        "height": 750,
-        "framed": false,
-        "parallax": false,
-        "margin_top": false,
-        "margin_bottom": false
-      }
     }
   },
   "order": [
@@ -612,10 +574,10 @@
     "7549d0fd-b7f0-4d20-be93-d167dce94c2b",
     "31f24e12-43da-4693-ba88-e0c4b64d2e5b",
     "f87c86db-aafc-4aba-8379-2693de2fb46e",
+    "30584904-4bf2-472b-82e8-22c464fe3471",
     "d1f96e8a-7d74-4bfe-9b6b-789286633c48",
     "f15a2da6-b0fb-4fd9-99f1-6153aa4f0167",
     "254a2662-6aa4-4496-8deb-9041ed78d01a",
-    "837b297b-2dbb-4ed3-875d-2c0b7ad9d594",
     "9b710fbc-dae9-4f10-97ce-d0d0e09ad2e2",
     "1fa849f0-945c-4bd6-a748-cd686ec6255e",
     "bed3a8b0-053f-442f-8040-c28c4532e305",
@@ -627,7 +589,6 @@
     "33a516f1-3d6f-40d7-8ca4-293e54df3687",
     "c5440950-c169-4931-b58e-03d645b5a36b",
     "5cd3bb2e-c0bc-4f06-bdd8-277d720ad3e1",
-    "71dc44a3-4e5b-4e91-abca-97f38adcb2de",
-    "30584904-4bf2-472b-82e8-22c464fe3471"
+    "71dc44a3-4e5b-4e91-abca-97f38adcb2de"
   ]
 }
