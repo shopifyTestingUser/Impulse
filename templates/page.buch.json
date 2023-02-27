@@ -180,68 +180,6 @@
         "autoplay_speed": 5
       }
     },
-    "f15a2da6-b0fb-4fd9-99f1-6153aa4f0167": {
-      "type": "advanced-content",
-      "blocks": {
-        "template--16889014386954__f15a2da6-b0fb-4fd9-99f1-6153aa4f0167-167751611559d32b64-0": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/LP2.png",
-            "link": "https:\/\/amzn.to\/40LzTAt",
-            "width": "33%",
-            "alignment": "center"
-          }
-        },
-        "ec4f6dc1-df21-41d0-b7c5-9df68d981d46": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/LP4.png",
-            "link": "https:\/\/amzn.to\/40LzTAt",
-            "width": "33%",
-            "alignment": "center"
-          }
-        },
-        "1abf718c-2a77-4521-a04f-10731bf6279c": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/LP6.png",
-            "link": "https:\/\/amzn.to\/40LzTAt",
-            "width": "33%",
-            "alignment": "center"
-          }
-        }
-      },
-      "block_order": [
-        "template--16889014386954__f15a2da6-b0fb-4fd9-99f1-6153aa4f0167-167751611559d32b64-0",
-        "ec4f6dc1-df21-41d0-b7c5-9df68d981d46",
-        "1abf718c-2a77-4521-a04f-10731bf6279c"
-      ],
-      "settings": {
-        "full_width": false,
-        "space_around": true
-      }
-    },
-    "254a2662-6aa4-4496-8deb-9041ed78d01a": {
-      "type": "advanced-content",
-      "disabled": true,
-      "blocks": {
-        "template--16889014386954__254a2662-6aa4-4496-8deb-9041ed78d01a-1677494991b0bd85fa-1": {
-          "type": "liquid",
-          "settings": {
-            "code": "<div style=\"background-color: white; text-align: center; color: black; padding: 20px;\">\n  <p>„Wir dürfen alle viel weniger vergleichen und mehr vertrauen, dass jeder von uns\n    seinen ganz eigenen wertvollen Weg geht, der genau so, mit all seinen Learnings und\n    Abzweigungen, passieren darf.<\/p>\n  <p>Für uns liegt genau darin der größte Mut verborgen. Seinen Weg nicht nur für\n    andere schön zu pinseln, sondern die eigene Schönheit durch den Mut zu leben, sich\n    selbst treu zu bleiben.<\/p>\n  <p>Julia - Mutig ist das neue Schön<\/p>\n<\/div>",
-            "width": "100%",
-            "alignment": "center"
-          }
-        }
-      },
-      "block_order": [
-        "template--16889014386954__254a2662-6aa4-4496-8deb-9041ed78d01a-1677494991b0bd85fa-1"
-      ],
-      "settings": {
-        "full_width": true,
-        "space_around": true
-      }
-    },
     "9b710fbc-dae9-4f10-97ce-d0d0e09ad2e2": {
       "type": "rich-text",
       "blocks": {
@@ -292,7 +230,7 @@
         "template--16889014386954__1fa849f0-945c-4bd6-a748-cd686ec6255e-16774974762edacdb8-3": {
           "type": "logo_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/amazon.jpg",
+            "image": "shopify:\/\/shop_images\/MaliaVerlag_Logo_gold.png",
             "link": "https:\/\/malia-verlag.com\/products\/langhaarmadchen-mutig-ist-das-neue-schoen"
           }
         }
@@ -307,6 +245,47 @@
         "title": "",
         "logo_opacity": 76,
         "divider": false
+      }
+    },
+    "f15a2da6-b0fb-4fd9-99f1-6153aa4f0167": {
+      "type": "advanced-content",
+      "blocks": {
+        "template--16889014386954__f15a2da6-b0fb-4fd9-99f1-6153aa4f0167-167751611559d32b64-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/LP2.png",
+            "link": "https:\/\/amzn.to\/40LzTAt",
+            "width": "33%",
+            "alignment": "center"
+          }
+        },
+        "ec4f6dc1-df21-41d0-b7c5-9df68d981d46": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/LP4.png",
+            "link": "https:\/\/amzn.to\/40LzTAt",
+            "width": "33%",
+            "alignment": "center"
+          }
+        },
+        "1abf718c-2a77-4521-a04f-10731bf6279c": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/LP6.png",
+            "link": "https:\/\/amzn.to\/40LzTAt",
+            "width": "33%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--16889014386954__f15a2da6-b0fb-4fd9-99f1-6153aa4f0167-167751611559d32b64-0",
+        "ec4f6dc1-df21-41d0-b7c5-9df68d981d46",
+        "1abf718c-2a77-4521-a04f-10731bf6279c"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
       }
     },
     "bed3a8b0-053f-442f-8040-c28c4532e305": {
@@ -328,6 +307,29 @@
       "settings": {
         "full_width": false,
         "space_around": true
+      }
+    },
+    "efd9c562-5fc0-4eb3-8580-b73447c596d9": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16889014386954__efd9c562-5fc0-4eb3-8580-b73447c596d9-1677522723278be952-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Bekannt aus:",
+            "image_width": 50,
+            "image_position": 50
+          }
+        }
+      },
+      "block_order": [
+        "template--16889014386954__efd9c562-5fc0-4eb3-8580-b73447c596d9-1677522723278be952-0"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
       }
     },
     "93e6541a-1a9f-4642-aba4-ff070e50fca6": {
@@ -576,11 +578,11 @@
     "f87c86db-aafc-4aba-8379-2693de2fb46e",
     "30584904-4bf2-472b-82e8-22c464fe3471",
     "d1f96e8a-7d74-4bfe-9b6b-789286633c48",
-    "f15a2da6-b0fb-4fd9-99f1-6153aa4f0167",
-    "254a2662-6aa4-4496-8deb-9041ed78d01a",
     "9b710fbc-dae9-4f10-97ce-d0d0e09ad2e2",
     "1fa849f0-945c-4bd6-a748-cd686ec6255e",
+    "f15a2da6-b0fb-4fd9-99f1-6153aa4f0167",
     "bed3a8b0-053f-442f-8040-c28c4532e305",
+    "efd9c562-5fc0-4eb3-8580-b73447c596d9",
     "93e6541a-1a9f-4642-aba4-ff070e50fca6",
     "1b77238e-eb8a-42a9-8e32-2fac13f15551",
     "8e6b1332-0ffe-4b14-bbe6-c77939ceab51",
