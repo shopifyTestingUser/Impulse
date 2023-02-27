@@ -665,8 +665,8 @@
         "align_text": "left",
         "layout": "right",
         "divider": false,
-        "margin_top": false,
-        "margin_bottom": false
+        "margin_top": true,
+        "margin_bottom": true
       }
     },
     "6ba509a4-800a-45ae-96f7-a392b5dbdfe6": {
@@ -686,7 +686,7 @@
         "align_text": "left",
         "layout": "left",
         "divider": false,
-        "margin_top": false,
+        "margin_top": true,
         "margin_bottom": false
       }
     }
