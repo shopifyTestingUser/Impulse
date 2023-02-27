@@ -454,34 +454,68 @@
         "space_around": true
       }
     },
-    "232f9b2a-c58c-414c-9b9b-c31240281a69": {
-      "type": "advanced-content",
+    "cb87576f-77c2-4e80-8d34-048b48e1a71c": {
+      "type": "rich-text",
       "blocks": {
-        "506b8b8f-70ae-454c-82c3-1be64b5ec698": {
-          "type": "liquid",
+        "template--16889014386954__cb87576f-77c2-4e80-8d34-048b48e1a71c-1677522723278be952-0": {
+          "type": "heading",
           "settings": {
-            "code": "<h2 id=\"haarberatung\">Haarberatung<\/h2><p>Du hast da noch ein paar Fragen über deine Haare? Oder möchtest wissen, welche Produkte am besten zu dir passen? Wir wollen, dass du mit unserer Haarpflegemarke wirklich den Unterschied spürst! Hol dir unsere geballte Erfahrung, Power und Expertise für deine ganz persönliche Haarberatung direkt ab und lass dich von Julia Si’s größtem Werk, unserem Haarberatungs-BOT bei der Auswahl deiner Lieblingsprodukte unterstützen! Damit keine Frage unbeantwortet bleibt, hat Julia Si eine virtuelle Assistentin erschaffen. Alles, was der Langhaarmädchen BOT nicht beantworten kann, beantwortet Julia Si dann persönlich. Probier’s aus!\n \nDer Bot ist über Facebook Messenger oder Instagram verfügbar:\n\n<ul>\n  <li><a href=\"http:\/\/m.me\/1621615048160618\">Facebook Messenger Bot<\/a><\/li>\n  <li><a href=\"https:\/\/instagram.com\/langhaarmaedchen?igshid=YmMyMTA2M2Y=\">Instagram Bot<\/a><\/li>\n<\/ul><p>\nMit dem  Haarbertungs-Bot kann man sich einfach und bequem von Experten beraten lassen und wertvolle Informationen erhalten, die dabei helfen, das volle Potenzial von langen Haaren zu entfalten.",
-            "width": "50%",
-            "alignment": "center"
+            "title": "Langhaarmädchen = Liebe",
+            "image": "shopify:\/\/shop_images\/Vector.png",
+            "image_width": 50,
+            "image_position": 50
           }
         },
-        "8bae1326-9ace-483a-b3a2-86c78e6d5ec9": {
-          "type": "image",
+        "template--16889014386954__cb87576f-77c2-4e80-8d34-048b48e1a71c-1677522723278be952-1": {
+          "type": "text",
           "settings": {
-            "image": "shopify:\/\/shop_images\/haarbertung_bild.jpg",
-            "link": "",
-            "width": "50%",
-            "alignment": "center"
+            "enlarge_text": true,
+            "text": "<p>Unsere Marke wird erst durch unser wunderbares Team zur echten Love Brand. Jeden Tag lernen wir voneinander fürs Leben und inspirieren uns dabei immer wieder neu. <\/p>"
           }
         }
       },
       "block_order": [
-        "506b8b8f-70ae-454c-82c3-1be64b5ec698",
-        "8bae1326-9ace-483a-b3a2-86c78e6d5ec9"
+        "template--16889014386954__cb87576f-77c2-4e80-8d34-048b48e1a71c-1677522723278be952-0",
+        "template--16889014386954__cb87576f-77c2-4e80-8d34-048b48e1a71c-1677522723278be952-1"
       ],
       "settings": {
-        "full_width": false,
-        "space_around": true
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
+      }
+    },
+    "68aaf220-694e-4c25-b862-71f66a3c5368": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16889014386954__68aaf220-694e-4c25-b862-71f66a3c5368-16775343385bd999f4-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Sprachnachricht von Roby",
+            "image": "shopify:\/\/shop_images\/decor_about_us_6.png",
+            "image_width": 50,
+            "image_position": 50
+          }
+        },
+        "template--16889014386954__68aaf220-694e-4c25-b862-71f66a3c5368-16775343385bd999f4-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16889014386954__68aaf220-694e-4c25-b862-71f66a3c5368-16775343385bd999f4-0",
+        "template--16889014386954__68aaf220-694e-4c25-b862-71f66a3c5368-16775343385bd999f4-1"
+      ],
+      "settings": {
+        "align_text": "right",
+        "narrow_column": true,
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
       }
     },
     "7bdc4571-fbff-47d2-abda-37831c8c3c03": {
@@ -514,36 +548,34 @@
         "space_around": true
       }
     },
-    "cb87576f-77c2-4e80-8d34-048b48e1a71c": {
-      "type": "rich-text",
+    "232f9b2a-c58c-414c-9b9b-c31240281a69": {
+      "type": "advanced-content",
       "blocks": {
-        "template--16889014386954__cb87576f-77c2-4e80-8d34-048b48e1a71c-1677522723278be952-0": {
-          "type": "heading",
+        "506b8b8f-70ae-454c-82c3-1be64b5ec698": {
+          "type": "liquid",
           "settings": {
-            "title": "Langhaarmädchen = Liebe",
-            "image": "shopify:\/\/shop_images\/Vector.png",
-            "image_width": 50,
-            "image_position": 50
+            "code": "<h2 id=\"haarberatung\">Haarberatung<\/h2><p>Du hast da noch ein paar Fragen über deine Haare? Oder möchtest wissen, welche Produkte am besten zu dir passen? Wir wollen, dass du mit unserer Haarpflegemarke wirklich den Unterschied spürst! Hol dir unsere geballte Erfahrung, Power und Expertise für deine ganz persönliche Haarberatung direkt ab und lass dich von Julia Si’s größtem Werk, unserem Haarberatungs-BOT bei der Auswahl deiner Lieblingsprodukte unterstützen! Damit keine Frage unbeantwortet bleibt, hat Julia Si eine virtuelle Assistentin erschaffen. Alles, was der Langhaarmädchen BOT nicht beantworten kann, beantwortet Julia Si dann persönlich. Probier’s aus!\n \nDer Bot ist über Facebook Messenger oder Instagram verfügbar:\n\n<ul>\n  <li><a href=\"http:\/\/m.me\/1621615048160618\">Facebook Messenger Bot<\/a><\/li>\n  <li><a href=\"https:\/\/instagram.com\/langhaarmaedchen?igshid=YmMyMTA2M2Y=\">Instagram Bot<\/a><\/li>\n<\/ul><p>\nMit dem  Haarbertungs-Bot kann man sich einfach und bequem von Experten beraten lassen und wertvolle Informationen erhalten, die dabei helfen, das volle Potenzial von langen Haaren zu entfalten.",
+            "width": "50%",
+            "alignment": "center"
           }
         },
-        "template--16889014386954__cb87576f-77c2-4e80-8d34-048b48e1a71c-1677522723278be952-1": {
-          "type": "text",
+        "8bae1326-9ace-483a-b3a2-86c78e6d5ec9": {
+          "type": "image",
           "settings": {
-            "enlarge_text": true,
-            "text": "<p>Unsere Marke wird erst durch unser wunderbares Team zur echten Love Brand. Jeden Tag lernen wir voneinander fürs Leben und inspirieren uns dabei immer wieder neu. <\/p>"
+            "image": "shopify:\/\/shop_images\/haarbertung_bild.jpg",
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
           }
         }
       },
       "block_order": [
-        "template--16889014386954__cb87576f-77c2-4e80-8d34-048b48e1a71c-1677522723278be952-0",
-        "template--16889014386954__cb87576f-77c2-4e80-8d34-048b48e1a71c-1677522723278be952-1"
+        "506b8b8f-70ae-454c-82c3-1be64b5ec698",
+        "8bae1326-9ace-483a-b3a2-86c78e6d5ec9"
       ],
       "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false,
-        "margin_top": false,
-        "margin_bottom": false
+        "full_width": false,
+        "space_around": true
       }
     },
     "33a516f1-3d6f-40d7-8ca4-293e54df3687": {
@@ -651,9 +683,10 @@
     "1b77238e-eb8a-42a9-8e32-2fac13f15551",
     "6e3eb975-fc0e-468f-a2d9-26823f836119",
     "8e6b1332-0ffe-4b14-bbe6-c77939ceab51",
-    "232f9b2a-c58c-414c-9b9b-c31240281a69",
-    "7bdc4571-fbff-47d2-abda-37831c8c3c03",
     "cb87576f-77c2-4e80-8d34-048b48e1a71c",
+    "68aaf220-694e-4c25-b862-71f66a3c5368",
+    "7bdc4571-fbff-47d2-abda-37831c8c3c03",
+    "232f9b2a-c58c-414c-9b9b-c31240281a69",
     "33a516f1-3d6f-40d7-8ca4-293e54df3687",
     "c5440950-c169-4931-b58e-03d645b5a36b",
     "5cd3bb2e-c0bc-4f06-bdd8-277d720ad3e1",
