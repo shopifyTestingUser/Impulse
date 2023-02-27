@@ -554,7 +554,7 @@
         "506b8b8f-70ae-454c-82c3-1be64b5ec698": {
           "type": "liquid",
           "settings": {
-            "code": "<h2 id=\"haarberatung\">Haarberatung<\/h2><p>Du hast da noch ein paar Fragen über deine Haare? Oder möchtest wissen, welche Produkte am besten zu dir passen? Wir wollen, dass du mit unserer Haarpflegemarke wirklich den Unterschied spürst! Hol dir unsere geballte Erfahrung, Power und Expertise für deine ganz persönliche Haarberatung direkt ab und lass dich von Julia Si’s größtem Werk, unserem Haarberatungs-BOT bei der Auswahl deiner Lieblingsprodukte unterstützen! Damit keine Frage unbeantwortet bleibt, hat Julia Si eine virtuelle Assistentin erschaffen. Alles, was der Langhaarmädchen BOT nicht beantworten kann, beantwortet Julia Si dann persönlich. Probier’s aus!\n \nDer Bot ist über Facebook Messenger oder Instagram verfügbar:\n\n<ul>\n  <li><a href=\"http:\/\/m.me\/1621615048160618\">Facebook Messenger Bot<\/a><\/li>\n  <li><a href=\"https:\/\/instagram.com\/langhaarmaedchen?igshid=YmMyMTA2M2Y=\">Instagram Bot<\/a><\/li>\n<\/ul><p>\nMit dem  Haarbertungs-Bot kann man sich einfach und bequem von Experten beraten lassen und wertvolle Informationen erhalten, die dabei helfen, das volle Potenzial von langen Haaren zu entfalten.",
+            "code": "<h2 id=\"haarberatung\">Haarberatung<\/h2><p>Du hast da noch ein paar Fragen über deine Haare? Oder möchtest wissen, welche Produkte am besten zu dir passen? Wir wollen, dass du mit unserer Haarpflegemarke wirklich den Unterschied spürst! \n<p>Hol dir unsere geballte Erfahrung, Power und Expertise für deine ganz persönliche Haarberatung direkt ab und lass dich von Julia Si’s größtem Werk, unserem <b>HAARBERATUNGS-BOT<\/b> bei der Auswahl deiner Lieblingsprodukte unterstützen! Damit keine Frage unbeantwortet bleibt, hat Julia Si eine virtuelle Assistentin erschaffen. Alles, was der Langhaarmädchen BOT nicht beantworten kann, beantwortet Julia Si dann persönlich. \n<p><b>Probier’s aus:<\/b> Der Bot ist über Facebook Messenger oder Instagram verfügbar:\n\n<ul>\n  <li><a href=\"http:\/\/m.me\/1621615048160618\">Facebook Messenger Bot<\/a><\/li>\n  <li><a href=\"https:\/\/instagram.com\/langhaarmaedchen?igshid=YmMyMTA2M2Y=\">Instagram Bot<\/a><\/li>\n<\/ul><p>\n<i>Lass dich mithilfe des  Haarbertungs-Bot einfach und bequem von Experten beraten und erhalte wertvolle Informationen, die dir dabei helfen, das volle Potenzial deiner langen Haaren zu entfalten.<\/i>",
             "width": "50%",
             "alignment": "center"
           }
@@ -606,6 +606,38 @@
       "settings": {
         "full_width": false,
         "space_around": true
+      }
+    },
+    "4ee8b71b-243b-4ef8-9364-5d9e07383ab9": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16889014386954__4ee8b71b-243b-4ef8-9364-5d9e07383ab9-16775343385bd999f4-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Videobotschaft von Eli",
+            "image": "shopify:\/\/shop_images\/decor_salon_2.png",
+            "image_width": 50,
+            "image_position": 50
+          }
+        },
+        "template--16889014386954__4ee8b71b-243b-4ef8-9364-5d9e07383ab9-16775343385bd999f4-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><strong>Auszug aus Mutig ist das neue Schön: <\/strong><\/p><p>Sich in beliebig vielen Worten auszudrücken. Gedanken schriftlich festzuhalten. Eine Beziehung zu führen. Reisen zu gehen. Die eigenen Gefühle zu beherrschen. Zukunftspläne zu schmieden. All das ist für meinen langjährigen Kumpel und Kurzhaarbuben Elias keine Selbstverständlichkeit. Im zweiten Lebensjahr von Elias wurde die Behinderung „Infantile Cerebralparese“ (ICP) festgestellt. <br\/><\/p><p>Kein Schritt ist für Eli eine unkomplizierte Sache. Ähnlich wie es für uns alle immer ein bewegender Schritt sein wird, mutige Entscheidungen zu treffen. Doch dranzubleiben, die eigene Beharrlichkeit nie zu verlieren und sich immer wieder vor Augen zu führen, was man in seinem Leben längst erschaffen hat, ist das, was uns alle immer wieder vorankommen lässt. <\/p><p><strong>Zeit für uns, dankbar zu sein:<\/strong><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16889014386954__4ee8b71b-243b-4ef8-9364-5d9e07383ab9-16775343385bd999f4-0",
+        "template--16889014386954__4ee8b71b-243b-4ef8-9364-5d9e07383ab9-16775343385bd999f4-1"
+      ],
+      "settings": {
+        "align_text": "left",
+        "narrow_column": true,
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
       }
     },
     "c5440950-c169-4931-b58e-03d645b5a36b": {
@@ -688,6 +720,7 @@
     "7bdc4571-fbff-47d2-abda-37831c8c3c03",
     "232f9b2a-c58c-414c-9b9b-c31240281a69",
     "33a516f1-3d6f-40d7-8ca4-293e54df3687",
+    "4ee8b71b-243b-4ef8-9364-5d9e07383ab9",
     "c5440950-c169-4931-b58e-03d645b5a36b",
     "5cd3bb2e-c0bc-4f06-bdd8-277d720ad3e1",
     "71dc44a3-4e5b-4e91-abca-97f38adcb2de"
