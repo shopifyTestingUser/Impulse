@@ -399,7 +399,7 @@
         "template--16889014386954__6e3eb975-fc0e-468f-a2d9-26823f836119-1677522723278be952-0": {
           "type": "heading",
           "settings": {
-            "title": "Literaturempfehlungen von Julia & Mona",
+            "title": "Literaturempfehlungen",
             "image_width": 50,
             "image_position": 50
           }
@@ -408,7 +408,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
+            "text": "<p>Diese Bücher haben Julia und Mona auf ihrer inneren und äußeren Reise zur Love Brand unterstützt und inspiriert <\/p>"
           }
         }
       },
