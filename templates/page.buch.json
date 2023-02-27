@@ -30,19 +30,19 @@
         "template--16889014386954__dd494447-c81a-4acb-bafc-55e9c0522369-1676540255467e49ec-1": {
           "type": "image",
           "settings": {
-            "top_subheading": "Das Langhaarmädchen Buch",
+            "top_subheading": "",
             "title": "",
             "title_size": 40,
             "subheading": "",
             "link": "https:\/\/amzn.to\/40LzTAt",
-            "link_text": "JETZT VORBESTELLEN",
-            "link_2": "https:\/\/amzn.to\/40LzTAt",
+            "link_text": "JETZT BESTELLEN",
+            "link_2": "",
             "link_text_2": "",
             "color_accent": "#f8e6d4",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/Beschere_Dir_und_Deinen_Liebsten_ein_besinnliches_und_spirituelles_Weihnachten._1640_x_1640_px_1640_x_824_px_-6-min.png",
-            "image_mobile": "shopify:\/\/shop_images\/LHM_Buehne_Website.png",
-            "overlay_opacity": 12,
+            "text_align": "vertical-bottom horizontal-center",
+            "image": "shopify:\/\/shop_images\/970x600strand_Header_Neu_Amazon_MutigIstdasneuSchoen.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/970x600strand_Header_Neu_Amazon_MutigIstdasneuSchoen.jpg",
+            "overlay_opacity": 10,
             "focal_point": "20% 100%"
           }
         }
