@@ -553,7 +553,7 @@
           "type": "heading",
           "settings": {
             "title": "Videobotschaft von Eli",
-            "image": "shopify:\/\/shop_images\/decor_salon_2.png",
+            "image": "shopify:\/\/shop_images\/decor_home_8.png",
             "image_width": 50,
             "image_position": 50
           }
@@ -562,7 +562,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p><strong>Auszug aus Mutig ist das neue Schön: <\/strong><\/p><p>Sich in beliebig vielen Worten auszudrücken. Gedanken schriftlich festzuhalten. Eine Beziehung zu führen. Reisen zu gehen. Die eigenen Gefühle zu beherrschen. Zukunftspläne zu schmieden. All das ist für meinen langjährigen Kumpel und Kurzhaarbuben Elias keine Selbstverständlichkeit. Im zweiten Lebensjahr von Elias wurde die Behinderung „Infantile Cerebralparese“ (ICP) festgestellt. <br\/><\/p><p>Kein Schritt ist für Eli eine unkomplizierte Sache. Ähnlich wie es für uns alle immer ein bewegender Schritt sein wird, mutige Entscheidungen zu treffen. Doch dranzubleiben, die eigene Beharrlichkeit nie zu verlieren und sich immer wieder vor Augen zu führen, was man in seinem Leben längst erschaffen hat, ist das, was uns alle immer wieder vorankommen lässt. <\/p><p><strong>Zeit für uns, dankbar zu sein:<\/strong><\/p>"
+            "text": "<p><strong>Auszug aus \"Mutig ist das neue Schön\": <\/strong><\/p><p>Sich in beliebig vielen Worten auszudrücken. Gedanken schriftlich festzuhalten. Eine Beziehung zu führen. Reisen zu gehen. Die eigenen Gefühle zu beherrschen. Zukunftspläne zu schmieden. All das ist für meinen langjährigen Kumpel und Kurzhaarbuben Elias keine Selbstverständlichkeit. Im zweiten Lebensjahr von Elias wurde die Behinderung „Infantile Cerebralparese“ (ICP) festgestellt. <br\/><\/p><p>Kein Schritt ist für Eli eine unkomplizierte Sache. Ähnlich wie es für uns alle immer ein bewegender Schritt sein wird, mutige Entscheidungen zu treffen. Doch dranzubleiben, die eigene Beharrlichkeit nie zu verlieren und sich immer wieder vor Augen zu führen, was man in seinem Leben längst erschaffen hat, ist das, was uns alle immer wieder vorankommen lässt. <\/p><p><strong>Zeit für uns, dankbar zu sein:<\/strong><\/p>"
           }
         }
       },
@@ -571,7 +571,7 @@
         "template--16889014386954__4ee8b71b-243b-4ef8-9364-5d9e07383ab9-16775343385bd999f4-1"
       ],
       "settings": {
-        "align_text": "left",
+        "align_text": "center",
         "narrow_column": true,
         "divider": false,
         "margin_top": false,
