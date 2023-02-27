@@ -64,17 +64,15 @@
     "7549d0fd-b7f0-4d20-be93-d167dce94c2b": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/mona_julia.jpg",
-        "image2": "shopify:\/\/shop_images\/Clipboard01_ef4aac23-059a-4b92-ac66-f9b3702a625e.jpg",
-        "image_position": "left-bottom",
+        "image_position": "left-top",
         "image_bg_color": "#f8e6d4",
-        "image_bg": "shopify:\/\/shop_images\/decor_about_us_6.png",
-        "subtitle": "Die Geschichte der Langhaarmädchen",
+        "image_bg": "shopify:\/\/shop_images\/LP1.png",
+        "subtitle": "",
         "title": "Mutig ist das neue Schön",
         "another_text": false,
-        "text": "<p>HALLO DU HERZENSMENSCH!<br\/>Willkommen in unserer Langhaarmädchen-Buchwelt & schön dass du da bist!<br\/><br\/>Hier warten ganz viele spannende Einblicke in \"Mutig ist das neue Schön und damit verbundene Herzensempfehlungen und persönliche Botschaften auf dich!<br\/><br\/>Viel Freude, Genuss, Wachstum &<br\/>Gänsehaut-Momente wünschen wir dir! <\/p><p>Deine Langhaarmädchen Mona & Julia<\/p>",
-        "button_label": "JETZT BESTELLEN",
-        "button_link": "https:\/\/www.thalia.de\/shop\/home\/artikeldetails\/A1063517954",
+        "text": "<p><\/p><p><strong>HALLO DU HERZENSMENSCH!<\/strong><\/p><p>Willkommen in unserer Langhaarmädchen-Buchwelt & schön dass du da bist!<br\/><br\/>Hier warten ganz viele spannende Einblicke in \"Mutig ist das neue Schön und damit verbundene Herzensempfehlungen und persönliche Botschaften auf dich!<br\/><br\/>Viel Freude, Genuss, Wachstum &<br\/>Gänsehaut-Momente wünschen wir dir! <\/p><p><strong>Deine Langhaarmädchen Mona & Julia<\/strong><\/p>",
+        "button_label": "BUCH JETZT BESTELLEN",
+        "button_link": "https:\/\/amzn.to\/40LzTAt",
         "button_style": "primary",
         "align_text": "left",
         "layout": "right",
@@ -82,6 +80,58 @@
         "divider": false,
         "margin_top": true,
         "margin_bottom": false
+      }
+    },
+    "d1f96e8a-7d74-4bfe-9b6b-789286633c48": {
+      "type": "slideshow",
+      "blocks": {
+        "template--16889014386954__d1f96e8a-7d74-4bfe-9b6b-789286633c48-1677511724069fc796-0": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Endless\npossibilities.",
+            "title_size": 80,
+            "subheading": "Bring your brand to life",
+            "link": "",
+            "link_text": "Optional button",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        },
+        "template--16889014386954__d1f96e8a-7d74-4bfe-9b6b-789286633c48-1677511724069fc796-1": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Two line\ntitle slide.",
+            "title_size": 80,
+            "subheading": "And big, beautiful imagery",
+            "link": "",
+            "link_text": "Optional button",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "template--16889014386954__d1f96e8a-7d74-4bfe-9b6b-789286633c48-1677511724069fc796-0",
+        "template--16889014386954__d1f96e8a-7d74-4bfe-9b6b-789286633c48-1677511724069fc796-1"
+      ],
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "arrows": true,
+        "autoplay": true,
+        "autoplay_speed": 5
       }
     },
     "254a2662-6aa4-4496-8deb-9041ed78d01a": {
@@ -495,6 +545,7 @@
     "main",
     "dd494447-c81a-4acb-bafc-55e9c0522369",
     "7549d0fd-b7f0-4d20-be93-d167dce94c2b",
+    "d1f96e8a-7d74-4bfe-9b6b-789286633c48",
     "254a2662-6aa4-4496-8deb-9041ed78d01a",
     "f87c86db-aafc-4aba-8379-2693de2fb46e",
     "837b297b-2dbb-4ed3-875d-2c0b7ad9d594",
