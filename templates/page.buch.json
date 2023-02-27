@@ -502,7 +502,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Auszug aus \"Mutig ist das neue Schön\"<\/p>"
+            "text": "<p><strong>Auszug aus \"Mutig ist das neue Schön\"<\/strong><\/p>"
           }
         }
       },
