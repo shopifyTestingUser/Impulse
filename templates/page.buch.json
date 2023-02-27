@@ -117,13 +117,12 @@
     "f87c86db-aafc-4aba-8379-2693de2fb46e": {
       "type": "advanced-content",
       "blocks": {
-        "template--16889014386954__f87c86db-aafc-4aba-8379-2693de2fb46e-1675869364320e47bb-0": {
-          "type": "image",
+        "d43eaaf9-6411-4ec8-9764-6a6105686701": {
+          "type": "liquid",
           "settings": {
-            "image": "shopify:\/\/shop_images\/buch_sand.jpg",
-            "link": "",
-            "width": "33%",
-            "alignment": "top-middle"
+            "code": "<div style=\"text-align: center;\">\n  <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0285\/6969\/8348\/files\/buch_sand_720x.jpg?v=1677495367\" alt=\"Beschreibung des Bildes\" width=\"500\" height=\"auto\">\n<\/div>",
+            "width": "100%",
+            "alignment": "center"
           }
         },
         "template--16889014386954__f87c86db-aafc-4aba-8379-2693de2fb46e-1675869364320e47bb-1": {
@@ -133,11 +132,23 @@
             "width": "100%",
             "alignment": "center"
           }
+        },
+        "04ce7ae5-73a1-489f-b341-da4726de5d85": {
+          "type": "liquid",
+          "settings": {
+            "code": "<div style=\"display: flex; flex-wrap: wrap;\">\n  <div style=\"flex-basis: 50%; display: flex; align-items: center; justify-content: center; order: 2;\">\n    <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0285\/6969\/8348\/files\/mona_julia_2_720x.jpg?v=1677496702\" alt=\"Mona und Julia am Strand\" style=\"max-width: 100%; height: auto;\">\n  <\/div>\n  <div style=\"flex-basis: 50%; display: flex; align-items: center; justify-content: center; order: 1;\">\n    <div>\n      <p>Erfahre auf der Reise mit Julia und Mona...<\/p>\n      <ul>\n        <li>wie man trotz Unsicherheit und Selbstzweifeln den eigenen Traum verwirklichen kann.<\/li>\n        <li>wie man es schafft das Unmögliche zu manifestieren.<\/li>\n        <li>wie man gleichzeitig Freundin und Business-Partnerin sein kann.<\/li>\n        <li>wie persönliche Weiterentwicklung das Fundament des Langhaarmädchenerfolgs bildet.<\/li>\n        <li>wie man mit genug Glauben an sich selbst, wirklich alles schaffen kann.<\/li>\n      <\/ul>\n    <\/div>\n  <\/div>\n<\/div>",
+            "width": "100%",
+            "alignment": "center"
+          }
         }
       },
       "block_order": [
-        "template--16889014386954__f87c86db-aafc-4aba-8379-2693de2fb46e-1675869364320e47bb-0",
-        "template--16889014386954__f87c86db-aafc-4aba-8379-2693de2fb46e-1675869364320e47bb-1"
+        "d43eaaf9-6411-4ec8-9764-6a6105686701",
+        "template--16889014386954__f87c86db-aafc-4aba-8379-2693de2fb46e-1675869364320e47bb-1",
+        "04ce7ae5-73a1-489f-b341-da4726de5d85"
+      ],
+      "custom_css": [
+        "img {display: block; margin: 0 auto; border-block-color: blue; border: 10;}"
       ],
       "settings": {
         "full_width": true,
