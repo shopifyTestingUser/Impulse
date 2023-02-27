@@ -561,7 +561,6 @@
           "type": "heading",
           "settings": {
             "title": "Videobotschaft von Eli",
-            "image": "shopify:\/\/shop_images\/decor_home_8.png",
             "image_width": 50,
             "image_position": 50
           }
@@ -569,7 +568,7 @@
         "template--16889014386954__4ee8b71b-243b-4ef8-9364-5d9e07383ab9-16775343385bd999f4-1": {
           "type": "text",
           "settings": {
-            "enlarge_text": true,
+            "enlarge_text": false,
             "text": "<p><strong>Auszug aus \"Mutig ist das neue Schön\": <\/strong><\/p><p>Sich in beliebig vielen Worten auszudrücken. Gedanken schriftlich festzuhalten. Eine Beziehung zu führen. Reisen zu gehen. Die eigenen Gefühle zu beherrschen. Zukunftspläne zu schmieden. All das ist für meinen langjährigen Kumpel und Kurzhaarbuben Elias keine Selbstverständlichkeit. Im zweiten Lebensjahr von Elias wurde die Behinderung „Infantile Cerebralparese“ (ICP) festgestellt. <br\/><\/p><p>Kein Schritt ist für Eli eine unkomplizierte Sache. Ähnlich wie es für uns alle immer ein bewegender Schritt sein wird, mutige Entscheidungen zu treffen. Doch dranzubleiben, die eigene Beharrlichkeit nie zu verlieren und sich immer wieder vor Augen zu führen, was man in seinem Leben längst erschaffen hat, ist das, was uns alle immer wieder vorankommen lässt. <\/p><p><strong>Zeit für uns, dankbar zu sein:<\/strong><\/p>"
           }
         }
@@ -634,7 +633,7 @@
         "subtitle": "",
         "title": "Ich bin Julia,",
         "another_text": false,
-        "text": "<p>Friseurmeisterin, Mitgründerin und Managerin von Langhaarmädchen. Die Reise unserer Haarpflegemarke mit Herz begann 2016, als meine Mitgründerin Mona und ich gemeinsam auf dem Roadtrip unseres Lebens in Australien unterwegs waren. Viele Visionboards, intensive Gespräche und Traumschlösser später gründeten wir zurück in Deutschland die Langhaarmädchen GbR. 2017 machten wir den wohl größten Deal unseres Lebens: Langhaarmädchen als Exklusivmarke der erfolgreichsten Drogeriemarktkette Deutschlands.<\/p><p>Ich bin der Mensch, der die Visionen von Mona sieht, versteht und gemeinsam mit unserem Team umsetzt. Ich liebe es, die Welt als ein Geschenk zu betrachten, in der wir die Möglichkeit haben, die beste Version von uns selbst zu entfalten, um damit andere zu bereichern. Ich möchte mit Langhaarmädchen und \"MUTIG ist das neue SCHÖN\" dazu ermutigen, auf das EIGENE Herz zu hören!  <\/p><p><em><strong>Als Hauptautorin dieses Buches gibt Julia der Langhaarmädchen-Geschichte eine weitere Ebene in die Tiefe und macht so vielen Menschen Mut, ihren eigenen Traum zu verfolgen.<\/strong><\/em><\/p><p><\/p>",
+        "text": "<p>Friseurmeisterin, Mitgründerin und Managerin von Langhaarmädchen. Die Reise unserer Haarpflegemarke mit Herz begann 2016, als meine Mitgründerin Mona und ich gemeinsam auf dem Roadtrip unseres Lebens in Australien unterwegs waren. Viele Visionboards, intensive Gespräche und Traumschlösser später gründeten wir zurück in Deutschland die Langhaarmädchen GbR. 2017 machten wir den wohl größten Deal unseres Lebens: Langhaarmädchen als Exklusivmarke der erfolgreichsten Drogeriemarktkette Deutschlands.<\/p><p>Ich bin der Mensch, der die Visionen von Mona sieht, versteht und gemeinsam mit unserem Team umsetzt. Ich liebe es, die Welt als ein Geschenk zu betrachten, in der wir die Möglichkeit haben, die beste Version von uns selbst zu entfalten, um damit andere zu bereichern. Ich möchte mit Langhaarmädchen und \"MUTIG ist das neue SCHÖN\" dazu ermutigen, auf das EIGENE Herz zu hören!  <\/p><p>Als Hauptautorin dieses Buches gibt Julia der Langhaarmädchen-Geschichte eine weitere Ebene in die Tiefe und macht so vielen Menschen Mut, ihren eigenen Traum zu verfolgen.<\/p>",
         "button_label": "",
         "button_link": "",
         "button_style": "primary",
