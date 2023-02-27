@@ -161,7 +161,7 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/LP112.png",
+            "image": "shopify:\/\/shop_images\/jj2.png",
             "image_mobile": "shopify:\/\/shop_images\/LP112.png",
             "overlay_opacity": 0,
             "focal_point": "center center"
@@ -295,7 +295,7 @@
         "template--16889014386954__bed3a8b0-053f-442f-8040-c28c4532e305-1677494991b0bd85fa-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/LP10.png",
+            "image": "shopify:\/\/shop_images\/LP11.png",
             "link": "",
             "width": "100%",
             "alignment": "center"
