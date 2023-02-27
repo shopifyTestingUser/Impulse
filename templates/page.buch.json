@@ -104,6 +104,29 @@
         "space_around": true
       }
     },
+    "f87c86db-aafc-4aba-8379-2693de2fb46e": {
+      "type": "advanced-content",
+      "blocks": {
+        "template--16889014386954__f87c86db-aafc-4aba-8379-2693de2fb46e-1675869364320e47bb-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<div style=\"margin: 25px;\">\nAuf der Suche nach einem neuen Job und ihrem persönlichen Glück kehrt die Friseurin Julia mit ihrer\nbeeindruckenden Ansammlung an Auszeichnungen und Selbstzweifeln ihrer Heimatstadt den Rücken und macht sich\nauf nach München. \n<p>\n<p>Sie wird mit Kusshand eingestellt und behält recht in der Annahme, dass diese Anstellung ihr\nLeben bedeutend verändern wird. Denn hier lernt sie Mona kennen und ihr gemeinsames Abenteuer\n„Langhaarmädchen” beginnt.\n<p>\nAuch wenn Julia erst Jahre später verstehen wird, wie sie die vielen Jobwechsel, der lebensverändernde Road-Trip\nnach Australien, ihre unzähligen, intimen Gespräche und all die mutigen Entscheidungen letztendlich bis vor die\nTore des dm-Konzernriesens zum Deal ihres Lebens gebracht haben, ist die Magie zwischen den beiden vom ersten\nTag an spürbar.\n\n<\/div>",
+            "width": "100%",
+            "alignment": "bottom-middle"
+          }
+        }
+      },
+      "block_order": [
+        "template--16889014386954__f87c86db-aafc-4aba-8379-2693de2fb46e-1675869364320e47bb-1"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
     "d1f96e8a-7d74-4bfe-9b6b-789286633c48": {
       "type": "slideshow",
       "blocks": {
@@ -182,6 +205,7 @@
     },
     "254a2662-6aa4-4496-8deb-9041ed78d01a": {
       "type": "advanced-content",
+      "disabled": true,
       "blocks": {
         "template--16889014386954__254a2662-6aa4-4496-8deb-9041ed78d01a-1677494991b0bd85fa-1": {
           "type": "liquid",
@@ -194,47 +218,6 @@
       },
       "block_order": [
         "template--16889014386954__254a2662-6aa4-4496-8deb-9041ed78d01a-1677494991b0bd85fa-1"
-      ],
-      "settings": {
-        "full_width": true,
-        "space_around": true
-      }
-    },
-    "f87c86db-aafc-4aba-8379-2693de2fb46e": {
-      "type": "advanced-content",
-      "blocks": {
-        "d43eaaf9-6411-4ec8-9764-6a6105686701": {
-          "type": "liquid",
-          "settings": {
-            "code": "<div style=\"text-align: center;\">\n  <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0285\/6969\/8348\/files\/buch_sand_720x.jpg?v=1677495367\" alt=\"Beschreibung des Bildes\" width=\"500\" height=\"auto\">\n<\/div>",
-            "width": "100%",
-            "alignment": "center"
-          }
-        },
-        "template--16889014386954__f87c86db-aafc-4aba-8379-2693de2fb46e-1675869364320e47bb-1": {
-          "type": "liquid",
-          "settings": {
-            "code": "<div style=\"margin: 25px;\">\nAuf der Suche nach einem neuen Job und ihrem persönlichen Glück kehrt die Friseurin Julia mit ihrer\nbeeindruckenden Ansammlung an Auszeichnungen und Selbstzweifeln ihrer Heimatstadt den Rücken und macht sich\nauf nach München. \n<p>\n<p>Sie wird mit Kusshand eingestellt und behält recht in der Annahme, dass diese Anstellung ihr\nLeben bedeutend verändern wird. Denn hier lernt sie Mona kennen und ihr gemeinsames Abenteuer\n„Langhaarmädchen” beginnt.\n<p>\nAuch wenn Julia erst Jahre später verstehen wird, wie sie die vielen Jobwechsel, der lebensverändernde Road-Trip\nnach Australien, ihre unzähligen, intimen Gespräche und all die mutigen Entscheidungen letztendlich bis vor die\nTore des dm-Konzernriesens zum Deal ihres Lebens gebracht haben, ist die Magie zwischen den beiden vom ersten\nTag an spürbar.\n\n<\/div>",
-            "width": "100%",
-            "alignment": "center"
-          }
-        },
-        "0da717d1-48fa-4f10-a4a4-3f87dbcc12fc": {
-          "type": "image",
-          "settings": {
-            "link": "",
-            "width": "100%",
-            "alignment": "center"
-          }
-        }
-      },
-      "block_order": [
-        "d43eaaf9-6411-4ec8-9764-6a6105686701",
-        "template--16889014386954__f87c86db-aafc-4aba-8379-2693de2fb46e-1675869364320e47bb-1",
-        "0da717d1-48fa-4f10-a4a4-3f87dbcc12fc"
-      ],
-      "custom_css": [
-
       ],
       "settings": {
         "full_width": true,
@@ -591,10 +574,10 @@
     "dd494447-c81a-4acb-bafc-55e9c0522369",
     "7549d0fd-b7f0-4d20-be93-d167dce94c2b",
     "31f24e12-43da-4693-ba88-e0c4b64d2e5b",
+    "f87c86db-aafc-4aba-8379-2693de2fb46e",
     "d1f96e8a-7d74-4bfe-9b6b-789286633c48",
     "f15a2da6-b0fb-4fd9-99f1-6153aa4f0167",
     "254a2662-6aa4-4496-8deb-9041ed78d01a",
-    "f87c86db-aafc-4aba-8379-2693de2fb46e",
     "837b297b-2dbb-4ed3-875d-2c0b7ad9d594",
     "9b710fbc-dae9-4f10-97ce-d0d0e09ad2e2",
     "1fa849f0-945c-4bd6-a748-cd686ec6255e",
