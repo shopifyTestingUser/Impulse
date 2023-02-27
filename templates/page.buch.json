@@ -654,7 +654,7 @@
         "align_text": "left",
         "layout": "left",
         "divider": false,
-        "margin_top": true,
+        "margin_top": false,
         "margin_bottom": false
       }
     }
