@@ -681,12 +681,14 @@
     "71dc44a3-4e5b-4e91-abca-97f38adcb2de": {
       "type": "text-and-image",
       "settings": {
+        "image": "shopify:\/\/shop_images\/Julia_buch.png",
         "image_position": "left-bottom",
         "image_bg_color": "#f8e6d4",
+        "image_bg": "shopify:\/\/shop_images\/decor_home_2_1.png",
         "subtitle": "",
-        "title": "Image with text",
+        "title": "Ich bin Julia",
         "another_text": false,
-        "text": "<p>Pair large text with an image to tell a story, explain a detail about your product, or describe a new promotion.<\/p>",
+        "text": "<p>Ich bin Julia, Friseurmeisterin, Mitgründerin und Managerin von Langhaarmädchen. Die Reise unserer Haarpflegemarke mit Herz begann 2016, als meine Mitgründerin Mona und ich gemeinsam auf dem Roadtrip unseres Lebens in Australien unterwegs waren. Viele Visionboards, intensive Gespräche und Traumschlösser später gründeten wir zurück in Deutschland die Langhaarmädchen GbR. 2017 machten wir den wohl größten Deal unseres Lebens: Langhaarmädchen als Exklusivmarke der erfolgreichsten Drogeriemarktkette Deutschlands.<\/p><p>Ich bin der Mensch, der die Visionen meiner Mitgründern Mona<strong> <\/strong>sieht, versteht und gemeinsam mit unserem Team umsetzt.<strong> <\/strong>Ich liebe es, die Welt als ein Geschenk zu betrachten, in der wir die Möglichkeit haben, die beste Version von uns selbst zu entfalten,<strong> <\/strong>um damit andere zu bereichern. Ich möchte mit Langhaarmädchen und \"MUTIG ist das neue SCHÖN\" dazu ermutigen, auf das EIGENE Herz zu hören!  <\/p><p><em><strong>Als Hauptautorin dieses Buches gibt Julia der Langhaarmädchen-Geschichte eine weitere Ebene in die Tiefe und macht so vielen Menschen Mut, ihren eigenen Traum zu verfolgen.<\/strong><\/em><\/p>",
         "button_label": "",
         "button_link": "",
         "button_style": "primary",
