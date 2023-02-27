@@ -225,7 +225,7 @@
           "type": "logo_image",
           "settings": {
             "image": "shopify:\/\/shop_images\/amazon2.jpg",
-            "link": "https:\/\/www.amazon.de\/Langhaarm%C3%A4dchen-Friseurinnen-Unternehmerinnen-internationalen-Haarpflegemarke\/dp\/3949822054\/ref=asc_df_3949822054\/?tag=googshopde-21&linkCode=df0&hvadid=633873492687&hvpos=&hvnetw=g&hvrand=3180345286891336743&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9042463&hvtargid=pla-1915686192928&psc=1&th=1&psc=1"
+            "link": "https:\/\/amzn.to\/40LzTAt"
           }
         },
         "template--16889014386954__1fa849f0-945c-4bd6-a748-cd686ec6255e-16774974762edacdb8-3": {
@@ -391,6 +391,37 @@
         "title": "",
         "video_url": "https:\/\/youtu.be\/VhkYBtAmH8U",
         "divider": false
+      }
+    },
+    "6e3eb975-fc0e-468f-a2d9-26823f836119": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16889014386954__6e3eb975-fc0e-468f-a2d9-26823f836119-1677522723278be952-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Literaturempfehlungen von Julia & Mona",
+            "image_width": 50,
+            "image_position": 50
+          }
+        },
+        "template--16889014386954__6e3eb975-fc0e-468f-a2d9-26823f836119-1677522723278be952-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16889014386954__6e3eb975-fc0e-468f-a2d9-26823f836119-1677522723278be952-0",
+        "template--16889014386954__6e3eb975-fc0e-468f-a2d9-26823f836119-1677522723278be952-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
       }
     },
     "8e6b1332-0ffe-4b14-bbe6-c77939ceab51": {
@@ -586,6 +617,7 @@
     "efd9c562-5fc0-4eb3-8580-b73447c596d9",
     "93e6541a-1a9f-4642-aba4-ff070e50fca6",
     "1b77238e-eb8a-42a9-8e32-2fac13f15551",
+    "6e3eb975-fc0e-468f-a2d9-26823f836119",
     "8e6b1332-0ffe-4b14-bbe6-c77939ceab51",
     "232f9b2a-c58c-414c-9b9b-c31240281a69",
     "7bdc4571-fbff-47d2-abda-37831c8c3c03",
