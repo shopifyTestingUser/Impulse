@@ -61,46 +61,10 @@
         "autoplay_speed": 5
       }
     },
-    "655a5458-a219-4819-b31a-4e243c195a42": {
-      "type": "background-image-text",
-      "settings": {
-        "subtitle": "Die Autorin",
-        "title": "Julia Schindelmann",
-        "text": "<p>Als Friseurmeisterin und Mitgründerin von Langhaarmädchen habe ich zusammen mit Mona unsere Haarpflegemarke während eines Roadtrips in Australien 2016 ins Leben gerufen. Ein Jahr später gelang es uns, Langhaarmädchen exklusiv bei einer führenden Drogeriemarktkette in Deutschland zu platzieren.<\/p>",
-        "button_label": "",
-        "button_link": "",
-        "image": "shopify:\/\/shop_images\/julia_big.jpg",
-        "focal_point": "center",
-        "layout": "left",
-        "height": 650,
-        "framed": true,
-        "parallax": true,
-        "margin_top": false,
-        "margin_bottom": false
-      }
-    },
-    "63c0a9f2-a658-448e-8132-66739721dc0b": {
-      "type": "background-image-text",
-      "settings": {
-        "subtitle": "Die Autorin",
-        "title": "Ramona Mayr",
-        "text": "<p>Ich bin Mona, Friseurmeisterin, Mitgründerin und Visionärin von Langhaarmädchen. Unter anderem durch meine vielseitigen Erfahrungen in der High Fashion Branche, aber auch durch meine Essstörung, entstand auf meinem Australien-Roadtrip zu mir selbst, die Vision einer eigenen Haarpflegemarke mit Tiefgang.<\/p>",
-        "button_label": "",
-        "button_link": "",
-        "image": "shopify:\/\/shop_images\/mona_gross.jpg",
-        "focal_point": "center",
-        "layout": "left",
-        "height": 650,
-        "framed": true,
-        "parallax": true,
-        "margin_top": false,
-        "margin_bottom": false
-      }
-    },
     "7549d0fd-b7f0-4d20-be93-d167dce94c2b": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/Clipboard02.jpg",
+        "image": "shopify:\/\/shop_images\/mona_julia.jpg",
         "image2": "shopify:\/\/shop_images\/Clipboard01_ef4aac23-059a-4b92-ac66-f9b3702a625e.jpg",
         "image_position": "left-bottom",
         "image_bg_color": "#f8e6d4",
@@ -108,8 +72,8 @@
         "subtitle": "Die Geschichte der Langhaarmädchen",
         "title": "Mutig ist das neue Schön",
         "another_text": false,
-        "text": "<p>Herzlich Willkommen in unserer Langhaarmädchen-Welt! <\/p><p>Hier findest du Auszüge aus \"Mutig ist das neue Schön\" und damit verbundene Herzensempfehlungen und persönliche Botschaften!<\/p><p><strong>Viel Freude, Genuss, Wachstum & Gänsehaut-Momente wünschen wir dir!<\/strong><\/p><p><em>Deine Langhaarmädchen Mona & Julia<\/em><\/p>",
-        "button_label": "JETZT VORBESTELLEN",
+        "text": "<p>HALLO DU HERZENSMENSCH!<br\/>Willkommen in unserer Langhaarmädchen-Buchwelt & schön dass du da bist!<br\/><br\/>Hier warten ganz viele spannende Einblicke in \"Mutig ist das neue Schön und damit verbundene Herzensempfehlungen und persönliche Botschaften auf dich!<br\/><br\/>Viel Freude, Genuss, Wachstum &<br\/>Gänsehaut-Momente wünschen wir dir! <\/p><p>Deine Langhaarmädchen Mona & Julia<\/p>",
+        "button_label": "JETZT BESTELLEN",
         "button_link": "https:\/\/www.thalia.de\/shop\/home\/artikeldetails\/A1063517954",
         "button_style": "primary",
         "align_text": "left",
@@ -120,23 +84,53 @@
         "margin_bottom": false
       }
     },
+    "254a2662-6aa4-4496-8deb-9041ed78d01a": {
+      "type": "advanced-content",
+      "blocks": {
+        "template--16889014386954__254a2662-6aa4-4496-8deb-9041ed78d01a-1677494991b0bd85fa-0": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "template--16889014386954__254a2662-6aa4-4496-8deb-9041ed78d01a-1677494991b0bd85fa-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<div style=\"background-color: black; text-align: center; color: white; padding: 20px;\">\n  <p>„Wir dürfen alle viel weniger vergleichen und mehr vertrauen, dass jeder von uns\n    seinen ganz eigenen wertvollen Weg geht, der genau so, mit all seinen Learnings und\n    Abzweigungen, passieren darf.<\/p>\n  <p>Für uns liegt genau darin der größte Mut verborgen. Seinen Weg nicht nur für\n    andere schön zu pinseln, sondern die eigene Schönheit durch den Mut zu leben, sich\n    selbst treu zu bleiben.<\/p>\n  <p>Julia - Mutig ist das neue Schön<\/p>\n<\/div>",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--16889014386954__254a2662-6aa4-4496-8deb-9041ed78d01a-1677494991b0bd85fa-0",
+        "template--16889014386954__254a2662-6aa4-4496-8deb-9041ed78d01a-1677494991b0bd85fa-1"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
     "f87c86db-aafc-4aba-8379-2693de2fb46e": {
       "type": "advanced-content",
       "blocks": {
         "template--16889014386954__f87c86db-aafc-4aba-8379-2693de2fb46e-1675869364320e47bb-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Clipboard01_ef4aac23-059a-4b92-ac66-f9b3702a625e.jpg",
+            "image": "shopify:\/\/shop_images\/buch_sand.jpg",
             "link": "",
-            "width": "50%",
-            "alignment": "center"
+            "width": "33%",
+            "alignment": "top-middle"
           }
         },
         "template--16889014386954__f87c86db-aafc-4aba-8379-2693de2fb46e-1675869364320e47bb-1": {
           "type": "liquid",
           "settings": {
-            "code": "<h2>Um was geht es in unserem Buch?\n<\/h2><p>Mit Mut beginnen die schönsten Geschichten. Eine davon haben Mona Mayr und Julia Schindelmann, Friseurmeisterinnen und Gründerinnen der Haarpflegemarke „Langhaarmädchen“, zu erzählen. Mit nichts in der Tasche - außer einer bewegenden Vision und der Euphorie für ihr Handwerk - stehen sie damals vor der dm Drogeriemarkt-Zentrale Karlsruhe und überzeugen den Konzernriesen zum Deal ihres Lebens.<p>\nWie die zwei jungen Mädchen geprägt durch ihre Weltanschauung mit viel Einfühlungsvermögen  und trotz vieler Selbstzweifel die Erfolgsgeschichte ihres Lebens schreiben, lassen sie uns direkt neben ihnen auf der Sitzbank ihres Vans durch Australien und vorbei an vielen weiteren Meilensteinen hautnah miterleben. Ein zauberhaft authentisches Buch über die Höhen und Tiefen auf der Reise zu sich selbst, gespickt mit Inspirationen, Mutmachern und spirituellen Wegweisern, um in die eigene Stärke zu kommen und seiner Begeisterung zu folgen.<p> \n„Mutig ist das neue Schön“ bewegt mit intimen Gedanken, kraftvollen Umsetzungen und ganz viel Weiblichkeit und motiviert zur eigenen Definition von Erfolg.\n<\/p>",
-            "width": "50%",
+            "code": "Auf der Suche nach einem neuen Job und ihrem persönlichen Glück kehrt die Friseurin Julia mit ihrer\nbeeindruckenden Ansammlung an Auszeichnungen und Selbstzweifeln ihrer Heimatstadt den Rücken und macht sich\nauf nach München. \n<p>\n<p>Sie wird mit Kusshand eingestellt und behält recht in der Annahme, dass diese Anstellung ihr\nLeben bedeutend verändern wird. Denn hier lernt sie Mona kennen und ihr gemeinsames Abenteuer\n„Langhaarmädchen” beginnt.\n<p>\nAuch wenn Julia erst Jahre später verstehen wird, wie sie die vielen Jobwechsel, der lebensverändernde Road-Trip\nnach Australien, ihre unzähligen, intimen Gespräche und all die mutigen Entscheidungen letztendlich bis vor die\nTore des dm-Konzernriesens zum Deal ihres Lebens gebracht haben, ist die Magie zwischen den beiden vom ersten\nTag an spürbar.",
+            "width": "100%",
             "alignment": "center"
           }
         }
@@ -146,7 +140,7 @@
         "template--16889014386954__f87c86db-aafc-4aba-8379-2693de2fb46e-1675869364320e47bb-1"
       ],
       "settings": {
-        "full_width": false,
+        "full_width": true,
         "space_around": true
       }
     },
@@ -312,9 +306,8 @@
   "order": [
     "main",
     "dd494447-c81a-4acb-bafc-55e9c0522369",
-    "655a5458-a219-4819-b31a-4e243c195a42",
-    "63c0a9f2-a658-448e-8132-66739721dc0b",
     "7549d0fd-b7f0-4d20-be93-d167dce94c2b",
+    "254a2662-6aa4-4496-8deb-9041ed78d01a",
     "f87c86db-aafc-4aba-8379-2693de2fb46e",
     "8e6b1332-0ffe-4b14-bbe6-c77939ceab51",
     "232f9b2a-c58c-414c-9b9b-c31240281a69",
