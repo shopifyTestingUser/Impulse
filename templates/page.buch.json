@@ -514,6 +514,37 @@
         "space_around": true
       }
     },
+    "cb87576f-77c2-4e80-8d34-048b48e1a71c": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16889014386954__cb87576f-77c2-4e80-8d34-048b48e1a71c-1677522723278be952-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Langhaarmädchen = Liebe",
+            "image_width": 50,
+            "image_position": 50
+          }
+        },
+        "template--16889014386954__cb87576f-77c2-4e80-8d34-048b48e1a71c-1677522723278be952-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Unsere Marke wird erst durch unser wunderbares Team zur echten Love Brand. Jeden Tag lernen wir voneinander fürs Leben und inspirieren uns dabei immer wieder neu. <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16889014386954__cb87576f-77c2-4e80-8d34-048b48e1a71c-1677522723278be952-0",
+        "template--16889014386954__cb87576f-77c2-4e80-8d34-048b48e1a71c-1677522723278be952-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
+      }
+    },
     "33a516f1-3d6f-40d7-8ca4-293e54df3687": {
       "type": "advanced-content",
       "blocks": {
@@ -621,6 +652,7 @@
     "8e6b1332-0ffe-4b14-bbe6-c77939ceab51",
     "232f9b2a-c58c-414c-9b9b-c31240281a69",
     "7bdc4571-fbff-47d2-abda-37831c8c3c03",
+    "cb87576f-77c2-4e80-8d34-048b48e1a71c",
     "33a516f1-3d6f-40d7-8ca4-293e54df3687",
     "c5440950-c169-4931-b58e-03d645b5a36b",
     "5cd3bb2e-c0bc-4f06-bdd8-277d720ad3e1",
