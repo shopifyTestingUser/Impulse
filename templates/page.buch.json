@@ -486,38 +486,6 @@
         "margin_bottom": false
       }
     },
-    "68aaf220-694e-4c25-b862-71f66a3c5368": {
-      "type": "rich-text",
-      "blocks": {
-        "template--16889014386954__68aaf220-694e-4c25-b862-71f66a3c5368-16775343385bd999f4-0": {
-          "type": "heading",
-          "settings": {
-            "title": "Sprachnachricht von Roby",
-            "image": "shopify:\/\/shop_images\/decor_about_us_6.png",
-            "image_width": 50,
-            "image_position": 50
-          }
-        },
-        "template--16889014386954__68aaf220-694e-4c25-b862-71f66a3c5368-16775343385bd999f4-1": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p><strong>Auszug aus \"Mutig ist das neue Schön\"<\/strong><\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--16889014386954__68aaf220-694e-4c25-b862-71f66a3c5368-16775343385bd999f4-0",
-        "template--16889014386954__68aaf220-694e-4c25-b862-71f66a3c5368-16775343385bd999f4-1"
-      ],
-      "settings": {
-        "align_text": "right",
-        "narrow_column": true,
-        "divider": false,
-        "margin_top": false,
-        "margin_bottom": false
-      }
-    },
     "7bdc4571-fbff-47d2-abda-37831c8c3c03": {
       "type": "advanced-content",
       "blocks": {
@@ -709,7 +677,6 @@
     "6e3eb975-fc0e-468f-a2d9-26823f836119",
     "8e6b1332-0ffe-4b14-bbe6-c77939ceab51",
     "cb87576f-77c2-4e80-8d34-048b48e1a71c",
-    "68aaf220-694e-4c25-b862-71f66a3c5368",
     "7bdc4571-fbff-47d2-abda-37831c8c3c03",
     "232f9b2a-c58c-414c-9b9b-c31240281a69",
     "4ee8b71b-243b-4ef8-9364-5d9e07383ab9",
