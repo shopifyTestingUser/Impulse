@@ -305,7 +305,7 @@
         "template--16889014386954__bed3a8b0-053f-442f-8040-c28c4532e305-1677494991b0bd85fa-0"
       ],
       "settings": {
-        "full_width": false,
+        "full_width": true,
         "space_around": true
       }
     },
