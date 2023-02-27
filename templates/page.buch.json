@@ -578,36 +578,6 @@
         "space_around": true
       }
     },
-    "33a516f1-3d6f-40d7-8ca4-293e54df3687": {
-      "type": "advanced-content",
-      "blocks": {
-        "ab54527b-8db7-4f0e-a2d0-803fae7e23e8": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "link": "",
-            "width": "50%",
-            "alignment": "center"
-          }
-        },
-        "ac2241a3-aab5-49be-9fbf-96cc1fa92ac8": {
-          "type": "liquid",
-          "settings": {
-            "code": "<center><h2 id=\"videobotschaf\">Videobotschaft<\/h2><\/center>\nAuszug aus unserem Buch <b>„Mutig ist das neue Schön“<\/b>:<P>\nSich in beliebig vielen Worten auszudrücken. Gedanken schriftlich festzuhalten. Eine Beziehung zu führen. Reisen zu gehen. Die eigenen Gefühle zu beherrschen. Zukunftspläne zu schmieden. All das ist für meinen langjährigen Kumpel und Kurzhaarbuben Elias keine Selbstverständlichkeit. Im zweiten Lebensjahr von Elias wurde die Behinderung „Infantile Cerebralparese“ (ICP) festgestellt. \nKein Schritt ist für Eli eine unkomplizierte Sache. Ähnlich wie es für uns alle immer ein bewegender Schritt sein wird, mutige Entschei- dungen zu treffen. Doch dranzubleiben, die eigene Beharrlichkeit nie zu verlieren und sich immer wieder vor Augen zu führen, was man in seinem Leben längst erschaffen hat, ist das, was uns alle immer wieder vorankommen lässt.  \nZeit, dankbar zu sein:",
-            "width": "100%",
-            "alignment": "center"
-          }
-        }
-      },
-      "block_order": [
-        "ab54527b-8db7-4f0e-a2d0-803fae7e23e8",
-        "ac2241a3-aab5-49be-9fbf-96cc1fa92ac8"
-      ],
-      "settings": {
-        "full_width": false,
-        "space_around": true
-      }
-    },
     "4ee8b71b-243b-4ef8-9364-5d9e07383ab9": {
       "type": "rich-text",
       "blocks": {
@@ -686,14 +656,35 @@
         "image_bg_color": "#f8e6d4",
         "image_bg": "shopify:\/\/shop_images\/decor_home_2_1.png",
         "subtitle": "",
-        "title": "Ich bin Julia",
+        "title": "Ich bin Julia,",
         "another_text": false,
-        "text": "<p>Ich bin Julia, Friseurmeisterin, Mitgründerin und Managerin von Langhaarmädchen. Die Reise unserer Haarpflegemarke mit Herz begann 2016, als meine Mitgründerin Mona und ich gemeinsam auf dem Roadtrip unseres Lebens in Australien unterwegs waren. Viele Visionboards, intensive Gespräche und Traumschlösser später gründeten wir zurück in Deutschland die Langhaarmädchen GbR. 2017 machten wir den wohl größten Deal unseres Lebens: Langhaarmädchen als Exklusivmarke der erfolgreichsten Drogeriemarktkette Deutschlands.<\/p><p>Ich bin der Mensch, der die Visionen meiner Mitgründern Mona<strong> <\/strong>sieht, versteht und gemeinsam mit unserem Team umsetzt.<strong> <\/strong>Ich liebe es, die Welt als ein Geschenk zu betrachten, in der wir die Möglichkeit haben, die beste Version von uns selbst zu entfalten,<strong> <\/strong>um damit andere zu bereichern. Ich möchte mit Langhaarmädchen und \"MUTIG ist das neue SCHÖN\" dazu ermutigen, auf das EIGENE Herz zu hören!  <\/p><p><em><strong>Als Hauptautorin dieses Buches gibt Julia der Langhaarmädchen-Geschichte eine weitere Ebene in die Tiefe und macht so vielen Menschen Mut, ihren eigenen Traum zu verfolgen.<\/strong><\/em><\/p>",
+        "text": "<p>Friseurmeisterin, Mitgründerin und Managerin von Langhaarmädchen. Die Reise unserer Haarpflegemarke mit Herz begann 2016, als meine Mitgründerin Mona und ich gemeinsam auf dem Roadtrip unseres Lebens in Australien unterwegs waren. Viele Visionboards, intensive Gespräche und Traumschlösser später gründeten wir zurück in Deutschland die Langhaarmädchen GbR. 2017 machten wir den wohl größten Deal unseres Lebens: Langhaarmädchen als Exklusivmarke der erfolgreichsten Drogeriemarktkette Deutschlands.<\/p><p>Ich bin der Mensch, der die Visionen von Mona<strong> <\/strong>sieht, versteht und gemeinsam mit unserem Team umsetzt.<strong> <\/strong>Ich liebe es, die Welt als ein Geschenk zu betrachten, in der wir die Möglichkeit haben, die beste Version von uns selbst zu entfalten,<strong> <\/strong>um damit andere zu bereichern. Ich möchte mit Langhaarmädchen und \"MUTIG ist das neue SCHÖN\" dazu ermutigen, auf das EIGENE Herz zu hören!  <\/p><p><em><strong>Als Hauptautorin dieses Buches gibt Julia der Langhaarmädchen-Geschichte eine weitere Ebene in die Tiefe und macht so vielen Menschen Mut, ihren eigenen Traum zu verfolgen.<\/strong><\/em><\/p>",
         "button_label": "",
         "button_link": "",
         "button_style": "primary",
         "align_text": "left",
         "layout": "right",
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
+      }
+    },
+    "6ba509a4-800a-45ae-96f7-a392b5dbdfe6": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Mona_Buch.png",
+        "image_position": "left-bottom",
+        "image_bg_color": "#F8E6D4",
+        "subtitle": "",
+        "title": "Ich bin Mona,",
+        "another_text": false,
+        "text": "<p>Friseurmeisterin, Mitgründerin und Visionärin von Langhaarmädchen. Unter anderem durch meine vielseitigen Erfahrungen in der High Fashion Branche, aber auch durch meine Essstörung, entstand auf meinem Australien-Roadtrip zu mir selbst, die Vision einer eigenen Haarpflegemarke mit Tiefgang. <\/p><p>Ich gehöre zu den wenigen Menschen, die eine unfassbare Vorstellungskraft besitzen und die Möglichkeiten der Zukunft in großen Bildern sehen. Julia ist die perfekte Ergänzung zu dieser Gabe, da sie meine Visionen sieht, versteht und umsetzt. So war auch direkt klar, dass sie diejenige ist, die unser Buch schreiben wird. <\/p><p>Ich bin emotional. Ich bin energiegeladen. Ich bin für sehr Vieles zu begeistern und mein Ziel ist es mit dem, was wir erschaffen, die Welt und die Menschen positiv zu bewegen.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "left",
+        "text_image_bg": "shopify:\/\/shop_images\/decor_home_4_9a98bc61-4b16-410d-ab0f-e029fa5e4e43.png",
         "divider": false,
         "margin_top": false,
         "margin_bottom": false
@@ -721,10 +712,10 @@
     "68aaf220-694e-4c25-b862-71f66a3c5368",
     "7bdc4571-fbff-47d2-abda-37831c8c3c03",
     "232f9b2a-c58c-414c-9b9b-c31240281a69",
-    "33a516f1-3d6f-40d7-8ca4-293e54df3687",
     "4ee8b71b-243b-4ef8-9364-5d9e07383ab9",
     "c5440950-c169-4931-b58e-03d645b5a36b",
     "5cd3bb2e-c0bc-4f06-bdd8-277d720ad3e1",
-    "71dc44a3-4e5b-4e91-abca-97f38adcb2de"
+    "71dc44a3-4e5b-4e91-abca-97f38adcb2de",
+    "6ba509a4-800a-45ae-96f7-a392b5dbdfe6"
   ]
 }
