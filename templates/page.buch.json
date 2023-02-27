@@ -35,14 +35,14 @@
             "title_size": 40,
             "subheading": "",
             "link": "https:\/\/amzn.to\/40LzTAt",
-            "link_text": "JETZT BESTELLEN",
+            "link_text": "",
             "link_2": "",
             "link_text_2": "",
-            "color_accent": "#f8e6d4",
-            "text_align": "vertical-bottom horizontal-center",
+            "color_accent": "#ffffff",
+            "text_align": "vertical-center horizontal-right",
             "image": "shopify:\/\/shop_images\/970x600strand_Header_Neu_Amazon_MutigIstdasneuSchoen.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/970x600strand_Header_Neu_Amazon_MutigIstdasneuSchoen.jpg",
-            "overlay_opacity": 10,
+            "image_mobile": "shopify:\/\/shop_images\/LHM-LP_Header_mobil.jpg",
+            "overlay_opacity": 6,
             "focal_point": "20% 100%"
           }
         }
