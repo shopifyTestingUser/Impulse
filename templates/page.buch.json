@@ -592,14 +592,15 @@
       "settings": {
         "subtitle": "",
         "title": "Erfahre auf der Reise mit Julia & Mona",
-        "text": "<ul><li>wie man trotz Unsicherheit und Selbstzweifeln den eigenen Traum verwirklichen kann.<\/li><li>wie man es schafft das Unmögliche zu manifestieren.<\/li><li>wie man gleichzeitig Freundin und Business-Partnerin sein kann.<\/li><li>wie persönliche Weiterentwicklung das Fundament des Langhaarmädchenerfolgs bildet.<\/li><li>wie man mit genug Glauben an sich selbst, wirklich alles schaffen kann.<\/li><\/ul>",
+        "text": "<ul><li>wie man trotz Unsicherheit und Selbstzweifeln den eigenen Traum verwirklichen kann.<\/li><li>wie man es schafft das Unmögliche zu manifestieren.<\/li><li>wie man gleichzeitig Freundin und Business-Partnerin sein kann.<\/li><li>wie persönliche Weiterentwicklung das Fundament von Erfolg bildet.<\/li><li>wie man mit genug Glauben an sich selbst wirklich alles schaffen kann.<\/li><\/ul>",
         "button_label": "Jetzt bestellen",
         "button_link": "https:\/\/amzn.to\/40LzTAt",
+        "image": "shopify:\/\/shop_images\/mona_julia-min.jpg",
         "focal_point": "center",
         "layout": "left",
-        "height": 550,
+        "height": 750,
         "framed": false,
-        "parallax": true,
+        "parallax": false,
         "margin_top": false,
         "margin_bottom": false
       }
