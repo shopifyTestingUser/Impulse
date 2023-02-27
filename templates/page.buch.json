@@ -31,7 +31,7 @@
           "type": "image",
           "settings": {
             "top_subheading": "Das Langhaarmädchen Buch",
-            "title": "Mutig ist das neue schön",
+            "title": "",
             "title_size": 40,
             "subheading": "",
             "link": "https:\/\/amzn.to\/40LzTAt",
@@ -41,7 +41,7 @@
             "color_accent": "#f8e6d4",
             "text_align": "vertical-center horizontal-center",
             "image": "shopify:\/\/shop_images\/Beschere_Dir_und_Deinen_Liebsten_ein_besinnliches_und_spirituelles_Weihnachten._1640_x_1640_px_1640_x_824_px_-6-min.png",
-            "image_mobile": "shopify:\/\/shop_images\/49A2223.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/LHM_Buehne_Website.png",
             "overlay_opacity": 12,
             "focal_point": "20% 100%"
           }
@@ -52,12 +52,12 @@
         "template--16889014386954__dd494447-c81a-4acb-bafc-55e9c0522369-1676540255467e49ec-1"
       ],
       "settings": {
-        "section_height": "750px",
+        "section_height": "natural",
         "mobile_height": "auto",
-        "parallax": true,
+        "parallax": false,
         "style": "bars",
-        "arrows": true,
-        "autoplay": true,
+        "arrows": false,
+        "autoplay": false,
         "autoplay_speed": 5
       }
     },
