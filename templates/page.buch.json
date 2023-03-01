@@ -509,7 +509,7 @@
         "c6015b93-99db-4f38-9909-cab05a0bf9e5": {
           "type": "liquid",
           "settings": {
-            "code": "<h2 id=\"haarspende\">Sprachnachricht von Roby<\/h2>\n<b>Auszug aus \"Mutig ist das neue Schön\":<\/b>\n\n<p>Roberta Di Mitri fehlen als Italienerin manchmal die passenden deutschen Wörter, wie sie sagt, aber dafür nie ihr Gefühl. Schon vor unserer Zeit als Langhaarmädchen haben wir zusammen mit ihr als Friseurinnen und Freundinnen in München gearbeitet. Sie war eine der Ersten, die an uns und unsere Vision glaubte, weil sie uns fühlen konnte. Heute trägt Roby maßgeblich dazu bei, womit sich in fünfzehn Ländern unter der Dusche eingeschäumt wird. Sie testet und entwickelt mit uns unsere Langhaarmädchen-Produkte und verzaubert seit Dezember 2021 als Salonleitung und Friseurmeisterin in unserem Langhaarmädchen-Salon, besonders mit ihren ganzheitlichen, herzlichen Beratungen, unsere Gäste.<\/p>\n<p>Trotz ihrer Multiplen Sklerose (MS), einer chronisch-entzündlichen Autoimmunerkrankung des zentralen Nervensystems, steht sie noch dazu als liebende Familienmama einer kleinen Tochter ihre Frau bei uns. Ohne ihre eigene Wertschätzung für sich selbst, ohne ihr Temperament, ohne ihre Amore, hätten wir Roby nie da sehen können, wo sie heute ist. \n\n<p> <i>\nVielleicht hast du gesundheitlich selbst Baustellen? Und kannst gerade ein paar aufmunternde Worte gebrauchen? Eine starke Frau wie Roby wünscht sich jeder an seiner Seite. Deshalb teile ich nun von Herzen gerne mit dir eine berührende Sprachnachricht, die Roby mir und Mona im Sommer 2022 gesendet hat. \n<p>\n<iframe title=\"Roby Sprachnachricht\" allowtransparency=\"true\" height=\"150\" width=\"100%\" style=\"border: none; min-width: min(100%, 430px);\" scrolling=\"no\" data-name=\"pb-iframe-player\" src=\"https:\/\/www.podbean.com\/player-v2\/?i=6d2wb-1392b64-pb&from=pb6admin&share=1&download=1&rtl=0&fonts=Arial&skin=1&font-color=auto&logo_link=episode_page&btn-skin=7\"><\/iframe><\/div>",
+            "code": "<h2 id=\"sprachnachricht\">Sprachnachricht von Roby<\/h2>\n<b>Auszug aus \"Mutig ist das neue Schön\":<\/b>\n\n<p>Roberta Di Mitri fehlen als Italienerin manchmal die passenden deutschen Wörter, wie sie sagt, aber dafür nie ihr Gefühl. Schon vor unserer Zeit als Langhaarmädchen haben wir zusammen mit ihr als Friseurinnen und Freundinnen in München gearbeitet. Sie war eine der Ersten, die an uns und unsere Vision glaubte, weil sie uns fühlen konnte. Heute trägt Roby maßgeblich dazu bei, womit sich in fünfzehn Ländern unter der Dusche eingeschäumt wird. Sie testet und entwickelt mit uns unsere Langhaarmädchen-Produkte und verzaubert seit Dezember 2021 als Salonleitung und Friseurmeisterin in unserem Langhaarmädchen-Salon, besonders mit ihren ganzheitlichen, herzlichen Beratungen, unsere Gäste.<\/p>\n<p>Trotz ihrer Multiplen Sklerose (MS), einer chronisch-entzündlichen Autoimmunerkrankung des zentralen Nervensystems, steht sie noch dazu als liebende Familienmama einer kleinen Tochter ihre Frau bei uns. Ohne ihre eigene Wertschätzung für sich selbst, ohne ihr Temperament, ohne ihre Amore, hätten wir Roby nie da sehen können, wo sie heute ist. \n\n<p> <i>\nVielleicht hast du gesundheitlich selbst Baustellen? Und kannst gerade ein paar aufmunternde Worte gebrauchen? Eine starke Frau wie Roby wünscht sich jeder an seiner Seite. Deshalb teile ich nun von Herzen gerne mit dir eine berührende Sprachnachricht, die Roby mir und Mona im Sommer 2022 gesendet hat. \n<p>\n<iframe title=\"Roby Sprachnachricht\" allowtransparency=\"true\" height=\"150\" width=\"100%\" style=\"border: none; min-width: min(100%, 430px);\" scrolling=\"no\" data-name=\"pb-iframe-player\" src=\"https:\/\/www.podbean.com\/player-v2\/?i=6d2wb-1392b64-pb&from=pb6admin&share=1&download=1&rtl=0&fonts=Arial&skin=1&font-color=auto&logo_link=episode_page&btn-skin=7\"><\/iframe><\/div>",
             "width": "66%",
             "alignment": "center"
           }
@@ -548,6 +548,36 @@
       "block_order": [
         "506b8b8f-70ae-454c-82c3-1be64b5ec698",
         "8bae1326-9ace-483a-b3a2-86c78e6d5ec9"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
+    "1165abfe-7c59-427d-8e35-d2fd01eb26cd": {
+      "type": "advanced-content",
+      "blocks": {
+        "template--16889014386954__1165abfe-7c59-427d-8e35-d2fd01eb26cd-1677672743744a8918-0": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "template--16889014386954__1165abfe-7c59-427d-8e35-d2fd01eb26cd-1677672743744a8918-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<div id=\"videobotschaf\"><\/div>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--16889014386954__1165abfe-7c59-427d-8e35-d2fd01eb26cd-1677672743744a8918-0",
+        "template--16889014386954__1165abfe-7c59-427d-8e35-d2fd01eb26cd-1677672743744a8918-1"
       ],
       "settings": {
         "full_width": false,
@@ -686,6 +716,7 @@
     "cb87576f-77c2-4e80-8d34-048b48e1a71c",
     "7bdc4571-fbff-47d2-abda-37831c8c3c03",
     "232f9b2a-c58c-414c-9b9b-c31240281a69",
+    "1165abfe-7c59-427d-8e35-d2fd01eb26cd",
     "4ee8b71b-243b-4ef8-9364-5d9e07383ab9",
     "c5440950-c169-4931-b58e-03d645b5a36b",
     "5cd3bb2e-c0bc-4f06-bdd8-277d720ad3e1",
