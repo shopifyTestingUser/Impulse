@@ -170,9 +170,8 @@
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
             "image": "shopify:\/\/shop_images\/Zitat_970x600_Header_Neu_Amazon_MutigIstdasneuSchoen.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/1940x600_Header_Neu_Amazon_MutigIstdasneuSchoen42.jpg",
             "overlay_opacity": 0,
-            "focal_point": "center center"
+            "focal_point": "20% 50%"
           }
         }
       },
