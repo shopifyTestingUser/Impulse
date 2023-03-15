@@ -146,6 +146,27 @@
         "margin_bottom": false
       }
     },
+    "2fe94816-9daa-4943-9440-66b7a4df3464": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/LP1.png",
+        "image_position": "left-bottom",
+        "image_bg_color": "#F8E6D4",
+        "image_bg": "shopify:\/\/shop_images\/decor_home_4_9a98bc61-4b16-410d-ab0f-e029fa5e4e43.png",
+        "subtitle": "",
+        "title": "Mutig ist das neue Schön",
+        "another_text": false,
+        "text": "<p><\/p><p><strong>HALLO DU HERZENSMENSCH!<\/strong><\/p><p>Willkommen in unserer Langhaarmädchen-Buchwelt & schön dass du da bist!<br\/><br\/>Hier warten ganz viele spannende Einblicke in \"Mutig ist das neue Schön\" und damit verbundene Herzensempfehlungen und persönliche Botschaften auf dich!<br\/><br\/>Viel Freude, Genuss, Wachstum &<br\/>Gänsehaut-Momente wünschen wir dir! <\/p><p><strong>Deine Langhaarmädchen Mona & Julia<\/strong><\/p>",
+        "button_label": "BUCH JETZT BESTELLEN",
+        "button_link": "https:\/\/amzn.to\/40LzTAt",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
+      }
+    },
     "promo-grid": {
       "type": "promo-grid",
       "disabled": true,
@@ -510,6 +531,7 @@
     "1647507061504d8042",
     "16342858496dc05777",
     "rich-text",
+    "2fe94816-9daa-4943-9440-66b7a4df3464",
     "promo-grid",
     "1635324531ff360720",
     "16345470819de01f0b",
