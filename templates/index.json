@@ -151,7 +151,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/Clipboard02.jpg",
         "image_position": "left-bottom",
-        "image_bg_color": "#F8E6D4",
+        "image_bg_color": "#f8e6d4",
         "image_bg": "shopify:\/\/shop_images\/decor_home_4_9a98bc61-4b16-410d-ab0f-e029fa5e4e43.png",
         "subtitle": "",
         "title": "Mutig ist das neue Schön",
@@ -373,6 +373,27 @@
         "image_right_position": 4
       }
     },
+    "8830c760-bbb4-436a-80a1-b28531cb369e": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Mutpaket_Website.png",
+        "image_position": "left-top",
+        "image_bg_color": "#F8E6D4",
+        "image_bg": "shopify:\/\/shop_images\/decor_home_4_9a98bc61-4b16-410d-ab0f-e029fa5e4e43.png",
+        "subtitle": "",
+        "title": "MUTPAKET",
+        "another_text": false,
+        "text": "<p><strong>Mit den Langhaarmädchen Julia & Mona, Laura Malina Seiler & vielen mehr<\/strong><\/p><p>In unserem neuen Buch \"Mutig ist das neue Schön\" von den Langhaarmädchen Julia Schindelmann und Mona Mayr geht es  um Mut. Um den Mut, den eigenen Herzensweg zu gehen und trotz Unsicherheit und Selbstzweifeln die eigenen Visionen und Träume zu verfolgen und in die Wirklichkeit umzusetzen. <br\/><br\/>Um dir noch mehr Inspiration an die Hand zu geben, ganz genau DEINEN Weg zu gehen haben wir dir ein wunderbares MUT-PAKET zusammengestellt. <\/p>",
+        "button_label": "MUT PAKET ENTDECKEN",
+        "button_link": "https:\/\/mailchi.mp\/malia-verlag.com\/mutpaket",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "left",
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
+      }
+    },
     "16515771728a228a74": {
       "type": "blog-posts",
       "settings": {
@@ -539,6 +560,7 @@
     "1635337190cc65ddaf",
     "promo-grid2",
     "1635324918275a11f0",
+    "8830c760-bbb4-436a-80a1-b28531cb369e",
     "16515771728a228a74",
     "163456592274a2a708",
     "16352358192ec4b529",
