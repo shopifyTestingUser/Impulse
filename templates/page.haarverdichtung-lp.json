@@ -110,6 +110,14 @@
         "autoplay_speed": 5
       }
     },
+    "16479487964b071b51": {
+      "type": "featured-video",
+      "settings": {
+        "title": "Haarverdichtung mit Hairtalk",
+        "video_url": "https:\/\/youtu.be\/4Zre3VfMh-k",
+        "divider": false
+      }
+    },
     "main": {
       "type": "main-page",
       "disabled": true,
@@ -121,6 +129,7 @@
       "blocks": {
         "163490746248b9e19e-0": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "title": "Haarverdichtung mit Hairtalk",
             "image": "shopify:\/\/shop_images\/Vector.png",
@@ -132,7 +141,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Hallo du Liebe!<\/p><p>In unserem Salon kannst du deine Haarwünsche wahr werdenlassen. Volles, voluminöses Haar unterstreicht die individuelle Schönheit und bietet viele Möglichkeiten für ein perfektes Styling. Mit hairtalk Extensions ist langes, gesundes Haar kein unerreichbarer Traum mehr. Wir sind ein zertifizierter Partner von hairtalk Deutschland und durch das einzigartige Haftsystem fügt sich nahtlos in das Naturhaar ein, die Übergänge sind kaum wahrnehmbar. Es ist eine Art Haarzauber.<\/p><p><\/p><p><\/p><p><\/p><p><\/p><p><\/p>"
+            "text": "<p>Hallo du Liebe! In unserem Salon kannst du deine Haarwünsche wahr werdenlassen. Volles, voluminöses Haar unterstreicht die individuelle Schönheit und bietet viele Möglichkeiten für ein perfektes Styling. Mit hairtalk Extensions ist langes, gesundes Haar kein unerreichbarer Traum mehr. Wir sind ein zertifizierter Partner von hairtalk Deutschland und durch das einzigartige Haftsystem fügt sich nahtlos in das Naturhaar ein, die Übergänge sind kaum wahrnehmbar. Es ist eine Art Haarzauber.<\/p><p><\/p><p><\/p><p><\/p><p><\/p><p><\/p>"
           }
         },
         "27193771-10c1-4631-8c71-604006234c2b": {
@@ -194,14 +203,6 @@
       "settings": {
         "full_width": false,
         "space_around": true
-      }
-    },
-    "16479487964b071b51": {
-      "type": "featured-video",
-      "settings": {
-        "title": "",
-        "video_url": "https:\/\/youtu.be\/4Zre3VfMh-k",
-        "divider": false
       }
     },
     "1650550827aa9686d7": {
@@ -520,8 +521,8 @@
             "title": "Haarverdichtung",
             "price": "ab 490 €",
             "text": "<p><\/p><p><\/p>",
-            "button_label": "BERATUNG",
-            "button_link": "https:\/\/www.langhaarmaedchen.de\/pages\/haarverdichtung-landingpage#cal"
+            "button_label": "KOSTENLOSE BERATUNG",
+            "button_link": "https:\/\/wa.me\/message\/DU34F36MYD7LM1"
           }
         },
         "16349076903b384634-1": {
@@ -533,7 +534,7 @@
             "price": "280 €",
             "text": "<p><\/p><p><\/p>",
             "button_label": "JETZT BUCHEN",
-            "button_link": "https:\/\/www.langhaarmaedchen.de\/pages\/haarverdichtung-landingpage#cal"
+            "button_link": "https:\/\/www.langhaarmaedchen.de\/pages\/salon"
           }
         },
         "16349076903b384634-2": {
@@ -545,7 +546,7 @@
             "price": "450 €",
             "text": "<p><\/p><p><\/p>",
             "button_label": "JETZT BUCHEN",
-            "button_link": "https:\/\/www.langhaarmaedchen.de\/pages\/haarverdichtung-landingpage#cal"
+            "button_link": "https:\/\/www.langhaarmaedchen.de\/pages\/salon"
           }
         }
       },
@@ -738,10 +739,10 @@
   "order": [
     "16475075815ec4bf82",
     "16349073092065b984",
+    "16479487964b071b51",
     "main",
     "163490746248b9e19e",
     "1664530913fc84995b",
-    "16479487964b071b51",
     "1650550827aa9686d7",
     "1650549005713f9a6c",
     "164794884227c625c7",
