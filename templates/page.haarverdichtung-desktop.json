@@ -110,64 +110,6 @@
         "autoplay_speed": 5
       }
     },
-    "163490746248b9e19e": {
-      "type": "rich-text",
-      "blocks": {
-        "163490746248b9e19e-0": {
-          "type": "heading",
-          "settings": {
-            "title": "Haarverdichtung mit Hairtalk",
-            "image": "shopify:\/\/shop_images\/Vector.png",
-            "image_width": 0,
-            "image_position": 42
-          }
-        },
-        "163490746248b9e19e-1": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>Hallo du Liebe! In unserem Salon kannst du deine Haarwünsche wahr werdenlassen. Volles, voluminöses Haar unterstreicht die individuelle Schönheit und bietet viele Möglichkeiten für ein perfektes Styling. Mit hairtalk Extensions ist langes, gesundes Haar kein unerreichbarer Traum mehr. Wir sind ein zertifizierter Partner von hairtalk Deutschland und durch das einzigartige Haftsystem fügt sich nahtlos in das Naturhaar ein, die Übergänge sind kaum wahrnehmbar. Es ist eine Art Haarzauber.<\/p><p><\/p><p><\/p><p><\/p><p><\/p><p><\/p>"
-          }
-        },
-        "27193771-10c1-4631-8c71-604006234c2b": {
-          "type": "button",
-          "settings": {
-            "target_blank": false,
-            "link": "https:\/\/wa.me\/message\/DU34F36MYD7LM1",
-            "link_text": "jetzt beratung buchen"
-          }
-        },
-        "12dccdf1-2617-42d2-86b5-244daa861c8a": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>Wir freuen uns auf deinen Anruf: <a href=\"tel:089-21528933\" title=\"tel:089-21528933\"><strong>089-21528933 <\/strong><\/a><\/p><p>Adresse:<\/p><p><a href=\"https:\/\/www.google.de\/maps\/place\/Kaiserstra%C3%9Fe+45,+M%C3%BCnchen\/@48.0504751,11.7103485,15z\/data=!4m5!3m4!1s0x479e75c697a0a553:0xa35b4aec031d8371!8m2!3d48.1610349!4d11.578951\" target=\"_blank\" title=\"Adresse Langhaarmädchen Salon\">Kaiserstrasse 45<br\/>80801 München<\/a><\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "163490746248b9e19e-0",
-        "163490746248b9e19e-1",
-        "27193771-10c1-4631-8c71-604006234c2b",
-        "12dccdf1-2617-42d2-86b5-244daa861c8a"
-      ],
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false,
-        "margin_top": false,
-        "margin_bottom": false
-      }
-    },
-    "16479487964b071b51": {
-      "type": "featured-video",
-      "settings": {
-        "title": "",
-        "video_url": "https:\/\/youtu.be\/4Zre3VfMh-k",
-        "divider": false
-      }
-    },
     "1650550827aa9686d7": {
       "type": "rich-text",
       "blocks": {
@@ -260,6 +202,64 @@
         "divider": false
       }
     },
+    "163490746248b9e19e": {
+      "type": "rich-text",
+      "blocks": {
+        "163490746248b9e19e-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Haarverdichtung mit Hairtalk",
+            "image": "shopify:\/\/shop_images\/Vector.png",
+            "image_width": 0,
+            "image_position": 42
+          }
+        },
+        "163490746248b9e19e-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Hallo du Liebe! In unserem Salon kannst du deine Haarwünsche wahr werdenlassen. Volles, voluminöses Haar unterstreicht die individuelle Schönheit und bietet viele Möglichkeiten für ein perfektes Styling. Mit hairtalk Extensions ist langes, gesundes Haar kein unerreichbarer Traum mehr. Wir sind ein zertifizierter Partner von hairtalk Deutschland und durch das einzigartige Haftsystem fügt sich nahtlos in das Naturhaar ein, die Übergänge sind kaum wahrnehmbar. Es ist eine Art Haarzauber.<\/p><p><\/p><p><\/p><p><\/p><p><\/p><p><\/p>"
+          }
+        },
+        "27193771-10c1-4631-8c71-604006234c2b": {
+          "type": "button",
+          "settings": {
+            "target_blank": false,
+            "link": "https:\/\/wa.me\/message\/DU34F36MYD7LM1",
+            "link_text": "jetzt beratung buchen"
+          }
+        },
+        "12dccdf1-2617-42d2-86b5-244daa861c8a": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Wir freuen uns auf deinen Anruf: <a href=\"tel:089-21528933\" title=\"tel:089-21528933\"><strong>089-21528933 <\/strong><\/a><\/p><p>Adresse:<\/p><p><a href=\"https:\/\/www.google.de\/maps\/place\/Kaiserstra%C3%9Fe+45,+M%C3%BCnchen\/@48.0504751,11.7103485,15z\/data=!4m5!3m4!1s0x479e75c697a0a553:0xa35b4aec031d8371!8m2!3d48.1610349!4d11.578951\" target=\"_blank\" title=\"Adresse Langhaarmädchen Salon\">Kaiserstrasse 45<br\/>80801 München<\/a><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "163490746248b9e19e-0",
+        "163490746248b9e19e-1",
+        "27193771-10c1-4631-8c71-604006234c2b",
+        "12dccdf1-2617-42d2-86b5-244daa861c8a"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
+      }
+    },
+    "16479487964b071b51": {
+      "type": "featured-video",
+      "settings": {
+        "title": "",
+        "video_url": "https:\/\/youtu.be\/4Zre3VfMh-k",
+        "divider": false
+      }
+    },
     "main": {
       "type": "main-page",
       "disabled": true,
@@ -282,8 +282,8 @@
         "166453091366fc6f3b-1": {
           "type": "liquid",
           "settings": {
-            "code": "<script src=\"https:\/\/apps.elfsight.com\/p\/platform.js\" defer><\/script>\n<div class=\"elfsight-app-cac9947b-5af9-4e45-9f90-49b20c82e291\" id=\"whatsapp\"><\/div>",
-            "width": "25%",
+            "code": "<!-- Calendly Inline-Widget Beginn -->\n<div class=\"calendly-inline-widget\" data-url=\"https:\/\/calendly.com\/langhaarmaedchen\/facetime-mit-mona-1?hide_gdpr_banner=1\" style=\"min-width:320px;height:630px;\"><\/div>\n<script type=\"text\/javascript\" src=\"https:\/\/assets.calendly.com\/assets\/external\/widget.js\" async><\/script>\n<!-- Calendly Inline-Widget Ende -->",
+            "width": "100%",
             "alignment": "center"
           }
         }
@@ -752,10 +752,10 @@
   "order": [
     "16475075815ec4bf82",
     "16349073092065b984",
-    "163490746248b9e19e",
-    "16479487964b071b51",
     "1650550827aa9686d7",
     "1650549005713f9a6c",
+    "163490746248b9e19e",
+    "16479487964b071b51",
     "main",
     "1664530913fc84995b",
     "164794884227c625c7",
