@@ -110,26 +110,11 @@
         "autoplay_speed": 5
       }
     },
-    "16479487964b071b51": {
-      "type": "featured-video",
-      "settings": {
-        "title": "Haarverdichtung mit Hairtalk",
-        "video_url": "https:\/\/youtu.be\/4Zre3VfMh-k",
-        "divider": false
-      }
-    },
-    "main": {
-      "type": "main-page",
-      "disabled": true,
-      "settings": {
-      }
-    },
     "163490746248b9e19e": {
       "type": "rich-text",
       "blocks": {
         "163490746248b9e19e-0": {
           "type": "heading",
-          "disabled": true,
           "settings": {
             "title": "Haarverdichtung mit Hairtalk",
             "image": "shopify:\/\/shop_images\/Vector.png",
@@ -173,6 +158,20 @@
         "divider": false,
         "margin_top": false,
         "margin_bottom": false
+      }
+    },
+    "16479487964b071b51": {
+      "type": "featured-video",
+      "settings": {
+        "title": "",
+        "video_url": "https:\/\/youtu.be\/4Zre3VfMh-k",
+        "divider": false
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
       }
     },
     "1664530913fc84995b": {
@@ -739,9 +738,9 @@
   "order": [
     "16475075815ec4bf82",
     "16349073092065b984",
+    "163490746248b9e19e",
     "16479487964b071b51",
     "main",
-    "163490746248b9e19e",
     "1664530913fc84995b",
     "1650550827aa9686d7",
     "1650549005713f9a6c",
