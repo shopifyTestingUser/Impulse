@@ -676,12 +676,12 @@
     "7debc93f-ba74-4009-958b-433862104c9d": {
       "type": "map",
       "settings": {
-        "map_title": "Unser Salon",
-        "address": "<p><\/p><p>Öffnungszeiten<\/p><p>Di - Fri, 10 - 19 Uhr<br\/>Samstag nach Absprache<\/p>",
+        "map_title": "",
+        "address": "<p>LANGHAARMÄDCHEN SALON<\/p><p>Kaiserstr. 45, 80801 München<\/p><p>Di - Fr 10 - 19 Uhr<\/p><p><em>Samstags nach Absprache<\/em><\/p><p><strong>089-21528933<\/strong><\/p>",
         "map_address": "Kaiserstraße 45, 80801 München",
         "map_iframe": "<iframe src=\"https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d2661.3655867451594!2d11.576376075937459!3d48.161034871246066!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479e75f2ec32fdb9%3A0xa95104f65a1b74a!2sLanghaarm%C3%A4dchen%20Salon!5e0!3m2!1sen!2sde!4v1682087117708!5m2!1sen!2sde\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"><\/iframe>",
         "api_key": "",
-        "show_button": true,
+        "show_button": false,
         "background_image_position": "center center"
       }
     },
@@ -702,8 +702,8 @@
       ],
       "settings": {
         "full_width": false,
-        "gutter_size": 20,
-        "space_above": false,
+        "gutter_size": 26,
+        "space_above": true,
         "space_below": true,
         "color_text": "main"
       }
