@@ -413,6 +413,7 @@
       "blocks": {
         "9292962a-57a6-4692-8032-82942f22e6f3": {
           "type": "subheading",
+          "disabled": true,
           "settings": {
             "subtitle": "Wollen wir telefonieren?"
           }
@@ -672,6 +673,18 @@
         "margin_bottom": false
       }
     },
+    "7debc93f-ba74-4009-958b-433862104c9d": {
+      "type": "map",
+      "settings": {
+        "map_title": "Unser Salon",
+        "address": "<p><\/p><p>Öffnungszeiten<\/p><p>Di - Fri, 10 - 19 Uhr<br\/>Samstag nach Absprache<\/p>",
+        "map_address": "Kaiserstraße 45, 80801 München",
+        "map_iframe": "<iframe src=\"https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d2661.3655867451594!2d11.576376075937459!3d48.161034871246066!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479e75f2ec32fdb9%3A0xa95104f65a1b74a!2sLanghaarm%C3%A4dchen%20Salon!5e0!3m2!1sen!2sde!4v1682087117708!5m2!1sen!2sde\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"><\/iframe>",
+        "api_key": "",
+        "show_button": true,
+        "background_image_position": "center center"
+      }
+    },
     "1634907866597b00bd": {
       "type": "promo-grid",
       "blocks": {
@@ -757,6 +770,7 @@
     "16376017988340a1c9",
     "16349077831e0c599d",
     "16349078470f63730c",
+    "7debc93f-ba74-4009-958b-433862104c9d",
     "1634907866597b00bd",
     "163490787431a0100d",
     "1634907893f803f2d3",
