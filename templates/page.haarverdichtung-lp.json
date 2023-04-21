@@ -191,7 +191,7 @@
           "type": "liquid",
           "settings": {
             "code": "<script src=\"https:\/\/apps.elfsight.com\/p\/platform.js\" defer><\/script>\n<div class=\"elfsight-app-cac9947b-5af9-4e45-9f90-49b20c82e291\" id=\"whatsapp\"><\/div>",
-            "width": "100%",
+            "width": "33%",
             "alignment": "center"
           }
         }
