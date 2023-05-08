@@ -19,24 +19,23 @@
     },
     "16349073092065b984": {
       "type": "slideshow",
-      "disabled": true,
       "blocks": {
         "8949461a-e3e2-4b2f-a40f-1c2d65799d70": {
           "type": "image",
           "settings": {
             "top_subheading": "",
-            "title": "Unser Kernwert <p><\/p>",
-            "title_size": 60,
-            "subheading": "Haargesundheit und Schonung des Eigenhaars",
-            "link": "https:\/\/www.langhaarmaedchen.de\/pages\/haarverdichtung-landingpage#whatsapp",
-            "link_text": "kostenlose beratung",
+            "title": "",
+            "title_size": 40,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/IMG_3454_2.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/Hairtal_mobilek.jpg",
-            "overlay_opacity": 20,
+            "image": "shopify:\/\/shop_images\/Header_Webinar..png",
+            "image_mobile": "shopify:\/\/shop_images\/Header_Webinar._Kopie.png",
+            "overlay_opacity": 6,
             "focal_point": "center center"
           }
         },
@@ -93,13 +92,32 @@
             "overlay_opacity": 0,
             "focal_point": "center center"
           }
+        },
+        "a70a0604-e2fc-4e0f-8e43-552d05d47c62": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "top_subheading": "",
+            "title": "Mehr Fülle, Länger & Volumen für dein Haar",
+            "title_size": 80,
+            "subheading": "And optional subtext",
+            "link": "",
+            "link_text": "Optional button",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
         }
       },
       "block_order": [
         "8949461a-e3e2-4b2f-a40f-1c2d65799d70",
         "16349073092065b984-0",
         "16349073092065b984-1",
-        "2e1f389a-1fc2-4990-948a-99f4f6fca46e"
+        "2e1f389a-1fc2-4990-948a-99f4f6fca46e",
+        "a70a0604-e2fc-4e0f-8e43-552d05d47c62"
       ],
       "settings": {
         "section_height": "550px",
@@ -117,7 +135,7 @@
       "settings": {
       }
     },
-    "1634907540ba6957b3": {
+    "4ad2552a-ecf5-44ee-8dde-e4ef80529eb2": {
       "type": "text-and-image",
       "settings": {
         "image": "shopify:\/\/shop_images\/IMG_3454_2.jpg",
@@ -126,9 +144,9 @@
         "image_bg_color": "#f6dad6",
         "image_bg": "shopify:\/\/shop_images\/Frame_106_1.png",
         "subtitle": "Dann ist eine professionelle Haardichtung genau das Richtige für dich.",
-        "title": "Du träumst auch von schönen langen und vollen Haaren?",
+        "title": "Hast du genug von dünnem, leblosem Haar und träumst von vollem Haar?",
         "another_text": false,
-        "text": "<p>Volles, voluminöses Haar unterstreicht dein Selbstbewusstsein, deine individuelle Schönheit und deine Persönlichkeit, die längst in dir ist.<\/p><p><\/p><p>In unserem Live-Webinar am <strong>23.01.2023 um 18.00 Uhr <\/strong>beantworten wir dir persönlich alle Fragen rund um das Thema Haarverdichtung und-verlängerung.<\/p>",
+        "text": "<p>In unserem Webinar wirst du lernen, wie du dein Haar verdichten und pflegen kannst, um wieder volles, gesundes Haar zu bekommen. Wir zeigen dir bewährte Techniken, damit du dich endlich wieder selbstbewusst fühlst.<\/p><p>Wir bentwprten dir persönlich alle deine Fragen rund um das Thema Haarverdichtung & -verlängerung. <\/p><p>Sei mit dabei! Wir freuen uns auf dich!<\/p>",
         "button_label": "",
         "button_link": "",
         "button_style": "primary",
@@ -186,7 +204,7 @@
           "type": "heading",
           "settings": {
             "title": "Ich möchte dabei sein!",
-            "image_width": 50,
+            "image_width": 45,
             "image_position": 50
           }
         },
@@ -238,15 +256,83 @@
       ],
       "settings": {
         "full_width": false,
-        "space_around": true
+        "space_around": false
       }
     },
-    "16479487964b071b51": {
-      "type": "featured-video",
+    "914f5d0d-cc18-49a6-bc91-a3b8007de511": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16735646646538__914f5d0d-cc18-49a6-bc91-a3b8007de511-1673345188efc74526-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Wenn du unter",
+            "image_width": 50,
+            "image_position": 50
+          }
+        }
+      },
+      "block_order": [
+        "template--16735646646538__914f5d0d-cc18-49a6-bc91-a3b8007de511-1673345188efc74526-0"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
+      }
+    },
+    "cceeac84-5aca-40e3-9a22-60da842e6378": {
+      "type": "text-columns",
+      "blocks": {
+        "template--16735646646538__cceeac84-5aca-40e3-9a22-60da842e6378-1672405481c1e95b0a-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Haarausfall.jpg",
+            "image_width": 100,
+            "title": "Haarausfall",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--16735646646538__cceeac84-5aca-40e3-9a22-60da842e6378-1672405481c1e95b0a-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/feines_Haar.jpg",
+            "image_width": 100,
+            "title": "Feines Haar",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--16735646646538__cceeac84-5aca-40e3-9a22-60da842e6378-1672405481c1e95b0a-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/geschaedigtes_Haar.jpg",
+            "image_width": 100,
+            "title": "Geschädigtem Haar",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16735646646538__cceeac84-5aca-40e3-9a22-60da842e6378-1672405481c1e95b0a-0",
+        "template--16735646646538__cceeac84-5aca-40e3-9a22-60da842e6378-1672405481c1e95b0a-1",
+        "template--16735646646538__cceeac84-5aca-40e3-9a22-60da842e6378-1672405481c1e95b0a-2"
+      ],
       "settings": {
         "title": "",
-        "video_url": "https:\/\/youtu.be\/4Zre3VfMh-k",
-        "divider": false
+        "align_text": "center",
+        "divider": false,
+        "image_width": 50,
+        "image_position": 50
       }
     },
     "164794884227c625c7": {
@@ -259,6 +345,13 @@
             "target_blank": false,
             "link": "#cal",
             "link_text": "FaceTime Beratung buchen"
+          }
+        },
+        "d2a67b8a-098d-4ed9-b39d-c5f362ab71fa": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>leidest, kennst du das Problem nur zu gut. Dünnes Haar kann das Selbstbewusstsein beeinträchtigen und dich unsicher fühlen lassen. Aber keine Sorge, du bist nicht allein! Wir verstehen, wie du dich fühlst und können dir helfen, dieses Problem zu lösen.<\/p>"
           }
         },
         "16479488421d6495bb-0": {
@@ -293,6 +386,7 @@
       },
       "block_order": [
         "8a3100e4-7c38-4c48-aa67-4202145908af",
+        "d2a67b8a-098d-4ed9-b39d-c5f362ab71fa",
         "16479488421d6495bb-0",
         "d8da7a9a-1b54-40f4-ba09-cc910dd13933",
         "16479488421d6495bb-1",
@@ -304,6 +398,14 @@
         "divider": false,
         "margin_top": false,
         "margin_bottom": false
+      }
+    },
+    "16479487964b071b51": {
+      "type": "featured-video",
+      "settings": {
+        "title": "",
+        "video_url": "https:\/\/youtu.be\/4Zre3VfMh-k",
+        "divider": false
       }
     },
     "0230f784-1e05-4bbf-8825-10b0eec4f3dc": {
@@ -494,82 +596,6 @@
         "space_around": false
       }
     },
-    "914f5d0d-cc18-49a6-bc91-a3b8007de511": {
-      "type": "rich-text",
-      "blocks": {
-        "template--16735646646538__914f5d0d-cc18-49a6-bc91-a3b8007de511-1673345188efc74526-0": {
-          "type": "heading",
-          "settings": {
-            "title": "Eine Haarverdichtung ist für dich das Richtige, bei ...",
-            "image_width": 50,
-            "image_position": 50
-          }
-        }
-      },
-      "block_order": [
-        "template--16735646646538__914f5d0d-cc18-49a6-bc91-a3b8007de511-1673345188efc74526-0"
-      ],
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false,
-        "margin_top": false,
-        "margin_bottom": false
-      }
-    },
-    "cceeac84-5aca-40e3-9a22-60da842e6378": {
-      "type": "text-columns",
-      "blocks": {
-        "template--16735646646538__cceeac84-5aca-40e3-9a22-60da842e6378-1672405481c1e95b0a-0": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify:\/\/shop_images\/Haarausfall.jpg",
-            "image_width": 100,
-            "title": "Haarausfall",
-            "text": "<p>Haarausfall ist ein Problem für viele Frauen. Ursachen können hormonelle Veränderungen, Stress, genetische Veranlagung und Medikamente sein. <\/p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        },
-        "template--16735646646538__cceeac84-5aca-40e3-9a22-60da842e6378-1672405481c1e95b0a-1": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify:\/\/shop_images\/feines_Haar.jpg",
-            "image_width": 100,
-            "title": "Feines Haar",
-            "text": "<p>Feines Haar kann für Frauen eine Herausforderung sein, da es leicht zu beschädigen ist und sich schwer stylen lässt. <\/p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        },
-        "template--16735646646538__cceeac84-5aca-40e3-9a22-60da842e6378-1672405481c1e95b0a-2": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify:\/\/shop_images\/geschaedigtes_Haar.jpg",
-            "image_width": 100,
-            "title": "Geschädigtem Haar",
-            "text": "<p>Geschädigtes Haar kann brechen, splissen und spröde werden. Es kann das Ergebnis von Styling oder  chemischen Behandlungen sein.<\/p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--16735646646538__cceeac84-5aca-40e3-9a22-60da842e6378-1672405481c1e95b0a-0",
-        "template--16735646646538__cceeac84-5aca-40e3-9a22-60da842e6378-1672405481c1e95b0a-1",
-        "template--16735646646538__cceeac84-5aca-40e3-9a22-60da842e6378-1672405481c1e95b0a-2"
-      ],
-      "settings": {
-        "title": "",
-        "align_text": "center",
-        "divider": false,
-        "image_width": 50,
-        "image_position": 50
-      }
-    },
     "16349077831e0c599d": {
       "type": "promo-grid",
       "blocks": {
@@ -694,20 +720,20 @@
     "16475075815ec4bf82",
     "16349073092065b984",
     "main",
-    "1634907540ba6957b3",
+    "4ad2552a-ecf5-44ee-8dde-e4ef80529eb2",
     "29d28c65-b26c-4411-90ac-f7850a492059",
     "08b53936-ee44-4318-8660-50fd34abe843",
     "0e3c7267-c614-43ff-aba8-7cf4dc3c06c0",
-    "16479487964b071b51",
+    "914f5d0d-cc18-49a6-bc91-a3b8007de511",
+    "cceeac84-5aca-40e3-9a22-60da842e6378",
     "164794884227c625c7",
+    "16479487964b071b51",
     "0230f784-1e05-4bbf-8825-10b0eec4f3dc",
     "1650550827aa9686d7",
     "1650549005713f9a6c",
     "1664530913fc84995b",
     "51c9a177-c20f-47b8-8927-9b72b4c491f0",
     "1650633786bff38ddb",
-    "914f5d0d-cc18-49a6-bc91-a3b8007de511",
-    "cceeac84-5aca-40e3-9a22-60da842e6378",
     "16349077831e0c599d",
     "16349078470f63730c",
     "16353379449714c0e2",
