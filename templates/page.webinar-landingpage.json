@@ -282,8 +282,62 @@
         "margin_bottom": false
       }
     },
+    "bf1e7986-b8e0-455f-9957-2aa4b87f20df": {
+      "type": "text-columns",
+      "blocks": {
+        "template--16735646646538__bf1e7986-b8e0-455f-9957-2aa4b87f20df-1683548833d61bd937-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Haarverdichtung-Haarausfall.png",
+            "image_width": 100,
+            "title": "Haarausfall",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--16735646646538__bf1e7986-b8e0-455f-9957-2aa4b87f20df-1683548833d61bd937-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Haarverdichtung-feines-haar.png",
+            "image_width": 100,
+            "title": "feinem haar",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--16735646646538__bf1e7986-b8e0-455f-9957-2aa4b87f20df-1683548833d61bd937-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Haarverdichtung-sproedes-haar.png",
+            "image_width": 100,
+            "title": "sprödem Haar",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16735646646538__bf1e7986-b8e0-455f-9957-2aa4b87f20df-1683548833d61bd937-0",
+        "template--16735646646538__bf1e7986-b8e0-455f-9957-2aa4b87f20df-1683548833d61bd937-1",
+        "template--16735646646538__bf1e7986-b8e0-455f-9957-2aa4b87f20df-1683548833d61bd937-2"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false,
+        "image_width": 50,
+        "image_position": 50
+      }
+    },
     "0c66d18f-f6f0-496a-8322-df9793bbe839": {
       "type": "services-columns",
+      "disabled": true,
       "blocks": {
         "template--16735646646538__0c66d18f-f6f0-496a-8322-df9793bbe839-1683548747f268f44a-0": {
           "type": "text_block",
@@ -414,7 +468,7 @@
         "subtitle": "",
         "title": "Für Fülle im Haar & Herzen",
         "another_text": false,
-        "text": "<p>Wir Langhaarmädchen ticken anders! Bei uns gibt es keine Haarverdichtung, um den Optimierungswahn auf die Spitze zu treiben. Bei uns gibt es Haarverdichtungen, die dich darin unterstützen sollen, dein Selbstbewusstsein, deine Schönheit und deine Persönlichkeit, die längst schon da ist, zu unterstreichen!<\/p><p>Wir sind <strong>Mona & Julia, <\/strong>Friseurmeisterinnen und Gründerinnen von Langhaarmädchen! <\/p><p>Mit unserer veganen Haarpflegeserie sind wir in über 3.500 dm Märkten gibt es in 13 Ländern. In unserem Salon in München sind wir spezialisiert auf <strong>lange Haare, Haarverdichtung, Balayage und Keratinglättung<\/strong>! <\/p>",
+        "text": "<p>Wir Langhaarmädchen ticken anders! Bei uns gibt es keine Haarverdichtung, um den Optimierungswahn auf die Spitze zu treiben. Bei uns gibt es Haarverdichtungen, die dich darin unterstützen sollen, dein Selbstbewusstsein, deine Schönheit und deine Persönlichkeit, die längst schon da ist, zu unterstreichen!<\/p><p>Wir sind <strong>Mona & Julia, <\/strong>Friseurmeisterinnen und Gründerinnen von Langhaarmädchen! <\/p><p>Mit unserer veganen Haarpflegeserie sind wir in über 3.500 dm Märkten in 13 Ländern. In unserem Salon in München sind wir spezialisiert auf <strong>Haarverdichtung, Balayage und Keratinglättung<\/strong>! Wir selbst tragen seit 8 Jahren überzeugt eine Haarverdichtung und erfüllen täglich neue HAARTRÄUME!<\/p>",
         "button_label": "",
         "button_link": "",
         "button_style": "primary",
@@ -456,26 +510,6 @@
         "divider": false,
         "margin_top": false,
         "margin_bottom": false
-      }
-    },
-    "1664530913fc84995b": {
-      "type": "advanced-content",
-      "blocks": {
-        "166453091366fc6f3b-1": {
-          "type": "liquid",
-          "settings": {
-            "code": "<script src=\"https:\/\/cdn.logwork.com\/widget\/countdown.js\"><\/script>\n<a href=\"https:\/\/logwork.com\/countdown-xhbd\" class=\"countdown-timer\" data-timezone=\"Europe\/Berlin\" data-language=\"de\" data-date=\"2023-01-23 18:00\" data-background=\"#ebb7a7\" data-digitscolor=\"#734f43\">WEBINAR COUNTDOWN<\/a>",
-            "width": "100%",
-            "alignment": "center"
-          }
-        }
-      },
-      "block_order": [
-        "166453091366fc6f3b-1"
-      ],
-      "settings": {
-        "full_width": false,
-        "space_around": true
       }
     },
     "1650549005713f9a6c": {
@@ -538,6 +572,26 @@
         "divider": false
       }
     },
+    "1664530913fc84995b": {
+      "type": "advanced-content",
+      "blocks": {
+        "166453091366fc6f3b-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<script src=\"https:\/\/cdn.logwork.com\/widget\/countdown.js\"><\/script>\n<a href=\"https:\/\/logwork.com\/countdown-xhbd\" class=\"countdown-timer\" data-timezone=\"Europe\/Berlin\" data-language=\"de\" data-date=\"2023-01-23 18:00\" data-background=\"#ebb7a7\" data-digitscolor=\"#734f43\">WEBINAR COUNTDOWN<\/a>",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "166453091366fc6f3b-1"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
     "51c9a177-c20f-47b8-8927-9b72b4c491f0": {
       "type": "rich-text",
       "blocks": {
@@ -592,78 +646,6 @@
         "space_around": false
       }
     },
-    "16349077831e0c599d": {
-      "type": "promo-grid",
-      "blocks": {
-        "4045078a-851e-4712-8e24-fd7eae750b22": {
-          "type": "banner",
-          "disabled": true,
-          "settings": {
-            "heading": "",
-            "text": "",
-            "link": "https:\/\/www.instagram.com\/langhaarmaedchen_salon\/",
-            "label": "Folge uns auf Instagram",
-            "color_tint": "#000000",
-            "color_tint_opacity": 100,
-            "framed": false
-          }
-        },
-        "74896a08-2a3e-474e-af19-412a05a16f5b": {
-          "type": "background",
-          "settings": {
-            "image-left": "shopify:\/\/shop_images\/image_for_esperts.png",
-            "image_left_width": 100,
-            "image_left_position": 60,
-            "image-right": "shopify:\/\/shop_images\/decor_home_2_695dd7ff-ae83-4bc3-a0f9-3c28bca98544.png",
-            "image_right_width": 28,
-            "image_right_position": 0
-          }
-        }
-      },
-      "block_order": [
-        "4045078a-851e-4712-8e24-fd7eae750b22",
-        "74896a08-2a3e-474e-af19-412a05a16f5b"
-      ],
-      "settings": {
-        "full_width": true,
-        "gutter_size": 0,
-        "space_above": false,
-        "space_below": false,
-        "color_text": "second"
-      }
-    },
-    "16349078470f63730c": {
-      "type": "rich-text",
-      "blocks": {
-        "16349078470f63730c-0": {
-          "type": "heading",
-          "settings": {
-            "title": "Wir freuen uns auf dich!",
-            "image_width": 50,
-            "image_position": 50
-          }
-        },
-        "e36ca93b-02a2-4320-92c2-5f22f0c9dfc9": {
-          "type": "button",
-          "settings": {
-            "target_blank": false,
-            "link": "https:\/\/www.langhaarmaedchen.de\/pages\/webinar-landing-page-v1\/#anmelden",
-            "link_text": "Jetzt zum kostenlosen Live-Webinar anmelden!"
-          }
-        }
-      },
-      "block_order": [
-        "16349078470f63730c-0",
-        "e36ca93b-02a2-4320-92c2-5f22f0c9dfc9"
-      ],
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false,
-        "margin_top": false,
-        "margin_bottom": false
-      }
-    },
     "16353379449714c0e2": {
       "type": "background-image",
       "disabled": true,
@@ -710,6 +692,78 @@
         "color_background": "#fff9f4",
         "color_text": "#1c1d1d"
       }
+    },
+    "ac859fc3-7a76-4998-bcb3-74353a5f4c28": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Hairtalk-Haaarverdichtung.jpg",
+        "image2": "shopify:\/\/shop_images\/49A4118.jpg",
+        "image_position": "left-bottom",
+        "image_bg_color": "#F8E6D4",
+        "subtitle": "Unser Partner",
+        "title": "Hairtalk",
+        "another_text": false,
+        "text": "<p>Hairtalk ist seit Jahren weltweit die führende Marke für Tape-Extensions. Als Pionier dieser Methode zur Haarverlängerung und Haarverdichtung wissen sie genau, worauf es ankommt: Das einzigartige Klebesystem ist besonders schonend zum Eigenhaar und fügt sich nahtlos in das Naturhaarein. Alle hairtalk Produkte überzeugen durch einzigartigen Tragekomfort und ein breites Spektrum an Farbnuancen, die sich mit dem Eigenhaar zu einem überzeugenden, natürlichen Ergebnis verbinden.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
+      }
+    },
+    "638c5481-3ba9-470c-b845-2f681ba1c01a": {
+      "type": "background-image-text",
+      "settings": {
+        "subtitle": "31.05.2023 um 15.00 Uhr",
+        "title": "Wir freuen uns auf dich!",
+        "text": "",
+        "button_label": "Ich möchte dabei sein",
+        "button_link": "",
+        "image": "shopify:\/\/shop_images\/20211118_085343000_klein_dbeefe05-fde9-40cd-95fd-ec0d4bded362.jpg",
+        "focal_point": "center",
+        "layout": "left",
+        "height": 550,
+        "framed": false,
+        "parallax": false,
+        "margin_top": false,
+        "margin_bottom": false
+      }
+    },
+    "16349078470f63730c": {
+      "type": "rich-text",
+      "disabled": true,
+      "blocks": {
+        "16349078470f63730c-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Wir freuen uns auf dich!",
+            "image_width": 50,
+            "image_position": 50
+          }
+        },
+        "e36ca93b-02a2-4320-92c2-5f22f0c9dfc9": {
+          "type": "button",
+          "settings": {
+            "target_blank": false,
+            "link": "https:\/\/www.langhaarmaedchen.de\/pages\/webinar-landing-page-v1\/#anmelden",
+            "link_text": "Jetzt zum kostenlosen Live-Webinar anmelden!"
+          }
+        }
+      },
+      "block_order": [
+        "16349078470f63730c-0",
+        "e36ca93b-02a2-4320-92c2-5f22f0c9dfc9"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
+      }
     }
   },
   "order": [
@@ -721,18 +775,20 @@
     "08b53936-ee44-4318-8660-50fd34abe843",
     "0e3c7267-c614-43ff-aba8-7cf4dc3c06c0",
     "914f5d0d-cc18-49a6-bc91-a3b8007de511",
+    "bf1e7986-b8e0-455f-9957-2aa4b87f20df",
     "0c66d18f-f6f0-496a-8322-df9793bbe839",
     "559c1faa-16b7-480d-a744-0a81638f7a5d",
     "164794884227c625c7",
     "0230f784-1e05-4bbf-8825-10b0eec4f3dc",
     "1650550827aa9686d7",
-    "1664530913fc84995b",
     "1650549005713f9a6c",
+    "1664530913fc84995b",
     "51c9a177-c20f-47b8-8927-9b72b4c491f0",
     "1650633786bff38ddb",
-    "16349077831e0c599d",
-    "16349078470f63730c",
     "16353379449714c0e2",
-    "71c97a9c-710d-49d8-811e-2720300ceb04"
+    "71c97a9c-710d-49d8-811e-2720300ceb04",
+    "ac859fc3-7a76-4998-bcb3-74353a5f4c28",
+    "638c5481-3ba9-470c-b845-2f681ba1c01a",
+    "16349078470f63730c"
   ]
 }
