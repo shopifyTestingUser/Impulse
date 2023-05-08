@@ -141,12 +141,12 @@
         "image": "shopify:\/\/shop_images\/IMG_3454_2.jpg",
         "image2": "shopify:\/\/shop_images\/IMG_3453_2.jpg",
         "image_position": "left-bottom",
-        "image_bg_color": "#f6dad6",
+        "image_bg_color": "#fff9f4",
         "image_bg": "shopify:\/\/shop_images\/Frame_106_1.png",
         "subtitle": "",
         "title": "Du bist so viel mehr als deine Haare",
         "another_text": false,
-        "text": "<p><strong>HALLO DU HERZENSMENSCH!<\/strong><\/p><p>Hast du genug von dünnem, leblosem Haar und träumst von vollem Haar?<\/p><p>In unserem Webinar wirst du lernen, wie du dein Haar verdichten kannst. Wir zeigen dir bewährte Techniken und beantworten die alle deine Fragen,  damit du dich endlich wieder selbstbewusst fühlst.<\/p><p>Sei mit dabei! Wir freuen uns auf dich!<\/p>",
+        "text": "<p><strong>HALLO DU HERZENSMENSCH!<\/strong><\/p><p>Hast du genug von dünnem, leblosem Haar und träumst von vollem Haar?<\/p><p>In unserem Webinar wirst du lernen, wie du dein Haar verdichten kannst. Wir zeigen dir bewährte Techniken und beantworten dir alle deine Fragen, damit du dich endlich wieder selbstbewusst fühlst.<\/p><p>Sei mit dabei! Wir freuen uns auf dich!<\/p>",
         "button_label": "",
         "button_link": "",
         "button_style": "primary",
@@ -276,7 +276,7 @@
       ],
       "settings": {
         "align_text": "center",
-        "narrow_column": true,
+        "narrow_column": false,
         "divider": false,
         "margin_top": false,
         "margin_bottom": false
@@ -417,7 +417,7 @@
         "16479488421d6495bb-0": {
           "type": "heading",
           "settings": {
-            "title": "Was dich im Live-Talk erwartet",
+            "title": "Was dich erwartet",
             "image_width": 50,
             "image_position": 50
           }
@@ -426,6 +426,13 @@
           "type": "subheading",
           "settings": {
             "subtitle": "Von der Beratung bis zum Wohlfühlgefühl"
+          }
+        },
+        "f0f805ed-7b70-4c5e-9c9f-50f6fdd8d0a9": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Wir sprechen über<\/p>"
           }
         },
         "16479488421d6495bb-1": {
@@ -447,6 +454,7 @@
       "block_order": [
         "16479488421d6495bb-0",
         "d8da7a9a-1b54-40f4-ba09-cc910dd13933",
+        "f0f805ed-7b70-4c5e-9c9f-50f6fdd8d0a9",
         "16479488421d6495bb-1",
         "d1e6ab19-e821-47aa-8f86-4b41755ebc06"
       ],
@@ -463,7 +471,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/Langhaarmaedchen_gretacaptures_Edit_161.jpg",
         "image_position": "left-bottom",
-        "image_bg_color": "rgba(0,0,0,0)",
+        "image_bg_color": "#efdbd5",
         "image_bg": "shopify:\/\/shop_images\/Frame_106_1.png",
         "subtitle": "",
         "title": "Für Fülle im Haar & Herzen",
