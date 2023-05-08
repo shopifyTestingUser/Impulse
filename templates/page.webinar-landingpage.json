@@ -35,7 +35,7 @@
             "text_align": "vertical-center horizontal-center",
             "image": "shopify:\/\/shop_images\/Header_Webinar..png",
             "image_mobile": "shopify:\/\/shop_images\/Header_Webinar._Kopie.png",
-            "overlay_opacity": 6,
+            "overlay_opacity": 0,
             "focal_point": "center center"
           }
         },
@@ -143,10 +143,10 @@
         "image_position": "left-bottom",
         "image_bg_color": "#f6dad6",
         "image_bg": "shopify:\/\/shop_images\/Frame_106_1.png",
-        "subtitle": "Dann ist eine professionelle Haardichtung genau das Richtige für dich.",
-        "title": "Hast du genug von dünnem, leblosem Haar und träumst von vollem Haar?",
+        "subtitle": "",
+        "title": "Du bist so viel mehr als deine Haare",
         "another_text": false,
-        "text": "<p>In unserem Webinar wirst du lernen, wie du dein Haar verdichten und pflegen kannst, um wieder volles, gesundes Haar zu bekommen. Wir zeigen dir bewährte Techniken, damit du dich endlich wieder selbstbewusst fühlst.<\/p><p>Wir bentwprten dir persönlich alle deine Fragen rund um das Thema Haarverdichtung & -verlängerung. <\/p><p>Sei mit dabei! Wir freuen uns auf dich!<\/p>",
+        "text": "<p><strong>HALLO DU HERZENSMENSCH!<\/strong><\/p><p>Hast du genug von dünnem, leblosem Haar und träumst von vollem Haar?<\/p><p>In unserem Webinar wirst du lernen, wie du dein Haar verdichten kannst. Wir zeigen dir bewährte Techniken und beantworten die alle deine Fragen,  damit du dich endlich wieder selbstbewusst fühlst.<\/p><p>Sei mit dabei! Wir freuen uns auf dich!<\/p>",
         "button_label": "",
         "button_link": "",
         "button_style": "primary",
@@ -282,40 +282,40 @@
         "margin_bottom": false
       }
     },
-    "cceeac84-5aca-40e3-9a22-60da842e6378": {
-      "type": "text-columns",
+    "0c66d18f-f6f0-496a-8322-df9793bbe839": {
+      "type": "services-columns",
       "blocks": {
-        "template--16735646646538__cceeac84-5aca-40e3-9a22-60da842e6378-1672405481c1e95b0a-0": {
+        "template--16735646646538__0c66d18f-f6f0-496a-8322-df9793bbe839-1683548747f268f44a-0": {
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify:\/\/shop_images\/Haarausfall.jpg",
-            "image_width": 100,
+            "image": "shopify:\/\/shop_images\/Haarverdichtung-Haarausfall.png",
             "title": "Haarausfall",
+            "price": "",
             "text": "",
             "button_label": "",
             "button_link": ""
           }
         },
-        "template--16735646646538__cceeac84-5aca-40e3-9a22-60da842e6378-1672405481c1e95b0a-1": {
+        "template--16735646646538__0c66d18f-f6f0-496a-8322-df9793bbe839-1683548747f268f44a-2": {
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify:\/\/shop_images\/feines_Haar.jpg",
-            "image_width": 100,
-            "title": "Feines Haar",
+            "image": "shopify:\/\/shop_images\/Haarverdichtung-feines-haar.png",
+            "title": "feinem Haar",
+            "price": "",
             "text": "",
             "button_label": "",
             "button_link": ""
           }
         },
-        "template--16735646646538__cceeac84-5aca-40e3-9a22-60da842e6378-1672405481c1e95b0a-2": {
+        "template--16735646646538__0c66d18f-f6f0-496a-8322-df9793bbe839-1683548747f268f44a-1": {
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify:\/\/shop_images\/geschaedigtes_Haar.jpg",
-            "image_width": 100,
-            "title": "Geschädigtem Haar",
+            "image": "shopify:\/\/shop_images\/Haarverdichtung-sproedes-haar.png",
+            "title": "sprödem, brüchigem Haar",
+            "price": "",
             "text": "",
             "button_label": "",
             "button_link": ""
@@ -323,9 +323,9 @@
         }
       },
       "block_order": [
-        "template--16735646646538__cceeac84-5aca-40e3-9a22-60da842e6378-1672405481c1e95b0a-0",
-        "template--16735646646538__cceeac84-5aca-40e3-9a22-60da842e6378-1672405481c1e95b0a-1",
-        "template--16735646646538__cceeac84-5aca-40e3-9a22-60da842e6378-1672405481c1e95b0a-2"
+        "template--16735646646538__0c66d18f-f6f0-496a-8322-df9793bbe839-1683548747f268f44a-0",
+        "template--16735646646538__0c66d18f-f6f0-496a-8322-df9793bbe839-1683548747f268f44a-2",
+        "template--16735646646538__0c66d18f-f6f0-496a-8322-df9793bbe839-1683548747f268f44a-1"
       ],
       "settings": {
         "title": "",
@@ -335,25 +335,31 @@
         "image_position": 50
       }
     },
-    "164794884227c625c7": {
+    "559c1faa-16b7-480d-a744-0a81638f7a5d": {
       "type": "rich-text",
       "blocks": {
-        "8a3100e4-7c38-4c48-aa67-4202145908af": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "target_blank": false,
-            "link": "#cal",
-            "link_text": "FaceTime Beratung buchen"
-          }
-        },
-        "d2a67b8a-098d-4ed9-b39d-c5f362ab71fa": {
+        "template--16735646646538__559c1faa-16b7-480d-a744-0a81638f7a5d-16835499032979a82b-1": {
           "type": "text",
           "settings": {
             "enlarge_text": false,
-            "text": "<p>leidest, kennst du das Problem nur zu gut. Dünnes Haar kann das Selbstbewusstsein beeinträchtigen und dich unsicher fühlen lassen. Aber keine Sorge, du bist nicht allein! Wir verstehen, wie du dich fühlst und können dir helfen, dieses Problem zu lösen.<\/p>"
+            "text": "<p>leidest, kennst du das Problem nur zu gut. Dünnes Haar kann das Selbstbewusstsein beeinträchtigen und dich unsicher fühlen lassen. Aber keine Sorge, du bist nicht allein! <\/p><p>Wir verstehen, wie du dich fühlst und können dir helfen, dein Problem zu lösen.<\/p>"
           }
-        },
+        }
+      },
+      "block_order": [
+        "template--16735646646538__559c1faa-16b7-480d-a744-0a81638f7a5d-16835499032979a82b-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
+      }
+    },
+    "164794884227c625c7": {
+      "type": "rich-text",
+      "blocks": {
         "16479488421d6495bb-0": {
           "type": "heading",
           "settings": {
@@ -372,7 +378,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p><\/p><p><strong>✓<\/strong> <strong>HAARTYPEN <br\/><\/strong>Du weißt nicht genau, ob eine Haarverdichtung bei deinen Haaren überhaupt funktioniert?<\/p><p><strong>✓ KOSTEN UND DAUER<br\/><\/strong>Wie lange halten Haarextentions und mit welchen Kosten muss ich rechnen?<\/p><p><strong>✓  ALLTAGSPFLEGE & TIPPS<br\/><\/strong>Wir zeigen dir, wie eine Haarverdichtung im Alltag aussieht und worauf du achten solltest.<\/p><p><strong>✓ DIE GRÖSSTEN MYTHEN<\/strong><br\/>Du denkst über eine Haarverlängerung nach, bist dir aber unsicher? Wir klären die Mythen über Haar Extensions auf. <br\/><br\/><br\/><\/p>"
+            "text": "<p><strong>✓<\/strong> <strong>HAARTYPEN <br\/><\/strong>Du weißt nicht genau, ob eine Haarverdichtung bei deinen Haaren überhaupt funktioniert?<\/p><p><strong>✓ KOSTEN UND DAUER<br\/><\/strong>Wie lange halten Haarextentions und mit welchen Kosten muss ich rechnen?<\/p><p><strong>✓  ALLTAGSPFLEGE & TIPPS<br\/><\/strong>Wir zeigen dir, wie eine Haarverdichtung im Alltag aussieht und worauf du achten solltest.<\/p><p><strong>✓ DIE GRÖSSTEN MYTHEN<\/strong><br\/>Du denkst über eine Haarverlängerung nach, bist dir aber unsicher? Wir klären die Mythen über Haar Extensions auf. <br\/><br\/><br\/><\/p>"
           }
         },
         "d1e6ab19-e821-47aa-8f86-4b41755ebc06": {
@@ -385,8 +391,6 @@
         }
       },
       "block_order": [
-        "8a3100e4-7c38-4c48-aa67-4202145908af",
-        "d2a67b8a-098d-4ed9-b39d-c5f362ab71fa",
         "16479488421d6495bb-0",
         "d8da7a9a-1b54-40f4-ba09-cc910dd13933",
         "16479488421d6495bb-1",
@@ -400,14 +404,6 @@
         "margin_bottom": false
       }
     },
-    "16479487964b071b51": {
-      "type": "featured-video",
-      "settings": {
-        "title": "",
-        "video_url": "https:\/\/youtu.be\/4Zre3VfMh-k",
-        "divider": false
-      }
-    },
     "0230f784-1e05-4bbf-8825-10b0eec4f3dc": {
       "type": "text-and-image",
       "settings": {
@@ -416,9 +412,9 @@
         "image_bg_color": "rgba(0,0,0,0)",
         "image_bg": "shopify:\/\/shop_images\/Frame_106_1.png",
         "subtitle": "",
-        "title": "Das sind wir",
+        "title": "Für Fülle im Haar & Herzen",
         "another_text": false,
-        "text": "<p>Wir sind <strong>Mona & Julia, <\/strong>Friseurmeisterinnen und Gründerinnen von Langhaarmädchen! <\/p><p>Wir haben uns gegenseitig gestärkt und inspiriert, an uns zu selbst zu glauben und mit Beharrlichkeit, Ehrgeiz & dem Herz am rechten Fleck <strong>unseren Traum wahr werden lassen!<\/strong><\/p><p><\/p><p>Mit unserer veganen Haarpflegeserie sind wir in über 3.500 dm Märkten gibt es in 13 Ländern. In unserem Salon in München sind wir spezialisiert auf l<strong>ange Haare, Haarverdichtung, Balayage und Keratinglättung<\/strong>! <\/p><p>Alles was dich und deine langen Haare glücklich macht! <\/p>",
+        "text": "<p>Wir Langhaarmädchen ticken anders! Bei uns gibt es keine Haarverdichtung, um den Optimierungswahn auf die Spitze zu treiben. Bei uns gibt es Haarverdichtungen, die dich darin unterstützen sollen, dein Selbstbewusstsein, deine Schönheit und deine Persönlichkeit, die längst schon da ist, zu unterstreichen!<\/p><p>Wir sind <strong>Mona & Julia, <\/strong>Friseurmeisterinnen und Gründerinnen von Langhaarmädchen! <\/p><p>Mit unserer veganen Haarpflegeserie sind wir in über 3.500 dm Märkten gibt es in 13 Ländern. In unserem Salon in München sind wir spezialisiert auf <strong>lange Haare, Haarverdichtung, Balayage und Keratinglättung<\/strong>! <\/p>",
         "button_label": "",
         "button_link": "",
         "button_style": "primary",
@@ -460,6 +456,26 @@
         "divider": false,
         "margin_top": false,
         "margin_bottom": false
+      }
+    },
+    "1664530913fc84995b": {
+      "type": "advanced-content",
+      "blocks": {
+        "166453091366fc6f3b-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<script src=\"https:\/\/cdn.logwork.com\/widget\/countdown.js\"><\/script>\n<a href=\"https:\/\/logwork.com\/countdown-xhbd\" class=\"countdown-timer\" data-timezone=\"Europe\/Berlin\" data-language=\"de\" data-date=\"2023-01-23 18:00\" data-background=\"#ebb7a7\" data-digitscolor=\"#734f43\">WEBINAR COUNTDOWN<\/a>",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "166453091366fc6f3b-1"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
       }
     },
     "1650549005713f9a6c": {
@@ -520,26 +536,6 @@
         "title": "",
         "logo_opacity": 76,
         "divider": false
-      }
-    },
-    "1664530913fc84995b": {
-      "type": "advanced-content",
-      "blocks": {
-        "166453091366fc6f3b-1": {
-          "type": "liquid",
-          "settings": {
-            "code": "<script src=\"https:\/\/cdn.logwork.com\/widget\/countdown.js\"><\/script>\n<a href=\"https:\/\/logwork.com\/countdown-xhbd\" class=\"countdown-timer\" data-timezone=\"Europe\/Berlin\" data-language=\"de\" data-date=\"2023-01-23 18:00\" data-background=\"#ebb7a7\" data-digitscolor=\"#734f43\">WEBINAR COUNTDOWN<\/a>",
-            "width": "100%",
-            "alignment": "center"
-          }
-        }
-      },
-      "block_order": [
-        "166453091366fc6f3b-1"
-      ],
-      "settings": {
-        "full_width": false,
-        "space_around": true
       }
     },
     "51c9a177-c20f-47b8-8927-9b72b4c491f0": {
@@ -725,13 +721,13 @@
     "08b53936-ee44-4318-8660-50fd34abe843",
     "0e3c7267-c614-43ff-aba8-7cf4dc3c06c0",
     "914f5d0d-cc18-49a6-bc91-a3b8007de511",
-    "cceeac84-5aca-40e3-9a22-60da842e6378",
+    "0c66d18f-f6f0-496a-8322-df9793bbe839",
+    "559c1faa-16b7-480d-a744-0a81638f7a5d",
     "164794884227c625c7",
-    "16479487964b071b51",
     "0230f784-1e05-4bbf-8825-10b0eec4f3dc",
     "1650550827aa9686d7",
-    "1650549005713f9a6c",
     "1664530913fc84995b",
+    "1650549005713f9a6c",
     "51c9a177-c20f-47b8-8927-9b72b4c491f0",
     "1650633786bff38ddb",
     "16349077831e0c599d",
