@@ -120,7 +120,7 @@
         "a70a0604-e2fc-4e0f-8e43-552d05d47c62"
       ],
       "settings": {
-        "section_height": "550px",
+        "section_height": "natural",
         "mobile_height": "auto",
         "parallax": false,
         "style": "bars",
