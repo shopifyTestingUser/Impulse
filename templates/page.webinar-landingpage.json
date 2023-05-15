@@ -367,25 +367,6 @@
             "focal_point": "center center"
           }
         },
-        "template--16735646646538__92f77b66-9105-4f07-b93c-9ab49c71ad54-16837873910268bcb2-1": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 77,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/Haarverdichtung-vorher-nachher5.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/Before_after_2.jpg",
-            "overlay_opacity": 0,
-            "focal_point": "center center"
-          }
-        },
         "38f8b64c-c12d-4c20-bc2c-fd0932b191c8": {
           "type": "image",
           "settings": {
@@ -401,6 +382,44 @@
             "text_align": "vertical-center horizontal-center",
             "image": "shopify:\/\/shop_images\/Haarverdichtung-vorher-nachher.jpg",
             "image_mobile": "shopify:\/\/shop_images\/7_129b7e01-07be-4e57-9305-31fc787ad482.jpg",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        },
+        "17840eed-aef5-4b2a-8391-9af3c4152a50": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/11_e8c0b9c9-b6b0-46fc-aebb-37dd5ddc5ad8.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/10_cdf1ad1e-232a-4fa9-8eaa-925531dca908.jpg",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        },
+        "template--16735646646538__92f77b66-9105-4f07-b93c-9ab49c71ad54-16837873910268bcb2-1": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 77,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/Haarverdichtung-vorher-nachher5.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Before_after_2.jpg",
             "overlay_opacity": 0,
             "focal_point": "center center"
           }
@@ -423,33 +442,14 @@
             "overlay_opacity": 0,
             "focal_point": "center center"
           }
-        },
-        "17840eed-aef5-4b2a-8391-9af3c4152a50": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/Haarverdichtung-vorher-nachher8.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/4.jpg",
-            "overlay_opacity": 0,
-            "focal_point": "center center"
-          }
         }
       },
       "block_order": [
         "template--16735646646538__92f77b66-9105-4f07-b93c-9ab49c71ad54-16837873910268bcb2-0",
-        "template--16735646646538__92f77b66-9105-4f07-b93c-9ab49c71ad54-16837873910268bcb2-1",
         "38f8b64c-c12d-4c20-bc2c-fd0932b191c8",
-        "03c97c6a-dc0b-4d12-a4ac-2f5d397a100d",
-        "17840eed-aef5-4b2a-8391-9af3c4152a50"
+        "17840eed-aef5-4b2a-8391-9af3c4152a50",
+        "template--16735646646538__92f77b66-9105-4f07-b93c-9ab49c71ad54-16837873910268bcb2-1",
+        "03c97c6a-dc0b-4d12-a4ac-2f5d397a100d"
       ],
       "settings": {
         "section_height": "natural",
@@ -653,25 +653,6 @@
     "83981fbc-ab6e-4105-b99e-5489f91ec5ee": {
       "type": "slideshow",
       "blocks": {
-        "template--16735646646538__83981fbc-ab6e-4105-b99e-5489f91ec5ee-1684135120c9a4180b-0": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/11_e8c0b9c9-b6b0-46fc-aebb-37dd5ddc5ad8.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/10_cdf1ad1e-232a-4fa9-8eaa-925531dca908.jpg",
-            "overlay_opacity": 0,
-            "focal_point": "center center"
-          }
-        },
         "template--16735646646538__83981fbc-ab6e-4105-b99e-5489f91ec5ee-1684135120c9a4180b-1": {
           "type": "image",
           "settings": {
@@ -728,13 +709,32 @@
             "overlay_opacity": 0,
             "focal_point": "center center"
           }
+        },
+        "template--16735646646538__83981fbc-ab6e-4105-b99e-5489f91ec5ee-1684135120c9a4180b-0": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/Haarverdichtung-vorher-nachher8.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Before_after.jpg",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
         }
       },
       "block_order": [
-        "template--16735646646538__83981fbc-ab6e-4105-b99e-5489f91ec5ee-1684135120c9a4180b-0",
         "template--16735646646538__83981fbc-ab6e-4105-b99e-5489f91ec5ee-1684135120c9a4180b-1",
         "a8877d6e-0105-430a-867d-cb8794be03dc",
-        "603b3567-eb4a-4974-a55e-a4060902d770"
+        "603b3567-eb4a-4974-a55e-a4060902d770",
+        "template--16735646646538__83981fbc-ab6e-4105-b99e-5489f91ec5ee-1684135120c9a4180b-0"
       ],
       "settings": {
         "section_height": "natural",
