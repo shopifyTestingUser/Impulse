@@ -144,7 +144,7 @@
         "image_bg_color": "#fff9f4",
         "image_bg": "shopify:\/\/shop_images\/Frame_106_1.png",
         "subtitle": "",
-        "title": "Du bist so viel mehr als deine Haare",
+        "title": "Für mehr Fülle im Haar & Herzen",
         "another_text": false,
         "text": "<p><strong>HALLO DU HERZENSMENSCH!<\/strong><\/p><p>Hast du genug von dünnem, leblosem Haar und träumst von vollem Haar?<\/p><p>In unserem Webinar wirst du lernen, wie du dein Haar verdichten kannst. Wir zeigen dir bewährte Techniken und beantworten dir alle deine Fragen, damit du dich endlich wieder selbstbewusst fühlst.<\/p><p>Sei mit dabei! Wir freuen uns auf dich!<\/p>",
         "button_label": "",
@@ -636,7 +636,7 @@
         "166453091366fc6f3b-1": {
           "type": "liquid",
           "settings": {
-            "code": "<script src=\"https:\/\/cdn.logwork.com\/widget\/countdown.js\"><\/script>\n<a href=\"https:\/\/logwork.com\/countdown-xhbd\" class=\"countdown-timer\" data-timezone=\"Europe\/Berlin\" data-language=\"de\" data-date=\"2023-05-31 15:00\" data-background=\"#ebb7a7\" data-digitscolor=\"#734f43\">WEBINAR COUNTDOWN<\/a>",
+            "code": "<script src=\"https:\/\/cdn.logwork.com\/widget\/countdown.js\"><\/script>\n<a href=\"https:\/\/logwork.com\/countdown-xhbd\" class=\"countdown-timer\" data-timezone=\"Europe\/Berlin\" data-language=\"de\" data-date=\"2023-05-25 19:00\" data-background=\"#ebb7a7\" data-digitscolor=\"#734f43\">WEBINAR COUNTDOWN<\/a>",
             "width": "100%",
             "alignment": "center"
           }
@@ -648,6 +648,102 @@
       "settings": {
         "full_width": false,
         "space_around": true
+      }
+    },
+    "83981fbc-ab6e-4105-b99e-5489f91ec5ee": {
+      "type": "slideshow",
+      "blocks": {
+        "template--16735646646538__83981fbc-ab6e-4105-b99e-5489f91ec5ee-1684135120c9a4180b-0": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/11_e8c0b9c9-b6b0-46fc-aebb-37dd5ddc5ad8.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/10_cdf1ad1e-232a-4fa9-8eaa-925531dca908.jpg",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        },
+        "template--16735646646538__83981fbc-ab6e-4105-b99e-5489f91ec5ee-1684135120c9a4180b-1": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/10_a24955d0-c3a7-426f-a13c-0276ba942435.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/9_7ece60f2-5910-4988-a797-1bbaf9eede72.jpg",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        },
+        "a8877d6e-0105-430a-867d-cb8794be03dc": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/13.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/12_1e8b6c14-b69e-4d43-9a35-fff855e18c12.jpg",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        },
+        "603b3567-eb4a-4974-a55e-a4060902d770": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/12_f60cf104-90ec-4e53-96a0-846fe5eb04f8.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/11_3644f838-6dd4-407b-9b85-4ae070afdf25.jpg",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "template--16735646646538__83981fbc-ab6e-4105-b99e-5489f91ec5ee-1684135120c9a4180b-0",
+        "template--16735646646538__83981fbc-ab6e-4105-b99e-5489f91ec5ee-1684135120c9a4180b-1",
+        "a8877d6e-0105-430a-867d-cb8794be03dc",
+        "603b3567-eb4a-4974-a55e-a4060902d770"
+      ],
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "arrows": true,
+        "autoplay": true,
+        "autoplay_speed": 5
       }
     },
     "51c9a177-c20f-47b8-8927-9b72b4c491f0": {
@@ -775,6 +871,7 @@
     "1650550827aa9686d7",
     "1650549005713f9a6c",
     "1664530913fc84995b",
+    "83981fbc-ab6e-4105-b99e-5489f91ec5ee",
     "51c9a177-c20f-47b8-8927-9b72b4c491f0",
     "16353379449714c0e2",
     "ac859fc3-7a76-4998-bcb3-74353a5f4c28",
