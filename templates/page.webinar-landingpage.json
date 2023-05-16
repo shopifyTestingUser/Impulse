@@ -142,7 +142,6 @@
         "image2": "shopify:\/\/shop_images\/IMG_3453_2.jpg",
         "image_position": "left-bottom",
         "image_bg_color": "#fff9f4",
-        "image_bg": "shopify:\/\/shop_images\/Frame_106_1.png",
         "subtitle": "",
         "title": "Für mehr Fülle im Haar & Herzen",
         "another_text": false,
@@ -152,7 +151,6 @@
         "button_style": "primary",
         "align_text": "left",
         "layout": "left",
-        "text_image_bg": "shopify:\/\/shop_images\/decor_salon_2.png",
         "divider": true,
         "margin_top": false,
         "margin_bottom": false
