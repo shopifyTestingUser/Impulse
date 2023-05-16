@@ -141,7 +141,7 @@
         "image": "shopify:\/\/shop_images\/IMG_3454_2.jpg",
         "image2": "shopify:\/\/shop_images\/IMG_3453_2.jpg",
         "image_position": "left-bottom",
-        "image_bg_color": "#fff9f4",
+        "image_bg_color": "rgba(0,0,0,0)",
         "subtitle": "",
         "title": "Für mehr Fülle im Haar & Herzen",
         "another_text": false,
