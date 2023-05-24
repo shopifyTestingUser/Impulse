@@ -33,7 +33,7 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/Header_Webinar..jpg",
+            "image": "shopify:\/\/shop_images\/Header_Webinar._1_5e488c1b-56a6-400c-923f-b17bc315b9ef.jpg",
             "image_mobile": "shopify:\/\/shop_images\/Header_Webinar._1.jpg",
             "overlay_opacity": 0,
             "focal_point": "center center"
@@ -129,29 +129,44 @@
         "autoplay_speed": 5
       }
     },
-    "main": {
-      "type": "main-page",
-      "disabled": true,
+    "bd219e28-3185-42c9-bf8d-a476a9dd44ee": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16735646646538__bd219e28-3185-42c9-bf8d-a476a9dd44ee-16849201408abacede-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "title": "Rich text",
+            "image_width": 50,
+            "image_position": 50
+          }
+        },
+        "template--16735646646538__bd219e28-3185-42c9-bf8d-a476a9dd44ee-16849201408abacede-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "30baece9-b16f-4072-837c-719803d23c4a": {
+          "type": "button",
+          "settings": {
+            "target_blank": false,
+            "link": "https:\/\/www.langhaarmaedchen.de\/pages\/webinar-landing-page-v1\/#anmelden",
+            "link_text": "Ich bin dabei!"
+          }
+        }
+      },
+      "block_order": [
+        "template--16735646646538__bd219e28-3185-42c9-bf8d-a476a9dd44ee-16849201408abacede-0",
+        "template--16735646646538__bd219e28-3185-42c9-bf8d-a476a9dd44ee-16849201408abacede-1",
+        "30baece9-b16f-4072-837c-719803d23c4a"
+      ],
       "settings": {
-      }
-    },
-    "4ad2552a-ecf5-44ee-8dde-e4ef80529eb2": {
-      "type": "text-and-image",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_3454_2.jpg",
-        "image2": "shopify:\/\/shop_images\/IMG_3453_2.jpg",
-        "image_position": "left-bottom",
-        "image_bg_color": "rgba(0,0,0,0)",
-        "subtitle": "",
-        "title": "Für mehr Fülle im Haar & Herzen",
-        "another_text": false,
-        "text": "<p>HALLO, DU WUNDERVOLLER HERZENSMENSCH! 💖<\/p><p>Träumst du auch von voluminösem Haar, dass dich selbstbewusst strahlen lässt? Dann haben wir eine Lösung für dich!  💖 <\/p><p>Unser größtes Ziel ist es, dass du dich in deinem Haar wieder wohlfühlst und voller Stolz auf deine zauberhafte Mähne sein kannst. In unserem WEBINAR werden wir die alle Fragen zu einer Haarverdichtung  beantworten, die Techniken, Styling & die richtige Pflege erklären und dir deinen Haartraum gemeinsam verwirklichen! 💇‍♀️💖 So viele unserer Langhaarmädchen leiden unter zartem und lichtem Haar - damit bist du nicht alleine. Und darum wollen wir dir ein neues LEBENSGEFÜHL schenken!💖  Sei bereit für eine Reise voller Inspiration, Wissen und fantastischen Ergebnissen!<\/p><p>Mit all unserer Liebe und Vorfreude,<br\/>Dein Team für Haarverdichtung 🌸💕<\/p><p><\/p><p><\/p>",
-        "button_label": "",
-        "button_link": "",
-        "button_style": "primary",
-        "align_text": "left",
-        "layout": "left",
-        "divider": true,
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
         "margin_top": false,
         "margin_bottom": false
       }
@@ -195,17 +210,36 @@
         "color_text": "#1c1d1d"
       }
     },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "4ad2552a-ecf5-44ee-8dde-e4ef80529eb2": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_3454_2.jpg",
+        "image2": "shopify:\/\/shop_images\/IMG_3453_2.jpg",
+        "image_position": "left-bottom",
+        "image_bg_color": "rgba(0,0,0,0)",
+        "subtitle": "",
+        "title": "Für mehr Fülle im Haar & Herzen",
+        "another_text": false,
+        "text": "<p>HALLO, DU WUNDERVOLLER HERZENSMENSCH! 💖<\/p><p>Träumst du auch von voluminösem Haar, dass dich selbstbewusst strahlen lässt? Dann haben wir eine Lösung für dich!  💖 <\/p><p>Unser größtes Ziel ist es, dass du dich in deinem Haar wieder wohlfühlst und voller Stolz auf deine zauberhafte Mähne sein kannst. In unserem WEBINAR werden wir die alle Fragen zu einer Haarverdichtung  beantworten, die Techniken, Styling & die richtige Pflege erklären und dir deinen Haartraum gemeinsam verwirklichen! 💇‍♀️💖 So viele unserer Langhaarmädchen leiden unter zartem und lichtem Haar - damit bist du nicht alleine. Und darum wollen wir dir ein neues LEBENSGEFÜHL schenken!💖  Sei bereit für eine Reise voller Inspiration, Wissen und fantastischen Ergebnissen!<\/p><p>Mit all unserer Liebe und Vorfreude,<br\/>Dein Team für Haarverdichtung 🌸💕<\/p><p><\/p><p><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "left",
+        "divider": true,
+        "margin_top": false,
+        "margin_bottom": false
+      }
+    },
     "08b53936-ee44-4318-8660-50fd34abe843": {
       "type": "rich-text",
       "blocks": {
-        "template--16735646646538__08b53936-ee44-4318-8660-50fd34abe843-1672850258676298a8-0": {
-          "type": "heading",
-          "settings": {
-            "title": "Ich möchte dabei sein!",
-            "image_width": 45,
-            "image_position": 50
-          }
-        },
         "template--16735646646538__08b53936-ee44-4318-8660-50fd34abe843-1672850258676298a8-1": {
           "type": "text",
           "disabled": true,
@@ -213,11 +247,19 @@
             "enlarge_text": false,
             "text": "<p> <\/p>"
           }
+        },
+        "template--16735646646538__08b53936-ee44-4318-8660-50fd34abe843-1672850258676298a8-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Ich möchte dabei sein!",
+            "image_width": 45,
+            "image_position": 50
+          }
         }
       },
       "block_order": [
-        "template--16735646646538__08b53936-ee44-4318-8660-50fd34abe843-1672850258676298a8-0",
-        "template--16735646646538__08b53936-ee44-4318-8660-50fd34abe843-1672850258676298a8-1"
+        "template--16735646646538__08b53936-ee44-4318-8660-50fd34abe843-1672850258676298a8-1",
+        "template--16735646646538__08b53936-ee44-4318-8660-50fd34abe843-1672850258676298a8-0"
       ],
       "settings": {
         "align_text": "center",
@@ -634,7 +676,7 @@
         "166453091366fc6f3b-1": {
           "type": "liquid",
           "settings": {
-            "code": "<script src=\"https:\/\/cdn.logwork.com\/widget\/countdown.js\"><\/script>\n<a href=\"https:\/\/logwork.com\/countdown-xhbd\" class=\"countdown-timer\" data-timezone=\"Europe\/Berlin\" data-language=\"de\" data-date=\"2023-05-25 19:00\" data-background=\"#ebb7a7\" data-digitscolor=\"#734f43\">WEBINAR COUNTDOWN<\/a>",
+            "code": "<script src=\"https:\/\/cdn.logwork.com\/widget\/countdown.js\"><\/script>\n<a href=\"https:\/\/logwork.com\/countdown-xhbd\" class=\"countdown-timer\" data-timezone=\"Europe\/Berlin\" data-language=\"de\" data-date=\"2023-05-18 19:00\" data-background=\"#ebb7a7\" data-digitscolor=\"#734f43\">WEBINAR COUNTDOWN<\/a>",
             "width": "100%",
             "alignment": "center"
           }
@@ -820,7 +862,6 @@
     },
     "16349078470f63730c": {
       "type": "rich-text",
-      "disabled": true,
       "blocks": {
         "16349078470f63730c-0": {
           "type": "heading",
@@ -855,9 +896,10 @@
   "order": [
     "16475075815ec4bf82",
     "16349073092065b984",
+    "bd219e28-3185-42c9-bf8d-a476a9dd44ee",
+    "29d28c65-b26c-4411-90ac-f7850a492059",
     "main",
     "4ad2552a-ecf5-44ee-8dde-e4ef80529eb2",
-    "29d28c65-b26c-4411-90ac-f7850a492059",
     "08b53936-ee44-4318-8660-50fd34abe843",
     "0e3c7267-c614-43ff-aba8-7cf4dc3c06c0",
     "914f5d0d-cc18-49a6-bc91-a3b8007de511",
