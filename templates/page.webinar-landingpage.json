@@ -268,9 +268,8 @@
       "blocks": {
         "0c2fccfb-65da-4cef-bf76-e1e0133d753c": {
           "type": "liquid",
-          "disabled": true,
           "settings": {
-            "code": "<a href=„anmelden“<\/a>",
+            "code": "",
             "width": "100%",
             "alignment": "center"
           }
