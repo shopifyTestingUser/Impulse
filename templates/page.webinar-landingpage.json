@@ -153,7 +153,7 @@
           "type": "button",
           "settings": {
             "target_blank": false,
-            "link": "https:\/\/www.langhaarmaedchen.de\/pages\/webinar-landing-page-v1\/#anmelden",
+            "link": "https:\/\/www.langhaarmaedchen.de\/pages\/haarverdichtung-webinar#anmelden",
             "link_text": "Ich bin dabei!"
           }
         }
@@ -535,7 +535,7 @@
           "type": "button",
           "settings": {
             "target_blank": false,
-            "link": "https:\/\/www.langhaarmaedchen.de\/pages\/webinar-landing-page-v1\/#anmelden",
+            "link": "https:\/\/www.langhaarmaedchen.de\/pages\/haarverdichtung-webinar#anmelden",
             "link_text": "JA, ICH BIN DABEI"
           }
         }
@@ -792,7 +792,7 @@
           "type": "button",
           "settings": {
             "target_blank": false,
-            "link": "https:\/\/www.langhaarmaedchen.de\/pages\/webinar-landing-page-v1\/#anmelden",
+            "link": "https:\/\/www.langhaarmaedchen.de\/pages\/haarverdichtung-webinar#anmelden",
             "link_text": "Ich bin dabei"
           }
         }
@@ -874,7 +874,7 @@
           "type": "button",
           "settings": {
             "target_blank": false,
-            "link": "https:\/\/www.langhaarmaedchen.de\/pages\/webinar-landing-page-v1\/#anmelden",
+            "link": "https:\/\/www.langhaarmaedchen.de\/pages\/haarverdichtung-webinar#anmelden",
             "link_text": "Jetzt zum kostenlosen Live-Webinar anmelden!"
           }
         }
