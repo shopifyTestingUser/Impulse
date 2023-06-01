@@ -225,7 +225,7 @@
           "type": "button",
           "settings": {
             "target_blank": false,
-            "link": "#calendly",
+            "link": "https:\/\/www.langhaarmaedchen.de\/pages\/haarverdicht-desktop#calendly",
             "link_text": "jetzt beratung buchen"
           }
         },
