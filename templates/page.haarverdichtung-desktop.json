@@ -281,7 +281,7 @@
         "166453091366fc6f3b-1": {
           "type": "liquid",
           "settings": {
-            "code": "<!-- Calendly Inline-Widget Beginn --><div id=\"calendly\"><\/div>\n<div class=\"calendly-inline-widget\" data-url=\"https:\/\/calendly.com\/langhaarmaedchen\/whatsapp-beratung\" style=\"min-width:320px;height:630px;\"><\/div>\n<script type=\"text\/javascript\" src=\"https:\/\/assets.calendly.com\/assets\/external\/widget.js\" async><\/script>\n<!-- Calendly Inline-Widget Ende -->",
+            "code": "<!-- Calendly Inline-Widget Beginn --><div id=\"calendly\"><\/div>\n<div class=\"calendly-inline-widget\" data-url=\"https:\/\/calendly.com\/langhaarmaedchen\/whatsapp-beratung\" style=\"min-width:320px;height:630px;\"><\/div>\n<script type=\"text\/javascript\" src=\"https:\/\/assets.calendly.com\/assets\/external\/widget.js\" async>document.querySelectorAll('a[href^=\"#\"]').forEach(anchor => {\n    anchor.addEventListener('click', function (e) {\n        e.preventDefault();\n\n        document.querySelector(this.getAttribute('href')).scrollIntoView({\n            behavior: 'smooth'\n        });\n    });\n});\n<\/script>\n<!-- Calendly Inline-Widget Ende -->",
             "width": "50%",
             "alignment": "center"
           }
