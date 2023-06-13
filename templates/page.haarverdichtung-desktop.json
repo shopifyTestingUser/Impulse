@@ -29,7 +29,7 @@
             "subheading": "Haargesundheit und Schonung des Eigenhaars",
             "link": "#calendly",
             "link_text": "kostenlose beratung",
-            "link_2": "",
+            "link_2": "#calendly",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
@@ -477,7 +477,7 @@
         "another_text": false,
         "text": "<p>Wir Langhaarmädchen ticken anders! Bei uns gibt es keine Haarverdichtung, um den Optimierungswahn auf die Spitze zu treiben. Bei uns gibt es Haarverdichtungen, die dich darin unterstützen sollen, dein Selbstbewusstsein, deine Schönheit und deine Persönlichkeit, die längst schon da ist, zu<br\/>unterstreichen!<\/p>",
         "button_label": "KOSTENLOSE BERATUNG BUCHEN",
-        "button_link": "https:\/\/wa.me\/message\/DU34F36MYD7LM1",
+        "button_link": "#calendly",
         "button_style": "primary",
         "align_text": "left",
         "layout": "right",
@@ -500,7 +500,7 @@
         "another_text": false,
         "text": "<p>Hairtalk ist der weltweite Marktführer für Tape-Extensions. Als Pionier dieser Methode bieten sie schonende Haarverlängerungen und Verdichtungen mit hohem Tragekomfort. Die einzigartigen Extensions fügen sich nahtlos ins Eigenhaar und überzeugen durch natürliche Farbnuancen.<\/p>",
         "button_label": "KOSTENLOSE BERATUNG BUCHEN",
-        "button_link": "https:\/\/wa.me\/message\/DU34F36MYD7LM1",
+        "button_link": "#calendly",
         "button_style": "primary",
         "align_text": "left",
         "layout": "left",
@@ -522,7 +522,7 @@
             "price": "ab 490 €",
             "text": "<p><\/p><p><\/p>",
             "button_label": "KOSTENLOSE BERATUNG",
-            "button_link": "https:\/\/wa.me\/message\/DU34F36MYD7LM1"
+            "button_link": "#calendly"
           }
         },
         "16349076903b384634-1": {
