@@ -348,6 +348,7 @@
     },
     "1650633786bff38ddb": {
       "type": "advanced-content",
+      "disabled": true,
       "blocks": {
         "1650633786b6ab87c3-0": {
           "type": "image",
@@ -391,6 +392,7 @@
         },
         "16505315315fcd04c2-1": {
           "type": "liquid",
+          "disabled": true,
           "settings": {
             "code": "<!-- Calendly Inline-Widget Beginn -->\n<div class=\"calendly-inline-widget\" data-url=\"https:\/\/calendly.com\/langhaarmaedchen\/facetime-mit-mona?hide_event_type_details=1&hide_gdpr_banner=1&background_color=fff9f4&text_color=383c33\" style=\"min-width:320px;height:630px; overflow-y: hidden;\"><\/div>\n<script type=\"text\/javascript\" src=\"https:\/\/assets.calendly.com\/assets\/external\/widget.js\" async><\/script>\n<!-- Calendly Inline-Widget Ende -->",
             "width": "50%",
