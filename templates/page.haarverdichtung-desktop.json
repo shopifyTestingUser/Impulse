@@ -27,9 +27,9 @@
             "title": "<h2>Unser Kernwert <\/h2><p><\/p>",
             "title_size": 74,
             "subheading": "Haargesundheit und Schonung des Eigenhaars",
-            "link": "#calendly",
+            "link": "#typeform",
             "link_text": "kostenlose beratung",
-            "link_2": "#calendly",
+            "link_2": "#typeform",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
@@ -125,7 +125,7 @@
         "166453091366fc6f3b-1": {
           "type": "liquid",
           "settings": {
-            "code": "<div data-tf-widget=\"EOWYkHNy\" data-tf-opacity=\"100\" data-tf-iframe-props=\"title=Anfrage Haarverdichtung\" data-tf-transitive-search-params data-tf-medium=\"snippet\" style=\"width:100%;height:650px;\"><\/div><script src=\"\/\/embed.typeform.com\/next\/embed.js\"><\/script>",
+            "code": "<div id=typeform\" data-tf-widget=\"EOWYkHNy\" data-tf-opacity=\"100\" data-tf-iframe-props=\"title=Anfrage Haarverdichtung\" data-tf-transitive-search-params data-tf-medium=\"snippet\" style=\"width:100%;height:650px;\"><\/div><script src=\"\/\/embed.typeform.com\/next\/embed.js\"><\/script>",
             "width": "50%",
             "alignment": "center"
           }
@@ -305,7 +305,7 @@
           "type": "button",
           "settings": {
             "target_blank": false,
-            "link": "#calendly",
+            "link": "#typeform",
             "link_text": "jetzt beratung buchen"
           }
         },
@@ -479,7 +479,7 @@
         "another_text": false,
         "text": "<p>Wir Langhaarmädchen ticken anders! Bei uns gibt es keine Haarverdichtung, um den Optimierungswahn auf die Spitze zu treiben. Bei uns gibt es Haarverdichtungen, die dich darin unterstützen sollen, dein Selbstbewusstsein, deine Schönheit und deine Persönlichkeit, die längst schon da ist, zu<br\/>unterstreichen!<\/p>",
         "button_label": "KOSTENLOSE BERATUNG BUCHEN",
-        "button_link": "#calendly",
+        "button_link": "#typeform",
         "button_style": "primary",
         "align_text": "left",
         "layout": "right",
@@ -502,7 +502,7 @@
         "another_text": false,
         "text": "<p>Hairtalk ist der weltweite Marktführer für Tape-Extensions. Als Pionier dieser Methode bieten sie schonende Haarverlängerungen und Verdichtungen mit hohem Tragekomfort. Die einzigartigen Extensions fügen sich nahtlos ins Eigenhaar ein und überzeugen durch natürliche Farbnuancen.<\/p>",
         "button_label": "KOSTENLOSE BERATUNG BUCHEN",
-        "button_link": "#calendly",
+        "button_link": "#typeform",
         "button_style": "primary",
         "align_text": "left",
         "layout": "left",
@@ -524,7 +524,7 @@
             "price": "ab 490 €",
             "text": "<p><\/p><p><\/p>",
             "button_label": "KOSTENLOSE BERATUNG",
-            "button_link": "#calendly"
+            "button_link": "#typeform"
           }
         },
         "16349076903b384634-1": {
