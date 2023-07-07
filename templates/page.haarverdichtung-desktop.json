@@ -126,8 +126,8 @@
           "type": "liquid",
           "settings": {
             "code": "<div data-tf-widget=\"EOWYkHNy\" data-tf-opacity=\"100\" data-tf-iframe-props=\"title=Anfrage Haarverdichtung\" data-tf-transitive-search-params data-tf-medium=\"snippet\" style=\"width:100%;height:630px;\" id=\"typeform\"><\/div><script src=\"\/\/embed.typeform.com\/next\/embed.js\"><\/script>",
-            "width": "75%",
-            "alignment": "center"
+            "width": "66%",
+            "alignment": "top-middle"
           }
         }
       },
