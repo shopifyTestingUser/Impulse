@@ -125,7 +125,7 @@
         "166453091366fc6f3b-1": {
           "type": "liquid",
           "settings": {
-            "code": "<div data-tf-widget=\"EOWYkHNy\" data-tf-opacity=\"100\" data-tf-iframe-props=\"title=Anfrage Haarverdichtung\" data-tf-transitive-search-params data-tf-medium=\"snippet\" style=\"width:100%;height:850px;\" id=\"typeform\"><\/div><script src=\"\/\/embed.typeform.com\/next\/embed.js\"><\/script>",
+            "code": "<div data-tf-widget=\"EOWYkHNy\" data-tf-opacity=\"100\" data-tf-iframe-props=\"title=Anfrage Haarverdichtung\" data-tf-transitive-search-params data-tf-medium=\"snippet\" style=\"width:100%;height:550px;\" id=\"typeform\"><\/div><script src=\"\/\/embed.typeform.com\/next\/embed.js\"><\/script>",
             "width": "50%",
             "alignment": "center"
           }
