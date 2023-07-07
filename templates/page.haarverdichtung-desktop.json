@@ -115,6 +115,7 @@
       "blocks": {
         "166453091366fc6f3b-0": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/whatsapp_beratung_LHM.png",
             "link": "",
@@ -126,7 +127,7 @@
           "type": "liquid",
           "settings": {
             "code": "<div data-tf-widget=\"EOWYkHNy\" data-tf-opacity=\"100\" data-tf-iframe-props=\"title=Anfrage Haarverdichtung\" data-tf-transitive-search-params data-tf-medium=\"snippet\" style=\"width:100%;height:630px;\" id=\"typeform\"><\/div><script src=\"\/\/embed.typeform.com\/next\/embed.js\"><\/script>",
-            "width": "66%",
+            "width": "100%",
             "alignment": "top-middle"
           }
         }
