@@ -17,7 +17,7 @@
             "top_subheading": "",
             "title": "Willkommen!",
             "title_size": 70,
-            "subheading": "Bei den Langhaarmädchen",
+            "subheading": "bei den Langhaarmädchen",
             "link": "",
             "link_text": "",
             "link_2": "",
@@ -378,7 +378,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/Mutpaket_Website.png",
         "image_position": "left-top",
-        "image_bg_color": "#F8E6D4",
+        "image_bg_color": "#f8e6d4",
         "image_bg": "shopify:\/\/shop_images\/decor_home_4_9a98bc61-4b16-410d-ab0f-e029fa5e4e43.png",
         "subtitle": "",
         "title": "Dein Mutpaket",
