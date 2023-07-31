@@ -220,7 +220,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify:\/\/shop_images\/Design_ohne_Titel-8.png",
+            "image": "shopify:\/\/shop_images\/Miriam.png",
             "title": "Haarverdichtung",
             "price": "ab 500 €",
             "text": "<p>Du vermisst Volumen und eine Haarpracht, mit der du dich so richtig wohlfühlst?! Wir<br\/>liiieben natürliche Haarverdichtungen, arbeiten seit 8 Jahren mit den besten Tape Extensions von hairtalk und werden dir damit ganz neue Haar-Träume ermöglichen!<\/p>",
@@ -232,7 +232,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify:\/\/shop_images\/Design_ohne_Titel-6.png",
+            "image": "shopify:\/\/shop_images\/Balayage.png",
             "title": "Balayage",
             "price": "250 €",
             "text": "<p>Du suchst eine Haarfarbe die deine Persönlichkeit widerspiegelt, die lange hält und fließend rauswächst? Lass dich am Telefon ganz persönlich beraten oder wünsche dir einen Facetime Call von uns!<\/p><p><\/p>",
@@ -244,7 +244,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify:\/\/shop_images\/glattung.png",
+            "image": "shopify:\/\/shop_images\/glaettung.png",
             "title": "Keratinglättung",
             "price": "380 €",
             "text": "<p>Du kommst mit deinem Frizz nicht klar? Du wünschst dir eine Beruhigung deiner Struktur<br\/>oder endlich ganz glatte Haare ohne viel Aufwand? Die schonendste Keratinglättung findest du bei uns! Wir kümmern uns um deine Träume!<\/p>",
@@ -320,7 +320,7 @@
         "64b120ac-f0a9-4b9f-988e-ec5040c3146a": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Preisliste_Stand_1.August.png",
+            "image": "shopify:\/\/shop_images\/Preisliste_Stand_1.August_8d0ba3b2-5e64-47a7-809d-619377040c4b.png",
             "link": "",
             "width": "100"
           }
