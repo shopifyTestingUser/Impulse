@@ -24,9 +24,9 @@
           "type": "image",
           "settings": {
             "top_subheading": "",
-            "title": "<h2>Unser Kernwert <\/h2><p><\/p>",
+            "title": "<link href=\"https:\/\/fonts.googleapis.com\/css2?family=Italiana&display=swap\" rel=\"stylesheet\">\n\n  <span style=\"font-family: 'Italiana'; font-weight: 700;\">Du wünschst eine Haarverdichtung?<\/span>",
             "title_size": 74,
-            "subheading": "Haargesundheit und Schonung des Eigenhaars",
+            "subheading": "Dann bist du bei uns genau richtig!",
             "link": "https:\/\/wa.me\/message\/DU34F36MYD7LM1",
             "link_text": "kostenlose beratung",
             "link_2": "",
@@ -116,7 +116,7 @@
         "163490746248b9e19e-0": {
           "type": "heading",
           "settings": {
-            "title": "Haarverdichtung mit Hairtalk",
+            "title": "",
             "image": "shopify:\/\/shop_images\/Vector.png",
             "image_width": 0,
             "image_position": 42
@@ -126,7 +126,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Hallo du Liebe! In unserem Salon kannst du deine Haarwünsche wahr werden lassen. Du wünscht dir volles, voluminöses Haar und wieder Freunde am Styling? Dann haben wir die Lösung für Dich! Wir sind ein zertifizierter Partner von hairtalk Deutschland und mit hairtalk Extensions ist langes, gesundes Haar kein unerreichbarer Traum mehr. Die Haare fügen sich nahtlos in das Naturhaare ein und die Übergänge sind kaum wahrnehmbar. Unsere Vision ist es, dir als Lang-, Kurz- oder Zarthaarmädchen die Freude an deinen Haaren, mehr Selbstbewusstsein und ein neues Lebensgefühl zurück zu schenken!<\/p><p><\/p><p><\/p><p><\/p><p><\/p><p><\/p>"
+            "text": "<p><strong>Hey Langhaarmädchen und die, die es werden wollen! 🌸<\/strong><\/p><ul><li>Wir sind dein Salon für Haarverdichtung und Haarverlängerung.<\/li><li>Wir sind offizieller Partner von hairtalk.<\/li><li>Durch unsere Tape-Technik ist  langes, gesundes Haar möglich.<\/li><li>Unsere Kernwerte sind Haargesundheit und Schonung des Eigenhaars.<\/li><li>Unsere Herzensmission ist dir Freude und Selbstbewusstsein durch wunderschönes Haar zu schenken!<\/li><\/ul><p><\/p><p><\/p><p><\/p><p><\/p><p><\/p>"
           }
         },
         "27193771-10c1-4631-8c71-604006234c2b": {
@@ -151,6 +151,9 @@
         "163490746248b9e19e-1",
         "27193771-10c1-4631-8c71-604006234c2b",
         "12dccdf1-2617-42d2-86b5-244daa861c8a"
+      ],
+      "custom_css": [
+        "li {list-style-type: disc; text-indent: 0px; \/* Move the text to the left *\/ }"
       ],
       "settings": {
         "align_text": "center",
@@ -379,7 +382,6 @@
     },
     "1650531531e8d51d0d": {
       "type": "advanced-content",
-      "disabled": true,
       "blocks": {
         "16505315315fcd04c2-0": {
           "type": "image",
@@ -403,6 +405,7 @@
         "16505315315fcd04c2-0",
         "16505315315fcd04c2-1"
       ],
+      "disabled": true,
       "settings": {
         "full_width": false,
         "space_around": false
@@ -566,7 +569,6 @@
     },
     "1637605754143b0ca8": {
       "type": "promo-grid",
-      "disabled": true,
       "blocks": {
         "64b120ac-f0a9-4b9f-988e-ec5040c3146a": {
           "type": "image",
@@ -580,6 +582,7 @@
       "block_order": [
         "64b120ac-f0a9-4b9f-988e-ec5040c3146a"
       ],
+      "disabled": true,
       "settings": {
         "full_width": false,
         "gutter_size": 20,
