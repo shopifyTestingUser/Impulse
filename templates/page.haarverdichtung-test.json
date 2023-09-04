@@ -1,0 +1,779 @@
+{
+  "sections": {
+    "16475075815ec4bf82": {
+      "type": "hero-video",
+      "disabled": true,
+      "settings": {
+        "title": "Langhaarmädchen",
+        "title_size": 48,
+        "subheading": "Besuch uns in München",
+        "link_text": "TERMIN BUCHEN",
+        "link": "https:\/\/calendly.com\/langhaarmaedchen\/facetime-mit-mona",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-bottom horizontal-center",
+        "video_url": "https:\/\/youtu.be\/7KpYR3jA20M",
+        "overlay_opacity": 30,
+        "section_height": "650px",
+        "mobile_height": "auto"
+      }
+    },
+    "16349073092065b984": {
+      "type": "slideshow",
+      "blocks": {
+        "8949461a-e3e2-4b2f-a40f-1c2d65799d70": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "<h2>Unser Kernwert <\/h2><p><\/p>",
+            "title_size": 74,
+            "subheading": "Haargesundheit und Schonung des Eigenhaars",
+            "link": "https:\/\/wa.me\/message\/DU34F36MYD7LM1",
+            "link_text": "kostenlose beratung",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/Hairtalk_e125f33b-0b40-41ad-a5a7-6cd00cc7cd02.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Hairtal_mobilek.jpg",
+            "overlay_opacity": 20,
+            "focal_point": "center center"
+          }
+        },
+        "16349073092065b984-0": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "top_subheading": "",
+            "title": "Willkommen!",
+            "title_size": 64,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "overlay_opacity": 20,
+            "focal_point": "center center"
+          }
+        },
+        "16349073092065b984-1": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "top_subheading": "",
+            "title": "Exklusiv &  gefühlvoll nur für Dich!",
+            "title_size": 64,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "overlay_opacity": 20,
+            "focal_point": "center center"
+          }
+        },
+        "2e1f389a-1fc2-4990-948a-99f4f6fca46e": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "8949461a-e3e2-4b2f-a40f-1c2d65799d70",
+        "16349073092065b984-0",
+        "16349073092065b984-1",
+        "2e1f389a-1fc2-4990-948a-99f4f6fca46e"
+      ],
+      "settings": {
+        "section_height": "550px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "arrows": false,
+        "autoplay": false,
+        "autoplay_speed": 5
+      }
+    },
+    "163490746248b9e19e": {
+      "type": "rich-text",
+      "blocks": {
+        "163490746248b9e19e-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Haarverdichtung mit Hairtalk",
+            "image": "shopify:\/\/shop_images\/Vector.png",
+            "image_width": 0,
+            "image_position": 42
+          }
+        },
+        "163490746248b9e19e-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Hallo du Liebe! In unserem Salon kannst du deine Haarwünsche wahr werden lassen. Du wünscht dir volles, voluminöses Haar und wieder Freunde am Styling? Dann haben wir die Lösung für Dich! Wir sind ein zertifizierter Partner von hairtalk Deutschland und mit hairtalk Extensions ist langes, gesundes Haar kein unerreichbarer Traum mehr. Die Haare fügen sich nahtlos in das Naturhaar ein und die Übergänge sind kaum wahrnehmbar. Unsere Vision ist es, dir als Lang-, Kurz- oder Zarthaarmädchen die Freude an deinen Haaren, mehr Selbstbewusstsein und ein neues Lebensgefühl zurück zu schenken!<\/p><p><\/p><p><\/p><p><\/p><p><\/p><p><\/p>"
+          }
+        },
+        "27193771-10c1-4631-8c71-604006234c2b": {
+          "type": "button",
+          "settings": {
+            "target_blank": false,
+            "link": "https:\/\/wa.me\/message\/DU34F36MYD7LM1",
+            "link_text": "jetzt beratung buchen"
+          }
+        },
+        "12dccdf1-2617-42d2-86b5-244daa861c8a": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Wir freuen uns auf deinen Anruf: <a href=\"tel:089-21528933\" title=\"tel:089-21528933\"><strong>089-21528933 <\/strong><\/a><\/p><p>Adresse:<\/p><p><a href=\"https:\/\/www.google.de\/maps\/place\/Kaiserstra%C3%9Fe+45,+M%C3%BCnchen\/@48.0504751,11.7103485,15z\/data=!4m5!3m4!1s0x479e75c697a0a553:0xa35b4aec031d8371!8m2!3d48.1610349!4d11.578951\" target=\"_blank\" title=\"Adresse Langhaarmädchen Salon\">Kaiserstrasse 45<br\/>80801 München<\/a><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "163490746248b9e19e-0",
+        "163490746248b9e19e-1",
+        "27193771-10c1-4631-8c71-604006234c2b",
+        "12dccdf1-2617-42d2-86b5-244daa861c8a"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
+      }
+    },
+    "16479487964b071b51": {
+      "type": "featured-video",
+      "settings": {
+        "title": "",
+        "video_url": "https:\/\/youtu.be\/4Zre3VfMh-k",
+        "divider": false
+      }
+    },
+    "1650550827aa9686d7": {
+      "type": "rich-text",
+      "blocks": {
+        "165055082675f0563e-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Bekannt aus:",
+            "image_width": 50,
+            "image_position": 50
+          }
+        },
+        "165055082675f0563e-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "165055082675f0563e-0",
+        "165055082675f0563e-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
+      }
+    },
+    "1650549005713f9a6c": {
+      "type": "logo-list",
+      "blocks": {
+        "165054900571537ebd-0": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/png-clipart-dm-drogerie-markt-slovakia-dm_-dm-drogerie-markt-nordhorn-kehl-dm-text-logo_5c636e00-76ce-4489-9dc2-3ed1830dfa9b.png",
+            "link": ""
+          }
+        },
+        "165054900571537ebd-1": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/logo-taff_4b19a6f9-dff0-4ed3-bd7e-8884811793a1.png",
+            "link": ""
+          }
+        },
+        "165054900571537ebd-2": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Logo_InStyle_958c5591-b861-4cd6-b0b5-4fecc6d3b164.png",
+            "link": ""
+          }
+        },
+        "165054900571537ebd-3": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/v12801_2a8f2fc6-2315-496a-8ae2-94c0aeb26145.png",
+            "link": ""
+          }
+        },
+        "5fb6184c-e24f-4c26-806b-d6830fe080da": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Gala_Magazin_logo_sw.png",
+            "link": ""
+          }
+        },
+        "970bc693-5afe-42f1-9254-f2f8f2877e69": {
+          "type": "logo_image",
+          "disabled": true,
+          "settings": {
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "165054900571537ebd-0",
+        "165054900571537ebd-1",
+        "165054900571537ebd-2",
+        "165054900571537ebd-3",
+        "5fb6184c-e24f-4c26-806b-d6830fe080da",
+        "970bc693-5afe-42f1-9254-f2f8f2877e69"
+      ],
+      "settings": {
+        "title": "",
+        "logo_opacity": 76,
+        "divider": false
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "1664530913fc84995b": {
+      "type": "advanced-content",
+      "blocks": {
+        "166453091366fc6f3b-0": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Hairtalk_e125f33b-0b40-41ad-a5a7-6cd00cc7cd02.jpg",
+            "link": "",
+            "width": "66%",
+            "alignment": "center"
+          }
+        },
+        "166453091366fc6f3b-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<script src=\"https:\/\/apps.elfsight.com\/p\/platform.js\" defer><\/script>\n<div class=\"elfsight-app-cac9947b-5af9-4e45-9f90-49b20c82e291\" id=\"whatsapp\"><\/div>",
+            "width": "25%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "166453091366fc6f3b-0",
+        "166453091366fc6f3b-1"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
+    "164794884227c625c7": {
+      "type": "rich-text",
+      "blocks": {
+        "8a3100e4-7c38-4c48-aa67-4202145908af": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "target_blank": false,
+            "link": "#cal",
+            "link_text": "FaceTime Beratung buchen"
+          }
+        },
+        "16479488421d6495bb-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Haarverlän­gerung und Haarverdichtung",
+            "image_width": 50,
+            "image_position": 50
+          }
+        },
+        "16479488421d6495bb-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Lass' dich von unsere Gründerin und Expertinnen kostenlos über Whatsapp und Video Chat beraten. Es ist völlig unverbindlich & kostenlos. <\/p><p><strong>Dein Beratungsgespräch in nur 3 Schritten:<\/strong><\/p><p><\/p><p><strong>1)<\/strong> Schreib uns eine WhatsApp Nachricht oder <a href=\"tel:+4915231308711\" title=\"tel:+4915231308711\">rufe  📞  <\/a>uns an<\/p><p><strong>2) <\/strong>Sende uns eine Selfie von deinen Haaren und eine kurze Sprachnachricht, was du dir wünschst<\/p><p><strong>3)<\/strong> Wir melden uns bei dir für ein kostenloses Beratungsgespräch <\/p><p>Wir freuen uns auf DICH!<\/p>"
+          }
+        },
+        "5d9b17b2-98e6-4e75-9e43-e718df2de7f1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "enlarge_text": true,
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "8a3100e4-7c38-4c48-aa67-4202145908af",
+        "16479488421d6495bb-0",
+        "16479488421d6495bb-1",
+        "5d9b17b2-98e6-4e75-9e43-e718df2de7f1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
+      }
+    },
+    "1650633786bff38ddb": {
+      "type": "advanced-content",
+      "blocks": {
+        "1650633786b6ab87c3-0": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "1650633786b6ab87c3-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<div id=\"cal\"><\/div>",
+            "width": "33%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "1650633786b6ab87c3-0",
+        "1650633786b6ab87c3-1"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": false
+      }
+    },
+    "1650531531e8d51d0d": {
+      "type": "advanced-content",
+      "blocks": {
+        "16505315315fcd04c2-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/facetime_mona.png",
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "16505315315fcd04c2-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<!-- Calendly Inline-Widget Beginn -->\n<div class=\"calendly-inline-widget\" data-url=\"https:\/\/calendly.com\/langhaarmaedchen\/facetime-mit-mona?hide_event_type_details=1&hide_gdpr_banner=1&background_color=fff9f4&text_color=383c33\" style=\"min-width:320px;height:630px; overflow-y: hidden;\"><\/div>\n<script type=\"text\/javascript\" src=\"https:\/\/assets.calendly.com\/assets\/external\/widget.js\" async><\/script>\n<!-- Calendly Inline-Widget Ende -->",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "16505315315fcd04c2-0",
+        "16505315315fcd04c2-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": false,
+        "space_around": false
+      }
+    },
+    "1634908162416e3f0b": {
+      "type": "rich-text",
+      "blocks": {
+        "9292962a-57a6-4692-8032-82942f22e6f3": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "subtitle": "Wollen wir telefonieren?"
+          }
+        },
+        "1634908162416e3f0b-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Du hast noch Fragen? Wir rufen dich gerne zurück.",
+            "image_width": 50,
+            "image_position": 50
+          }
+        },
+        "3be373b2-4e8e-434d-95a4-3f3522e79847": {
+          "type": "subheading",
+          "settings": {
+            "subtitle": ""
+          }
+        },
+        "d3606e9f-2ede-4b10-98eb-c074aaa9153a": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "target_blank": true,
+            "link": "",
+            "link_text": "Kontaktformular"
+          }
+        }
+      },
+      "block_order": [
+        "9292962a-57a6-4692-8032-82942f22e6f3",
+        "1634908162416e3f0b-0",
+        "3be373b2-4e8e-434d-95a4-3f3522e79847",
+        "d3606e9f-2ede-4b10-98eb-c074aaa9153a"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
+      }
+    },
+    "16349081684b16f546": {
+      "type": "contact-form",
+      "settings": {
+        "title": "",
+        "text": "",
+        "show_phone": true,
+        "narrow_column": true
+      }
+    },
+    "16349074948fa012fe": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Marina_Nachher.jpg",
+        "image2": "shopify:\/\/shop_images\/Marina_Vorher.jpg",
+        "image_position": "left-bottom",
+        "image_bg_color": "#f8e6d4",
+        "image_bg": "shopify:\/\/shop_images\/Frame_106.png",
+        "subtitle": "",
+        "title": "Haarverdichtung",
+        "another_text": false,
+        "text": "<p>Wir Langhaarmädchen ticken anders! Bei uns gibt es keine Haarverdichtung, um den Optimierungswahn auf die Spitze zu treiben. Bei uns gibt es Haarverdichtungen, die dich darin unterstützen sollen, dein Selbstbewusstsein, deine Schönheit und deine Persönlichkeit, die längst schon da ist, zu<br\/>unterstreichen!<\/p>",
+        "button_label": "KOSTENLOSE BERATUNG BUCHEN",
+        "button_link": "https:\/\/wa.me\/message\/DU34F36MYD7LM1",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "text_image_bg": "shopify:\/\/shop_images\/decor_salon_1_17a622e0-7ec2-4d49-9b73-4ea7f38c4b76.png",
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
+      }
+    },
+    "1634907540ba6957b3": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_3454_2.jpg",
+        "image2": "shopify:\/\/shop_images\/IMG_3453_2.jpg",
+        "image_position": "left-bottom",
+        "image_bg_color": "#f6dad6",
+        "image_bg": "shopify:\/\/shop_images\/Frame_106_1.png",
+        "subtitle": "",
+        "title": "Hairtalk Extensions",
+        "another_text": false,
+        "text": "<p>Hairtalk ist der weltweite Marktführer für Tape-Extensions. Als Pionier dieser Methode bieten sie schonende Haarverlängerungen und Verdichtungen mit hohem Tragekomfort. Die einzigartigen Extensions fügen sich nahtlos ins Eigenhaar ein und überzeugen durch natürliche Farbnuancen.<\/p>",
+        "button_label": "KOSTENLOSE BERATUNG BUCHEN",
+        "button_link": "https:\/\/wa.me\/message\/DU34F36MYD7LM1",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "left",
+        "text_image_bg": "shopify:\/\/shop_images\/decor_salon_2.png",
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
+      }
+    },
+    "16349076903b384634": {
+      "type": "services-columns",
+      "blocks": {
+        "16349076903b384634-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/verdichtung.png",
+            "title": "Haarverdichtung",
+            "price": "ab 490 €",
+            "text": "<p><\/p><p><\/p>",
+            "button_label": "KOSTENLOSE BERATUNG",
+            "button_link": "https:\/\/wa.me\/message\/DU34F36MYD7LM1"
+          }
+        },
+        "16349076903b384634-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/shopify_expertise_baladings.jpg",
+            "title": "Balayage",
+            "price": "280 €",
+            "text": "<p><\/p><p><\/p>",
+            "button_label": "JETZT BUCHEN",
+            "button_link": "https:\/\/www.langhaarmaedchen.de\/pages\/salon"
+          }
+        },
+        "16349076903b384634-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/glattung.png",
+            "title": "Keratinglättung",
+            "price": "450 €",
+            "text": "<p><\/p><p><\/p>",
+            "button_label": "JETZT BUCHEN",
+            "button_link": "https:\/\/www.langhaarmaedchen.de\/pages\/salon"
+          }
+        }
+      },
+      "block_order": [
+        "16349076903b384634-0",
+        "16349076903b384634-1",
+        "16349076903b384634-2"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "left",
+        "divider": false,
+        "image_width": 50,
+        "image_position": 50
+      }
+    },
+    "1637605754143b0ca8": {
+      "type": "promo-grid",
+      "blocks": {
+        "64b120ac-f0a9-4b9f-988e-ec5040c3146a": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Salon_Preisliste_11.04.jpg",
+            "link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0285\/6969\/8348\/files\/Salon_Preisliste_11.04_900x.jpg?v=1649664790",
+            "width": "50"
+          }
+        }
+      },
+      "block_order": [
+        "64b120ac-f0a9-4b9f-988e-ec5040c3146a"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": false,
+        "gutter_size": 20,
+        "space_above": false,
+        "space_below": true,
+        "color_text": "main"
+      }
+    },
+    "16376017988340a1c9": {
+      "type": "text-and-image",
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/WhatsApp_Image_2021-11-22_at_16.42.32.jpg",
+        "image_position": "left-bottom",
+        "image_bg_color": "rgba(0,0,0,0)",
+        "subtitle": "",
+        "title": "Unser Service für dich",
+        "another_text": false,
+        "text": "<p>Wir freuen uns auf deinen Anruf: <strong>089-21528933<\/strong><\/p>",
+        "button_label": "Preisliste herunterladen",
+        "button_link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0285\/6969\/8348\/files\/WhatsApp_Image_2021-11-22_at_16.42.32.jpg?v=1637588627",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "left",
+        "text_image_bg": "shopify:\/\/shop_images\/decor_home_2_1.png",
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
+      }
+    },
+    "16349077831e0c599d": {
+      "type": "promo-grid",
+      "blocks": {
+        "4045078a-851e-4712-8e24-fd7eae750b22": {
+          "type": "banner",
+          "disabled": true,
+          "settings": {
+            "heading": "",
+            "text": "",
+            "link": "https:\/\/www.instagram.com\/langhaarmaedchen_salon\/",
+            "label": "Folge uns auf Instagram",
+            "color_tint": "#000000",
+            "color_tint_opacity": 100,
+            "framed": false
+          }
+        },
+        "74896a08-2a3e-474e-af19-412a05a16f5b": {
+          "type": "background",
+          "settings": {
+            "image-left": "shopify:\/\/shop_images\/image_for_esperts.png",
+            "image_left_width": 100,
+            "image_left_position": 60,
+            "image-right": "shopify:\/\/shop_images\/decor_home_2_695dd7ff-ae83-4bc3-a0f9-3c28bca98544.png",
+            "image_right_width": 30,
+            "image_right_position": 0
+          }
+        }
+      },
+      "block_order": [
+        "4045078a-851e-4712-8e24-fd7eae750b22",
+        "74896a08-2a3e-474e-af19-412a05a16f5b"
+      ],
+      "settings": {
+        "full_width": true,
+        "gutter_size": 0,
+        "space_above": false,
+        "space_below": false,
+        "color_text": "second"
+      }
+    },
+    "16349078470f63730c": {
+      "type": "rich-text",
+      "blocks": {
+        "16349078470f63730c-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Wir freuen uns auf dich!",
+            "image_width": 50,
+            "image_position": 50
+          }
+        }
+      },
+      "block_order": [
+        "16349078470f63730c-0"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
+      }
+    },
+    "7debc93f-ba74-4009-958b-433862104c9d": {
+      "type": "map",
+      "settings": {
+        "map_title": "",
+        "address": "<p>LANGHAARMÄDCHEN SALON<\/p><p>Kaiserstr. 45, 80801 München<\/p><p>Di - Fr 10 - 19 Uhr<\/p><p><em>Samstags nach Absprache<\/em><\/p><p><strong>089-21528933<\/strong><\/p>",
+        "map_address": "Kaiserstraße 45, 80801 München",
+        "map_iframe": "<iframe src=\"https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d2661.3655867451594!2d11.576376075937459!3d48.161034871246066!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479e75f2ec32fdb9%3A0xa95104f65a1b74a!2sLanghaarm%C3%A4dchen%20Salon!5e0!3m2!1sen!2sde!4v1682087117708!5m2!1sen!2sde\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"><\/iframe>",
+        "api_key": "",
+        "show_button": false,
+        "background_image_position": "center center"
+      }
+    },
+    "1634907866597b00bd": {
+      "type": "promo-grid",
+      "blocks": {
+        "1bb5e329-0ca1-4b8b-8843-aea4d62207a9": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/49A1192_2_2_1.jpg",
+            "link": "",
+            "width": "100"
+          }
+        }
+      },
+      "block_order": [
+        "1bb5e329-0ca1-4b8b-8843-aea4d62207a9"
+      ],
+      "settings": {
+        "full_width": false,
+        "gutter_size": 26,
+        "space_above": true,
+        "space_below": true,
+        "color_text": "main"
+      }
+    },
+    "163490787431a0100d": {
+      "type": "image-with-description",
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/julia_1.png",
+        "title": "Roby",
+        "text": "Unsere Salonleitung und Master Stylistin Roberta überzeugt mit ihrem Temperament und ganz viel Amore für ihr Handwerk.",
+        "swap": false,
+        "btn_text": "Terminbuchung",
+        "btn_link": "",
+        "margin_top": false,
+        "margin_bottom": false
+      }
+    },
+    "1634907893f803f2d3": {
+      "type": "image-with-description",
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/mona_1.png",
+        "title": "Mona",
+        "text": "Spezialisiert auf Haarverdichtung.",
+        "swap": true,
+        "btn_text": "Terminbuchung",
+        "btn_link": "",
+        "margin_top": false,
+        "margin_bottom": false
+      }
+    },
+    "16353379449714c0e2": {
+      "type": "background-image",
+      "disabled": true,
+      "settings": {
+        "image-left": "shopify:\/\/shop_images\/decor_home_6_2.png",
+        "image_left_width": 28,
+        "image_left_position": 10,
+        "image-right": "shopify:\/\/shop_images\/decor_home_8.png",
+        "image_right_width": 27,
+        "image_right_position": 0
+      }
+    }
+  },
+  "order": [
+    "16475075815ec4bf82",
+    "16349073092065b984",
+    "163490746248b9e19e",
+    "16479487964b071b51",
+    "1650550827aa9686d7",
+    "1650549005713f9a6c",
+    "main",
+    "1664530913fc84995b",
+    "164794884227c625c7",
+    "1650633786bff38ddb",
+    "1650531531e8d51d0d",
+    "1634908162416e3f0b",
+    "16349081684b16f546",
+    "16349074948fa012fe",
+    "1634907540ba6957b3",
+    "16349076903b384634",
+    "1637605754143b0ca8",
+    "16376017988340a1c9",
+    "16349077831e0c599d",
+    "16349078470f63730c",
+    "7debc93f-ba74-4009-958b-433862104c9d",
+    "1634907866597b00bd",
+    "163490787431a0100d",
+    "1634907893f803f2d3",
+    "16353379449714c0e2"
+  ]
+}
