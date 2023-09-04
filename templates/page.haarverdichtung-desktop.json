@@ -24,9 +24,9 @@
           "type": "image",
           "settings": {
             "top_subheading": "",
-            "title": "<h2>Unser Kernwert <\/h2><p><\/p>",
-            "title_size": 74,
-            "subheading": "Haargesundheit und Schonung des Eigenhaars",
+            "title": "<link href=\"https:\/\/fonts.googleapis.com\/css2?family=Italiana&display=swap\" rel=\"stylesheet\">\n\n  <span style=\"font-family: 'Italiana'; font-weight: 700;\">Du wünschst dir eine Haarverdichtung?<\/span>",
+            "title_size": 63,
+            "subheading": "Dann bist du bei uns genau richtig!",
             "link": "#typeform",
             "link_text": "kostenlose beratung",
             "link_2": "#typeform",
@@ -338,7 +338,6 @@
     },
     "1650633786bff38ddb": {
       "type": "advanced-content",
-      "disabled": true,
       "blocks": {
         "1650633786b6ab87c3-0": {
           "type": "image",
@@ -362,6 +361,7 @@
         "1650633786b6ab87c3-0",
         "1650633786b6ab87c3-1"
       ],
+      "disabled": true,
       "settings": {
         "full_width": false,
         "space_around": false
@@ -557,7 +557,6 @@
     },
     "1637605754143b0ca8": {
       "type": "promo-grid",
-      "disabled": true,
       "blocks": {
         "64b120ac-f0a9-4b9f-988e-ec5040c3146a": {
           "type": "image",
@@ -571,6 +570,7 @@
       "block_order": [
         "64b120ac-f0a9-4b9f-988e-ec5040c3146a"
       ],
+      "disabled": true,
       "settings": {
         "full_width": false,
         "gutter_size": 20,
