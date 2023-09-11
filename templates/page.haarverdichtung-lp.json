@@ -27,7 +27,7 @@
             "title": "<link href=\"https:\/\/fonts.googleapis.com\/css2?family=Italiana&display=swap\" rel=\"stylesheet\">\n\n  <span style=\"font-family: 'Italiana'; font-weight: 700;\">Du wünschst eine Haarverdichtung?<\/span>",
             "title_size": 74,
             "subheading": "Dann bist du bei uns genau richtig!",
-            "link": "https:\/\/wa.me\/message\/DU34F36MYD7LM1",
+            "link": "#wp",
             "link_text": "kostenlose beratung",
             "link_2": "",
             "link_text_2": "",
@@ -133,7 +133,7 @@
           "type": "button",
           "settings": {
             "target_blank": false,
-            "link": "https:\/\/wa.me\/message\/DU34F36MYD7LM1",
+            "link": "#wp",
             "link_text": "jetzt beratung buchen"
           }
         },
@@ -161,6 +161,144 @@
         "divider": false,
         "margin_top": false,
         "margin_bottom": false
+      }
+    },
+    "1694434924b204bfdd": {
+      "type": "apps",
+      "blocks": {
+        "45fea7d2-bb95-4c62-b9f4-694d0899c7c1": {
+          "type": "shopify:\/\/apps\/aod-before-after-widget\/blocks\/after-before-final-section\/76f8089d-5150-46ae-8664-0e4ae6d7cd6b",
+          "settings": {
+            "subheading": "Vorher \/ Nachher",
+            "columns_size": 3,
+            "show_box": true,
+            "img_heading": "Blond",
+            "before_image": "shopify:\/\/shop_images\/glaettung.png",
+            "after_image": "shopify:\/\/shop_images\/Balayage_299c6ede-c64e-4ded-adc7-4c77babb4bc4.png",
+            "show_box2": true,
+            "img_heading2": "Brunnet",
+            "before_image2": "shopify:\/\/shop_images\/lisa_vorher.png",
+            "after_image2": "shopify:\/\/shop_images\/lisa_nachher.png",
+            "show_box3": true,
+            "img_heading3": "Dunkel",
+            "before_image3": "shopify:\/\/shop_images\/schwarz_vorher_a426b829-0239-492b-9ed8-5e6c31b6fe0d.png",
+            "after_image3": "shopify:\/\/shop_images\/schwarz_nachher_cf83934e-a2af-4a4d-b532-ad7a2036d00c.png",
+            "beforeafter_font_size": 35,
+            "before_headingsize": 18,
+            "padding": 1,
+            "col_padding": 20,
+            "background_color": "#eeeeee",
+            "color_block": "#000000",
+            "main_heading_color": "#000000",
+            "line_separator_Color": "#ffffff",
+            "Icon_Color": "#ffffff",
+            "arrow_Color": "#333333"
+          }
+        }
+      },
+      "block_order": [
+        "45fea7d2-bb95-4c62-b9f4-694d0899c7c1"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
+    "1664530913fc84995b": {
+      "type": "advanced-content",
+      "blocks": {
+        "166453091366fc6f3b-0": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Hairtalk_e125f33b-0b40-41ad-a5a7-6cd00cc7cd02.jpg",
+            "link": "",
+            "width": "66%",
+            "alignment": "center"
+          }
+        },
+        "166453091366fc6f3b-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<script src=\"https:\/\/apps.elfsight.com\/p\/platform.js\" defer><\/script>\n<div id=\"wp\" class=\"elfsight-app-cac9947b-5af9-4e45-9f90-49b20c82e291\" id=\"whatsapp\"><\/div>",
+            "width": "25%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "166453091366fc6f3b-0",
+        "166453091366fc6f3b-1"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
+    "22efb5ce-5b4a-4b04-8906-cb4b3a80f5c2": {
+      "type": "testimonials",
+      "blocks": {
+        "template--15453872849076__22efb5ce-5b4a-4b04-8906-cb4b3a80f5c2-testimonial-1": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "author": "Author's name",
+            "author_info": "Los Angeles, CA"
+          }
+        },
+        "template--15453872849076__22efb5ce-5b4a-4b04-8906-cb4b3a80f5c2-testimonial-2": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Absolut begeistert mit Haut -äh Herz- und Haaren❤️<br\/>Ich bin so dankbar, endlich einen Salon gefunden zu haben, in dem ich mich zu 100% wohlfühle und nach jahrelanger Suche endlich überglücklich mit dem Ergebnis bin.<\/p>",
+            "author": "Lena",
+            "author_info": "München"
+          }
+        },
+        "template--15453872849076__22efb5ce-5b4a-4b04-8906-cb4b3a80f5c2-testimonial-3": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Ich war schon häufig im Salon der langhaarmädchen und komme jedes Mal wieder ins staunen, wie man eine so wunderschöne Oase voller positiver Energie kreieren kann 😌<\/p>",
+            "author": "Linda",
+            "author_info": "Stuttgart"
+          }
+        },
+        "template--15453872849076__22efb5ce-5b4a-4b04-8906-cb4b3a80f5c2-testimonial-4": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Ich bin auf Empfehlung einer Freundin dorthin gegangen, und es war die beste Entscheidung der Welt! Nach Monaten, in denen ich nur Stress mit meinen Haaren hatte, bin ich so glücklich, dass ich mich für den Langhaarmädchen Salon entschieden habe.<\/p>",
+            "author": "Johanna",
+            "author_info": "München"
+          }
+        },
+        "template--15453872849076__22efb5ce-5b4a-4b04-8906-cb4b3a80f5c2-testimonial-5": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Ich bin einfach in diesem Studio verliebt! Alles ist so liebevoll eingerichtet und man fühlt sich gleich super wohl wenn man das Studio antritt. Das ganze Team ist so lieb und freundlich ABER vor allem waren die Ergebnisse genau so wie ich sie mir vorgestellt habe.<\/p>",
+            "author": "Nathalia",
+            "author_info": "Erding"
+          }
+        }
+      },
+      "block_order": [
+        "template--15453872849076__22efb5ce-5b4a-4b04-8906-cb4b3a80f5c2-testimonial-1",
+        "template--15453872849076__22efb5ce-5b4a-4b04-8906-cb4b3a80f5c2-testimonial-2",
+        "template--15453872849076__22efb5ce-5b4a-4b04-8906-cb4b3a80f5c2-testimonial-3",
+        "template--15453872849076__22efb5ce-5b4a-4b04-8906-cb4b3a80f5c2-testimonial-4",
+        "template--15453872849076__22efb5ce-5b4a-4b04-8906-cb4b3a80f5c2-testimonial-5"
+      ],
+      "settings": {
+        "subtitle": "Was unsere Kunden",
+        "title": "über uns sagen",
+        "align_text": "center",
+        "round_images": true,
+        "image": "shopify:\/\/shop_images\/decor_about_us_6.png",
+        "image_width": 50,
+        "image_position": 50
       }
     },
     "16479487964b071b51": {
@@ -267,37 +405,6 @@
       "type": "main-page",
       "disabled": true,
       "settings": {
-      }
-    },
-    "1664530913fc84995b": {
-      "type": "advanced-content",
-      "blocks": {
-        "166453091366fc6f3b-0": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Hairtalk_e125f33b-0b40-41ad-a5a7-6cd00cc7cd02.jpg",
-            "link": "",
-            "width": "66%",
-            "alignment": "center"
-          }
-        },
-        "166453091366fc6f3b-1": {
-          "type": "liquid",
-          "settings": {
-            "code": "<script src=\"https:\/\/apps.elfsight.com\/p\/platform.js\" defer><\/script>\n<div class=\"elfsight-app-cac9947b-5af9-4e45-9f90-49b20c82e291\" id=\"whatsapp\"><\/div>",
-            "width": "25%",
-            "alignment": "center"
-          }
-        }
-      },
-      "block_order": [
-        "166453091366fc6f3b-0",
-        "166453091366fc6f3b-1"
-      ],
-      "settings": {
-        "full_width": false,
-        "space_around": true
       }
     },
     "164794884227c625c7": {
@@ -470,6 +577,7 @@
     },
     "16349074948fa012fe": {
       "type": "text-and-image",
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/Marina_Nachher.jpg",
         "image2": "shopify:\/\/shop_images\/Marina_Vorher.jpg",
@@ -493,6 +601,7 @@
     },
     "1634907540ba6957b3": {
       "type": "text-and-image",
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/IMG_3454_2.jpg",
         "image2": "shopify:\/\/shop_images\/IMG_3453_2.jpg",
@@ -646,54 +755,19 @@
         "space_below": true,
         "color_text": "main"
       }
-    },
-    "1694434924b204bfdd": {
-      "type": "apps",
-      "blocks": {
-        "45fea7d2-bb95-4c62-b9f4-694d0899c7c1": {
-          "type": "shopify:\/\/apps\/aod-before-after-widget\/blocks\/after-before-final-section\/76f8089d-5150-46ae-8664-0e4ae6d7cd6b",
-          "settings": {
-            "subheading": "Vorher \/ Nachher",
-            "columns_size": 3,
-            "show_box": true,
-            "img_heading": "Add heading",
-            "before_image": "shopify:\/\/shop_images\/glaettung.png",
-            "after_image": "shopify:\/\/shop_images\/Balayage_299c6ede-c64e-4ded-adc7-4c77babb4bc4.png",
-            "show_box2": false,
-            "img_heading2": "Add heading",
-            "show_box3": false,
-            "img_heading3": "Add heading",
-            "beforeafter_font_size": 35,
-            "before_headingsize": 18,
-            "padding": 20,
-            "col_padding": 20,
-            "background_color": "#eeeeee",
-            "color_block": "#000000",
-            "main_heading_color": "#000000",
-            "line_separator_Color": "#ffffff",
-            "Icon_Color": "#ffffff",
-            "arrow_Color": "#333333"
-          }
-        }
-      },
-      "block_order": [
-        "45fea7d2-bb95-4c62-b9f4-694d0899c7c1"
-      ],
-      "settings": {
-        "full_width": false,
-        "space_around": true
-      }
     }
   },
   "order": [
     "16475075815ec4bf82",
     "16349073092065b984",
     "163490746248b9e19e",
+    "1694434924b204bfdd",
+    "1664530913fc84995b",
+    "22efb5ce-5b4a-4b04-8906-cb4b3a80f5c2",
     "16479487964b071b51",
     "1650550827aa9686d7",
     "1650549005713f9a6c",
     "main",
-    "1664530913fc84995b",
     "164794884227c625c7",
     "1650633786bff38ddb",
     "1650531531e8d51d0d",
@@ -705,7 +779,6 @@
     "16376017988340a1c9",
     "16349078470f63730c",
     "7debc93f-ba74-4009-958b-433862104c9d",
-    "1634907866597b00bd",
-    "1694434924b204bfdd"
+    "1634907866597b00bd"
   ]
 }
