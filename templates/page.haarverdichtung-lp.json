@@ -567,30 +567,6 @@
         "image_position": 50
       }
     },
-    "1637605754143b0ca8": {
-      "type": "promo-grid",
-      "blocks": {
-        "64b120ac-f0a9-4b9f-988e-ec5040c3146a": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Salon_Preisliste_11.04.jpg",
-            "link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0285\/6969\/8348\/files\/Salon_Preisliste_11.04_900x.jpg?v=1649664790",
-            "width": "50"
-          }
-        }
-      },
-      "block_order": [
-        "64b120ac-f0a9-4b9f-988e-ec5040c3146a"
-      ],
-      "disabled": true,
-      "settings": {
-        "full_width": false,
-        "gutter_size": 20,
-        "space_above": false,
-        "space_below": true,
-        "color_text": "main"
-      }
-    },
     "16376017988340a1c9": {
       "type": "text-and-image",
       "disabled": true,
@@ -611,46 +587,6 @@
         "divider": false,
         "margin_top": false,
         "margin_bottom": false
-      }
-    },
-    "16349077831e0c599d": {
-      "type": "promo-grid",
-      "blocks": {
-        "4045078a-851e-4712-8e24-fd7eae750b22": {
-          "type": "banner",
-          "disabled": true,
-          "settings": {
-            "heading": "",
-            "text": "",
-            "link": "https:\/\/www.instagram.com\/langhaarmaedchen_salon\/",
-            "label": "Folge uns auf Instagram",
-            "color_tint": "#000000",
-            "color_tint_opacity": 100,
-            "framed": false
-          }
-        },
-        "74896a08-2a3e-474e-af19-412a05a16f5b": {
-          "type": "background",
-          "settings": {
-            "image-left": "shopify:\/\/shop_images\/image_for_esperts.png",
-            "image_left_width": 100,
-            "image_left_position": 60,
-            "image-right": "shopify:\/\/shop_images\/decor_home_2_695dd7ff-ae83-4bc3-a0f9-3c28bca98544.png",
-            "image_right_width": 30,
-            "image_right_position": 0
-          }
-        }
-      },
-      "block_order": [
-        "4045078a-851e-4712-8e24-fd7eae750b22",
-        "74896a08-2a3e-474e-af19-412a05a16f5b"
-      ],
-      "settings": {
-        "full_width": true,
-        "gutter_size": 0,
-        "space_above": false,
-        "space_below": false,
-        "color_text": "second"
       }
     },
     "16349078470f63730c": {
@@ -729,9 +665,7 @@
     "16349074948fa012fe",
     "1634907540ba6957b3",
     "16349076903b384634",
-    "1637605754143b0ca8",
     "16376017988340a1c9",
-    "16349077831e0c599d",
     "16349078470f63730c",
     "7debc93f-ba74-4009-958b-433862104c9d",
     "1634907866597b00bd"
