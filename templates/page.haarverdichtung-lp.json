@@ -29,7 +29,7 @@
             "subheading": "Dann bist du bei uns genau richtig!",
             "link": "#wp",
             "link_text": "kostenlose beratung",
-            "link_2": "",
+            "link_2": "#whatsapp",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
@@ -133,7 +133,7 @@
           "type": "button",
           "settings": {
             "target_blank": false,
-            "link": "#wp",
+            "link": "#whatsapp",
             "link_text": "jetzt beratung buchen"
           }
         },
