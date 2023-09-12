@@ -220,7 +220,7 @@
         "166453091366fc6f3b-1": {
           "type": "liquid",
           "settings": {
-            "code": "<script src=\"https:\/\/apps.elfsight.com\/p\/platform.js\" defer><\/script>\n<div id=\"wp\" class=\"elfsight-app-cac9947b-5af9-4e45-9f90-49b20c82e291\" id=\"whatsapp\"><\/div>",
+            "code": "<script src=\"https:\/\/apps.elfsight.com\/p\/platform.js\" defer><\/script>\n<div class=\"elfsight-app-cac9947b-5af9-4e45-9f90-49b20c82e291\" id=\"whatsapp\"><\/div>",
             "width": "25%",
             "alignment": "center"
           }
@@ -229,6 +229,9 @@
       "block_order": [
         "166453091366fc6f3b-0",
         "166453091366fc6f3b-1"
+      ],
+      "custom_css": [
+
       ],
       "settings": {
         "full_width": false,
