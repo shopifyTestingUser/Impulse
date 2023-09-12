@@ -133,7 +133,7 @@
           "type": "button",
           "settings": {
             "target_blank": false,
-            "link": "#whatsapp",
+            "link": "#wp",
             "link_text": "jetzt beratung buchen"
           }
         },
@@ -220,7 +220,7 @@
         "166453091366fc6f3b-1": {
           "type": "liquid",
           "settings": {
-            "code": "<script src=\"https:\/\/apps.elfsight.com\/p\/platform.js\" defer><\/script>\n<div class=\"elfsight-app-cac9947b-5af9-4e45-9f90-49b20c82e291\" id=\"whatsapp\"><\/div>\n\n<style>\n\/* Nur auf dem Desktop sichtbar *\/\n.whatsapp {\n  display: none;\n}\n\n\/* Nur auf Mobilgeräten sichtbar *\/\n.whatsapp {\n  display: block;\n}\n\n@media screen and (min-width: 768px) {\n  .whatsapp {\n    display: block;\n  }\n  .whatsapp {\n    display: none;\n  }\n}<\/style>",
+            "code": "<script src=\"https:\/\/apps.elfsight.com\/p\/platform.js\" defer><\/script>\n<div class=\"elfsight-app-cac9947b-5af9-4e45-9f90-49b20c82e291\" id=\"wp\"><\/div>\n\n<style>\n\/* Nur auf dem Desktop sichtbar *\/\n.whatsapp {\n  display: none;\n}\n\n\/* Nur auf Mobilgeräten sichtbar *\/\n.whatsapp {\n  display: block;\n}\n\n@media screen and (min-width: 768px) {\n  .whatsapp {\n    display: block;\n  }\n  .whatsapp {\n    display: none;\n  }\n}<\/style>",
             "width": "25%",
             "alignment": "center"
           }
