@@ -243,8 +243,9 @@
           "settings": {
             "icon": "5-stars",
             "testimonial": "<p>Der Friseurbesuch war rundum perfekt! Danke liebe Barbara, für den tollen Haarschnitt und vor allem für deine sehr gute und ausführliche Beratung!<br\/>Ich freue mich jetzt schon auf den nächsten Besuch 🙏🏽<\/p>",
+            "image": "shopify:\/\/shop_images\/avatar_6_21787ff5-7056-436c-a677-62ce4ddb85b7.png",
             "author": "Alessia",
-            "author_info": "Rosenheim"
+            "author_info": "Zürich"
           }
         },
         "template--15453872849076__22efb5ce-5b4a-4b04-8906-cb4b3a80f5c2-testimonial-2": {
@@ -252,6 +253,7 @@
           "settings": {
             "icon": "5-stars",
             "testimonial": "<p>Absolut begeistert mit Haut -äh Herz- und Haaren❤️<br\/>Ich bin so dankbar, endlich einen Salon gefunden zu haben, in dem ich mich zu 100% wohlfühle und nach jahrelanger Suche endlich überglücklich mit dem Ergebnis bin.<\/p>",
+            "image": "shopify:\/\/shop_images\/avatar_5.png",
             "author": "Lena",
             "author_info": "München"
           }
@@ -261,6 +263,7 @@
           "settings": {
             "icon": "5-stars",
             "testimonial": "<p>Ich war schon häufig im Salon der langhaarmädchen und komme jedes Mal wieder ins staunen, wie man eine so wunderschöne Oase voller positiver Energie kreieren kann 😌<\/p>",
+            "image": "shopify:\/\/shop_images\/avatar_4.png",
             "author": "Linda",
             "author_info": "Stuttgart"
           }
@@ -270,6 +273,7 @@
           "settings": {
             "icon": "5-stars",
             "testimonial": "<p>Ich bin auf Empfehlung einer Freundin dorthin gegangen, und es war die beste Entscheidung der Welt! Nach Monaten, in denen ich nur Stress mit meinen Haaren hatte, bin ich so glücklich, dass ich mich für den Langhaarmädchen Salon entschieden habe.<\/p>",
+            "image": "shopify:\/\/shop_images\/avatar_3.png",
             "author": "Johanna",
             "author_info": "München"
           }
@@ -279,6 +283,7 @@
           "settings": {
             "icon": "5-stars",
             "testimonial": "<p>Ich bin einfach in diesem Studio verliebt! Alles ist so liebevoll eingerichtet und man fühlt sich gleich super wohl wenn man das Studio antritt. Das ganze Team ist so lieb und freundlich ABER vor allem waren die Ergebnisse genau so wie ich sie mir vorgestellt habe.<\/p>",
+            "image": "shopify:\/\/shop_images\/avatar_2.png",
             "author": "Nathalia",
             "author_info": "Erding"
           }
