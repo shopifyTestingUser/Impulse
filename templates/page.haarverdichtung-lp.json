@@ -29,7 +29,7 @@
             "subheading": "Dann bist du bei uns genau richtig!",
             "link": "#wp",
             "link_text": "kostenlose beratung",
-            "link_2": "#whatsapp",
+            "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
@@ -126,7 +126,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p><strong>Hey Langhaarmädchen und die, die es werden wollen! 🌸<\/strong><\/p><ul><li>Wir sind dein Salon für Haarverdichtung und Haarverlängerung.<\/li><li>Wir sind offizieller Partner von hairtalk.<\/li><li>Durch unsere Tape-Technik ist  langes, gesundes Haar möglich.<\/li><li>Unsere Kernwerte sind Haargesundheit und Schonung des Eigenhaars.<\/li><li>Unsere Herzensmission ist dir Freude und Selbstbewusstsein durch wunderschönes Haar zu schenken!<\/li><\/ul><p><\/p><p><\/p><p><\/p><p><\/p><p><\/p>"
+            "text": "<p><strong>Hey Langhaarmädchen und die, die es werden wollen! 🌸<\/strong><\/p><ul><li>Wir sind dein Salon für <strong>Haarverdichtung<\/strong> und <strong>Haarverlängerung<\/strong>.<\/li><li>Wir sind offizieller Partner von <strong>Hairtalk<\/strong>.<\/li><li>Durch unsere Tape-Technik ist  <em>langes<\/em>, <em>gesundes<\/em> Haar möglich.<\/li><li>Unsere Kernwerte sind <strong>Haargesundheit<\/strong> und <strong>Schonung<\/strong> des Eigenhaars.<\/li><li>Unsere Herzensmission ist dir <strong>Freude<\/strong> und <strong>Selbstbewusstsein<\/strong> durch wunderschönes Haar zu schenken!<\/li><\/ul><p><\/p><p><\/p><p><\/p><p><\/p><p><\/p>"
           }
         },
         "27193771-10c1-4631-8c71-604006234c2b": {
@@ -153,7 +153,7 @@
         "12dccdf1-2617-42d2-86b5-244daa861c8a"
       ],
       "custom_css": [
-        "li {list-style-type: disc; text-indent: 0px; \/* Move the text to the left *\/}"
+        "li {list-style-type: disc; text-align: left; \/* Align text to the left *\/ text-indent: 0px; \/* Move the text to the left *\/ margin-bottom: 0.5em; \/* Adds space below each list item *\/}"
       ],
       "settings": {
         "align_text": "center",
@@ -220,7 +220,7 @@
         "166453091366fc6f3b-1": {
           "type": "liquid",
           "settings": {
-            "code": "<script src=\"https:\/\/apps.elfsight.com\/p\/platform.js\" defer><\/script>\n<div class=\"elfsight-app-cac9947b-5af9-4e45-9f90-49b20c82e291\" id=\"wp\"><\/div>\n\n<style>\n\/* Nur auf dem Desktop sichtbar *\/\n.whatsapp {\n  display: none;\n}\n\n\/* Nur auf Mobilgeräten sichtbar *\/\n.whatsapp {\n  display: block;\n}\n\n@media screen and (min-width: 768px) {\n  .whatsapp {\n    display: block;\n  }\n  .whatsapp {\n    display: none;\n  }\n}<\/style>",
+            "code": "<script src=\"https:\/\/apps.elfsight.com\/p\/platform.js\" defer><\/script>\n<div class=\"elfsight-app-cac9947b-5af9-4e45-9f90-49b20c82e291\" id=\"whatsapp\"><\/div>\n\n<style>\n\/* Nur auf dem Desktop sichtbar *\/\n.whatsapp {\n  display: none;\n}\n\n\/* Nur auf Mobilgeräten sichtbar *\/\n.whatsapp {\n  display: block;\n}\n\n@media screen and (min-width: 768px) {\n  .whatsapp {\n    display: block;\n  }\n  .whatsapp {\n    display: none;\n  }\n}<\/style>",
             "width": "25%",
             "alignment": "center"
           }
@@ -533,7 +533,7 @@
           "type": "question",
           "settings": {
             "title": "Wie funktioniert genau eine Haarverdichtung mit Hairtalk?",
-            "text": "<p>Die Tape-Extensions von Hairtalk sind besonders haarschonend und bieten eine ausgezeichnete Option für diejenigen, die ihre Haare verlängern oder verdichten möchten, ohne die natürliche Haarstruktur zu beeinträchtigen. Ein Hauptgrund für die Schonung von Haar und Kopfhaut ist die innovative Gestaltung der Klebestellen. Diese sind flach und weich, was nicht nur das Verknoten der Haare minimiert, sondern auch das Risiko von Haarbruch erheblich reduziert.<\/p><p>Die spezielle Klebetechnologie von Hairtalk sorgt dafür, dass die Extensions sicher und fest sitzen, während sie gleichzeitig leicht zu entfernen sind, wenn es an der Zeit für eine Anpassung oder Erneuerung ist. Darüber hinaus sind die Extensions von Hairtalk aus hochwertigem Echthaar gefertigt, was für ein natürliches Aussehen und Gefühl sorgt. Sie sind in verschiedenen Farben und Längen erhältlich, sodass sie leicht an den individuellen Stil angepasst werden können.<\/p><p>Insgesamt bieten die Tape-Extensions von Hairtalk eine hervorragende Balance zwischen Langlebigkeit, Ästhetik und Gesundheit für Ihre Haare. Sie stellen somit eine der besten Alternativen im Bereich der Haarverlängerungen dar.<\/p>"
+            "text": "<p>Die <strong>Tape-Extensions<\/strong> von Hairtalk sind besonders haarschonend und bieten eine <em>ausgezeichnete<\/em> Option für diejenigen, die ihre Haare <strong>verlängern<\/strong> oder <strong>verdichten<\/strong> möchten, ohne die <em>natürliche<\/em> Haarstruktur zu beeinträchtigen. Ein Hauptgrund für die Schonung von Haar und Kopfhaut ist die innovative Gestaltung der <strong>Klebestellen<\/strong>. Diese sind flach und weich, was nicht nur das <em>Verknoten<\/em> der Haare minimiert, sondern auch das Risiko von <em>Haarbruch<\/em> erheblich reduziert.<\/p><p>Die spezielle Klebetechnologie von Hairtalk sorgt dafür, dass die Extensions <strong>sicher und fest<\/strong> sitzen, während sie gleichzeitig leicht zu entfernen sind, wenn es an der Zeit für eine Anpassung oder Erneuerung ist. Darüber hinaus sind die Extensions von Hairtalk aus hochwertigem <strong>Echthaar<\/strong> gefertigt, was für ein natürliches Aussehen und Gefühl sorgt. Sie sind in verschiedenen Farben und Längen erhältlich, sodass sie leicht an den <strong>individuellen<\/strong> <strong>Stil<\/strong> angepasst werden können.<\/p><p>Insgesamt bieten die Tape-Extensions von Hairtalk eine <strong>hervorragende<\/strong> Balance zwischen <strong>Langlebigkeit<\/strong>, <strong>Ästhetik<\/strong> und <strong>Gesundheit<\/strong> für Ihre Haare. Sie stellen somit eine der besten Alternativen im Bereich der Haarverlängerungen dar.<\/p>"
           }
         },
         "template--15453872849076__769532f5-e41a-485f-9d81-6cab11f45e57-question-2": {
@@ -582,6 +582,7 @@
       ],
       "settings": {
         "title": "FAQs",
+        "image": "shopify:\/\/shop_images\/decor_home_4_9a98bc61-4b16-410d-ab0f-e029fa5e4e43.png",
         "image_width": 50,
         "image_position": 50
       }
