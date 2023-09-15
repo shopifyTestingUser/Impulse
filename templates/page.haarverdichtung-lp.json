@@ -27,7 +27,7 @@
             "title": "<link href=\"https:\/\/fonts.googleapis.com\/css2?family=Italiana&display=swap\" rel=\"stylesheet\">\n\n  <span style=\"font-family: 'Italiana'; font-weight: 700;\">Du wünschst eine Haarverdichtung?<\/span>",
             "title_size": 74,
             "subheading": "Dann bist du bei uns genau richtig!",
-            "link": "#wp",
+            "link": "#whatsapp",
             "link_text": "kostenlose beratung",
             "link_2": "",
             "link_text_2": "",
@@ -133,7 +133,7 @@
           "type": "button",
           "settings": {
             "target_blank": false,
-            "link": "#wp",
+            "link": "#whatsapp",
             "link_text": "jetzt beratung buchen"
           }
         },
