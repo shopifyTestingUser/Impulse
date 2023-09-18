@@ -20,6 +20,24 @@
     "16349073092065b984": {
       "type": "slideshow",
       "blocks": {
+        "16349073092065b984-0": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 64,
+            "subheading": "",
+            "link": "#whatsapp",
+            "link_text": "Kostenlose Beratung",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image_mobile": "shopify:\/\/shop_images\/dfca8ef9-e66f-4243-840d-30d76b05d669.jpg",
+            "overlay_opacity": 20,
+            "focal_point": "center center"
+          }
+        },
         "8949461a-e3e2-4b2f-a40f-1c2d65799d70": {
           "type": "image",
           "settings": {
@@ -35,24 +53,6 @@
             "text_align": "vertical-center horizontal-center",
             "image": "shopify:\/\/shop_images\/Hairtalk_e125f33b-0b40-41ad-a5a7-6cd00cc7cd02.jpg",
             "image_mobile": "shopify:\/\/shop_images\/Hairtal_mobilek.jpg",
-            "overlay_opacity": 20,
-            "focal_point": "center center"
-          }
-        },
-        "16349073092065b984-0": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "top_subheading": "",
-            "title": "Willkommen!",
-            "title_size": 64,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
             "overlay_opacity": 20,
             "focal_point": "center center"
           }
@@ -95,8 +95,8 @@
         }
       },
       "block_order": [
-        "8949461a-e3e2-4b2f-a40f-1c2d65799d70",
         "16349073092065b984-0",
+        "8949461a-e3e2-4b2f-a40f-1c2d65799d70",
         "16349073092065b984-1",
         "2e1f389a-1fc2-4990-948a-99f4f6fca46e"
       ],
