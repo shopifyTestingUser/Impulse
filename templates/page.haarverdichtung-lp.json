@@ -238,8 +238,8 @@
     "a0ea17c4-d3cd-4e10-9f7e-211d9ec7cb15": {
       "type": "featured-video",
       "custom_css": [
-        ".youtube-wrapper {position: relative; padding-bottom: 177.77%; \/* 9:16 *\/ padding-top: 30px; height: 0; overflow: hidden;}",
-        ".youtube-wrapper iframe {position: absolute; top: 0; left: 0; width: 100%; height: 100%;}"
+        "#player {position: relative; padding-bottom: 177.77%; \/* 9:16 *\/ height: 0; overflow: hidden;}",
+        "#movie_player {position: absolute; top: 0; left: 0; width: 100%; height: 100%;}"
       ],
       "settings": {
         "title": "",
