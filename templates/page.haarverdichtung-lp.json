@@ -32,7 +32,8 @@
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
+            "text_align": "vertical-bottom horizontal-center",
+            "image": "shopify:\/\/shop_images\/dfca8ef9-e66f-4243-840d-30d76b05d669.jpg",
             "image_mobile": "shopify:\/\/shop_images\/dfca8ef9-e66f-4243-840d-30d76b05d669.jpg",
             "overlay_opacity": 20,
             "focal_point": "center center"
@@ -106,7 +107,7 @@
         "parallax": false,
         "style": "bars",
         "arrows": false,
-        "autoplay": false,
+        "autoplay": true,
         "autoplay_speed": 5
       }
     },
