@@ -235,25 +235,13 @@
         "space_around": true
       }
     },
-    "a0ea17c4-d3cd-4e10-9f7e-211d9ec7cb15": {
-      "type": "featured-video",
-      "custom_css": [
-        "#player {position: relative; padding-bottom: 177.77%; \/* 9:16 *\/ height: 0; overflow: hidden;}",
-        "#movie_player {position: absolute; top: 0; left: 0; width: 100%; height: 100%;}"
-      ],
-      "settings": {
-        "title": "",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=II4YrIFr8wg",
-        "divider": false
-      }
-    },
     "22547503-0c9f-4daa-9100-5c6733ede54a": {
       "type": "advanced-content",
       "blocks": {
         "5f2b5b82-b94a-450f-9442-3c829f6fb47f": {
           "type": "liquid",
           "settings": {
-            "code": "<div class=\"youtube-wrapper\">\n  <iframe src=\"https:\/\/www.youtube.com\/embed\/II4YrIFr8wg?si=yl7Qa5vPdke0Occ3\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen><\/iframe>\n<\/div>",
+            "code": "<div class=\"youtube-wrapper\">\n  <iframe src=\"https:\/\/www.youtube.com\/embed\/II4YrIFr8wg?si=yl7Qa5vPdke0Occ3\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen><\/iframe>\n<\/div>\n\n<style>\n.youtube-wrapper {\n  position: relative;\n  width: 100%;\n  padding-bottom: 56.25%; \/* 16:9 Aspect Ratio *\/\n  height: 0; \n}\n\n.youtube-wrapper iframe {\n  position: absolute;\n  top: 0;\n  left: 0;\n  width: 100%;\n  height: 100%;\n}\n<\/style>",
             "width": "100%",
             "alignment": "center"
           }
@@ -854,7 +842,6 @@
     "163490746248b9e19e",
     "0b859851-fbfd-406f-b481-9b123893cfb6",
     "1694434924b204bfdd",
-    "a0ea17c4-d3cd-4e10-9f7e-211d9ec7cb15",
     "22547503-0c9f-4daa-9100-5c6733ede54a",
     "1664530913fc84995b",
     "f81d400e-3d9d-446f-9e48-4037ce2e9ba1",
