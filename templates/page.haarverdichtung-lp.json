@@ -240,7 +240,6 @@
       "blocks": {
         "2bab60ec-f1e1-4db2-8456-e6e3e1996302": {
           "type": "liquid",
-          "disabled": true,
           "settings": {
             "code": "<h2 align=\"center\">Julia bekommt eine Haarverdichtung<\/h2>",
             "width": "100%",
