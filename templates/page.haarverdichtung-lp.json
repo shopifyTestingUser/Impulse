@@ -250,7 +250,7 @@
         "5f2b5b82-b94a-450f-9442-3c829f6fb47f": {
           "type": "liquid",
           "settings": {
-            "code": "<h2 align=\"center\">Juli bekommt eine Haarverdichtung<\/h2><p><iframe width=\"315\" height=\"560\"\nsrc=\"https:\/\/www.youtube.com\/embed\/II4YrIFr8wg\"\ntitle=\"YouTube video player\" frameborder=\"0\"\nallow=\"accelerometer; autoplay; clipboard-write; encrypted-media;\ngyroscope; picture-in-picture;\nweb-share\"\nallowfullscreen><\/iframe>",
+            "code": "<h2 align=\"center\">Juli bekommt eine Haarverdichtung<\/h2><br><iframe width=\"315\" height=\"560\"\nsrc=\"https:\/\/www.youtube.com\/embed\/II4YrIFr8wg\"\ntitle=\"YouTube video player\" frameborder=\"0\"\nallow=\"accelerometer; autoplay; clipboard-write; encrypted-media;\ngyroscope; picture-in-picture;\nweb-share\"\nallowfullscreen><\/iframe>",
             "width": "100%",
             "alignment": "center"
           }
