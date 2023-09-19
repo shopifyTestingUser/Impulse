@@ -249,7 +249,7 @@
         "5f2b5b82-b94a-450f-9442-3c829f6fb47f": {
           "type": "liquid",
           "settings": {
-            "code": "<div class=\"outer-container\">\n<div class=\"video-container\">\n        <iframe width=\"315\" height=\"560\" src=\"https:\/\/www.youtube.com\/embed\/0afZj1G0BIE\" frameborder=\"0\" allowfullscreen><\/iframe>\n<\/div>\n<br>\n    \n<\/div>",
+            "code": "<blockquote class=\"imgur-embed-pub\" lang=\"en\" data-id=\"a\/ZGC232Z\" data-context=\"false\" ><a href=\"\/\/imgur.com\/a\/ZGC232Z\"><\/a><\/blockquote><script async src=\"\/\/s.imgur.com\/min\/embed.js\" charset=\"utf-8\"><\/script>",
             "width": "100%",
             "alignment": "center"
           }
@@ -269,8 +269,9 @@
         "a547255d-c42a-49a5-a3e4-b3cb229495dc"
       ],
       "custom_css": [
-        ".youtube-wrapper {position: relative; padding-bottom: 177.77%; \/* 9:16 *\/ padding-top: 30px; height: 0; overflow: hidden;}",
-        ".youtube-wrapper iframe {position: absolute; top: 0; left: 0; width: 100%; height: 100%;}"
+        ".outer-container {width: 100%;}",
+        ".video-container {position: relative; padding-bottom: 56.25%; padding-top: 35px; height: 0; overflow: hidden;}",
+        ".video-container iframe {position: absolute; top: 0; left: 0; width: 100%; height: 560px;}"
       ],
       "settings": {
         "full_width": false,
