@@ -249,7 +249,7 @@
         "5f2b5b82-b94a-450f-9442-3c829f6fb47f": {
           "type": "liquid",
           "settings": {
-            "code": "<div class=\"outer-container\">\n<div class=\"video-container\">\n        <iframe width=\"560\" height=\"315\" src=\"https:\/\/www.youtube.com\/embed\/0afZj1G0BIE\" frameborder=\"0\" allowfullscreen><\/iframe>\n<\/div>\n<br>\n    <div class=\"video-container\">\n           <iframe width=\"560\" height=\"315\" src=\"https:\/\/www.youtube.com\/embed\/0afZj1G0BIE\" frameborder=\"0\" allowfullscreen><\/iframe>\n    <\/div>\n<\/div>\n\n<style>\n    .outer-container{\n        width:100%\n    }\n    .video-container {\n        position: relative;\n        padding-bottom: 56.25%;\n        padding-top: 35px;\n        height: 0;\n        overflow: hidden;\n    }\n    .video-container iframe {\n        position: absolute;\n        top:0;\n        left: 0;\n        width: 100%;\n        height: 100%;\n    }\n    <\/style>",
+            "code": "<div class=\"outer-container\">\n<div class=\"video-container\">\n        <iframe width=\"315\" height=\"560\" src=\"https:\/\/www.youtube.com\/embed\/0afZj1G0BIE\" frameborder=\"0\" allowfullscreen><\/iframe>\n<\/div>\n<br>\n    \n<\/div>",
             "width": "100%",
             "alignment": "center"
           }
