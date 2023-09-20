@@ -204,8 +204,8 @@
             "columns_size": 3,
             "show_box": true,
             "img_heading": "Blond",
-            "before_image": "shopify:\/\/shop_images\/dunkelblond_vorher.png",
-            "after_image": "shopify:\/\/shop_images\/dunkelblond_nachher.png",
+            "before_image": "shopify:\/\/shop_images\/julia_vorher.png",
+            "after_image": "shopify:\/\/shop_images\/julia_nachher.png",
             "show_box2": true,
             "img_heading2": "Brunnet",
             "before_image2": "shopify:\/\/shop_images\/lisa_vorher.png",
@@ -249,7 +249,7 @@
         "5f2b5b82-b94a-450f-9442-3c829f6fb47f": {
           "type": "liquid",
           "settings": {
-            "code": "<div style=\"width: 320px; height: 560px; position: relative; align: center; padding: 15px\">\n    <video id=\"myVideo\" style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%;\" controls>\n        <source src=\"https:\/\/i.imgur.com\/9EQbNSs.mp4\" type=\"video\/mp4\">\n    <\/video>\n<\/div>",
+            "code": "<center><div style=\"width: 320px; height: 560px; position: relative; align: center; padding: 15px\">\n    <video id=\"myVideo\" style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%;\" controls>\n        <source src=\"https:\/\/i.imgur.com\/9EQbNSs.mp4\" type=\"video\/mp4\">\n    <\/video>\n<\/div><\/center>",
             "width": "100%",
             "alignment": "center"
           }
