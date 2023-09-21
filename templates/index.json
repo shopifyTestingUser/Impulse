@@ -169,7 +169,6 @@
     },
     "promo-grid": {
       "type": "promo-grid",
-      "disabled": true,
       "blocks": {
         "promo-0": {
           "type": "advanced",
@@ -226,6 +225,7 @@
         "promo-0",
         "promo-1"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "gutter_size": 0,
@@ -268,7 +268,6 @@
     },
     "1634914413444a0acc": {
       "type": "promo-grid",
-      "disabled": true,
       "blocks": {
         "bd246b77-f1dc-4968-ac80-f6200fb27e61": {
           "type": "custom_sale_collection",
@@ -303,6 +302,7 @@
         "bd246b77-f1dc-4968-ac80-f6200fb27e61",
         "020474bf-8b58-4a85-b9b6-d0500d057b72"
       ],
+      "disabled": true,
       "settings": {
         "full_width": false,
         "gutter_size": 20,
@@ -323,7 +323,6 @@
     },
     "promo-grid2": {
       "type": "promo-grid",
-      "disabled": true,
       "blocks": {
         "promo2-0": {
           "type": "advanced",
@@ -354,6 +353,7 @@
       "block_order": [
         "promo2-0"
       ],
+      "disabled": true,
       "settings": {
         "full_width": false,
         "gutter_size": 0,
@@ -375,6 +375,7 @@
     },
     "8830c760-bbb4-436a-80a1-b28531cb369e": {
       "type": "text-and-image",
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/Mutpaket_Website.png",
         "image_position": "left-top",
@@ -426,7 +427,7 @@
       "type": "apps",
       "blocks": {
         "2a1ca891-f6cd-49e5-8132-e60379d84d8b": {
-          "type": "shopify:\/\/apps\/instafeed-instagram-feed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "type": "shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
           "settings": {
             "heading_size": 20,
             "feed_width": 100,
