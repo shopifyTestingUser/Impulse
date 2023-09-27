@@ -204,7 +204,7 @@
             "subheading": "Vorher \/ Nachher",
             "columns_size": 3,
             "show_box": true,
-            "img_heading": "Slider nach rechts oder links bewegen<br><b>Blond<b><\/b><\/b>",
+            "img_heading": "Slider nach rechts oder links bewegen<br><b>Blond<\/b>",
             "before_image": "shopify:\/\/shop_images\/julia_vorher.png",
             "after_image": "shopify:\/\/shop_images\/julia_nachher.png",
             "show_box2": true,
@@ -223,8 +223,8 @@
             "color_block": "#000000",
             "main_heading_color": "#000000",
             "line_separator_Color": "#ffffff",
-            "Icon_Color": "#ffffff",
-            "arrow_Color": "#333333"
+            "Icon_Color": "#1c1d1d",
+            "arrow_Color": "#ffffff"
           }
         }
       },
