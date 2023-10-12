@@ -160,6 +160,46 @@
         "margin_bottom": false
       }
     },
+    "1697106554f15fc133": {
+      "type": "apps",
+      "blocks": {
+        "23b3c7d2-f13c-40e4-87c5-6e4903bbe19d": {
+          "type": "shopify:\/\/apps\/aod-before-after-widget\/blocks\/after-before-final-section\/76f8089d-5150-46ae-8664-0e4ae6d7cd6b",
+          "settings": {
+            "subheading": "Vorher-Nachher  <br>Slider nach rechts und links verschieben<br>",
+            "columns_size": 3,
+            "show_box": true,
+            "img_heading": "Brunnete",
+            "before_image": "shopify:\/\/shop_images\/lisa_vorher.png",
+            "after_image": "shopify:\/\/shop_images\/lisa_nachher.png",
+            "show_box2": true,
+            "img_heading2": "Blond",
+            "before_image2": "shopify:\/\/shop_images\/julia_vorher.png",
+            "after_image2": "shopify:\/\/shop_images\/julia_nachher.png",
+            "show_box3": true,
+            "img_heading3": "Schwarz",
+            "before_image3": "shopify:\/\/shop_images\/schwarz_vorher_a426b829-0239-492b-9ed8-5e6c31b6fe0d.png",
+            "after_image3": "shopify:\/\/shop_images\/schwarz_nachher_cf83934e-a2af-4a4d-b532-ad7a2036d00c.png",
+            "after_before_button": "",
+            "link_block": "",
+            "beforeafter_font_size": 35,
+            "before_headingsize": 18,
+            "padding": 20,
+            "col_padding": 20,
+            "background_color": "#eeeeee",
+            "color_block": "#000000",
+            "main_heading_color": "#000000"
+          }
+        }
+      },
+      "block_order": [
+        "23b3c7d2-f13c-40e4-87c5-6e4903bbe19d"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
     "1664530913fc84995b": {
       "type": "advanced-content",
       "blocks": {
@@ -704,6 +744,7 @@
     "16475075815ec4bf82",
     "16349073092065b984",
     "163490746248b9e19e",
+    "1697106554f15fc133",
     "1664530913fc84995b",
     "164794884227c625c7",
     "1650550827aa9686d7",
