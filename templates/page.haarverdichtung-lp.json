@@ -180,7 +180,7 @@
         "7fb28783-e37f-4dd0-a60b-ab47e995f8e0": {
           "type": "liquid",
           "settings": {
-            "code": "<!--Paste or enter you HTML code here-->\n<!--Your code will execute only after page publication-->\n<hr class=\"hr16\">\n<p class=\"colored-text\"><\/p>\n \n<script>\n\/*Paste or enter you JavaScript code here*\/\n<\/script>\n\n<style>\n   .colored-text {\n  color: rgb(28, 28, 28);\n  font-size: 16px;\n}\n\/* Style 16 - Pulse Animation *\/\n.hr16 {\n  border: 0;\n  height: 1px;\n  background: #c48376;\n  animation: pulse 4s infinite;\n}\n\n@keyframes pulse {\n  0% { opacity: 1; }\n  50% { opacity: 0.2; }\n  100% { opacity: 1; }\n}\n\n<\/style>",
+            "code": "<!--Paste or enter you HTML code here-->\n<!--Your code will execute only after page publication-->\n<hr class=\"hr16\">\n<p class=\"colored-text\"><\/p>\n <div class=\"elfsight-app-e10111d8-34ac-4a3e-8951-eeada945fb45\" data-elfsight-app-lazy><\/div>\n<script>\n\/*Paste or enter you JavaScript code here*\/\n<\/script>\n\n<style>\n   .colored-text {\n  color: rgb(28, 28, 28);\n  font-size: 16px;\n}\n\/* Style 16 - Pulse Animation *\/\n.hr16 {\n  border: 0;\n  height: 1px;\n  background: #c48376;\n  animation: pulse 4s infinite;\n}\n\n@keyframes pulse {\n  0% { opacity: 1; }\n  50% { opacity: 0.2; }\n  100% { opacity: 1; }\n}\n\n<\/style>",
             "width": "100%",
             "alignment": "center"
           }
@@ -229,6 +229,9 @@
       },
       "block_order": [
         "45fea7d2-bb95-4c62-b9f4-694d0899c7c1"
+      ],
+      "custom_css": [
+
       ],
       "settings": {
         "full_width": false,
