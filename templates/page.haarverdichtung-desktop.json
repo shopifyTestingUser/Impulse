@@ -172,23 +172,23 @@
             "img_heading": "Brunnete",
             "before_image": "shopify:\/\/shop_images\/lisa_vorher.png",
             "after_image": "shopify:\/\/shop_images\/lisa_nachher.png",
+            "text_before": "",
+            "text_after": "",
             "show_box2": true,
             "img_heading2": "Blond",
             "before_image2": "shopify:\/\/shop_images\/julia_vorher.png",
             "after_image2": "shopify:\/\/shop_images\/julia_nachher.png",
+            "text_before3": "",
+            "text_after3": "",
             "show_box3": true,
             "img_heading3": "Schwarz",
             "before_image3": "shopify:\/\/shop_images\/schwarz_vorher_a426b829-0239-492b-9ed8-5e6c31b6fe0d.png",
             "after_image3": "shopify:\/\/shop_images\/schwarz_nachher_cf83934e-a2af-4a4d-b532-ad7a2036d00c.png",
+            "text_before2": "",
+            "text_after2": "",
             "after_before_button": "",
             "link_block": "",
-            "beforeafter_font_size": 35,
-            "before_headingsize": 18,
-            "padding": 20,
-            "col_padding": 20,
-            "background_color": "#eeeeee",
-            "color_block": "#000000",
-            "main_heading_color": "#000000"
+            "padding": 20
           }
         }
       },
@@ -197,26 +197,6 @@
       ],
       "settings": {
         "full_width": false,
-        "space_around": true
-      }
-    },
-    "1664530913fc84995b": {
-      "type": "advanced-content",
-      "blocks": {
-        "166453091366fc6f3b-1": {
-          "type": "liquid",
-          "settings": {
-            "code": "<div data-tf-widget=\"EOWYkHNy\" data-tf-opacity=\"100\" data-tf-iframe-props=\"title=Anfrage Haarverdichtung\" data-tf-transitive-search-params data-tf-medium=\"snippet\" style=\"width:75%;height:630px;margin-left:12%\" id=\"typeform\"><\/div><script src=\"\/\/embed.typeform.com\/next\/embed.js\"><\/script>",
-            "width": "100%",
-            "alignment": "center"
-          }
-        }
-      },
-      "block_order": [
-        "166453091366fc6f3b-1"
-      ],
-      "settings": {
-        "full_width": true,
         "space_around": true
       }
     },
@@ -244,7 +224,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<h5>Lass' dich von unseren Expertinnen beraten. Es ist völlig unverbindlich & kostenlos. <\/h5><p><strong>1)<\/strong> Schreibe uns eine Whatsapp Nachricht.<\/p><p><strong>2) <\/strong>Sende uns eine Selfie von deinen Haaren und eine kurze Sprachnachricht, was du dir wünschst<\/p><p><strong>3)<\/strong> Wir melden uns bei für ein kostenloses Beratungsgespräch <\/p><p>Wir freuen uns auf DICH!<\/p>"
+            "text": "<h5>Lass' dich von unseren Expertinnen beraten. Es ist völlig unverbindlich & kostenlos. <\/h5><p><strong>1)<\/strong> Schreibe uns eine Whatsapp Nachricht.<\/p><p><strong>2) <\/strong>Sende uns eine Selfie von deinen Haaren und eine kurze Sprachnachricht, was du dir wünschst<\/p><p><strong>3)<\/strong> Wir melden uns bei dir für ein kostenloses Beratungsgespräch <\/p><p>Wir freuen uns auf DICH!<\/p>"
           }
         },
         "5d9b17b2-98e6-4e75-9e43-e718df2de7f1": {
@@ -745,7 +725,6 @@
     "16349073092065b984",
     "163490746248b9e19e",
     "1697106554f15fc133",
-    "1664530913fc84995b",
     "164794884227c625c7",
     "1650550827aa9686d7",
     "1650549005713f9a6c",
