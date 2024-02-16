@@ -128,7 +128,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<h3><strong>Hey Langhaarmädchen und die, die es werden wollen! <\/strong>🧡<\/h3><ul><li>Wir sind dein Salon für <strong>Haarverdichtung<\/strong> und <strong>Haarverlängerung<\/strong>.<\/li><li>Wir sind offizieller Partner von <strong>Hairtalk<\/strong>.<\/li><li>Durch unsere Tape-Technik ist  <em>langes<\/em>, <em>gesundes<\/em> Haar möglich.<\/li><li>Unsere Kernwerte sind <strong>Haargesundheit<\/strong> und <strong>Schonung<\/strong> des Eigenhaars.<\/li><li>Unsere Herzensmission ist dir <strong>Freude<\/strong> und <strong>Selbstbewusstsein<\/strong> durch wunderschönes Haar zu schenken!<\/li><\/ul><p><\/p><p><\/p><p><\/p><p><\/p><p><\/p>"
+            "text": "<h3><strong>Hey Langhaarmädchen und die, die es werden wollen! <\/strong>🧡<\/h3><ul><li>Wir sind dein Salon für <strong>Haarverdichtung<\/strong> und <strong>Haarverlängerung in München<\/strong>.<\/li><li>Wir sind offizieller Partner von <strong>Hairtalk<\/strong>.<\/li><li>Durch unsere Tape-Technik ist  <em>langes<\/em>, <em>gesundes<\/em> Haar möglich.<\/li><li>Unsere Kernwerte sind <strong>Haargesundheit<\/strong> und <strong>Schonung<\/strong> des Eigenhaars.<\/li><li>Unsere Herzensmission ist dir <strong>Freude<\/strong> und <strong>Selbstbewusstsein<\/strong> durch wunderschönes Haar zu schenken! Buche deinen <strong>kostenlosen Beratungstermin<\/strong> jetzt über <strong>Whatsapp<\/strong>.<\/li><\/ul><p><\/p><p><\/p><p><\/p><p><\/p><p><\/p>"
           }
         },
         "27193771-10c1-4631-8c71-604006234c2b": {
@@ -201,7 +201,7 @@
         "45fea7d2-bb95-4c62-b9f4-694d0899c7c1": {
           "type": "shopify:\/\/apps\/aod-before-after-widget\/blocks\/after-before-final-section\/76f8089d-5150-46ae-8664-0e4ae6d7cd6b",
           "settings": {
-            "subheading": "Vorher-Nachher  Slider nach rechts und links verschieben",
+            "subheading": "<b>Vorher-Nachher  Slider nach rechts und links verschieben<\/b>",
             "columns_size": 3,
             "show_box": true,
             "img_heading": "Blond",
@@ -210,7 +210,7 @@
             "text_before": "",
             "text_after": "",
             "show_box2": true,
-            "img_heading2": "Brunnet",
+            "img_heading2": "Brünette",
             "before_image2": "shopify:\/\/shop_images\/lisa_vorher.png",
             "after_image2": "shopify:\/\/shop_images\/lisa_nachher.png",
             "text_before3": "",
@@ -647,7 +647,7 @@
         "1650633786b6ab87c3-1": {
           "type": "liquid",
           "settings": {
-            "code": "<!--Paste or enter you HTML code here-->\n<!--Your code will execute only after page publication-->\n<hr class=\"hr16\">\n<p class=\"colored-text\"><\/p>\n <a href=\"#Whatsapp\">Whatsapp<\/a>\n<script>\n\/*Paste or enter you JavaScript code here*\/\n<\/script>\n\n<style>\n   .colored-text {\n  color: rgb(28, 28, 28);\n  font-size: 16px;\n}\n\/* Style 16 - Pulse Animation *\/\n.hr16 {\n  border: 0;\n  height: 1px;\n  background: #c48376;\n  animation: pulse 4s infinite;\n}\n\n@keyframes pulse {\n  0% { opacity: 1; }\n  50% { opacity: 0.2; }\n  100% { opacity: 1; }\n}\n\n<\/style>",
+            "code": "<!--Paste or enter you HTML code here-->\n<!--Your code will execute only after page publication-->\n<hr class=\"hr16\">\n<p class=\"colored-text\"><\/p>\n <a href=\"#Whatsapp\"><\/a>\n<script>\n\/*Paste or enter you JavaScript code here*\/\n<\/script>\n\n<style>\n   .colored-text {\n  color: rgb(28, 28, 28);\n  font-size: 16px;\n}\n\/* Style 16 - Pulse Animation *\/\n.hr16 {\n  border: 0;\n  height: 1px;\n  background: #c48376;\n  animation: pulse 4s infinite;\n}\n\n@keyframes pulse {\n  0% { opacity: 1; }\n  50% { opacity: 0.2; }\n  100% { opacity: 1; }\n}\n\n<\/style>",
             "width": "100%",
             "alignment": "center"
           }
@@ -683,7 +683,7 @@
           "type": "question",
           "settings": {
             "title": "Was kostet eine Haarverdichtung bei euch?",
-            "text": "<p>Die Kosten für eine Haarverdichtung können variieren, abhängig von verschiedenen Faktoren wie der Länge und Dichte deiner eigenen Haare sowie der Qualität und Menge der Extensions, die du wählst. Es ist jedoch möglich, bei uns eine Haarverdichtung bereits ab 350 € zu erhalten. Dieses Angebot ermöglicht es dir, deinem Haar mehr Volumen und Fülle zu verleihen, ohne dein Budget zu sprengen.<\/p><p>Für eine genaue Preisgestaltung empfehlen wir jedoch immer, eine persönliche Beratung in Anspruch zu nehmen. So können wir sicherstellen, dass du genau das Ergebnis erhältst, das du dir wünschst, und können ein individuelles Angebot erstellen, das auf deine Bedürfnisse zugeschnitten ist.<\/p><p>Kurz gesagt, eine Haarverdichtung bei uns ist flexibel und kann an verschiedene Budgets angepasst werden, wobei Optionen bereits ab 350 € verfügbar sind.<\/p>"
+            "text": "<p>Die Kosten für eine Haarverdichtung können <strong>variieren<\/strong>, abhängig von verschiedenen Faktoren wie der <strong>Länge <\/strong>und <strong>Dichte <\/strong>deiner eigenen Haare sowie der <strong>Qualität <\/strong>und <strong>Menge <\/strong>der Extensions, die du wählst. Es ist jedoch möglich, bei uns eine Haarverdichtung bereits ab <strong>350 €<\/strong> zu erhalten. Dieses Angebot ermöglicht es dir, deinem Haar mehr <strong>Volumen <\/strong>und <strong>Fülle <\/strong>zu verleihen, ohne dein Budget zu sprengen.<\/p><p>Für eine genaue Preisgestaltung empfehlen wir jedoch immer, eine <strong>persönliche Beratung<\/strong> in Anspruch zu nehmen. So können wir sicherstellen, dass du <strong>genau <\/strong>das Ergebnis erhältst, das du dir wünschst, und können ein <strong>individuelles Angebot<\/strong> erstellen, das auf deine <strong>Bedürfnisse <\/strong>zugeschnitten ist.<\/p><p>Kurz gesagt, eine Haarverdichtung bei uns ist flexibel und kann an verschiedene Budgets angepasst werden, wobei Optionen bereits ab 350 € verfügbar sind.<\/p>"
           }
         },
         "d43b20ce-f588-4ebd-8449-4c9809ab634b": {

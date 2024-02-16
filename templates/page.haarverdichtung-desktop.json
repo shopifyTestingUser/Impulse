@@ -126,7 +126,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p><strong>Hey Langhaarmädchen und die, die es werden wollen! 🌸<\/strong><\/p><ul><li>Wir sind dein Salon für Haarverdichtung und Haarverlängerung.<\/li><li>Wir sind offizieller Partner von hairtalk.<\/li><li>Durch unsere Tape-Technik ist  langes, gesundes Haar möglich.<\/li><li>Unsere Kernwerte sind Haargesundheit und Schonung des Eigenhaars.<\/li><li>Unsere Herzensmission ist dir Freude und Selbstbewusstsein durch wunderschönes Haar zu schenken!<\/li><\/ul><p><\/p><p><\/p><p><\/p><p><\/p><p><\/p>"
+            "text": "<h3><strong>Hey Langhaarmädchen und die, die es werden wollen! 🌸<\/strong><\/h3><ul><li>Wir sind dein Salon für <strong>Haarverdichtung <\/strong>und <strong>Haarverlängerung<\/strong>.<\/li><li>Wir sind <strong>offizieller Partner <\/strong>von hairtalk.<\/li><li>Durch unsere Tape-Technik ist  <strong>langes<\/strong>, <strong>gesundes <\/strong>Haar möglich.<\/li><li>Unsere Kernwerte sind <strong>Haargesundheit <\/strong>und <strong>Schonung des Eigenhaars<\/strong>.<\/li><li>Unsere Herzensmission ist dir <strong>Freude <\/strong>und <strong>Selbstbewusstsein <\/strong>durch wunderschönes Haar zu schenken!<\/li><\/ul><p><\/p><p><\/p><p><\/p><p><\/p><p><\/p>"
           }
         },
         "27193771-10c1-4631-8c71-604006234c2b": {
@@ -166,10 +166,10 @@
         "23b3c7d2-f13c-40e4-87c5-6e4903bbe19d": {
           "type": "shopify:\/\/apps\/aod-before-after-widget\/blocks\/after-before-final-section\/76f8089d-5150-46ae-8664-0e4ae6d7cd6b",
           "settings": {
-            "subheading": "Vorher-Nachher  <br>Slider nach rechts und links verschieben<br>",
+            "subheading": "<b>Vorher-Nachher  Slider nach rechts und links verschieben<\/b>",
             "columns_size": 3,
             "show_box": true,
-            "img_heading": "Brunnete",
+            "img_heading": "Brünette",
             "before_image": "shopify:\/\/shop_images\/lisa_vorher.png",
             "after_image": "shopify:\/\/shop_images\/lisa_nachher.png",
             "text_before": "",
@@ -224,7 +224,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<h5>Lass' dich von unseren Expertinnen beraten. Es ist völlig unverbindlich & kostenlos. <\/h5><p><strong>1)<\/strong> Schreibe uns eine Whatsapp Nachricht.<\/p><p><strong>2) <\/strong>Sende uns eine Selfie von deinen Haaren und eine kurze Sprachnachricht, was du dir wünschst<\/p><p><strong>3)<\/strong> Wir melden uns bei dir für ein kostenloses Beratungsgespräch <\/p><p>Wir freuen uns auf DICH!<\/p>"
+            "text": "<h3><strong>Lass' dich von unseren Expertinnen beraten. Es ist völlig unverbindlich & kostenlos. <\/strong><\/h3><p><strong>1)<\/strong> Schreibe uns eine Whatsapp Nachricht.<\/p><p><strong>2) <\/strong>Sende uns eine Selfie von deinen Haaren und eine kurze Sprachnachricht, was du dir wünschst.<\/p><p><strong>3)<\/strong> Wir melden uns bei dir für ein kostenloses Beratungsgespräch. <\/p><p>Wir freuen uns auf DICH!<\/p>"
           }
         },
         "5d9b17b2-98e6-4e75-9e43-e718df2de7f1": {
@@ -432,7 +432,7 @@
         "1634908162416e3f0b-0": {
           "type": "heading",
           "settings": {
-            "title": "Du hast noch fragen? Wir rufen dich gerne zurück.",
+            "title": "Du hast noch Fragen? Wir rufen dich gerne zurück.",
             "image_width": 50,
             "image_position": 50
           }
