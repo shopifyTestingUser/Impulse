@@ -27,7 +27,7 @@
             "title": "<link href=\"https:\/\/fonts.googleapis.com\/css2?family=Italiana&display=swap\" rel=\"stylesheet\">\n\n  <span style=\"font-family: 'Italiana'; font-weight: 700;\">Du wünschst dir eine Haarverdichtung?<\/span>",
             "title_size": 63,
             "subheading": "Dann bist du bei uns genau richtig!",
-            "link": "#typeform",
+            "link": "#calendly",
             "link_text": "kostenlose beratung",
             "link_2": "#typeform",
             "link_text_2": "",
@@ -133,7 +133,7 @@
           "type": "button",
           "settings": {
             "target_blank": false,
-            "link": "#typeform",
+            "link": "#calendly",
             "link_text": "jetzt beratung buchen"
           }
         },
@@ -371,8 +371,8 @@
         "1650633786b6ab87c3-1": {
           "type": "liquid",
           "settings": {
-            "code": "<div id=\"cal\"><\/div>",
-            "width": "33%",
+            "code": "<!-- Calendly Inline-Widget Beginn -->\n<div id=\"calendly\" class=\"calendly-inline-widget\" data-url=\"https:\/\/calendly.com\/langhaarmaedchen\/whatsapp-beratung\" style=\"min-width:320px;height:700px;\"><\/div>\n<script type=\"text\/javascript\" src=\"https:\/\/assets.calendly.com\/assets\/external\/widget.js\" async><\/script>\n<!-- Calendly Inline-Widget Ende -->",
+            "width": "100%",
             "alignment": "center"
           }
         }
@@ -381,7 +381,6 @@
         "1650633786b6ab87c3-0",
         "1650633786b6ab87c3-1"
       ],
-      "disabled": true,
       "settings": {
         "full_width": false,
         "space_around": false
@@ -414,6 +413,7 @@
         "16505315315fcd04c2-0",
         "16505315315fcd04c2-1"
       ],
+      "disabled": true,
       "settings": {
         "full_width": false,
         "space_around": false
