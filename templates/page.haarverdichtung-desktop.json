@@ -361,8 +361,8 @@
       "blocks": {
         "1650633786b6ab87c3-0": {
           "type": "image",
-          "disabled": true,
           "settings": {
+            "image": "shopify:\/\/shop_images\/facetime_mona.png",
             "link": "",
             "width": "50%",
             "alignment": "center"
@@ -372,7 +372,7 @@
           "type": "liquid",
           "settings": {
             "code": "<!-- Calendly Inline-Widget Beginn -->\n<div id=\"calendly\" class=\"calendly-inline-widget\" data-url=\"https:\/\/calendly.com\/langhaarmaedchen\/whatsapp-beratung\" style=\"min-width:320px;height:700px;\"><\/div>\n<script type=\"text\/javascript\" src=\"https:\/\/assets.calendly.com\/assets\/external\/widget.js\" async><\/script>\n<!-- Calendly Inline-Widget Ende -->",
-            "width": "100%",
+            "width": "50%",
             "alignment": "center"
           }
         }
