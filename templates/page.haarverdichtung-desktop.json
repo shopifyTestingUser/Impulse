@@ -250,6 +250,36 @@
         "margin_bottom": false
       }
     },
+    "1650633786bff38ddb": {
+      "type": "advanced-content",
+      "blocks": {
+        "1650633786b6ab87c3-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/facetime_mona.png",
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "1650633786b6ab87c3-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<!-- Calendly Inline-Widget Beginn -->\n<div id=\"calendly\" class=\"calendly-inline-widget\" data-url=\"https:\/\/calendly.com\/langhaarmaedchen\/whatsapp-beratung\" style=\"min-width:320px;height:700px;\"><\/div>\n<script type=\"text\/javascript\" src=\"https:\/\/assets.calendly.com\/assets\/external\/widget.js\" async><\/script>\n<!-- Calendly Inline-Widget Ende -->",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "1650633786b6ab87c3-0",
+        "1650633786b6ab87c3-1"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": false
+      }
+    },
     "1650550827aa9686d7": {
       "type": "rich-text",
       "blocks": {
@@ -354,36 +384,6 @@
       "type": "main-page",
       "disabled": true,
       "settings": {
-      }
-    },
-    "1650633786bff38ddb": {
-      "type": "advanced-content",
-      "blocks": {
-        "1650633786b6ab87c3-0": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/facetime_mona.png",
-            "link": "",
-            "width": "50%",
-            "alignment": "center"
-          }
-        },
-        "1650633786b6ab87c3-1": {
-          "type": "liquid",
-          "settings": {
-            "code": "<!-- Calendly Inline-Widget Beginn -->\n<div id=\"calendly\" class=\"calendly-inline-widget\" data-url=\"https:\/\/calendly.com\/langhaarmaedchen\/whatsapp-beratung\" style=\"min-width:320px;height:700px;\"><\/div>\n<script type=\"text\/javascript\" src=\"https:\/\/assets.calendly.com\/assets\/external\/widget.js\" async><\/script>\n<!-- Calendly Inline-Widget Ende -->",
-            "width": "50%",
-            "alignment": "center"
-          }
-        }
-      },
-      "block_order": [
-        "1650633786b6ab87c3-0",
-        "1650633786b6ab87c3-1"
-      ],
-      "settings": {
-        "full_width": false,
-        "space_around": false
       }
     },
     "1650531531e8d51d0d": {
@@ -726,11 +726,11 @@
     "163490746248b9e19e",
     "1697106554f15fc133",
     "164794884227c625c7",
+    "1650633786bff38ddb",
     "1650550827aa9686d7",
     "1650549005713f9a6c",
     "16479487964b071b51",
     "main",
-    "1650633786bff38ddb",
     "1650531531e8d51d0d",
     "1634908162416e3f0b",
     "16349081684b16f546",
