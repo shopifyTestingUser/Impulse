@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "16475075815ec4bf82": {
@@ -320,7 +329,7 @@
         "64b120ac-f0a9-4b9f-988e-ec5040c3146a": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Preisliste_Stand_1.April_e0075d69-0b9f-4c7f-901a-d6dfd446c4ca.png",
+            "image": "shopify:\/\/shop_images\/Preisliste_Stand_1._Juli_fuer_Website.png",
             "link": "",
             "width": "100"
           }
