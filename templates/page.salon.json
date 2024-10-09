@@ -16,10 +16,10 @@
         "title_size": 48,
         "subheading": "Besuch uns in München",
         "link_text": "TERMIN BUCHEN",
-        "link": "https:\/\/www.e-cut.de\/online-buchung\/index.php?salon=langhaarmaedchen_nersingen",
+        "link": "https://www.e-cut.de/online-buchung/index.php?salon=langhaarmaedchen_nersingen",
         "color_accent": "rgba(0,0,0,0)",
         "text_align": "vertical-bottom horizontal-center",
-        "video_url": "https:\/\/youtu.be\/7KpYR3jA20M",
+        "video_url": "https://youtu.be/7KpYR3jA20M",
         "overlay_opacity": 30,
         "section_height": "650px",
         "mobile_height": "auto"
@@ -41,7 +41,7 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/49A3099.jpg",
+            "image": "shopify://shop_images/49A3099.jpg",
             "overlay_opacity": 20,
             "focal_point": "center center"
           }
@@ -59,7 +59,7 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/49A3398.jpg",
+            "image": "shopify://shop_images/49A3398.jpg",
             "overlay_opacity": 20,
             "focal_point": "center center"
           }
@@ -77,7 +77,7 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/49A3207.jpg",
+            "image": "shopify://shop_images/49A3207.jpg",
             "overlay_opacity": 20,
             "focal_point": "center center"
           }
@@ -96,7 +96,7 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/49A3220.jpg",
+            "image": "shopify://shop_images/49A3220.jpg",
             "overlay_opacity": 0,
             "focal_point": "center center"
           }
@@ -132,7 +132,7 @@
           "type": "heading",
           "settings": {
             "title": "Unser Service für dich",
-            "image": "shopify:\/\/shop_images\/Vector.png",
+            "image": "shopify://shop_images/Vector.png",
             "image_width": 0,
             "image_position": 29
           }
@@ -141,7 +141,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Hey Herzensmensch!<\/p><p>Herzlich willkommen in unserem ersten Langhaarmädchen Salon in München! Unser nächster Traum ist wahr geworden! Bei uns geht’s um deine Schönheit von innen & außen! <\/p><p><\/p><p><\/p><p><\/p><p><\/p><p><\/p>"
+            "text": "<p>Hey Herzensmensch!</p><p>Herzlich willkommen in unserem ersten Langhaarmädchen Salon in München! Unser nächster Traum ist wahr geworden! Bei uns geht’s um deine Schönheit von innen & außen! </p><p></p><p></p><p></p><p></p><p></p>"
           }
         },
         "27193771-10c1-4631-8c71-604006234c2b": {
@@ -149,7 +149,7 @@
           "disabled": true,
           "settings": {
             "target_blank": true,
-            "link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0285\/6969\/8348\/files\/Salon_Preisliste_neu.jpg?v=1637742860",
+            "link": "https://cdn.shopify.com/s/files/1/0285/6969/8348/files/Salon_Preisliste_neu.jpg?v=1637742860",
             "link_text": "Preisliste herunterladen"
           }
         },
@@ -158,7 +158,7 @@
           "disabled": true,
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Wir freuen uns auf deinen Anruf: <a href=\"tel:089-21528933\" title=\"tel:089-21528933\"><strong>089-21528933 <\/strong><\/a><\/p><p>Adresse:<\/p><p><a href=\"https:\/\/www.google.de\/maps\/place\/Kaiserstra%C3%9Fe+45,+M%C3%BCnchen\/@48.0504751,11.7103485,15z\/data=!4m5!3m4!1s0x479e75c697a0a553:0xa35b4aec031d8371!8m2!3d48.1610349!4d11.578951\" target=\"_blank\" title=\"Adresse Langhaarmädchen Salon\">Kaiserstrasse 45<br\/>80801 München<\/a><\/p>"
+            "text": "<p>Wir freuen uns auf deinen Anruf: <a href=\"tel:089-21528933\" title=\"tel:089-21528933\"><strong>089-21528933 </strong></a></p><p>Adresse:</p><p><a href=\"https://www.google.de/maps/place/Kaiserstra%C3%9Fe+45,+M%C3%BCnchen/@48.0504751,11.7103485,15z/data=!4m5!3m4!1s0x479e75c697a0a553:0xa35b4aec031d8371!8m2!3d48.1610349!4d11.578951\" target=\"_blank\" title=\"Adresse Langhaarmädchen Salon\">Kaiserstrasse 45<br/>80801 München</a></p>"
           }
         }
       },
@@ -179,21 +179,20 @@
     "16349074948fa012fe": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/49A3099_22337862-81c0-4de8-ad0d-c144813e4b11.jpg",
-        "image2": "shopify:\/\/shop_images\/49A3220.jpg",
+        "image": "shopify://shop_images/49A3099_22337862-81c0-4de8-ad0d-c144813e4b11.jpg",
+        "image2": "shopify://shop_images/49A3220.jpg",
         "image_position": "left-bottom",
         "image_bg_color": "#f8e6d4",
-        "image_bg": "shopify:\/\/shop_images\/Frame_106.png",
+        "image_bg": "shopify://shop_images/Frame_106.png",
         "subtitle": "",
         "title": "Komm uns besuchen",
         "another_text": false,
-        "text": "<p>Dich erwarten unsere eigens entwickelten dm liebt Langhaarmädchen Haarpflegeprodukte und die dazugehörige Herzensberatung. Wir hoffen du kannst deine Zeit bei uns nutzen, durch unsere Storytellingwand über deine Träume nachzudenken und bei uns Mut & Inspirationen zu tanken!<\/p>",
+        "text": "<p>Dich erwarten unsere eigens entwickelten dm liebt Langhaarmädchen Haarpflegeprodukte und die dazugehörige Herzensberatung. Wir hoffen du kannst deine Zeit bei uns nutzen, durch unsere Storytellingwand über deine Träume nachzudenken und bei uns Mut & Inspirationen zu tanken!</p>",
         "button_label": "TERMIN ANFRAGEN",
-        "button_link": "https:\/\/www.e-cut.de\/online-buchung\/index.php?salon=langhaarmaedchen_nersingen",
+        "button_link": "https://www.e-cut.de/online-buchung/index.php?salon=langhaarmaedchen_nersingen",
         "button_style": "primary",
         "align_text": "left",
         "layout": "right",
-        "text_image_bg": "shopify:\/\/shop_images\/decor_salon_1_17a622e0-7ec2-4d49-9b73-4ea7f38c4b76.png",
         "divider": false,
         "margin_top": false,
         "margin_bottom": false
@@ -202,21 +201,20 @@
     "1634907540ba6957b3": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/49A3375.jpg",
-        "image2": "shopify:\/\/shop_images\/salon_portrait.jpg",
+        "image": "shopify://shop_images/49A3375.jpg",
+        "image2": "shopify://shop_images/salon_portrait.jpg",
         "image_position": "left-bottom",
         "image_bg_color": "#f6dad6",
-        "image_bg": "shopify:\/\/shop_images\/Frame_106_1.png",
+        "image_bg": "shopify://shop_images/Frame_106_1.png",
         "subtitle": "",
         "title": "Wir sind für dich da",
         "another_text": false,
-        "text": "<p>Wir sind in unserem Salon spezialisiert auf lange Haare, Haarverdichtung, Balayage und Keratinglättung! Alles was dich und deine langen Haare glücklich macht! Genieße in unserer Wellness-Oase, umringt von Traumfängern, Zeit für dich und lass' deine Seele baumeln! <\/p><p>Du musst es selbst erleben! Höchste Qualität, Good Vibes, ehrliche Gespräche oder einfach Ruhe für dich! Mona und unser Friseurmeister Team freuen sich unendlich auf dich! Fühl dich fest gedrückt und bis bald!!<\/p>",
+        "text": "<p>Wir sind in unserem Salon spezialisiert auf lange Haare, Haarverdichtung, Balayage und Keratinglättung! Alles was dich und deine langen Haare glücklich macht! Genieße in unserer Wellness-Oase, umringt von Traumfängern, Zeit für dich und lass' deine Seele baumeln! </p><p>Du musst es selbst erleben! Höchste Qualität, Good Vibes, ehrliche Gespräche oder einfach Ruhe für dich! Mona und unser Friseurmeister Team freuen sich unendlich auf dich! Fühl dich fest gedrückt und bis bald!!</p>",
         "button_label": "TERMIN ANFRAGEN",
-        "button_link": "https:\/\/www.e-cut.de\/online-buchung\/index.php?salon=langhaarmaedchen_nersingen",
+        "button_link": "https://www.e-cut.de/online-buchung/index.php?salon=langhaarmaedchen_nersingen",
         "button_style": "primary",
         "align_text": "left",
         "layout": "left",
-        "text_image_bg": "shopify:\/\/shop_images\/decor_salon_2.png",
         "divider": false,
         "margin_top": false,
         "margin_bottom": false
@@ -229,36 +227,36 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify:\/\/shop_images\/Miriam.png",
+            "image": "shopify://shop_images/Miriam.png",
             "title": "Haarverdichtung",
             "price": "ab 350 €",
-            "text": "<p>Du vermisst Volumen und eine Haarpracht, mit der du dich so richtig wohlfühlst?! Wir<br\/>liiieben natürliche Haarverdichtungen, arbeiten seit 8 Jahren mit den besten Tape Extensions von hairtalk und werden dir damit ganz neue Haar-Träume ermöglichen!<\/p>",
+            "text": "<p>Du vermisst Volumen und eine Haarpracht, mit der du dich so richtig wohlfühlst?! Wir<br/>liiieben natürliche Haarverdichtungen, arbeiten seit 8 Jahren mit den besten Tape Extensions von hairtalk und werden dir damit ganz neue Haar-Träume ermöglichen!</p>",
             "button_label": "JETZT BUCHEN",
-            "button_link": "https:\/\/www.langhaarmaedchen.de\/pages\/haarverdichtung-landingpage"
+            "button_link": "https://www.langhaarmaedchen.de/pages/haarverdichtung-landingpage"
           }
         },
         "16349076903b384634-1": {
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify:\/\/shop_images\/Balayage.png",
+            "image": "shopify://shop_images/Balayage.png",
             "title": "Balayage",
             "price": "250 €",
-            "text": "<p>Du suchst eine Haarfarbe die deine Persönlichkeit widerspiegelt, die lange hält und fließend rauswächst? Lass dich am Telefon ganz persönlich beraten oder wünsche dir einen Facetime Call von uns!<\/p><p><\/p>",
+            "text": "<p>Du suchst eine Haarfarbe die deine Persönlichkeit widerspiegelt, die lange hält und fließend rauswächst? Lass dich am Telefon ganz persönlich beraten oder wünsche dir einen Facetime Call von uns!</p><p></p>",
             "button_label": "JETZT BUCHEN",
-            "button_link": "https:\/\/www.e-cut.de\/online-buchung\/index.php?salon=langhaarmaedchen_nersingen"
+            "button_link": "https://www.e-cut.de/online-buchung/index.php?salon=langhaarmaedchen_nersingen"
           }
         },
         "16349076903b384634-2": {
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify:\/\/shop_images\/glaettung.png",
+            "image": "shopify://shop_images/glaettung.png",
             "title": "Keratinglättung",
             "price": "380 €",
-            "text": "<p>Du kommst mit deinem Frizz nicht klar? Du wünschst dir eine Beruhigung deiner Struktur<br\/>oder endlich ganz glatte Haare ohne viel Aufwand? Die schonendste Keratinglättung findest du bei uns! Wir kümmern uns um deine Träume!<\/p>",
+            "text": "<p>Du kommst mit deinem Frizz nicht klar? Du wünschst dir eine Beruhigung deiner Struktur<br/>oder endlich ganz glatte Haare ohne viel Aufwand? Die schonendste Keratinglättung findest du bei uns! Wir kümmern uns um deine Träume!</p>",
             "button_label": "JETZT BUCHEN",
-            "button_link": "https:\/\/www.e-cut.de\/online-buchung\/index.php?salon=langhaarmaedchen_nersingen"
+            "button_link": "https://www.e-cut.de/online-buchung/index.php?salon=langhaarmaedchen_nersingen"
           }
         }
       },
@@ -273,14 +271,6 @@
         "divider": false,
         "image_width": 50,
         "image_position": 50
-      }
-    },
-    "16479487964b071b51": {
-      "type": "featured-video",
-      "settings": {
-        "title": "",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=GJUhvQLphsk",
-        "divider": false
       }
     },
     "164794884227c625c7": {
@@ -298,14 +288,14 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Lass Dich in unserem schönen Salon verwöhnen & verwirkliche deinen Traum vom langen und vollen Haar.<\/p>"
+            "text": "<p>Lass Dich in unserem schönen Salon verwöhnen & verwirkliche deinen Traum vom langen und vollen Haar.</p>"
           }
         },
         "8a3100e4-7c38-4c48-aa67-4202145908af": {
           "type": "button",
           "settings": {
             "target_blank": true,
-            "link": "https:\/\/www.langhaarmaedchen.de\/pages\/haarverdichtung-landingpage#whatsapp",
+            "link": "https://www.langhaarmaedchen.de/pages/haarverdichtung-landingpage#whatsapp",
             "link_text": "Kostenlose Beratung buchen"
           }
         }
@@ -329,8 +319,8 @@
         "64b120ac-f0a9-4b9f-988e-ec5040c3146a": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Preisliste_Stand_29._Juli.png",
-            "link": "https:\/\/langhaarmaedchen.sharepoint.com\/:b:\/s\/LanghaarmdchenSalonGmbH\/EdGdN9shqitMvGfkS5b8C18Bq822q9RrNPMlEcC4uLspuw?e=DVhUEF",
+            "image": "shopify://shop_images/Preisliste_Stand_29._Juli.png",
+            "link": "https://langhaarmaedchen.sharepoint.com/:b:/s/LanghaarmdchenSalonGmbH/EdGdN9shqitMvGfkS5b8C18Bq822q9RrNPMlEcC4uLspuw?e=DVhUEF",
             "width": "100"
           }
         }
@@ -350,19 +340,19 @@
       "type": "text-and-image",
       "disabled": true,
       "settings": {
-        "image": "shopify:\/\/shop_images\/WhatsApp_Image_2021-11-22_at_16.42.32.jpg",
+        "image": "shopify://shop_images/WhatsApp_Image_2021-11-22_at_16.42.32.jpg",
         "image_position": "left-bottom",
         "image_bg_color": "rgba(0,0,0,0)",
         "subtitle": "",
         "title": "Unser Service für dich",
         "another_text": false,
-        "text": "<p>Wir freuen uns auf deinen Anruf: <strong>089-21528933<\/strong><\/p>",
+        "text": "<p>Wir freuen uns auf deinen Anruf: <strong>089-21528933</strong></p>",
         "button_label": "Preisliste herunterladen",
-        "button_link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0285\/6969\/8348\/files\/WhatsApp_Image_2021-11-22_at_16.42.32.jpg?v=1637588627",
+        "button_link": "https://cdn.shopify.com/s/files/1/0285/6969/8348/files/WhatsApp_Image_2021-11-22_at_16.42.32.jpg?v=1637588627",
         "button_style": "primary",
         "align_text": "left",
         "layout": "left",
-        "text_image_bg": "shopify:\/\/shop_images\/decor_home_2_1.png",
+        "text_image_bg": "shopify://shop_images/decor_home_2_1.png",
         "divider": false,
         "margin_top": false,
         "margin_bottom": false
@@ -377,7 +367,7 @@
           "settings": {
             "heading": "",
             "text": "",
-            "link": "https:\/\/www.instagram.com\/langhaarmaedchen_salon\/",
+            "link": "https://www.instagram.com/langhaarmaedchen_salon/",
             "label": "Folge uns auf Instagram",
             "color_tint": "#000000",
             "color_tint_opacity": 100,
@@ -387,10 +377,10 @@
         "74896a08-2a3e-474e-af19-412a05a16f5b": {
           "type": "background",
           "settings": {
-            "image-left": "shopify:\/\/shop_images\/image_for_esperts.png",
+            "image-left": "shopify://shop_images/image_for_esperts.png",
             "image_left_width": 100,
             "image_left_position": 60,
-            "image-right": "shopify:\/\/shop_images\/decor_home_2_695dd7ff-ae83-4bc3-a0f9-3c28bca98544.png",
+            "image-right": "shopify://shop_images/decor_home_2_695dd7ff-ae83-4bc3-a0f9-3c28bca98544.png",
             "image_right_width": 30,
             "image_right_position": 0
           }
@@ -437,7 +427,7 @@
         "1bb5e329-0ca1-4b8b-8843-aea4d62207a9": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/49A1192_2_2_1.png",
+            "image": "shopify://shop_images/49A1192_2_2_1.png",
             "link": "",
             "width": "100"
           }
@@ -458,7 +448,7 @@
       "type": "image-with-description",
       "disabled": true,
       "settings": {
-        "image": "shopify:\/\/shop_images\/julia_1.png",
+        "image": "shopify://shop_images/julia_1.png",
         "title": "Roby",
         "text": "Unsere Salonleitung und Master Stylistin Roberta überzeugt mit ihrem Temperament und ganz viel Amore für ihr Handwerk.",
         "swap": false,
@@ -472,7 +462,7 @@
       "type": "image-with-description",
       "disabled": true,
       "settings": {
-        "image": "shopify:\/\/shop_images\/mona_1.png",
+        "image": "shopify://shop_images/mona_1.png",
         "title": "Mona",
         "text": "Spezialisiert auf Haarverdichtung.",
         "swap": true,
@@ -486,10 +476,10 @@
       "type": "background-image",
       "disabled": true,
       "settings": {
-        "image-left": "shopify:\/\/shop_images\/decor_home_6_2.png",
+        "image-left": "shopify://shop_images/decor_home_6_2.png",
         "image_left_width": 28,
         "image_left_position": 10,
-        "image-right": "shopify:\/\/shop_images\/decor_home_8.png",
+        "image-right": "shopify://shop_images/decor_home_8.png",
         "image_right_width": 27,
         "image_right_position": 0
       }
@@ -559,7 +549,6 @@
     "16349074948fa012fe",
     "1634907540ba6957b3",
     "16349076903b384634",
-    "16479487964b071b51",
     "164794884227c625c7",
     "1637605754143b0ca8",
     "16376017988340a1c9",
