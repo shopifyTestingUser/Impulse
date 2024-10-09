@@ -94,7 +94,7 @@
         "f7c44fa5-2e65-4a6c-93e3-b7b3b2f3cf2d"
       ],
       "settings": {
-        "enable_sidebar": true,
+        "enable_sidebar": false,
         "collapsed": true,
         "space_above": true,
         "space_below": true,
