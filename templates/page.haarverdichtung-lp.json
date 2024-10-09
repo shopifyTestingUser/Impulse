@@ -414,9 +414,8 @@
         "title": "über uns sagen",
         "align_text": "center",
         "round_images": true,
-        "image": "shopify://shop_images/decor_about_us_6.png",
-        "image_width": 50,
-        "image_position": 50
+        "image_width": 100,
+        "image_position": 100
       }
     },
     "b0878882-b4c3-475f-a01b-fcb70122366a": {
