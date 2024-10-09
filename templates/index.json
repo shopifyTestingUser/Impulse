@@ -315,9 +315,8 @@
     "1635337190cc65ddaf": {
       "type": "background-image",
       "settings": {
-        "image-left": "shopify://shop_images/decor_home_3.png",
         "image_left_width": 100,
-        "image_left_position": 19,
+        "image_left_position": 53,
         "image_right_width": 20,
         "image_right_position": 0
       }
