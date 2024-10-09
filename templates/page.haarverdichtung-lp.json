@@ -437,14 +437,6 @@
         "image_position": 50
       }
     },
-    "16479487964b071b51": {
-      "type": "featured-video",
-      "settings": {
-        "title": "",
-        "video_url": "https://youtu.be/4Zre3VfMh-k",
-        "divider": false
-      }
-    },
     "b0878882-b4c3-475f-a01b-fcb70122366a": {
       "type": "advanced-content",
       "blocks": {
@@ -627,7 +619,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Lass' dich von unserer Gründerin und Expertinnen kostenlos über Whatsapp und Video Chat beraten. Dein Beratungstermin ist völlig unverbindlich & kostenlos. </p><h3><strong>Dein Beratungsgespräch in nur 3 Schritten:</strong></h3><p></p><p><strong>1)</strong> Schreib uns eine WhatsApp Nachricht oder <a href=\"tel:+4915231308711\" title=\"tel:+4915231308711\">rufe  📞   </a>uns an</p><p><strong>2) </strong>Sende uns eine Selfie von deinen Haaren und eine kurze Sprachnachricht, was du dir wünschst</p><p><strong>3)</strong> Wir melden uns bei dir für ein kostenloses Beratungsgespräch </p><h5>Wir freuen uns auf DICH!</h5>"
+            "text": "<p>Lass' dich von unserer Gründerin und Expertinnen kostenlos über Whatsapp und Video Chat beraten. Dein Beratungstermin ist völlig unverbindlich & kostenlos. </p><h3><strong>Dein Beratungsgespräch in nur 3 Schritten:</strong></h3><p></p><p><strong>1)</strong> Schreib uns eine WhatsApp Nachricht oder <a href=\"tel:+4915231308711\" title=\"tel:+4915231308711\">rufe  📞    </a>uns an</p><p><strong>2) </strong>Sende uns eine Selfie von deinen Haaren und eine kurze Sprachnachricht, was du dir wünschst</p><p><strong>3)</strong> Wir melden uns bei dir für ein kostenloses Beratungsgespräch </p><h5>Wir freuen uns auf DICH!</h5>"
           }
         },
         "5d9b17b2-98e6-4e75-9e43-e718df2de7f1": {
@@ -871,7 +863,6 @@
     "1664530913fc84995b",
     "f81d400e-3d9d-446f-9e48-4037ce2e9ba1",
     "22efb5ce-5b4a-4b04-8906-cb4b3a80f5c2",
-    "16479487964b071b51",
     "b0878882-b4c3-475f-a01b-fcb70122366a",
     "1650550827aa9686d7",
     "1650549005713f9a6c",
