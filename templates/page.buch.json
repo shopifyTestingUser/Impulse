@@ -513,7 +513,7 @@
             "image": "shopify://shop_images/Clipboard03.jpg",
             "link": "",
             "width": "33%",
-            "alignment": "bottom-middle"
+            "alignment": "top-middle"
           }
         },
         "c6015b93-99db-4f38-9909-cab05a0bf9e5": {
@@ -551,7 +551,7 @@
             "image": "shopify://shop_images/haarbertung_bild.jpg",
             "link": "",
             "width": "50%",
-            "alignment": "center"
+            "alignment": "top-middle"
           }
         }
       },
