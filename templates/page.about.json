@@ -135,14 +135,6 @@
         "margin_bottom": true
       }
     },
-    "163482516833cd4adb": {
-      "type": "title-with-instagram",
-      "settings": {
-        "title": "Join us in Instagram @lhm",
-        "align_text": "center",
-        "margin_top": true
-      }
-    },
     "16353258166a19b026": {
       "type": "background-image",
       "settings": {
@@ -151,6 +143,14 @@
         "image-right": "shopify://shop_images/IMG_9698.png",
         "image_right_width": 11,
         "image_right_position": 100
+      }
+    },
+    "163482516833cd4adb": {
+      "type": "title-with-instagram",
+      "settings": {
+        "title": "INSTAGRAM",
+        "align_text": "center",
+        "margin_top": false
       }
     },
     "16352555490f72562e": {
@@ -189,7 +189,7 @@
     "1634908297f953607d": {
       "type": "find-more-on",
       "settings": {
-        "text": "Besuche uns auf",
+        "text": "",
         "margin_top": false,
         "margin_bottom": false
       }
@@ -326,8 +326,8 @@
     "1637579099ee41e176",
     "1637579228e83d5a15",
     "16348250262b8f3a96",
-    "163482516833cd4adb",
     "16353258166a19b026",
+    "163482516833cd4adb",
     "16352555490f72562e",
     "1635325843a670c318",
     "1634908297f953607d",
