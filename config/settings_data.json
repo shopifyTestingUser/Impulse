@@ -195,7 +195,7 @@
       "newsletter-popup": {
         "type": "newsletter-popup",
         "settings": {
-          "mode": "disabled",
+          "mode": "testing",
           "popup_seconds": 5,
           "popup_days": 30,
           "popup_title": "Langhaarmädchen Newsletter",
