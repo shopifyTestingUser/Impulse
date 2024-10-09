@@ -1,13 +1,14 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
-    "16348201304e0aefe8": {
-      "type": "announcement-bar",
-      "settings": {
-        "text": "<p>Erlebe unsere Langhaarmädchen Philosophie & Expertise hautnah! Besuche <a href=\"\/pages\/salon\" title=\"Salon\">unseren Langhaarmädchen Salon<\/a> in München!<\/p>",
-        "margin_top": false,
-        "margin_bottom": false
-      }
-    },
     "1647507061504d8042": {
       "type": "slideshow",
       "blocks": {
@@ -24,7 +25,7 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/49A3099_22337862-81c0-4de8-ad0d-c144813e4b11.jpg",
+            "image": "shopify://shop_images/49A3099_22337862-81c0-4de8-ad0d-c144813e4b11.jpg",
             "overlay_opacity": 20,
             "focal_point": "center center"
           }
@@ -42,7 +43,7 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/49A3398.jpg",
+            "image": "shopify://shop_images/49A3398.jpg",
             "overlay_opacity": 20,
             "focal_point": "center center"
           }
@@ -60,7 +61,7 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/49A3207_00c697ed-b4f3-4086-9812-aa5fe1ba3574.jpg",
+            "image": "shopify://shop_images/49A3207_00c697ed-b4f3-4086-9812-aa5fe1ba3574.jpg",
             "overlay_opacity": 20,
             "focal_point": "center center"
           }
@@ -89,10 +90,10 @@
         "title_size": 48,
         "subheading": "Besuch uns in München",
         "link_text": "TERMIN BUCHEN",
-        "link": "https:\/\/www.e-cut.de\/online-buchung\/index.php?salon=langhaarmaedchen_nersingen",
+        "link": "https://www.e-cut.de/online-buchung/index.php?salon=langhaarmaedchen_nersingen",
         "color_accent": "#f8e6d4",
         "text_align": "vertical-bottom horizontal-center",
-        "video_url": "https:\/\/youtu.be\/7KpYR3jA20M",
+        "video_url": "https://youtu.be/7KpYR3jA20M",
         "overlay_opacity": 30,
         "section_height": "550px",
         "mobile_height": "auto"
@@ -113,21 +114,21 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Langhaarmädchen ist, wer sich als Langhaarmädchen fühlt!<\/p><p>Herzlich Willkommen in unserer Welt!<\/p>"
+            "text": "<p>Langhaarmädchen ist, wer sich als Langhaarmädchen fühlt!</p><p>Herzlich Willkommen in unserer Welt!</p>"
           }
         },
         "d6a1f4c2-aff6-40e9-962e-4ecdbfad5478": {
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p><\/p><p>Schau dich auf unsere Seite um und lerne unsere <strong>Produkte <\/strong>und unsere <strong>Werte <\/strong>kennen oder komm uns direkt im Herzen von München besuchen. <\/p>"
+            "text": "<p></p><p>Schau dich auf unsere Seite um und lerne unsere <strong>Produkte </strong>und unsere <strong>Werte </strong>kennen oder komm uns direkt im Herzen von München besuchen. </p>"
           }
         },
         "1d1a4f28-2bfc-46ab-a2de-0b7d5b37f9db": {
           "type": "button",
           "settings": {
             "target_blank": true,
-            "link": "shopify:\/\/pages\/salon",
+            "link": "shopify://pages/salon",
             "link_text": "zum Langhaarmädchen Salon"
           }
         }
@@ -149,16 +150,16 @@
     "2fe94816-9daa-4943-9440-66b7a4df3464": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/Clipboard02.jpg",
+        "image": "shopify://shop_images/Clipboard02.jpg",
         "image_position": "left-bottom",
         "image_bg_color": "#f8e6d4",
-        "image_bg": "shopify:\/\/shop_images\/decor_home_4_9a98bc61-4b16-410d-ab0f-e029fa5e4e43.png",
+        "image_bg": "shopify://shop_images/decor_home_4_9a98bc61-4b16-410d-ab0f-e029fa5e4e43.png",
         "subtitle": "",
         "title": "Mutig ist das neue Schön",
         "another_text": false,
-        "text": "<p><\/p><p><strong>HALLO DU HERZENSMENSCH!<\/strong><\/p><p>Willkommen in unserer Langhaarmädchen-Buchwelt & schön dass du da bist!<br\/><br\/>Hier warten ganz viele spannende Einblicke in \"Mutig ist das neue Schön\" und damit verbundene Herzensempfehlungen und persönliche Botschaften auf dich!<br\/><br\/>Viel Freude, Genuss, Wachstum &<br\/>Gänsehaut-Momente wünschen wir dir! <\/p><p><strong>Deine Langhaarmädchen Mona & Julia<\/strong><\/p>",
+        "text": "<p></p><p><strong>HALLO DU HERZENSMENSCH!</strong></p><p>Willkommen in unserer Langhaarmädchen-Buchwelt & schön dass du da bist!<br/><br/>Hier warten ganz viele spannende Einblicke in \"Mutig ist das neue Schön\" und damit verbundene Herzensempfehlungen und persönliche Botschaften auf dich!<br/><br/>Viel Freude, Genuss, Wachstum &<br/>Gänsehaut-Momente wünschen wir dir! </p><p><strong>Deine Langhaarmädchen Mona & Julia</strong></p>",
         "button_label": "BUCH JETZT BESTELLEN",
-        "button_link": "https:\/\/amzn.to\/40LzTAt",
+        "button_link": "https://amzn.to/40LzTAt",
         "button_style": "primary",
         "align_text": "left",
         "layout": "right",
@@ -178,11 +179,11 @@
             "textarea": "",
             "overlay_opacity": 0,
             "cta_text1": "dm.de",
-            "cta_link1": "https:\/\/www.dm.de\/search?query=Langhaarm%C3%A4dchen&searchType=product&brandName=Langhaarm%C3%A4dchen",
+            "cta_link1": "https://www.dm.de/search?query=Langhaarm%C3%A4dchen&searchType=product&brandName=Langhaarm%C3%A4dchen",
             "cta_text2": "",
             "cta_link2": "",
-            "image": "shopify:\/\/shop_images\/DM_loves_us_image_c8a8c435-1add-4d1c-ae78-62d886ada757.png",
-            "image_inner": "shopify:\/\/shop_images\/image.png",
+            "image": "shopify://shop_images/DM_loves_us_image_c8a8c435-1add-4d1c-ae78-62d886ada757.png",
+            "image_inner": "shopify://shop_images/image.png",
             "video_url": "",
             "width": "50",
             "height": 800,
@@ -203,11 +204,11 @@
             "textarea": "",
             "overlay_opacity": 0,
             "cta_text1": "Neueröffnung",
-            "cta_link1": "shopify:\/\/pages\/salon",
+            "cta_link1": "shopify://pages/salon",
             "cta_text2": "",
             "cta_link2": "",
-            "image": "shopify:\/\/shop_images\/to_the_catalog_image.png",
-            "image_inner": "shopify:\/\/shop_images\/49A0498_2.png",
+            "image": "shopify://shop_images/to_the_catalog_image.png",
+            "image_inner": "shopify://shop_images/49A0498_2.png",
             "video_url": "",
             "width": "50",
             "height": 720,
@@ -237,10 +238,10 @@
     "1635324531ff360720": {
       "type": "background-image",
       "settings": {
-        "image-left": "shopify:\/\/shop_images\/1.png",
+        "image-left": "shopify://shop_images/1.png",
         "image_left_width": 15,
         "image_left_position": 11,
-        "image-right": "shopify:\/\/shop_images\/decor_home_2.png",
+        "image-right": "shopify://shop_images/decor_home_2.png",
         "image_right_width": 30,
         "image_right_position": 0
       }
@@ -261,7 +262,7 @@
         "height": 510,
         "margin_top": false,
         "margin_bottom": false,
-        "image": "shopify:\/\/shop_images\/Vector.png",
+        "image": "shopify://shop_images/Vector.png",
         "image_width": 0,
         "image_position": 50
       }
@@ -273,7 +274,7 @@
           "type": "custom_sale_collection",
           "settings": {
             "custom_sale_collection": "boxes",
-            "image": "shopify:\/\/shop_images\/Julia_Mona_freigestellt_1.png",
+            "image": "shopify://shop_images/Julia_Mona_freigestellt_1.png",
             "middle_text": "Über uns",
             "bottom_text": "Wir sind Mona & Julia. Friseurmeisterinnen, Gründerinnen und Freundinnen, die gerne groß träumen.",
             "width": "50",
@@ -287,7 +288,7 @@
           "type": "custom_sale_collection",
           "settings": {
             "custom_sale_collection": "",
-            "image": "shopify:\/\/shop_images\/Julia_Mona_weisse_Mauer_1_1.png",
+            "image": "shopify://shop_images/Julia_Mona_weisse_Mauer_1_1.png",
             "middle_text": "",
             "bottom_text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
             "width": "50",
@@ -314,7 +315,7 @@
     "1635337190cc65ddaf": {
       "type": "background-image",
       "settings": {
-        "image-left": "shopify:\/\/shop_images\/decor_home_3.png",
+        "image-left": "shopify://shop_images/decor_home_3.png",
         "image_left_width": 100,
         "image_left_position": 19,
         "image_right_width": 20,
@@ -332,11 +333,11 @@
             "textarea": "Zur Eröffnung unseres Salons gibt es für euch die limitierte Salon Box im Wert von 50€ für 19.95€! Das ideale Weihnachtsgeschenk für dich & deine Mädels!",
             "overlay_opacity": 30,
             "cta_text1": "zum onlineshop",
-            "cta_link1": "shopify:\/\/collections\/all",
+            "cta_link1": "shopify://collections/all",
             "cta_text2": "",
             "cta_link2": "",
-            "image": "shopify:\/\/shop_images\/20211118_133725457_iOS.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/20211118_133725457_iOS_1296x_1_68b9fcc1-c321-4052-80cd-2bdd6f30cd8e.png",
+            "image": "shopify://shop_images/20211118_133725457_iOS.jpg",
+            "image_mobile": "shopify://shop_images/20211118_133725457_iOS_1296x_1_68b9fcc1-c321-4052-80cd-2bdd6f30cd8e.png",
             "video_url": "",
             "width": "50",
             "height": 700,
@@ -365,10 +366,10 @@
     "1635324918275a11f0": {
       "type": "background-image",
       "settings": {
-        "image-left": "shopify:\/\/shop_images\/decor_home_4_9a98bc61-4b16-410d-ab0f-e029fa5e4e43.png",
+        "image-left": "shopify://shop_images/decor_home_4_9a98bc61-4b16-410d-ab0f-e029fa5e4e43.png",
         "image_left_width": 42,
         "image_left_position": 70,
-        "image-right": "shopify:\/\/shop_images\/decor_home_5.png",
+        "image-right": "shopify://shop_images/decor_home_5.png",
         "image_right_width": 11,
         "image_right_position": 4
       }
@@ -377,16 +378,16 @@
       "type": "text-and-image",
       "disabled": true,
       "settings": {
-        "image": "shopify:\/\/shop_images\/Mutpaket_Website.png",
+        "image": "shopify://shop_images/Mutpaket_Website.png",
         "image_position": "left-top",
         "image_bg_color": "#f8e6d4",
-        "image_bg": "shopify:\/\/shop_images\/decor_home_4_9a98bc61-4b16-410d-ab0f-e029fa5e4e43.png",
+        "image_bg": "shopify://shop_images/decor_home_4_9a98bc61-4b16-410d-ab0f-e029fa5e4e43.png",
         "subtitle": "",
         "title": "Dein Mutpaket",
         "another_text": false,
-        "text": "<p><strong>Mit den Langhaarmädchen Julia & Mona, Laura Malina Seiler & vielen mehr<\/strong><\/p><p>In unserem neuen Buch \"Mutig ist das neue Schön\" von den Langhaarmädchen Julia Schindelmann und Mona Mayr geht es  um Mut. Um den Mut, den eigenen Herzensweg zu gehen und trotz Unsicherheit und Selbstzweifeln die eigenen Visionen und Träume zu verfolgen und in die Wirklichkeit umzusetzen. <br\/><br\/>Um dir noch mehr Inspiration an die Hand zu geben, ganz genau DEINEN Weg zu gehen haben wir dir ein wunderbares MUT-PAKET zusammengestellt. <\/p>",
+        "text": "<p><strong>Mit den Langhaarmädchen Julia & Mona, Laura Malina Seiler & vielen mehr</strong></p><p>In unserem neuen Buch \"Mutig ist das neue Schön\" von den Langhaarmädchen Julia Schindelmann und Mona Mayr geht es  um Mut. Um den Mut, den eigenen Herzensweg zu gehen und trotz Unsicherheit und Selbstzweifeln die eigenen Visionen und Träume zu verfolgen und in die Wirklichkeit umzusetzen. <br/><br/>Um dir noch mehr Inspiration an die Hand zu geben, ganz genau DEINEN Weg zu gehen haben wir dir ein wunderbares MUT-PAKET zusammengestellt. </p>",
         "button_label": "MUT PAKET ENTDECKEN",
-        "button_link": "https:\/\/mailchi.mp\/malia-verlag.com\/mutpaket",
+        "button_link": "https://mailchi.mp/malia-verlag.com/mutpaket",
         "button_style": "primary",
         "align_text": "left",
         "layout": "left",
@@ -427,8 +428,12 @@
       "type": "apps",
       "blocks": {
         "2a1ca891-f6cd-49e5-8132-e60379d84d8b": {
-          "type": "shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "type": "shopify://apps/instafeed/blocks/app-block/c447db20-095d-4a10-9725-b5977662c9d5",
           "settings": {
+            "title": "",
+            "title_color": "",
+            "alignment": "center",
+            "background_color": "",
             "html_area": ""
           }
         }
@@ -448,16 +453,16 @@
           "type": "heading",
           "settings": {
             "title": "Unsere Vision",
-            "image": "shopify:\/\/shop_images\/Vector.png",
-            "image_width": 51,
-            "image_position": 54
+            "image": "shopify://shop_images/Vector.png",
+            "image_width": 45,
+            "image_position": 28
           }
         },
         "1634220966d1ce4e28-1": {
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Wir sind die erste nahbare Haarpflegemarke mit Persönlichkeit & Herz!<\/p>"
+            "text": "<p>Wir sind die erste nahbare Haarpflegemarke mit Persönlichkeit & Herz!</p>"
           }
         }
       },
@@ -478,10 +483,10 @@
       "settings": {
         "subtitle": "",
         "title": "Philosophie",
-        "text": "<p>Wir möchten dich und uns gegenseitig zum träumen inspirieren, damit wir alle den Mut entwickeln, unseren eigenen Weg zu gehen.<\/p>",
+        "text": "<p>Wir möchten dich und uns gegenseitig zum träumen inspirieren, damit wir alle den Mut entwickeln, unseren eigenen Weg zu gehen.</p>",
         "button_label": "Erlebe uns live",
-        "button_link": "shopify:\/\/pages\/salon",
-        "image": "shopify:\/\/shop_images\/49A1187_1.png",
+        "button_link": "shopify://pages/salon",
+        "image": "shopify://shop_images/49A1187_1.png",
         "focal_point": "center",
         "layout": "left",
         "height": 750,
@@ -494,10 +499,10 @@
     "1635325283a370760b": {
       "type": "background-image",
       "settings": {
-        "image-left": "shopify:\/\/shop_images\/decor_salon_1_17a622e0-7ec2-4d49-9b73-4ea7f38c4b76.png",
+        "image-left": "shopify://shop_images/decor_salon_1_17a622e0-7ec2-4d49-9b73-4ea7f38c4b76.png",
         "image_left_width": 7,
         "image_left_position": 100,
-        "image-right": "shopify:\/\/shop_images\/decor_home_8.png",
+        "image-right": "shopify://shop_images/decor_home_8.png",
         "image_right_width": 27,
         "image_right_position": 0
       }
@@ -536,18 +541,17 @@
       "type": "map",
       "settings": {
         "map_title": "Adresse",
-        "address": "<p><\/p><p>LANGHAARMÄDCHEN SALON<\/p><p>Kaiserstr. 45, 80801 München<\/p><p>Di - Fr 9:30 - 19 Uhr<\/p><p><em>Samstags nach Absprache<\/em><\/p><p><strong>089-21528933<\/strong><\/p>",
+        "address": "<p></p><p>LANGHAARMÄDCHEN SALON</p><p>Kaiserstr. 45, 80801 München</p><p>Di - Fr 9:30 - 19 Uhr</p><p><em>Samstags nach Absprache</em></p><p><strong>089-21528933</strong></p>",
         "map_address": "Kaiserstraße 45, 80801 München",
-        "map_iframe": "<iframe src=\"https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d395.61416982443427!2d11.578509790858837!3d48.16105971537834!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479e75c697a0a553%3A0xa35b4aec031d8371!2sKaiserstra%C3%9Fe%2045%2C%2080801%20M%C3%BCnchen%2C%20Germany!5e0!3m2!1sen!2sby!4v1637564326137!5m2!1sen!2sby\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\"><\/iframe>",
+        "map_iframe": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d395.61416982443427!2d11.578509790858837!3d48.16105971537834!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479e75c697a0a553%3A0xa35b4aec031d8371!2sKaiserstra%C3%9Fe%2045%2C%2080801%20M%C3%BCnchen%2C%20Germany!5e0!3m2!1sen!2sby!4v1637564326137!5m2!1sen!2sby\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>",
         "api_key": "",
         "show_button": false,
-        "background_image": "shopify:\/\/shop_images\/IMG_9881.png",
+        "background_image": "shopify://shop_images/IMG_9881.png",
         "background_image_position": "center right"
       }
     }
   },
   "order": [
-    "16348201304e0aefe8",
     "1647507061504d8042",
     "16342858496dc05777",
     "rich-text",
