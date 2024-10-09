@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "current": {
     "color_body_bg": "#fff9f4",
@@ -75,15 +84,15 @@
     "cart_additional_buttons": false,
     "cart_notes_enable": false,
     "cart_terms_conditions_enable": false,
-    "social_pinterest_link": "https:\/\/pin.it\/7cOSKyJ",
-    "social_instagram_link": "https:\/\/www.instagram.com\/langhaarmaedchen_salon\/",
+    "social_pinterest_link": "https://pin.it/7cOSKyJ",
+    "social_instagram_link": "https://www.instagram.com/langhaarmaedchen_salon/",
     "social_snapchat_link": "",
-    "social_tiktok_link": "https:\/\/www.tiktok.com\/@langhaarmaedchen",
+    "social_tiktok_link": "https://www.tiktok.com/@langhaarmaedchen",
     "social_tumblr_link": "",
-    "social_youtube_link": "https:\/\/www.youtube.com\/channel\/UCKnAklifWuCe6-mTI8n350A\/featured",
+    "social_youtube_link": "https://www.youtube.com/channel/UCKnAklifWuCe6-mTI8n350A/featured",
     "social_vimeo_link": "",
-    "social_spotify_link": "https:\/\/open.spotify.com\/show\/3ee68KAmJ6UbJ3r4wWNbzK?si=ee9b3a6995344ac8",
-    "favicon": "shopify:\/\/shop_images\/LHM_Salon_Logo_CMYK_positiv_60x_ca848222-530f-4ae7-aca8-241013434671.png",
+    "social_spotify_link": "https://open.spotify.com/show/3ee68KAmJ6UbJ3r4wWNbzK?si=ee9b3a6995344ac8",
+    "favicon": "shopify://shop_images/LHM_Salon_Logo_CMYK_positiv_60x_ca848222-530f-4ae7-aca8-241013434671.png",
     "search_type": "product",
     "predictive_image_size": "square",
     "show_breadcrumbs": true,
@@ -104,7 +113,7 @@
           "1524770014057": {
             "type": "logo",
             "settings": {
-              "logo": "shopify:\/\/shop_images\/LHM_Salon_Logo_CMYK_positiv_9e8a9bb8-9064-428f-aad2-9daafbaa6553.png",
+              "logo": "shopify://shop_images/LHM_Salon_Logo_CMYK_positiv_9e8a9bb8-9064-428f-aad2-9daafbaa6553.png",
               "desktop_logo_width": 100,
               "mobile_logo_width": 60
             }
@@ -146,7 +155,7 @@
             "settings": {
               "show_footer_title": true,
               "title": "Kontakt",
-              "text": "<p><strong>089-21528933<\/strong><br\/>Kaiserstr. 45, 80801 München<br\/><br\/>DI - FR  09:00 - 20:00 Uhr<\/p><p>SA & Specials auf Anfrage <\/p>",
+              "text": "<p><strong>089-21528933</strong><br/>Kaiserstr. 45, 80801 München<br/><br/>DI - FR  09:30 - 20:00 Uhr</p><p>SA & Specials auf Anfrage </p>",
               "container_width": 20
             }
           },
@@ -163,7 +172,7 @@
             "settings": {
               "show_footer_title": true,
               "title": "News",
-              "text": "<p>Sei als Erste:r mit dabei, wenn es News bei uns in der Langhaarmädchen Welt gibt:<\/p>",
+              "text": "<p>Sei als Erste:r mit dabei, wenn es News bei uns in der Langhaarmädchen Welt gibt:</p>",
               "container_width": 35
             }
           }
@@ -190,7 +199,7 @@
           "popup_seconds": 5,
           "popup_days": 30,
           "popup_title": "Langhaarmädchen Newsletter",
-          "popup_text": "<p>Sei als Erste:r mit dabei, wenn es News in unserer Langhaarmädchen Welt gibt:<\/p>",
+          "popup_text": "<p>Sei als Erste:r mit dabei, wenn es News in unserer Langhaarmädchen Welt gibt:</p>",
           "close_text": "Nö, danke.",
           "enable_newsletter": true,
           "button_label": "Optional button",
@@ -219,7 +228,7 @@
     ],
     "blocks": {
       "8061082470830435983": {
-        "type": "shopify:\/\/apps\/aod-before-after-widget\/blocks\/after-before\/76f8089d-5150-46ae-8664-0e4ae6d7cd6b",
+        "type": "shopify://apps/aod-before-after-widget/blocks/after-before/76f8089d-5150-46ae-8664-0e4ae6d7cd6b",
         "disabled": false,
         "settings": {
         }
@@ -308,13 +317,13 @@
             "1524770292306": {
               "type": "announcement",
               "settings": {
-                "text": "<p>Free shipping<\/p>"
+                "text": "<p>Free shipping</p>"
               }
             },
             "1524770296206": {
               "type": "announcement",
               "settings": {
-                "text": "<p>Hassle-free returns<\/p>"
+                "text": "<p>Hassle-free returns</p>"
               }
             }
           },
@@ -466,13 +475,13 @@
             "1521051841065": {
               "type": "announcement",
               "settings": {
-                "text": "<p>Free shipping<\/p>"
+                "text": "<p>Free shipping</p>"
               }
             },
             "1520888647304": {
               "type": "announcement",
               "settings": {
-                "text": "<p>Hassle-free returns<\/p>"
+                "text": "<p>Hassle-free returns</p>"
               }
             }
           },
@@ -513,7 +522,7 @@
               "settings": {
                 "show_footer_title": true,
                 "title": "Sign up and save",
-                "text": "<p>Subscribe to get special offers, free giveaways, and once-in-a-lifetime deals.<\/p>",
+                "text": "<p>Subscribe to get special offers, free giveaways, and once-in-a-lifetime deals.</p>",
                 "container_width": 30
               }
             },
@@ -548,7 +557,7 @@
             "popup_days": 30,
             "popup_title": "Sign up and save",
             "popup_image": "",
-            "popup_text": "<p>Entice customers to sign up for your mailing list with discounts or exclusive offers. Include an image for extra impact.<\/p>",
+            "popup_text": "<p>Entice customers to sign up for your mailing list with discounts or exclusive offers. Include an image for extra impact.</p>",
             "close_text": "No thanks",
             "enable_newsletter": true,
             "button_label": "Optional button",
@@ -573,7 +582,7 @@
                 "enable_image": true,
                 "image": "",
                 "title": "Site-wide promotion",
-                "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.<\/p>",
+                "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.</p>",
                 "button_label": "Optional button",
                 "button_link": ""
               }
@@ -584,7 +593,7 @@
                 "enable_image": true,
                 "image": "",
                 "title": "Site-wide promotion",
-                "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.<\/p>",
+                "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.</p>",
                 "button_label": "Optional button",
                 "button_link": ""
               }
@@ -595,7 +604,7 @@
                 "enable_image": true,
                 "image": "",
                 "title": "Site-wide promotion",
-                "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.<\/p>",
+                "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.</p>",
                 "button_label": "Optional button",
                 "button_link": ""
               }
