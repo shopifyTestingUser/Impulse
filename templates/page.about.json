@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "main": {
@@ -16,7 +25,7 @@
         "link": "",
         "color_accent": "rgba(0,0,0,0)",
         "text_align": "vertical-center horizontal-center",
-        "video_url": "https:\/\/youtu.be\/LyhF0qi2xxA",
+        "video_url": "https://youtu.be/LyhF0qi2xxA",
         "overlay_opacity": 0,
         "section_height": "650px",
         "mobile_height": "auto"
@@ -25,19 +34,19 @@
     "16348250212312d01d": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/49A0163_1_ffd10205-6f9b-4531-9e4a-acb61e420aaa.png",
+        "image": "shopify://shop_images/49A0163_1_ffd10205-6f9b-4531-9e4a-acb61e420aaa.png",
         "image_position": "left-bottom",
         "image_bg_color": "#f8e6d4",
         "subtitle": "",
         "title": "About us",
         "another_text": false,
-        "text": "<p>Wir sind <strong>Mona & Julia, <\/strong>Friseurmeisterinnen und Gründerinnen von Langhaarmädchen! <\/p><p>Wir haben uns gegenseitig gestärkt und inspiriert, an uns zu selbst zu glauben und mit Beharrlichkeit, Ehrgeiz & dem Herz am rechten Fleck <strong>unseren Traum wahr werden lassen!<\/strong><\/p>",
+        "text": "<p>Wir sind <strong>Mona & Julia, </strong>Friseurmeisterinnen und Gründerinnen von Langhaarmädchen! </p><p>Wir haben uns gegenseitig gestärkt und inspiriert, an uns zu selbst zu glauben und mit Beharrlichkeit, Ehrgeiz & dem Herz am rechten Fleck <strong>unseren Traum wahr werden lassen!</strong></p>",
         "button_label": "",
         "button_link": "",
         "button_style": "primary",
         "align_text": "center",
         "layout": "right",
-        "text_image_bg": "shopify:\/\/shop_images\/decor_salon_1_17a622e0-7ec2-4d49-9b73-4ea7f38c4b76.png",
+        "text_image_bg": "shopify://shop_images/decor_salon_1_17a622e0-7ec2-4d49-9b73-4ea7f38c4b76.png",
         "divider": false,
         "margin_top": false,
         "margin_bottom": false
@@ -46,19 +55,19 @@
     "163749150275738067": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/image_about_us_2.png",
+        "image": "shopify://shop_images/image_about_us_2.png",
         "image_position": "left-bottom",
         "image_bg_color": "#f8e6d4",
         "subtitle": "",
         "title": "",
         "another_text": false,
-        "text": "<p>Innerhalb von nur <strong>2 Jahren <\/strong>haben wir uns von Friseurmeisterinnen zu <strong>erfolgreichen Jung- Unternehmerinnen <\/strong>entwickelt.<\/p><p>Entstanden ist Mona‘s Idee zur eigenen Haarpflegemarke auf ihrer Weltreise! Ich, Julia, kündigte spontan meinen Job und begleitete Mona die letzten 4 Wochen auf ihrem Roadtrip durchs Leben. Unsere Reise endete bei uns selbst und zurück kamen wir als <strong>Langhaarmädchen<\/strong>!<\/p>",
+        "text": "<p>Innerhalb von nur <strong>2 Jahren </strong>haben wir uns von Friseurmeisterinnen zu <strong>erfolgreichen Jung- Unternehmerinnen </strong>entwickelt.</p><p>Entstanden ist Mona‘s Idee zur eigenen Haarpflegemarke auf ihrer Weltreise! Ich, Julia, kündigte spontan meinen Job und begleitete Mona die letzten 4 Wochen auf ihrem Roadtrip durchs Leben. Unsere Reise endete bei uns selbst und zurück kamen wir als <strong>Langhaarmädchen</strong>!</p>",
         "button_label": "",
         "button_link": "",
         "button_style": "primary",
         "align_text": "center",
         "layout": "left",
-        "text_image_bg": "shopify:\/\/shop_images\/decor_home_2_1.png",
+        "text_image_bg": "shopify://shop_images/decor_home_2_1.png",
         "divider": false,
         "margin_top": false,
         "margin_bottom": false
@@ -67,19 +76,19 @@
     "1637579099ee41e176": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/49A0314_1.png",
+        "image": "shopify://shop_images/49A0314_1.png",
         "image_position": "left-bottom",
         "image_bg_color": "#f8e6d4",
         "subtitle": "",
         "title": "dm liebt Langhaar­mädchen",
         "another_text": false,
-        "text": "<p>Wir dürfen uns seit 2018 das erste Start-Up nennen, was es geschafft hat eine eigene Exklusivmarke in Kooperation mit dm Deutschland zu launchen.<\/p>",
+        "text": "<p>Wir dürfen uns seit 2018 das erste Start-Up nennen, was es geschafft hat eine eigene Exklusivmarke in Kooperation mit dm Deutschland zu launchen.</p>",
         "button_label": "",
         "button_link": "",
         "button_style": "primary",
         "align_text": "center",
         "layout": "right",
-        "text_image_bg": "shopify:\/\/shop_images\/line_f1cc6dd6-fb41-46c0-b6a8-740985f4c66f.png",
+        "text_image_bg": "shopify://shop_images/line_f1cc6dd6-fb41-46c0-b6a8-740985f4c66f.png",
         "divider": false,
         "margin_top": false,
         "margin_bottom": false
@@ -88,19 +97,19 @@
     "1637579228e83d5a15": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/49A1933_1.png",
+        "image": "shopify://shop_images/49A1933_1.png",
         "image_position": "left-bottom",
         "image_bg_color": "#f8e6d4",
         "subtitle": "",
         "title": "Wir wollen dich glücklich machen!",
         "another_text": false,
-        "text": "<p>Unsere vegane Haarpflegeserie mit über 25 Produkten in über 3.500 dm Märkten gibt es in 13 Ländern und soll dich mit unserer Expertise, der Qualität und unserem Gefühl überzeugen.<\/p>",
+        "text": "<p>Unsere vegane Haarpflegeserie mit über 25 Produkten in über 3.500 dm Märkten gibt es in 13 Ländern und soll dich mit unserer Expertise, der Qualität und unserem Gefühl überzeugen.</p>",
         "button_label": "",
         "button_link": "",
         "button_style": "primary",
         "align_text": "center",
         "layout": "left",
-        "text_image_bg": "shopify:\/\/shop_images\/line_f1cc6dd6-fb41-46c0-b6a8-740985f4c66f.png",
+        "text_image_bg": "shopify://shop_images/line_f1cc6dd6-fb41-46c0-b6a8-740985f4c66f.png",
         "divider": false,
         "margin_top": false,
         "margin_bottom": false
@@ -109,19 +118,18 @@
     "16348250262b8f3a96": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/49A0928_1_9ed38a57-d388-42c1-8d95-73f7afef64cc.png",
+        "image": "shopify://shop_images/49A0928_1_9ed38a57-d388-42c1-8d95-73f7afef64cc.png",
         "image_position": "left-bottom",
         "image_bg_color": "#f8e6d4",
         "subtitle": "",
         "title": "Image with text",
         "another_text": true,
-        "text": "<p>Wir wollen dich zum <em>Träumen<\/em> inspirieren, damit du den <em>Mut <\/em>entwickelst deinen <em>eigenen<\/em> Weg zu gehen!<\/p>",
+        "text": "<p>Wir wollen dich zum <em>Träumen</em> inspirieren, damit du den <em>Mut </em>entwickelst deinen <em>eigenen</em> Weg zu gehen!</p>",
         "button_label": "",
         "button_link": "",
         "button_style": "primary",
         "align_text": "center",
         "layout": "right",
-        "text_image_bg": "shopify:\/\/shop_images\/decor_about_us_2.png",
         "divider": false,
         "margin_top": false,
         "margin_bottom": true
@@ -140,7 +148,7 @@
       "settings": {
         "image_left_width": 50,
         "image_left_position": 50,
-        "image-right": "shopify:\/\/shop_images\/IMG_9698.png",
+        "image-right": "shopify://shop_images/IMG_9698.png",
         "image_right_width": 11,
         "image_right_position": 100
       }
@@ -149,11 +157,12 @@
       "type": "apps",
       "blocks": {
         "96172b5f-59bd-4623-9174-61f1f7812b8c": {
-          "type": "shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "type": "shopify://apps/instafeed/blocks/app-block/c447db20-095d-4a10-9725-b5977662c9d5",
           "settings": {
-            "heading_font": "helvetica_n4",
-            "heading_size": 20,
-            "feed_width": 100,
+            "title": "",
+            "title_color": "",
+            "alignment": "center",
+            "background_color": "",
             "html_area": ""
           }
         }
@@ -169,10 +178,10 @@
     "1635325843a670c318": {
       "type": "background-image",
       "settings": {
-        "image-left": "shopify:\/\/shop_images\/decor_salon_5_1.png",
+        "image-left": "shopify://shop_images/decor_salon_5_1.png",
         "image_left_width": 24,
         "image_left_position": 0,
-        "image-right": "shopify:\/\/shop_images\/decor_salon_2.png",
+        "image-right": "shopify://shop_images/decor_salon_2.png",
         "image_right_width": 34,
         "image_right_position": 27
       }
@@ -189,7 +198,7 @@
       "type": "featured-video",
       "settings": {
         "title": "",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=0Qja56gQaC4&list=PLWHeQDKk9Zb8n04sF-MGaEhs0IlA-qYsq",
+        "video_url": "https://www.youtube.com/watch?v=0Qja56gQaC4&list=PLWHeQDKk9Zb8n04sF-MGaEhs0IlA-qYsq",
         "divider": false
       }
     },
@@ -200,7 +209,7 @@
         "first_btn_text": "Youtube",
         "second_btn_text": "Spotify",
         "margin_top": false,
-        "margin_bottom": true
+        "margin_bottom": false
       }
     },
     "16348253938dde6455": {
@@ -219,7 +228,7 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/DTW_4322_1.png",
+            "image": "shopify://shop_images/DTW_4322_1.png",
             "overlay_opacity": 0,
             "focal_point": "center center"
           }
@@ -237,7 +246,7 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/DTW_4277.jpg",
+            "image": "shopify://shop_images/DTW_4277.jpg",
             "overlay_opacity": 0,
             "focal_point": "center center"
           }
@@ -279,7 +288,7 @@
     "1635325962e65543a7": {
       "type": "background-image",
       "settings": {
-        "image-left": "shopify:\/\/shop_images\/about_us_image_3.png",
+        "image-left": "shopify://shop_images/about_us_image_3.png",
         "image_left_width": 100,
         "image_left_position": 50,
         "image_right_width": 100,
