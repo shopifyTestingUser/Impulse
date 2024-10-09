@@ -155,7 +155,7 @@
             "settings": {
               "show_footer_title": true,
               "title": "Kontakt",
-              "text": "<p><strong>089-21528933</strong><br/>Kaiserstr. 45, 80801 München<br/><br/>DI - FR  09:30 - 20:00 Uhr</p><p>SA & Specials auf Anfrage </p>",
+              "text": "<p><strong>089-21528933</strong><br/>Kaiserstr. 45, 80801 München<br/><br/>DI - FR  09:00 - 20:00 Uhr</p><p>SA & Specials auf Anfrage </p>",
               "container_width": 20
             }
           },
@@ -231,6 +231,19 @@
         "type": "shopify://apps/aod-before-after-widget/blocks/after-before/76f8089d-5150-46ae-8664-0e4ae6d7cd6b",
         "disabled": false,
         "settings": {
+          "background_color": "#fff9f4",
+          "color_block": "#000000",
+          "main_heading_color": "#000000",
+          "after_before_textcolr": "#fff",
+          "after_before_backgroundcolr": "#000",
+          "color_before_blocks": "#000",
+          "color_after_blocks": "#000",
+          "line_separator_Color": "#ffffff",
+          "Icon_Color": "#ffffff",
+          "arrow_Color": "#333333",
+          "beforeafter_font_size": 35,
+          "before_headingsize": 18,
+          "col_padding": 20
         }
       }
     }
