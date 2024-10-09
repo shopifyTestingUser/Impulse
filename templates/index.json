@@ -532,7 +532,7 @@
       "type": "contact-form",
       "settings": {
         "title": "Keep in touch",
-        "text": "",
+        "text": "<p>(Bitte nutze für eine Terminvereinbarungen im Salon unser Online-Buchungstool) </p>",
         "show_phone": false,
         "narrow_column": true
       }
