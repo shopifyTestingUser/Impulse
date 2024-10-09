@@ -381,14 +381,6 @@
         "divider": false
       }
     },
-    "16479487964b071b51": {
-      "type": "featured-video",
-      "settings": {
-        "title": "",
-        "video_url": "https://youtu.be/4Zre3VfMh-k",
-        "divider": false
-      }
-    },
     "main": {
       "type": "main-page",
       "disabled": true,
@@ -441,7 +433,7 @@
         "1634908162416e3f0b-0": {
           "type": "heading",
           "settings": {
-            "title": "Du hast noch Fragen? Wir rufen dich gerne zurück.",
+            "title": "Hast du noch Fragen? Melde dich gerne bei uns!",
             "image_width": 50,
             "image_position": 50
           }
@@ -496,13 +488,12 @@
         "subtitle": "",
         "title": "Haarverdichtung",
         "another_text": false,
-        "text": "<p>Wir Langhaarmädchen ticken anders! Bei uns gibt es keine Haarverdichtung, um den Optimierungswahn auf die Spitze zu treiben. Bei uns gibt es Haarverdichtungen, die dich darin unterstützen sollen, dein Selbstbewusstsein, deine Schönheit und deine Persönlichkeit, die längst schon da ist, zu<br/>unterstreichen!</p>",
+        "text": "<p>Wir Langhaarmädchen ticken anders! Bei uns gibt es keine Haarverdichtung, um den Optimierungswahn auf die Spitze zu treiben. Bei uns gibt es Haarverdichtungen, die dich darin unterstützen sollen, dein Selbstbewusstsein, deine Schönheit und deine Persönlichkeit, die längst schon da ist, zu unterstreichen!</p>",
         "button_label": "KOSTENLOSE BERATUNG BUCHEN",
         "button_link": "#calendly",
         "button_style": "primary",
         "align_text": "left",
         "layout": "right",
-        "text_image_bg": "shopify://shop_images/decor_salon_1_17a622e0-7ec2-4d49-9b73-4ea7f38c4b76.png",
         "divider": false,
         "margin_top": false,
         "margin_bottom": false
@@ -525,7 +516,6 @@
         "button_style": "primary",
         "align_text": "left",
         "layout": "left",
-        "text_image_bg": "shopify://shop_images/decor_salon_2.png",
         "divider": false,
         "margin_top": false,
         "margin_bottom": false
@@ -697,7 +687,7 @@
       "type": "map",
       "settings": {
         "map_title": "",
-        "address": "<p>LANGHAARMÄDCHEN SALON</p><p>Kaiserstr. 45, 80801 München</p><p>Di - Fr 10 - 19 Uhr</p><p><em>Samstags nach Absprache</em></p><p><strong>089-21528933</strong></p>",
+        "address": "<p>LANGHAARMÄDCHEN SALON</p><p>Kaiserstr. 45, 80801 München</p><p>Di - Fr 9:30 - 20:00 Uhr</p><p><em>Samstags nach Absprache</em></p><p><strong>089-21528933</strong></p>",
         "map_address": "Kaiserstraße 45, 80801 München",
         "map_iframe": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2661.3655867451594!2d11.576376075937459!3d48.161034871246066!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479e75f2ec32fdb9%3A0xa95104f65a1b74a!2sLanghaarm%C3%A4dchen%20Salon!5e0!3m2!1sen!2sde!4v1682087117708!5m2!1sen!2sde\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
         "api_key": "",
@@ -738,7 +728,6 @@
     "1650633786bff38ddb",
     "1650550827aa9686d7",
     "1650549005713f9a6c",
-    "16479487964b071b51",
     "main",
     "1650531531e8d51d0d",
     "1634908162416e3f0b",
