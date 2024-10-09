@@ -23,13 +23,16 @@
           "settings": {
             "image": "shopify://shop_images/Preisliste_Stand_29._Juli.png",
             "link": "",
-            "width": "100%",
+            "width": "75%",
             "alignment": "center"
           }
         }
       },
       "block_order": [
         "image_YdmLNz"
+      ],
+      "custom_css": [
+        "img {align-content: center}"
       ],
       "settings": {
         "full_width": true,
