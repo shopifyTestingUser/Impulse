@@ -14,9 +14,98 @@
       "disabled": true,
       "settings": {
       }
+    },
+    "slideshow_jRpGEh": {
+      "type": "slideshow",
+      "blocks": {
+        "image_D8LzD8": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Wir suche dich!",
+            "title_size": 80,
+            "subheading": "Werde ein Langhaarmädchen",
+            "link": "",
+            "link_text": "JETZT BEWERBBEN",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/49A3207.jpg",
+            "image_mobile": "shopify://shop_images/7.png",
+            "overlay_opacity": 10,
+            "focal_point": "center center"
+          }
+        },
+        "image_pWe7mH": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Two line\ntitle slide.",
+            "title_size": 80,
+            "subheading": "And big, beautiful imagery",
+            "link": "",
+            "link_text": "Optional button",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "image_D8LzD8",
+        "image_pWe7mH"
+      ],
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "arrows": false,
+        "autoplay": false,
+        "autoplay_speed": 5
+      }
+    },
+    "advanced_content_jFRnNP": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_ct8ttC": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/haarbertung_bild.jpg",
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "liquid_k66d7P": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>Hey, schön dass du hier bist!</h2><p>\nBei uns Langhaarmädchen dreht sich alles um Haare, Beauty und das Leben. Wir glauben fest daran, dass du mit Mut und einem Lächeln alles erreichen kannst. 🌸✨\n<p>\nLust, Teil unseres Teams zu werden? Dann schau dir unsere Jobs an und erlebe die Langhaarmädchen-Welt hautnah! Bei uns geht's um mehr als nur Arbeit – wir träumen, lachen und wachsen gemeinsam. <div class=\"heart\">💖</div></p>\n<style>\n.heart {\n\tfont-size: 15px;\n\tcolor: #e00;\n\tanimation: beat .8s infinite alternate;\n\ttransform-origin: left;\n}\n\n/* Heart beat animation */\n@keyframes beat{\n\tto { transform: scale(1.7); }\n}\n</style>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_ct8ttC",
+        "liquid_k66d7P"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "slideshow_jRpGEh",
+    "advanced_content_jFRnNP"
   ]
 }
