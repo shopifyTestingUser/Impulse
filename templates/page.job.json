@@ -133,7 +133,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<h3><strong>Erlebe mit uns die Langhaarmädchen Welt!</strong></h3><h3></h3><p></p>"
+            "text": "<h3><strong>Wir freuen uns auf Dich!</strong></h3>"
           }
         },
         "heading_VzVmnb": {
@@ -182,7 +182,7 @@
       ],
       "settings": {
         "align_text": "center",
-        "narrow_column": true,
+        "narrow_column": false,
         "divider": false,
         "margin_top": false,
         "margin_bottom": false
