@@ -103,11 +103,75 @@
         "full_width": false,
         "space_around": true
       }
+    },
+    "rich_text_nfY7rf": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_jencFJ": {
+          "type": "heading",
+          "settings": {
+            "title": "Stylist/in in München-Schwabing",
+            "image_width": 50,
+            "image_position": 50
+          }
+        },
+        "text_ty3MLa": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<h3><strong>Vollzeit / ab sofort</strong></h3><p></p>"
+          }
+        },
+        "text_ciVPGV": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><strong>Du liebst lange Haare und bei dem Thema Haarverdichtung und Haarverlängerung geht dein Herz auf? Dann bist du bei uns im Herzen Münchens genau richtig! </strong></p><p><strong> WIR BIETEN DIR:</strong></p><p>➳ 4 Tage Woche und 3 verlängerteWochenenden im Monat </p><p>➳ Überdurchschnittliche Bezahlung </p><p>➳ regelmäßige Fortbildungen </p><p>➳ Shootings, Events & vieles vieles mehr! </p><p><strong>DU BRINGST MIT:</strong></p><p>➳ langjährige Erfahrung </p><p>➳ Begeisterung an umfangreichen Beratungen </p><p>➳ Freude an stetiger Weiterbildung </p><p>➳ umfangreiche Beratungsfähigkeit</p><p></p>"
+          }
+        },
+        "text_wpqkF3": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<h3><strong>Erlebe mit uns die Langhaarmädchen Welt und bewerbe dich bei uns! </strong></h3><p></p>"
+          }
+        },
+        "subheading_84kwna": {
+          "type": "subheading",
+          "settings": {
+            "subtitle": ""
+          }
+        },
+        "heading_F6C49z": {
+          "type": "heading",
+          "settings": {
+            "title": "",
+            "image_width": 50,
+            "image_position": 50
+          }
+        }
+      },
+      "block_order": [
+        "heading_jencFJ",
+        "text_ty3MLa",
+        "text_ciVPGV",
+        "text_wpqkF3",
+        "subheading_84kwna",
+        "heading_F6C49z"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
+      }
     }
   },
   "order": [
     "main",
     "slideshow_jRpGEh",
-    "advanced_content_jFRnNP"
+    "advanced_content_jFRnNP",
+    "rich_text_nfY7rf"
   ]
 }
