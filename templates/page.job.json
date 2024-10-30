@@ -205,7 +205,7 @@
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/Design_ohne_Titel_a496f632-ccac-47b2-a41f-9b55f28eee4e.png",
-            "overlay_opacity": 34,
+            "overlay_opacity": 30,
             "focal_point": "center center"
           }
         },
@@ -213,7 +213,7 @@
           "type": "image",
           "settings": {
             "top_subheading": "",
-            "title": "Erlebe mit uns die Langhaarmädchen Welt und bewerbe dich bei uns!",
+            "title": "",
             "title_size": 44,
             "subheading": "",
             "link": "",
@@ -223,7 +223,7 @@
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/Design_ohne_Titel_a496f632-ccac-47b2-a41f-9b55f28eee4e.png",
-            "overlay_opacity": 0,
+            "overlay_opacity": 30,
             "focal_point": "center center"
           }
         }
@@ -238,7 +238,7 @@
         "parallax": true,
         "style": "bars",
         "arrows": true,
-        "autoplay": true,
+        "autoplay": false,
         "autoplay_speed": 5
       }
     }
