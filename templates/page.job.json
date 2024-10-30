@@ -133,13 +133,32 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<h3><strong>Erlebe mit uns die Langhaarmädchen Welt und bewerbe dich bei uns! </strong></h3><p></p>"
+            "text": "<h3><strong>Erlebe mit uns die Langhaarmädchen Welt!</strong></h3><h3></h3><p></p>"
           }
         },
-        "subheading_84kwna": {
-          "type": "subheading",
+        "heading_VzVmnb": {
+          "type": "heading",
+          "disabled": true,
           "settings": {
-            "subtitle": ""
+            "title": "Rezeptionist/in in München-Schwabing",
+            "image_width": 50,
+            "image_position": 50
+          }
+        },
+        "text_tkimTw": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><strong>DEINE AUFGABEN:</strong></p><p>➳ Herzlicher Empfang und Betreuung unserer Kund*innen</p><p>➳ Terminvereinbarung und -koordination (persönlich, telefonisch und online)</p><p>➳ Verkauf und Beratung zu unseren Produkten</p><p>➳ Unterstützung des Teams in administrativen Aufgaben</p><p></p>"
+          }
+        },
+        "text_ewcgYP": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "enlarge_text": true,
+            "text": "<h3><strong>Teilzeit / ab sofort</strong></h3><p></p>"
           }
         },
         "heading_F6C49z": {
@@ -156,7 +175,9 @@
         "text_ty3MLa",
         "text_ciVPGV",
         "text_wpqkF3",
-        "subheading_84kwna",
+        "heading_VzVmnb",
+        "text_tkimTw",
+        "text_ewcgYP",
         "heading_F6C49z"
       ],
       "settings": {
@@ -166,12 +187,67 @@
         "margin_top": false,
         "margin_bottom": false
       }
+    },
+    "slideshow_NN78ph": {
+      "type": "slideshow",
+      "blocks": {
+        "image_Y4D4CT": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Erlebe mit uns die Langhaarmädchen Welt!",
+            "title_size": 52,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Design_ohne_Titel_a496f632-ccac-47b2-a41f-9b55f28eee4e.png",
+            "overlay_opacity": 34,
+            "focal_point": "center center"
+          }
+        },
+        "image_Qxy8VP": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Erlebe mit uns die Langhaarmädchen Welt und bewerbe dich bei uns!",
+            "title_size": 44,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Design_ohne_Titel_a496f632-ccac-47b2-a41f-9b55f28eee4e.png",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "image_Y4D4CT",
+        "image_Qxy8VP"
+      ],
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "arrows": true,
+        "autoplay": true,
+        "autoplay_speed": 5
+      }
     }
   },
   "order": [
     "main",
     "slideshow_jRpGEh",
     "advanced_content_jFRnNP",
-    "rich_text_nfY7rf"
+    "rich_text_nfY7rf",
+    "slideshow_NN78ph"
   ]
 }
