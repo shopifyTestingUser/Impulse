@@ -188,6 +188,15 @@
         "margin_bottom": false
       }
     },
+    "contact_form_mAE4Ur": {
+      "type": "contact-form",
+      "settings": {
+        "title": "Bewerbe dich bei uns:",
+        "text": "",
+        "show_phone": false,
+        "narrow_column": true
+      }
+    },
     "slideshow_NN78ph": {
       "type": "slideshow",
       "blocks": {
@@ -241,15 +250,6 @@
         "autoplay": false,
         "autoplay_speed": 5
       }
-    },
-    "contact_form_mAE4Ur": {
-      "type": "contact-form",
-      "settings": {
-        "title": "Bewerbe dich bei uns:",
-        "text": "",
-        "show_phone": false,
-        "narrow_column": true
-      }
     }
   },
   "order": [
@@ -257,7 +257,7 @@
     "slideshow_jRpGEh",
     "advanced_content_jFRnNP",
     "rich_text_nfY7rf",
-    "slideshow_NN78ph",
-    "contact_form_mAE4Ur"
+    "contact_form_mAE4Ur",
+    "slideshow_NN78ph"
   ]
 }
