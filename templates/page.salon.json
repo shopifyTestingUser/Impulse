@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "16475075815ec4bf82": {
@@ -122,8 +122,7 @@
     "main": {
       "type": "main-page",
       "disabled": true,
-      "settings": {
-      }
+      "settings": {}
     },
     "163490746248b9e19e": {
       "type": "rich-text",
@@ -315,19 +314,6 @@
     },
     "1637605754143b0ca8": {
       "type": "promo-grid",
-      "blocks": {
-        "64b120ac-f0a9-4b9f-988e-ec5040c3146a": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Preisliste_Stand_29._Juli.png",
-            "link": "https://langhaarmaedchen.sharepoint.com/:b:/s/LanghaarmdchenSalonGmbH/EdGdN9shqitMvGfkS5b8C18Bq822q9RrNPMlEcC4uLspuw?e=DVhUEF",
-            "width": "100"
-          }
-        }
-      },
-      "block_order": [
-        "64b120ac-f0a9-4b9f-988e-ec5040c3146a"
-      ],
       "settings": {
         "full_width": false,
         "gutter_size": 20,
