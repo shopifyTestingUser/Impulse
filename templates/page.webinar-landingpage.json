@@ -143,19 +143,17 @@
       "blocks": {
         "template--16735646646538__bd219e28-3185-42c9-bf8d-a476a9dd44ee-16849201408abacede-0": {
           "type": "heading",
-          "disabled": true,
           "settings": {
-            "title": "Rich text",
+            "title": "Jetzt Ticket sichern - 31.01.2025 19 bis 21 Uhr",
             "image_width": 50,
             "image_position": 50
           }
         },
         "template--16735646646538__bd219e28-3185-42c9-bf8d-a476a9dd44ee-16849201408abacede-1": {
           "type": "text",
-          "disabled": true,
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "text": "<p>Erfahre alles über professionelle Haarverdichtung, individuelle Lösungen und Styling-Tipps – live und interaktiv!</p>"
           }
         },
         "30baece9-b16f-4072-837c-719803d23c4a": {
