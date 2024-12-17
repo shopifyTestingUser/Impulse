@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "16475075815ec4bf82": {
@@ -8,10 +17,10 @@
         "title_size": 48,
         "subheading": "Besuch uns in München",
         "link_text": "TERMIN BUCHEN",
-        "link": "https:\/\/calendly.com\/langhaarmaedchen\/facetime-mit-mona",
+        "link": "https://calendly.com/langhaarmaedchen/facetime-mit-mona",
         "color_accent": "rgba(0,0,0,0)",
         "text_align": "vertical-bottom horizontal-center",
-        "video_url": "https:\/\/youtu.be\/7KpYR3jA20M",
+        "video_url": "https://youtu.be/7KpYR3jA20M",
         "overlay_opacity": 30,
         "section_height": "650px",
         "mobile_height": "auto"
@@ -23,19 +32,19 @@
         "8949461a-e3e2-4b2f-a40f-1c2d65799d70": {
           "type": "image",
           "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 40,
-            "subheading": "",
+            "top_subheading": "Langhaarmädchen Präsentiert",
+            "title": "STYLENIGHT",
+            "title_size": 63,
+            "subheading": "Dein Weg zur perfekten Haarverdichtung und Traumhaar!",
             "link": "",
-            "link_text": "",
+            "link_text": "JETZT BUCHEN",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/Header_Webinar._9a89b430-9976-410d-a3f0-9abe038ae9e4.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/Header_Webinar._Kopie.jpg",
-            "overlay_opacity": 0,
+            "image": "shopify://shop_images/20211118_085343000_klein.jpg",
+            "image_mobile": "shopify://shop_images/Header_Webinar._Kopie.jpg",
+            "overlay_opacity": 36,
             "focal_point": "center center"
           }
         },
@@ -146,14 +155,14 @@
           "disabled": true,
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
           }
         },
         "30baece9-b16f-4072-837c-719803d23c4a": {
           "type": "button",
           "settings": {
             "target_blank": false,
-            "link": "https:\/\/www.langhaarmaedchen.de\/pages\/haarverdichtung-webinar#anmelden",
+            "link": "https://www.langhaarmaedchen.de/pages/haarverdichtung-webinar#anmelden",
             "link_text": "Ich bin dabei!"
           }
         }
@@ -173,7 +182,6 @@
     },
     "29d28c65-b26c-4411-90ac-f7850a492059": {
       "type": "newsletter",
-      "disabled": true,
       "blocks": {
         "template--16735646646538__29d28c65-b26c-4411-90ac-f7850a492059-1672403774eebf122b-0": {
           "type": "title",
@@ -184,13 +192,12 @@
         "template--16735646646538__29d28c65-b26c-4411-90ac-f7850a492059-1672403774eebf122b-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Melde dich zu unserem Webinar Newsletter an.<\/p>"
+            "text": "<p>Melde dich zu unserem Webinar Newsletter an.</p>"
           }
         },
         "template--16735646646538__29d28c65-b26c-4411-90ac-f7850a492059-1672403774eebf122b-2": {
           "type": "form",
-          "settings": {
-          }
+          "settings": {}
         },
         "25598ff7-df49-49df-ae5d-b5e61942f8e8": {
           "type": "title",
@@ -205,6 +212,7 @@
         "template--16735646646538__29d28c65-b26c-4411-90ac-f7850a492059-1672403774eebf122b-2",
         "25598ff7-df49-49df-ae5d-b5e61942f8e8"
       ],
+      "disabled": true,
       "settings": {
         "color_background": "#f9f9f9",
         "color_text": "#1c1d1d"
@@ -213,14 +221,14 @@
     "4ad2552a-ecf5-44ee-8dde-e4ef80529eb2": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_3454_2.jpg",
-        "image2": "shopify:\/\/shop_images\/IMG_3453_2.jpg",
+        "image": "shopify://shop_images/IMG_3454_2.jpg",
+        "image2": "shopify://shop_images/IMG_3453_2.jpg",
         "image_position": "left-bottom",
         "image_bg_color": "rgba(0,0,0,0)",
         "subtitle": "",
         "title": "Für mehr Fülle im Haar & Herzen",
         "another_text": false,
-        "text": "<p>Hallo du HERZENSMENSCH! 💖 <\/p><p>Träumst du auch von voluminösem, vollem & natürlichem Haar, dass dich wieder strahlen lässt? <\/p><p>Unsere Vision ist es, dir als Lang-, Kurz- oder Zarthaarmädchen die Freude an deinen Haaren, mehr Selbstbewusstsein und ein neues Lebensgefühl zurück zu schenken! Darum möchten wir DICH von Herzen zu unserem Haarverdichtungs-Webinar einladen! <\/p><p>Mona & ihr Team werden dir alle Fragen zu den Methoden & Techniken, Styling & Pflege beantworten und dir LIVE eine Haarverdichtung zeigen 💖 <\/p>",
+        "text": "<p>Hallo du HERZENSMENSCH! 💖 </p><p>Träumst du auch von voluminösem, vollem & natürlichem Haar, dass dich wieder strahlen lässt? </p><p>Unsere Vision ist es, dir als Lang-, Kurz- oder Zarthaarmädchen die Freude an deinen Haaren, mehr Selbstbewusstsein und ein neues Lebensgefühl zurück zu schenken! Darum möchten wir DICH von Herzen zu unserem Haarverdichtungs-Webinar einladen! </p><p>Mona & ihr Team werden dir alle Fragen zu den Methoden & Techniken, Styling & Pflege beantworten und dir LIVE eine Haarverdichtung zeigen 💖 </p>",
         "button_label": "",
         "button_link": "",
         "button_style": "primary",
@@ -239,7 +247,7 @@
           "disabled": true,
           "settings": {
             "enlarge_text": false,
-            "text": "<p> <\/p>"
+            "text": "<p> </p>"
           }
         },
         "template--16735646646538__08b53936-ee44-4318-8660-50fd34abe843-1672850258676298a8-0": {
@@ -270,7 +278,7 @@
           "type": "liquid",
           "disabled": true,
           "settings": {
-            "code": "<a href=„anmelden“<\/a>",
+            "code": "<a href=„anmelden“</a>",
             "width": "100%",
             "alignment": "center"
           }
@@ -278,7 +286,7 @@
         "5228b6d4-bbd3-4872-9dd6-9e6997f4cd7a": {
           "type": "liquid",
           "settings": {
-            "code": "<!-- Begin Brevo Form -->\n<!-- START - We recommend to place the below code in head tag of your website html  -->\n<style>\n  @font-face {\n    font-display: block;\n    font-family: Roboto;\n    src: url(https:\/\/assets.brevo.com\/font\/Roboto\/Latin\/normal\/normal\/7529907e9eaf8ebb5220c5f9850e3811.woff2) format(\"woff2\"), url(https:\/\/assets.brevo.com\/font\/Roboto\/Latin\/normal\/normal\/25c678feafdc175a70922a116c9be3e7.woff) format(\"woff\")\n  }\n\n  @font-face {\n    font-display: fallback;\n    font-family: Roboto;\n    font-weight: 600;\n    src: url(https:\/\/assets.brevo.com\/font\/Roboto\/Latin\/medium\/normal\/6e9caeeafb1f3491be3e32744bc30440.woff2) format(\"woff2\"), url(https:\/\/assets.brevo.com\/font\/Roboto\/Latin\/medium\/normal\/71501f0d8d5aa95960f6475d5487d4c2.woff) format(\"woff\")\n  }\n\n  @font-face {\n    font-display: fallback; \n    font-family: Roboto;\n    font-weight: 700;\n    src: url(https:\/\/assets.brevo.com\/font\/Roboto\/Latin\/bold\/normal\/3ef7cf158f310cf752d5ad08cd0e7e60.woff2) format(\"woff2\"), url(https:\/\/assets.brevo.com\/font\/Roboto\/Latin\/bold\/normal\/ece3a1d82f18b60bcce0211725c476aa.woff) format(\"woff\")\n  }\n\n  #sib-container input:-ms-input-placeholder {\n    text-align: left;\n    font-family: \"Lucida Grande\", sans-serif;\n    color: #c0ccda;\n  }\n\n  #sib-container input::placeholder {\n    text-align: left;\n    font-family: \"Lucida Grande\", sans-serif;\n    color: #c0ccda;\n  }\n\n  #sib-container textarea::placeholder {\n    text-align: left;\n    font-family: \"Lucida Grande\", sans-serif;\n    color: #c0ccda;\n  }\n<\/style>\n<link rel=\"stylesheet\" href=\"https:\/\/sibforms.com\/forms\/end-form\/build\/sib-styles.css\">\n<!--  END - We recommend to place the above code in head tag of your website html -->\n<div id=\"anmelden\">\n<!-- START - We recommend to place the below code where you want the form in your website html  -->\n<div class=\"sib-form\" style=\"text-align: center;\n         background-color: transparent;                                 \">\n  <div id=\"sib-form-container\" class=\"sib-form-container\">\n    <div id=\"error-message\" class=\"sib-form-message-panel\" style=\"font-size:16px; text-align:left; font-family:&quot;Helvetica&quot;, sans-serif; color:#661d1d; background-color:#ffeded; border-radius:3px; border-color:#ff4949;max-width:540px;\">\n      <div class=\"sib-form-message-panel__text sib-form-message-panel__text--center\">\n        <svg viewBox=\"0 0 512 512\" class=\"sib-icon sib-notification__icon\">\n          <path d=\"M256 40c118.621 0 216 96.075 216 216 0 119.291-96.61 216-216 216-119.244 0-216-96.562-216-216 0-119.203 96.602-216 216-216m0-32C119.043 8 8 119.083 8 256c0 136.997 111.043 248 248 248s248-111.003 248-248C504 119.083 392.957 8 256 8zm-11.49 120h22.979c6.823 0 12.274 5.682 11.99 12.5l-7 168c-.268 6.428-5.556 11.5-11.99 11.5h-8.979c-6.433 0-11.722-5.073-11.99-11.5l-7-168c-.283-6.818 5.167-12.5 11.99-12.5zM256 340c-15.464 0-28 12.536-28 28s12.536 28 28 28 28-12.536 28-28-12.536-28-28-28z\" \/>\n        <\/svg>\n        <span class=\"sib-form-message-panel__inner-text\">\n                          Deine Anmeldung konnte leider nicht gespeichert werden. Bitte versuche es nochmals.\n                      <\/span>\n      <\/div>\n    <\/div>\n    <div><\/div>\n    <div id=\"success-message\" class=\"sib-form-message-panel\" style=\"font-size:16px; text-align:left; font-family:&quot;Helvetica&quot;, sans-serif; color:#085229; background-color:#e7faf0; border-radius:3px; border-color:#13ce66;max-width:540px;\">\n      <div class=\"sib-form-message-panel__text sib-form-message-panel__text--center\">\n        <svg viewBox=\"0 0 512 512\" class=\"sib-icon sib-notification__icon\">\n          <path d=\"M256 8C119.033 8 8 119.033 8 256s111.033 248 248 248 248-111.033 248-248S392.967 8 256 8zm0 464c-118.664 0-216-96.055-216-216 0-118.663 96.055-216 216-216 118.664 0 216 96.055 216 216 0 118.663-96.055 216-216 216zm141.63-274.961L217.15 376.071c-4.705 4.667-12.303 4.637-16.97-.068l-85.878-86.572c-4.667-4.705-4.637-12.303.068-16.97l8.52-8.451c4.705-4.667 12.303-4.637 16.97.068l68.976 69.533 163.441-162.13c4.705-4.667 12.303-4.637 16.97.068l8.451 8.52c4.668 4.705 4.637 12.303-.068 16.97z\" \/>\n        <\/svg>\n        <span class=\"sib-form-message-panel__inner-text\">\n                          Wuhuu! Deine Anmeldung war erfolgreich.\n                      <\/span>\n      <\/div>\n    <\/div>\n    <div><\/div>\n    <div id=\"sib-container\" class=\"sib-container--large sib-container--horizontal\" style=\"text-align:center; background-color:rgba(250,243,237,1); max-width:540px; border-radius:3px; border-width:0px; border-color:#C0CCD9; border-style:solid; direction:ltr\">\n      <form id=\"sib-form\" method=\"POST\" action=\"https:\/\/3317bc50.sibforms.com\/serve\/MUIEAFvm7EoGtNP4v_eZpeJ3PTxnq3m3lLewUC9BOLLzIpW-oV-qU2UJb1SJSzTQF9YkYQIUGpAwuSla9nOjjRKnZZ--WHrNnPYLF7xCo8PxdcdGB29Q070s19q644DnaES1x3pTBwn60YQ2a58mVNr5g1cUTUiyo-r1BUX7Py6bJT9wbJ5nVvLVjSegdbHQgguCvefLcaDM-CEY\" data-type=\"subscription\">\n        <div style=\"padding: 8px 0;\">\n          <div class=\"sib-input sib-form-block\">\n            <div class=\"form__entry entry_block\">\n              <div class=\"form__label-row form__label-row--horizontal\">\n\n                <div class=\"entry__field\">\n                  <input class=\"input \" maxlength=\"200\" type=\"text\" id=\"VORNAME\" name=\"VORNAME\" autocomplete=\"off\" placeholder=\"VORNAME\" data-required=\"true\" required \/>\n                <\/div>\n              <\/div>\n\n              <label class=\"entry__error entry__error--primary\" style=\"font-size:16px; text-align:left; font-family:&quot;Helvetica&quot;, sans-serif; color:#661d1d; background-color:#ffeded; border-radius:3px; border-color:#ff4949;\">\n              <\/label>\n            <\/div>\n          <\/div>\n        <\/div>\n        <div style=\"padding: 8px 0;\">\n          <div class=\"sib-input sib-form-block\">\n            <div class=\"form__entry entry_block\">\n              <div class=\"form__label-row form__label-row--horizontal\">\n\n                <div class=\"entry__field\">\n                  <input class=\"input \" type=\"text\" id=\"EMAIL\" name=\"EMAIL\" autocomplete=\"off\" placeholder=\"EMAIL\" data-required=\"true\" required \/>\n                <\/div>\n              <\/div>\n\n              <label class=\"entry__error entry__error--primary\" style=\"font-size:16px; text-align:left; font-family:&quot;Helvetica&quot;, sans-serif; color:#661d1d; background-color:#ffeded; border-radius:3px; border-color:#ff4949;\">\n              <\/label>\n            <\/div>\n          <\/div>\n        <\/div>\n        <div style=\"padding: 8px 0;\">\n          <div class=\"sib-form-block\" style=\"text-align: center\">\n            <button class=\"sib-form-block__button sib-form-block__button-with-loader\" style=\"font-size:15px; text-align:center; font-family:&quot;Lucida Grande&quot;, sans-serif; color:#FFFFFF; background-color:#ce9e8c; border-radius:10px; border-width:0px;\" form=\"sib-form\" type=\"submit\">\n              <svg class=\"icon clickable__icon progress-indicator__icon sib-hide-loader-icon\" viewBox=\"0 0 512 512\">\n                <path d=\"M460.116 373.846l-20.823-12.022c-5.541-3.199-7.54-10.159-4.663-15.874 30.137-59.886 28.343-131.652-5.386-189.946-33.641-58.394-94.896-95.833-161.827-99.676C261.028 55.961 256 50.751 256 44.352V20.309c0-6.904 5.808-12.337 12.703-11.982 83.556 4.306 160.163 50.864 202.11 123.677 42.063 72.696 44.079 162.316 6.031 236.832-3.14 6.148-10.75 8.461-16.728 5.01z\" \/>\n              <\/svg>\n              jetzt kostenlos zum Webinar anmelden\n            <\/button>\n          <\/div>\n        <\/div>\n\n        <input type=\"text\" name=\"email_address_check\" value=\"\" class=\"input--hidden\">\n        <input type=\"hidden\" name=\"locale\" value=\"de\">\n      <\/form>\n    <\/div>\n  <\/div>\n<\/div>\n<!-- END - We recommend to place the below code where you want the form in your website html  -->\n\n<!-- START - We recommend to place the below code in footer or bottom of your website html  -->\n<script>\n  window.REQUIRED_CODE_ERROR_MESSAGE = 'Wählen Sie bitte einen Ländervorwahl aus.';\n  window.LOCALE = 'de';\n  window.EMAIL_INVALID_MESSAGE = window.SMS_INVALID_MESSAGE = \"Die eingegebenen Informationen sind nicht gültig. Bitte überprüfe nochmals deine Angaben.\";\n\n  window.REQUIRED_ERROR_MESSAGE = \"Dieses Feld darf nicht leer sein. \";\n\n  window.GENERIC_INVALID_MESSAGE = \"Die eingegebenen Informationen sind nicht gültig. Bitte überprüfe nochmals deine Angaben.\";\n\n\n\n\n  window.translation = {\n    common: {\n      selectedList: '{quantity} Liste ausgewählt',\n      selectedLists: '{quantity} Listen ausgewählt'\n    }\n  };\n\n  var AUTOHIDE = Boolean(0);\n<\/script>\n<script defer src=\"https:\/\/sibforms.com\/forms\/end-form\/build\/main.js\"><\/script>\n\n\n<!-- END - We recommend to place the above code in footer or bottom of your website html  -->\n<!-- End Brevo Form -->",
+            "code": "<!-- Begin Brevo Form -->\n<!-- START - We recommend to place the below code in head tag of your website html  -->\n<style>\n  @font-face {\n    font-display: block;\n    font-family: Roboto;\n    src: url(https://assets.brevo.com/font/Roboto/Latin/normal/normal/7529907e9eaf8ebb5220c5f9850e3811.woff2) format(\"woff2\"), url(https://assets.brevo.com/font/Roboto/Latin/normal/normal/25c678feafdc175a70922a116c9be3e7.woff) format(\"woff\")\n  }\n\n  @font-face {\n    font-display: fallback;\n    font-family: Roboto;\n    font-weight: 600;\n    src: url(https://assets.brevo.com/font/Roboto/Latin/medium/normal/6e9caeeafb1f3491be3e32744bc30440.woff2) format(\"woff2\"), url(https://assets.brevo.com/font/Roboto/Latin/medium/normal/71501f0d8d5aa95960f6475d5487d4c2.woff) format(\"woff\")\n  }\n\n  @font-face {\n    font-display: fallback; \n    font-family: Roboto;\n    font-weight: 700;\n    src: url(https://assets.brevo.com/font/Roboto/Latin/bold/normal/3ef7cf158f310cf752d5ad08cd0e7e60.woff2) format(\"woff2\"), url(https://assets.brevo.com/font/Roboto/Latin/bold/normal/ece3a1d82f18b60bcce0211725c476aa.woff) format(\"woff\")\n  }\n\n  #sib-container input:-ms-input-placeholder {\n    text-align: left;\n    font-family: \"Lucida Grande\", sans-serif;\n    color: #c0ccda;\n  }\n\n  #sib-container input::placeholder {\n    text-align: left;\n    font-family: \"Lucida Grande\", sans-serif;\n    color: #c0ccda;\n  }\n\n  #sib-container textarea::placeholder {\n    text-align: left;\n    font-family: \"Lucida Grande\", sans-serif;\n    color: #c0ccda;\n  }\n</style>\n<link rel=\"stylesheet\" href=\"https://sibforms.com/forms/end-form/build/sib-styles.css\">\n<!--  END - We recommend to place the above code in head tag of your website html -->\n<div id=\"anmelden\">\n<!-- START - We recommend to place the below code where you want the form in your website html  -->\n<div class=\"sib-form\" style=\"text-align: center;\n         background-color: transparent;                                 \">\n  <div id=\"sib-form-container\" class=\"sib-form-container\">\n    <div id=\"error-message\" class=\"sib-form-message-panel\" style=\"font-size:16px; text-align:left; font-family:&quot;Helvetica&quot;, sans-serif; color:#661d1d; background-color:#ffeded; border-radius:3px; border-color:#ff4949;max-width:540px;\">\n      <div class=\"sib-form-message-panel__text sib-form-message-panel__text--center\">\n        <svg viewBox=\"0 0 512 512\" class=\"sib-icon sib-notification__icon\">\n          <path d=\"M256 40c118.621 0 216 96.075 216 216 0 119.291-96.61 216-216 216-119.244 0-216-96.562-216-216 0-119.203 96.602-216 216-216m0-32C119.043 8 8 119.083 8 256c0 136.997 111.043 248 248 248s248-111.003 248-248C504 119.083 392.957 8 256 8zm-11.49 120h22.979c6.823 0 12.274 5.682 11.99 12.5l-7 168c-.268 6.428-5.556 11.5-11.99 11.5h-8.979c-6.433 0-11.722-5.073-11.99-11.5l-7-168c-.283-6.818 5.167-12.5 11.99-12.5zM256 340c-15.464 0-28 12.536-28 28s12.536 28 28 28 28-12.536 28-28-12.536-28-28-28z\" />\n        </svg>\n        <span class=\"sib-form-message-panel__inner-text\">\n                          Deine Anmeldung konnte leider nicht gespeichert werden. Bitte versuche es nochmals.\n                      </span>\n      </div>\n    </div>\n    <div></div>\n    <div id=\"success-message\" class=\"sib-form-message-panel\" style=\"font-size:16px; text-align:left; font-family:&quot;Helvetica&quot;, sans-serif; color:#085229; background-color:#e7faf0; border-radius:3px; border-color:#13ce66;max-width:540px;\">\n      <div class=\"sib-form-message-panel__text sib-form-message-panel__text--center\">\n        <svg viewBox=\"0 0 512 512\" class=\"sib-icon sib-notification__icon\">\n          <path d=\"M256 8C119.033 8 8 119.033 8 256s111.033 248 248 248 248-111.033 248-248S392.967 8 256 8zm0 464c-118.664 0-216-96.055-216-216 0-118.663 96.055-216 216-216 118.664 0 216 96.055 216 216 0 118.663-96.055 216-216 216zm141.63-274.961L217.15 376.071c-4.705 4.667-12.303 4.637-16.97-.068l-85.878-86.572c-4.667-4.705-4.637-12.303.068-16.97l8.52-8.451c4.705-4.667 12.303-4.637 16.97.068l68.976 69.533 163.441-162.13c4.705-4.667 12.303-4.637 16.97.068l8.451 8.52c4.668 4.705 4.637 12.303-.068 16.97z\" />\n        </svg>\n        <span class=\"sib-form-message-panel__inner-text\">\n                          Wuhuu! Deine Anmeldung war erfolgreich.\n                      </span>\n      </div>\n    </div>\n    <div></div>\n    <div id=\"sib-container\" class=\"sib-container--large sib-container--horizontal\" style=\"text-align:center; background-color:rgba(250,243,237,1); max-width:540px; border-radius:3px; border-width:0px; border-color:#C0CCD9; border-style:solid; direction:ltr\">\n      <form id=\"sib-form\" method=\"POST\" action=\"https://3317bc50.sibforms.com/serve/MUIEAFvm7EoGtNP4v_eZpeJ3PTxnq3m3lLewUC9BOLLzIpW-oV-qU2UJb1SJSzTQF9YkYQIUGpAwuSla9nOjjRKnZZ--WHrNnPYLF7xCo8PxdcdGB29Q070s19q644DnaES1x3pTBwn60YQ2a58mVNr5g1cUTUiyo-r1BUX7Py6bJT9wbJ5nVvLVjSegdbHQgguCvefLcaDM-CEY\" data-type=\"subscription\">\n        <div style=\"padding: 8px 0;\">\n          <div class=\"sib-input sib-form-block\">\n            <div class=\"form__entry entry_block\">\n              <div class=\"form__label-row form__label-row--horizontal\">\n\n                <div class=\"entry__field\">\n                  <input class=\"input \" maxlength=\"200\" type=\"text\" id=\"VORNAME\" name=\"VORNAME\" autocomplete=\"off\" placeholder=\"VORNAME\" data-required=\"true\" required />\n                </div>\n              </div>\n\n              <label class=\"entry__error entry__error--primary\" style=\"font-size:16px; text-align:left; font-family:&quot;Helvetica&quot;, sans-serif; color:#661d1d; background-color:#ffeded; border-radius:3px; border-color:#ff4949;\">\n              </label>\n            </div>\n          </div>\n        </div>\n        <div style=\"padding: 8px 0;\">\n          <div class=\"sib-input sib-form-block\">\n            <div class=\"form__entry entry_block\">\n              <div class=\"form__label-row form__label-row--horizontal\">\n\n                <div class=\"entry__field\">\n                  <input class=\"input \" type=\"text\" id=\"EMAIL\" name=\"EMAIL\" autocomplete=\"off\" placeholder=\"EMAIL\" data-required=\"true\" required />\n                </div>\n              </div>\n\n              <label class=\"entry__error entry__error--primary\" style=\"font-size:16px; text-align:left; font-family:&quot;Helvetica&quot;, sans-serif; color:#661d1d; background-color:#ffeded; border-radius:3px; border-color:#ff4949;\">\n              </label>\n            </div>\n          </div>\n        </div>\n        <div style=\"padding: 8px 0;\">\n          <div class=\"sib-form-block\" style=\"text-align: center\">\n            <button class=\"sib-form-block__button sib-form-block__button-with-loader\" style=\"font-size:15px; text-align:center; font-family:&quot;Lucida Grande&quot;, sans-serif; color:#FFFFFF; background-color:#ce9e8c; border-radius:10px; border-width:0px;\" form=\"sib-form\" type=\"submit\">\n              <svg class=\"icon clickable__icon progress-indicator__icon sib-hide-loader-icon\" viewBox=\"0 0 512 512\">\n                <path d=\"M460.116 373.846l-20.823-12.022c-5.541-3.199-7.54-10.159-4.663-15.874 30.137-59.886 28.343-131.652-5.386-189.946-33.641-58.394-94.896-95.833-161.827-99.676C261.028 55.961 256 50.751 256 44.352V20.309c0-6.904 5.808-12.337 12.703-11.982 83.556 4.306 160.163 50.864 202.11 123.677 42.063 72.696 44.079 162.316 6.031 236.832-3.14 6.148-10.75 8.461-16.728 5.01z\" />\n              </svg>\n              jetzt kostenlos zum Webinar anmelden\n            </button>\n          </div>\n        </div>\n\n        <input type=\"text\" name=\"email_address_check\" value=\"\" class=\"input--hidden\">\n        <input type=\"hidden\" name=\"locale\" value=\"de\">\n      </form>\n    </div>\n  </div>\n</div>\n<!-- END - We recommend to place the below code where you want the form in your website html  -->\n\n<!-- START - We recommend to place the below code in footer or bottom of your website html  -->\n<script>\n  window.REQUIRED_CODE_ERROR_MESSAGE = 'Wählen Sie bitte einen Ländervorwahl aus.';\n  window.LOCALE = 'de';\n  window.EMAIL_INVALID_MESSAGE = window.SMS_INVALID_MESSAGE = \"Die eingegebenen Informationen sind nicht gültig. Bitte überprüfe nochmals deine Angaben.\";\n\n  window.REQUIRED_ERROR_MESSAGE = \"Dieses Feld darf nicht leer sein. \";\n\n  window.GENERIC_INVALID_MESSAGE = \"Die eingegebenen Informationen sind nicht gültig. Bitte überprüfe nochmals deine Angaben.\";\n\n\n\n\n  window.translation = {\n    common: {\n      selectedList: '{quantity} Liste ausgewählt',\n      selectedLists: '{quantity} Listen ausgewählt'\n    }\n  };\n\n  var AUTOHIDE = Boolean(0);\n</script>\n<script defer src=\"https://sibforms.com/forms/end-form/build/main.js\"></script>\n\n\n<!-- END - We recommend to place the above code in footer or bottom of your website html  -->\n<!-- End Brevo Form -->",
             "width": "100%",
             "alignment": "center"
           }
@@ -296,8 +304,7 @@
     "main": {
       "type": "main-page",
       "disabled": true,
-      "settings": {
-      }
+      "settings": {}
     },
     "92f77b66-9105-4f07-b93c-9ab49c71ad54": {
       "type": "slideshow",
@@ -315,8 +322,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-bottom horizontal-center",
-            "image": "shopify:\/\/shop_images\/Haarverdichtung-vorher-nachher6.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/6_97485b4d-7dd4-4d06-81f6-3834f82c7967.jpg",
+            "image": "shopify://shop_images/Haarverdichtung-vorher-nachher6.jpg",
+            "image_mobile": "shopify://shop_images/6_97485b4d-7dd4-4d06-81f6-3834f82c7967.jpg",
             "overlay_opacity": 0,
             "focal_point": "center center"
           }
@@ -334,8 +341,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/Haarverdichtung-vorher-nachher.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/7_129b7e01-07be-4e57-9305-31fc787ad482.jpg",
+            "image": "shopify://shop_images/Haarverdichtung-vorher-nachher.jpg",
+            "image_mobile": "shopify://shop_images/7_129b7e01-07be-4e57-9305-31fc787ad482.jpg",
             "overlay_opacity": 0,
             "focal_point": "center center"
           }
@@ -353,8 +360,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/Header_Webinar._2e63c4db-4aa1-4c6b-93c2-0be836b36d17.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/nachher.jpg",
+            "image": "shopify://shop_images/Header_Webinar._2e63c4db-4aa1-4c6b-93c2-0be836b36d17.jpg",
+            "image_mobile": "shopify://shop_images/nachher.jpg",
             "overlay_opacity": 0,
             "focal_point": "center center"
           }
@@ -372,8 +379,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/Haarverdichtung-vorher-nachher5.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/Before_after_2.jpg",
+            "image": "shopify://shop_images/Haarverdichtung-vorher-nachher5.jpg",
+            "image_mobile": "shopify://shop_images/Before_after_2.jpg",
             "overlay_opacity": 0,
             "focal_point": "center center"
           }
@@ -391,8 +398,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/Haarverdichtung-vorher-nachher7.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/5_d706b3f6-4bfa-4051-9b17-04ad3a2cce16.jpg",
+            "image": "shopify://shop_images/Haarverdichtung-vorher-nachher7.jpg",
+            "image_mobile": "shopify://shop_images/5_d706b3f6-4bfa-4051-9b17-04ad3a2cce16.jpg",
             "overlay_opacity": 0,
             "focal_point": "center center"
           }
@@ -444,7 +451,7 @@
         "4984964d-f937-4420-b5b8-9235ad071269": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/1.jpg",
+            "image": "shopify://shop_images/1.jpg",
             "link": "",
             "width": "33%",
             "alignment": "center"
@@ -453,7 +460,7 @@
         "template--16735646646538__b65be537-ac4e-445b-bd98-5231e7674845-16835530861a8a7c69-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/3_31e69555-0e60-4642-8a59-7f586da3b871.jpg",
+            "image": "shopify://shop_images/3_31e69555-0e60-4642-8a59-7f586da3b871.jpg",
             "link": "",
             "width": "33%",
             "alignment": "center"
@@ -462,7 +469,7 @@
         "81070687-4535-41d0-b051-d5b3e200f8c6": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/2.jpg",
+            "image": "shopify://shop_images/2.jpg",
             "link": "",
             "width": "33%",
             "alignment": "center"
@@ -486,7 +493,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": false,
-            "text": "<p>...leidest, dann kennst du das Problem nur zu gut, oder? Es kann das Selbstbewusstsein beeinträchtigen und dich unsicher fühlen lassen. Aber du bist nicht allein! Wir verstehen genau, wie du dich fühlst.<\/p><p>Es ist Zeit, deinem Haar die Liebe und Pflege zu schenken, die es verdient! 🌟🌸<\/p>"
+            "text": "<p>...leidest, dann kennst du das Problem nur zu gut, oder? Es kann das Selbstbewusstsein beeinträchtigen und dich unsicher fühlen lassen. Aber du bist nicht allein! Wir verstehen genau, wie du dich fühlst.</p><p>Es ist Zeit, deinem Haar die Liebe und Pflege zu schenken, die es verdient! 🌟🌸</p>"
           }
         }
       },
@@ -522,21 +529,21 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Wir sprechen über<\/p>"
+            "text": "<p>Wir sprechen über</p>"
           }
         },
         "16479488421d6495bb-1": {
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p><\/p><p><strong>✓<\/strong> <strong>HAARTYPEN <br\/><\/strong>Du weißt nicht genau, ob eine Haarverdichtung bei deinen Haaren überhaupt funktioniert?<\/p><p><strong>✓ METHODEN & KOSTEN <br\/><\/strong>Welche Methoden gibt es auf dem Markt & mit welchen Kosten muss ich rechnen?<\/p><p><strong>✓  ALLTAGSPFLEGE & TIPPS<br\/><\/strong>Wir zeigen dir, wie eine Haarverdichtung im Alltag aussieht und worauf du achten solltest.<\/p><p><strong>✓ DIE GRÖSSTEN MYTHEN<\/strong><br\/>Du denkst über eine Haarverlängerung nach, bist dir aber unsicher? Wir klären die Mythen über Haar Extensions auf. <br\/><br\/><br\/><\/p>"
+            "text": "<p></p><p><strong>✓</strong> <strong>HAARTYPEN <br/></strong>Du weißt nicht genau, ob eine Haarverdichtung bei deinen Haaren überhaupt funktioniert?</p><p><strong>✓ METHODEN & KOSTEN <br/></strong>Welche Methoden gibt es auf dem Markt & mit welchen Kosten muss ich rechnen?</p><p><strong>✓  ALLTAGSPFLEGE & TIPPS<br/></strong>Wir zeigen dir, wie eine Haarverdichtung im Alltag aussieht und worauf du achten solltest.</p><p><strong>✓ DIE GRÖSSTEN MYTHEN</strong><br/>Du denkst über eine Haarverlängerung nach, bist dir aber unsicher? Wir klären die Mythen über Haar Extensions auf. <br/><br/><br/></p>"
           }
         },
         "d1e6ab19-e821-47aa-8f86-4b41755ebc06": {
           "type": "button",
           "settings": {
             "target_blank": false,
-            "link": "https:\/\/www.langhaarmaedchen.de\/pages\/haarverdichtung-webinar#anmelden",
+            "link": "https://www.langhaarmaedchen.de/pages/haarverdichtung-webinar#anmelden",
             "link_text": "JA, ICH BIN DABEI"
           }
         }
@@ -559,20 +566,20 @@
     "0230f784-1e05-4bbf-8825-10b0eec4f3dc": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/Langhaarmaedchen_gretacaptures_Edit_161.jpg",
+        "image": "shopify://shop_images/Langhaarmaedchen_gretacaptures_Edit_161.jpg",
         "image_position": "left-bottom",
         "image_bg_color": "#efdbd5",
-        "image_bg": "shopify:\/\/shop_images\/Frame_106_1.png",
+        "image_bg": "shopify://shop_images/Frame_106_1.png",
         "subtitle": "",
         "title": "",
         "another_text": false,
-        "text": "<p>Wir Langhaarmädchen ticken anders! Bei uns gibt es keine Haarverdichtung, um den Optimierungswahn auf die Spitze zu treiben. Bei uns gibt es Haarverdichtungen, die dich darin unterstützen sollen, dein Selbstbewusstsein, deine Schönheit und deine Persönlichkeit, die längst schon da ist, zu unterstreichen!<\/p><p>Wir sind <strong>Mona & Julia, <\/strong>Friseurmeisterinnen und Gründerinnen von Langhaarmädchen! <\/p><p>Mit unserer veganen Haarpflegeserie sind wir in über 3.500 dm Märkten in 13 Ländern. In unserem Salon in München sind wir spezialisiert auf <strong>Haarverdichtung, Balayage und Keratinglättung<\/strong>! Wir selbst tragen seit 8 Jahren überzeugt eine Haarverdichtung und erfüllen täglich neue HAARTRÄUME!<\/p>",
+        "text": "<p>Wir Langhaarmädchen ticken anders! Bei uns gibt es keine Haarverdichtung, um den Optimierungswahn auf die Spitze zu treiben. Bei uns gibt es Haarverdichtungen, die dich darin unterstützen sollen, dein Selbstbewusstsein, deine Schönheit und deine Persönlichkeit, die längst schon da ist, zu unterstreichen!</p><p>Wir sind <strong>Mona & Julia, </strong>Friseurmeisterinnen und Gründerinnen von Langhaarmädchen! </p><p>Mit unserer veganen Haarpflegeserie sind wir in über 3.500 dm Märkten in 13 Ländern. In unserem Salon in München sind wir spezialisiert auf <strong>Haarverdichtung, Balayage und Keratinglättung</strong>! Wir selbst tragen seit 8 Jahren überzeugt eine Haarverdichtung und erfüllen täglich neue HAARTRÄUME!</p>",
         "button_label": "",
         "button_link": "",
         "button_style": "primary",
         "align_text": "left",
         "layout": "left",
-        "text_image_bg": "shopify:\/\/shop_images\/decor_home_2_695dd7ff-ae83-4bc3-a0f9-3c28bca98544.png",
+        "text_image_bg": "shopify://shop_images/decor_home_2_695dd7ff-ae83-4bc3-a0f9-3c28bca98544.png",
         "divider": false,
         "margin_top": false,
         "margin_bottom": false
@@ -594,7 +601,7 @@
           "disabled": true,
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
           }
         }
       },
@@ -616,35 +623,35 @@
         "165054900571537ebd-0": {
           "type": "logo_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/png-clipart-dm-drogerie-markt-slovakia-dm_-dm-drogerie-markt-nordhorn-kehl-dm-text-logo_5c636e00-76ce-4489-9dc2-3ed1830dfa9b.png",
+            "image": "shopify://shop_images/png-clipart-dm-drogerie-markt-slovakia-dm_-dm-drogerie-markt-nordhorn-kehl-dm-text-logo_5c636e00-76ce-4489-9dc2-3ed1830dfa9b.png",
             "link": ""
           }
         },
         "165054900571537ebd-1": {
           "type": "logo_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/logo-taff_4b19a6f9-dff0-4ed3-bd7e-8884811793a1.png",
+            "image": "shopify://shop_images/logo-taff_4b19a6f9-dff0-4ed3-bd7e-8884811793a1.png",
             "link": ""
           }
         },
         "165054900571537ebd-2": {
           "type": "logo_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Logo_InStyle_958c5591-b861-4cd6-b0b5-4fecc6d3b164.png",
+            "image": "shopify://shop_images/Logo_InStyle_958c5591-b861-4cd6-b0b5-4fecc6d3b164.png",
             "link": ""
           }
         },
         "165054900571537ebd-3": {
           "type": "logo_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/v12801_2a8f2fc6-2315-496a-8ae2-94c0aeb26145.png",
+            "image": "shopify://shop_images/v12801_2a8f2fc6-2315-496a-8ae2-94c0aeb26145.png",
             "link": ""
           }
         },
         "5fb6184c-e24f-4c26-806b-d6830fe080da": {
           "type": "logo_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Gala_Magazin_logo_sw.png",
+            "image": "shopify://shop_images/Gala_Magazin_logo_sw.png",
             "link": ""
           }
         },
@@ -676,7 +683,7 @@
         "166453091366fc6f3b-1": {
           "type": "liquid",
           "settings": {
-            "code": "<script src=\"https:\/\/cdn.logwork.com\/widget\/countdown.js\"><\/script>\n<a href=\"https:\/\/logwork.com\/countdown-xhbd\" class=\"countdown-timer\" data-timezone=\"Europe\/Berlin\" data-language=\"de\" data-date=\"2023-06-18 19:00\" data-background=\"#ebb7a7\" data-digitscolor=\"#734f43\">WEBINAR COUNTDOWN<\/a>",
+            "code": "<script src=\"https://cdn.logwork.com/widget/countdown.js\"></script>\n<a href=\"https://logwork.com/countdown-xhbd\" class=\"countdown-timer\" data-timezone=\"Europe/Berlin\" data-language=\"de\" data-date=\"2023-06-18 19:00\" data-background=\"#ebb7a7\" data-digitscolor=\"#734f43\">WEBINAR COUNTDOWN</a>",
             "width": "100%",
             "alignment": "center"
           }
@@ -706,8 +713,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/10_a24955d0-c3a7-426f-a13c-0276ba942435.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/9_7ece60f2-5910-4988-a797-1bbaf9eede72.jpg",
+            "image": "shopify://shop_images/10_a24955d0-c3a7-426f-a13c-0276ba942435.jpg",
+            "image_mobile": "shopify://shop_images/9_7ece60f2-5910-4988-a797-1bbaf9eede72.jpg",
             "overlay_opacity": 0,
             "focal_point": "center center"
           }
@@ -725,8 +732,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/13.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/12_1e8b6c14-b69e-4d43-9a35-fff855e18c12.jpg",
+            "image": "shopify://shop_images/13.jpg",
+            "image_mobile": "shopify://shop_images/12_1e8b6c14-b69e-4d43-9a35-fff855e18c12.jpg",
             "overlay_opacity": 0,
             "focal_point": "center center"
           }
@@ -744,8 +751,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/12_f60cf104-90ec-4e53-96a0-846fe5eb04f8.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/11_3644f838-6dd4-407b-9b85-4ae070afdf25.jpg",
+            "image": "shopify://shop_images/12_f60cf104-90ec-4e53-96a0-846fe5eb04f8.jpg",
+            "image_mobile": "shopify://shop_images/11_3644f838-6dd4-407b-9b85-4ae070afdf25.jpg",
             "overlay_opacity": 0,
             "focal_point": "center center"
           }
@@ -763,8 +770,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/Haarverdichtung-vorher-nachher8.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/Before_after.jpg",
+            "image": "shopify://shop_images/Haarverdichtung-vorher-nachher8.jpg",
+            "image_mobile": "shopify://shop_images/Before_after.jpg",
             "overlay_opacity": 0,
             "focal_point": "center center"
           }
@@ -793,7 +800,7 @@
           "type": "button",
           "settings": {
             "target_blank": false,
-            "link": "https:\/\/www.langhaarmaedchen.de\/pages\/haarverdichtung-webinar#anmelden",
+            "link": "https://www.langhaarmaedchen.de/pages/haarverdichtung-webinar#anmelden",
             "link_text": "Ich bin dabei"
           }
         }
@@ -813,10 +820,10 @@
       "type": "background-image",
       "disabled": true,
       "settings": {
-        "image-left": "shopify:\/\/shop_images\/decor_home_6_2.png",
+        "image-left": "shopify://shop_images/decor_home_6_2.png",
         "image_left_width": 28,
         "image_left_position": 10,
-        "image-right": "shopify:\/\/shop_images\/decor_home_8.png",
+        "image-right": "shopify://shop_images/decor_home_8.png",
         "image_right_width": 27,
         "image_right_position": 0
       }
@@ -824,14 +831,14 @@
     "ac859fc3-7a76-4998-bcb3-74353a5f4c28": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/Hairtalk-Haaarverdichtung.jpg",
-        "image2": "shopify:\/\/shop_images\/49A4118.jpg",
+        "image": "shopify://shop_images/Hairtalk-Haaarverdichtung.jpg",
+        "image2": "shopify://shop_images/49A4118.jpg",
         "image_position": "left-bottom",
         "image_bg_color": "#f8e6d4",
         "subtitle": "Unser Partner",
         "title": "Hairtalk",
         "another_text": false,
-        "text": "<p>Hairtalk ist seit Jahren weltweit die führende Marke für Tape-Extensions. Als Pionier dieser Methode zur Haarverlängerung und Haarverdichtung wissen sie genau, worauf es ankommt: Das einzigartige Klebesystem ist <strong>besonders schonend<\/strong> zum Eigenhaar und fügt sich nahtlos in das Naturhaar ein. Alle Hairtalk Produkte überzeugen durch einzigartigen Tragekomfort und ein breites Spektrum an Farbnuancen, die sich mit dem Eigenhaar zu einem überzeugenden, natürlichen Ergebnis verbinden.<\/p>",
+        "text": "<p>Hairtalk ist seit Jahren weltweit die führende Marke für Tape-Extensions. Als Pionier dieser Methode zur Haarverlängerung und Haarverdichtung wissen sie genau, worauf es ankommt: Das einzigartige Klebesystem ist <strong>besonders schonend</strong> zum Eigenhaar und fügt sich nahtlos in das Naturhaar ein. Alle Hairtalk Produkte überzeugen durch einzigartigen Tragekomfort und ein breites Spektrum an Farbnuancen, die sich mit dem Eigenhaar zu einem überzeugenden, natürlichen Ergebnis verbinden.</p>",
         "button_label": "",
         "button_link": "",
         "button_style": "primary",
@@ -849,8 +856,8 @@
         "title": "Wir freuen uns auf dich!",
         "text": "",
         "button_label": "Ich bin dabei!",
-        "button_link": "https:\/\/www.langhaarmaedchen.de\/pages\/webinar-landing-page-v1\/#anmelden",
-        "image": "shopify:\/\/shop_images\/20211118_085343000_klein_dbeefe05-fde9-40cd-95fd-ec0d4bded362.jpg",
+        "button_link": "https://www.langhaarmaedchen.de/pages/webinar-landing-page-v1/#anmelden",
+        "image": "shopify://shop_images/20211118_085343000_klein_dbeefe05-fde9-40cd-95fd-ec0d4bded362.jpg",
         "focal_point": "center",
         "layout": "left",
         "height": 650,
@@ -875,7 +882,7 @@
           "type": "button",
           "settings": {
             "target_blank": false,
-            "link": "https:\/\/www.langhaarmaedchen.de\/pages\/haarverdichtung-webinar#anmelden",
+            "link": "https://www.langhaarmaedchen.de/pages/haarverdichtung-webinar#anmelden",
             "link_text": "Jetzt zum kostenlosen Live-Webinar anmelden!"
           }
         }
