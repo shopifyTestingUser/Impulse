@@ -32,7 +32,7 @@
         "8949461a-e3e2-4b2f-a40f-1c2d65799d70": {
           "type": "image",
           "settings": {
-            "top_subheading": "Langhaarmädchen Präsentiert",
+            "top_subheading": "",
             "title": "STYLENIGHT",
             "title_size": 63,
             "subheading": "Wir machen dich zum eigenen Haarexperten",
@@ -41,11 +41,11 @@
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-bottom horizontal-center",
+            "text_align": "vertical-bottom horizontal-left",
             "image": "shopify://shop_images/avatar_1.png",
             "image_mobile": "shopify://shop_images/avatar_1.png",
             "overlay_opacity": 36,
-            "focal_point": "center center"
+            "focal_point": "bottom center"
           }
         },
         "16349073092065b984-0": {
@@ -145,9 +145,9 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify://shop_images/haarstyling.jpg",
-            "title": "Haar Styling",
-            "price": "",
+            "image": "shopify://shop_images/9f52a5f1a0010d57f1dc259341d6433f-xlarge.jpg",
+            "title": "Techniken für unterschiedliche Locken-Stile",
+            "price": "Beach Waves, Glamour-Locken oder natürliche Wellen – du lernst, wie du mit verschiedenen Techniken und Werkzeugen den gewünschten Look kreierst.",
             "text": "",
             "button_label": "",
             "button_link": ""
@@ -158,9 +158,9 @@
           "settings": {
             "enable_image": true,
             "image": "shopify://shop_images/haarbehandlung.jpg",
-            "title": "Haarbehandlung",
+            "title": "Schutz und Vorbereitung der Haare",
             "price": "",
-            "text": "",
+            "text": "<p>Tipps zur richtigen Anwendung von Hitzeschutzprodukten, Vorbereitung der Haare und welche Pflege für glänzende, gesunde Locken unerlässlich ist.<br/></p>",
             "button_label": "",
             "button_link": ""
           }
@@ -169,10 +169,10 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify://shop_images/8407fd1afbc9b655cdeecd33b066eb40-xlarge.jpg",
-            "title": "Haarpflege",
+            "image": "shopify://shop_images/LHM-6.jpg",
+            "title": "Styling und Fixierung",
             "price": "",
-            "text": "",
+            "text": "<p>Wie du die Locken fixierst, um einen langanhaltenden Look zu erzielen, inklusive der richtigen Produkte (Haarspray, Texturspray, etc.) und Techniken zum Auffrischen des Stylings.</p>",
             "button_label": "",
             "button_link": ""
           }
