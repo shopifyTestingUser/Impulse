@@ -231,6 +231,42 @@
         "margin_bottom": false
       }
     },
+    "92f77b66-9105-4f07-b93c-9ab49c71ad54": {
+      "type": "slideshow",
+      "blocks": {
+        "03c97c6a-dc0b-4d12-a4ac-2f5d397a100d": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "Ein Workshop nur für dich",
+            "title": "Werde zum eigenem Haarexperten",
+            "title_size": 61,
+            "subheading": "",
+            "link": "#tickets",
+            "link_text": "JETZT BUCHEN",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/49A0498_2.png",
+            "image_mobile": "shopify://shop_images/hairstyle4.png",
+            "overlay_opacity": 28,
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "03c97c6a-dc0b-4d12-a4ac-2f5d397a100d"
+      ],
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "arrows": true,
+        "autoplay": true,
+        "autoplay_speed": 5
+      }
+    },
     "testimonials_73HLAg": {
       "type": "testimonials",
       "blocks": {
@@ -294,42 +330,6 @@
         "round_images": true,
         "image_width": 50,
         "image_position": 50
-      }
-    },
-    "92f77b66-9105-4f07-b93c-9ab49c71ad54": {
-      "type": "slideshow",
-      "blocks": {
-        "03c97c6a-dc0b-4d12-a4ac-2f5d397a100d": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "Ein Workshop nur für dich",
-            "title": "Werde zum eigenem Haarexperten",
-            "title_size": 61,
-            "subheading": "",
-            "link": "#tickets",
-            "link_text": "JETZT BUCHEN",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/49A0498_2.png",
-            "image_mobile": "shopify://shop_images/5_d706b3f6-4bfa-4051-9b17-04ad3a2cce16.jpg",
-            "overlay_opacity": 28,
-            "focal_point": "center center"
-          }
-        }
-      },
-      "block_order": [
-        "03c97c6a-dc0b-4d12-a4ac-2f5d397a100d"
-      ],
-      "settings": {
-        "section_height": "natural",
-        "mobile_height": "auto",
-        "parallax": false,
-        "style": "bars",
-        "arrows": true,
-        "autoplay": true,
-        "autoplay_speed": 5
       }
     },
     "08b53936-ee44-4318-8660-50fd34abe843": {
@@ -851,8 +851,8 @@
     "16349073092065b984",
     "services_columns_fYFXMY",
     "bd219e28-3185-42c9-bf8d-a476a9dd44ee",
-    "testimonials_73HLAg",
     "92f77b66-9105-4f07-b93c-9ab49c71ad54",
+    "testimonials_73HLAg",
     "08b53936-ee44-4318-8660-50fd34abe843",
     "84714977-16be-489b-97ba-053b10568c4a",
     "main",
