@@ -197,7 +197,8 @@
         "template--16735646646538__bd219e28-3185-42c9-bf8d-a476a9dd44ee-16849201408abacede-0": {
           "type": "heading",
           "settings": {
-            "title": "Jetzt Ticket sichern - 31.01.2025 19 bis 21 Uhr",
+            "title": "Jetzt Ticket sichern - 24.01.2025 18 bis 20 Uhr",
+            "image": "shopify://shop_images/1_440874aa-957c-4bab-8be8-20448850b57e.png",
             "image_width": 50,
             "image_position": 50
           }
@@ -248,7 +249,7 @@
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/49A0498_2.png",
-            "image_mobile": "shopify://shop_images/hairstyle4.png",
+            "image_mobile": "shopify://shop_images/avatar_3.png",
             "overlay_opacity": 28,
             "focal_point": "center center"
           }
@@ -285,7 +286,7 @@
             "icon": "5-stars",
             "testimonial": "<p>Es ist immer ein besonderes Erlebnis in diesem wunderschönen Salon. Professionell, einzigartige Atmosphäre, bestes Ergebnis.</p>",
             "author": "Jana",
-            "author_info": "Düsseldorf"
+            "author_info": "Augsburg"
           }
         },
         "testimonial_K3XgyV": {
@@ -476,7 +477,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p></p><p><strong>✓</strong> <strong>HAARTYPEN <br/></strong>Du weißt nicht genau, ob eine Haarverdichtung bei deinen Haaren überhaupt funktioniert?</p><p><strong>✓ METHODEN & KOSTEN <br/></strong>Welche Methoden gibt es auf dem Markt & mit welchen Kosten muss ich rechnen?</p><p><strong>✓  ALLTAGSPFLEGE & TIPPS<br/></strong>Wir zeigen dir, wie eine Haarverdichtung im Alltag aussieht und worauf du achten solltest.</p><p><strong>✓ DIE GRÖSSTEN MYTHEN</strong><br/>Du denkst über eine Haarverlängerung nach, bist dir aber unsicher? Wir klären die Mythen über Haar Extensions auf. <br/><br/><br/></p>"
+            "text": "<p><strong>✓ METHODEN & PRODUKTE</strong><br/>Welche Tools und Produkte brauchst du, um mit Lockenstab oder Glätteisen sanfte Wellen zu kreieren? Wir erklären dir Schritt für Schritt den Einsatz beider Geräte und zeigen dir, welche Pflege- und Stylinghelfer dein Ergebnis perfektionieren.</p><p><strong>✓ ALLTAGSPFLEGE & TIPPS</strong><br/>Wie bleiben die gestylten Wellen lange geschmeidig und glänzend? Wir verraten dir einfache Routinen, um deinen Look im Alltag aufzufrischen – von der richtigen Temperaturwahl bis zur Verwendung hitzeschützender Produkte.</p><p><strong>✓ DIE GRÖSSTEN MYTHEN</strong><br/>Du glaubst, schöne Wellen mit Lockenstab oder Glätteisen seien nur Profis vorbehalten oder würden dein Haar stark strapazieren? Wir räumen mit verbreiteten Irrtümern auf und geben dir Sicherheit, damit du voller Selbstvertrauen neue Styles ausprobieren kannst!</p>"
           }
         },
         "d1e6ab19-e821-47aa-8f86-4b41755ebc06": {
