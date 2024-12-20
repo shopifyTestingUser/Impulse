@@ -36,7 +36,7 @@
             "title": "STYLENIGHT",
             "title_size": 63,
             "subheading": "Wir machen dich zum eigenen Haarexperten",
-            "link": "",
+            "link": "#tickets",
             "link_text": "JETZT BUCHEN",
             "link_2": "",
             "link_text_2": "",
@@ -213,7 +213,7 @@
           "type": "button",
           "settings": {
             "target_blank": false,
-            "link": "https://www.langhaarmaedchen.de/pages/haarverdichtung-webinar#anmelden",
+            "link": "#tickets",
             "link_text": "Ich bin dabei!"
           }
         }
@@ -306,7 +306,7 @@
             "title": "Werde zum eigenem Haarexperten",
             "title_size": 61,
             "subheading": "",
-            "link": "",
+            "link": "#tickets",
             "link_text": "JETZT BUCHEN",
             "link_2": "",
             "link_text_2": "",
@@ -483,7 +483,7 @@
           "type": "button",
           "settings": {
             "target_blank": false,
-            "link": "https://www.langhaarmaedchen.de/pages/haarverdichtung-webinar#anmelden",
+            "link": "#tickets",
             "link_text": "JA, ICH BIN DABEI"
           }
         }
@@ -624,7 +624,7 @@
         "166453091366fc6f3b-1": {
           "type": "liquid",
           "settings": {
-            "code": "<!-- Ticket Tailor Widget. Paste this into your website where you want the widget to appear. Do not change the code or the widget may not work properly. -->\n<div class=\"tt-widget\"><div class=\"tt-widget-fallback\"><p><a href=\"https://www.tickettailor.com/checkout/new-session/id/5042151/chk/63a0/?ref=website_widget&show_search_filter=true&show_date_filter=true&show_sort=true\" target=\"_blank\">Click here to buy tickets</a><br /><small><a href=\"https://www.tickettailor.com?rf=wdg_225624\" class=\"tt-widget-powered\">Sell tickets online with Ticket Tailor</a></small></p></div><script src=\"https://cdn.tickettailor.com/js/widgets/min/widget.js\" data-url=\"https://www.tickettailor.com/checkout/new-session/id/5042151/chk/63a0/?ref=website_widget&show_search_filter=true&show_date_filter=true&show_sort=true\" data-type=\"inline\" data-inline-minimal=\"true\" data-inline-show-logo=\"false\" data-inline-bg-fill=\"false\" data-inline-inherit-ref-from-url-param=\"\" data-inline-ref=\"website_widget\"></script></div><!-- End of Ticket Tailor Widget -->",
+            "code": "<!-- Ticket Tailor Widget. Paste this into your website where you want the widget to appear. Do not change the code or the widget may not work properly. -->\n<div id=\"tickets\" class=\"tt-widget\"><div class=\"tt-widget-fallback\"><p><a href=\"https://www.tickettailor.com/checkout/new-session/id/5042151/chk/63a0/?ref=website_widget&show_search_filter=true&show_date_filter=true&show_sort=true\" target=\"_blank\">Click here to buy tickets</a><br /><small><a href=\"https://www.tickettailor.com?rf=wdg_225624\" class=\"tt-widget-powered\">Sell tickets online with Ticket Tailor</a></small></p></div><script src=\"https://cdn.tickettailor.com/js/widgets/min/widget.js\" data-url=\"https://www.tickettailor.com/checkout/new-session/id/5042151/chk/63a0/?ref=website_widget&show_search_filter=true&show_date_filter=true&show_sort=true\" data-type=\"inline\" data-inline-minimal=\"true\" data-inline-show-logo=\"false\" data-inline-bg-fill=\"false\" data-inline-inherit-ref-from-url-param=\"\" data-inline-ref=\"website_widget\"></script></div><!-- End of Ticket Tailor Widget -->",
             "width": "100%",
             "alignment": "center"
           }
@@ -740,6 +740,7 @@
       "blocks": {
         "cc8f2282-53ea-4833-954f-268b45b7a8c9": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "target_blank": false,
             "link": "https://www.langhaarmaedchen.de/pages/haarverdichtung-webinar#anmelden",
@@ -795,10 +796,10 @@
     "638c5481-3ba9-470c-b845-2f681ba1c01a": {
       "type": "background-image-text",
       "settings": {
-        "subtitle": "18.05.2023 um 19.00 Uhr",
+        "subtitle": "",
         "title": "Wir freuen uns auf dich!",
-        "text": "",
-        "button_label": "Ich bin dabei!",
+        "text": "<p>Dein Langhaarädchen Team</p>",
+        "button_label": "",
         "button_link": "https://www.langhaarmaedchen.de/pages/webinar-landing-page-v1/#anmelden",
         "image": "shopify://shop_images/20211118_085343000_klein_dbeefe05-fde9-40cd-95fd-ec0d4bded362.jpg",
         "focal_point": "center",
@@ -823,6 +824,7 @@
         },
         "e36ca93b-02a2-4320-92c2-5f22f0c9dfc9": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "target_blank": false,
             "link": "https://www.langhaarmaedchen.de/pages/haarverdichtung-webinar#anmelden",
