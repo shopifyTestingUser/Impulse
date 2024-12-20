@@ -41,8 +41,8 @@
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-bottom horizontal-left",
-            "image": "shopify://shop_images/avatar_1.png",
+            "text_align": "vertical-center horizontal-left",
+            "image": "shopify://shop_images/julia_big.jpg",
             "image_mobile": "shopify://shop_images/avatar_1.png",
             "overlay_opacity": 36,
             "focal_point": "bottom center"
