@@ -35,7 +35,7 @@
             "top_subheading": "Langhaarmädchen Präsentiert",
             "title": "STYLENIGHT",
             "title_size": 63,
-            "subheading": "Dein Weg zur perfekten Haarverdichtung und Traumhaar!",
+            "subheading": "Wir machen dich zum eigenen Haarexperten",
             "link": "",
             "link_text": "JETZT BUCHEN",
             "link_2": "",
@@ -144,7 +144,7 @@
         "4984964d-f937-4420-b5b8-9235ad071269": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/49A4118.jpg",
+            "image": "shopify://shop_images/haarstyling.jpg",
             "link": "",
             "width": "33%",
             "alignment": "center"
@@ -153,7 +153,7 @@
         "template--16735646646538__b65be537-ac4e-445b-bd98-5231e7674845-16835530861a8a7c69-0": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Design_ohne_Titel_a496f632-ccac-47b2-a41f-9b55f28eee4e.png",
+            "image": "shopify://shop_images/haarbehandlung.jpg",
             "link": "",
             "width": "33%",
             "alignment": "top-middle"
@@ -162,7 +162,7 @@
         "81070687-4535-41d0-b051-d5b3e200f8c6": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Hairtalk-Haaarverdichtung.jpg",
+            "image": "shopify://shop_images/8407fd1afbc9b655cdeecd33b066eb40-xlarge.jpg",
             "link": "",
             "width": "33%",
             "alignment": "center"
