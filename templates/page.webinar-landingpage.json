@@ -147,8 +147,8 @@
             "enable_image": true,
             "image": "shopify://shop_images/9f52a5f1a0010d57f1dc259341d6433f-xlarge.jpg",
             "title": "Techniken für unterschiedliche Locken-Stile",
-            "price": "Beach Waves, Glamour-Locken oder natürliche Wellen – du lernst, wie du mit verschiedenen Techniken und Werkzeugen den gewünschten Look kreierst.",
-            "text": "",
+            "price": "",
+            "text": "<p>Beach Waves, Glamour-Locken oder natürliche Wellen – du lernst, wie du mit verschiedenen Techniken und Werkzeugen den gewünschten Look kreierst.</p>",
             "button_label": "",
             "button_link": ""
           }
@@ -157,7 +157,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify://shop_images/haarbehandlung.jpg",
+            "image": "shopify://shop_images/c82c9d5bbfd7cda2d140a1776281eedb-xlarge.jpg",
             "title": "Schutz und Vorbereitung der Haare",
             "price": "",
             "text": "<p>Tipps zur richtigen Anwendung von Hitzeschutzprodukten, Vorbereitung der Haare und welche Pflege für glänzende, gesunde Locken unerlässlich ist.<br/></p>",
