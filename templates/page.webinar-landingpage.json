@@ -138,45 +138,57 @@
         "autoplay_speed": 5
       }
     },
-    "b65be537-ac4e-445b-bd98-5231e7674845": {
-      "type": "advanced-content",
+    "services_columns_fYFXMY": {
+      "type": "services-columns",
       "blocks": {
-        "4984964d-f937-4420-b5b8-9235ad071269": {
-          "type": "image",
+        "text_block_fUb3rz": {
+          "type": "text_block",
           "settings": {
+            "enable_image": true,
             "image": "shopify://shop_images/haarstyling.jpg",
-            "link": "",
-            "width": "33%",
-            "alignment": "center"
+            "title": "Haar Styling",
+            "price": "",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
           }
         },
-        "template--16735646646538__b65be537-ac4e-445b-bd98-5231e7674845-16835530861a8a7c69-0": {
-          "type": "image",
+        "text_block_frLNyb": {
+          "type": "text_block",
           "settings": {
+            "enable_image": true,
             "image": "shopify://shop_images/haarbehandlung.jpg",
-            "link": "",
-            "width": "33%",
-            "alignment": "top-middle"
+            "title": "Haarbehandlung",
+            "price": "",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
           }
         },
-        "81070687-4535-41d0-b051-d5b3e200f8c6": {
-          "type": "image",
+        "text_block_KkbY8B": {
+          "type": "text_block",
           "settings": {
+            "enable_image": true,
             "image": "shopify://shop_images/8407fd1afbc9b655cdeecd33b066eb40-xlarge.jpg",
-            "link": "",
-            "width": "33%",
-            "alignment": "center"
+            "title": "Haarpflege",
+            "price": "",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
           }
         }
       },
       "block_order": [
-        "4984964d-f937-4420-b5b8-9235ad071269",
-        "template--16735646646538__b65be537-ac4e-445b-bd98-5231e7674845-16835530861a8a7c69-0",
-        "81070687-4535-41d0-b051-d5b3e200f8c6"
+        "text_block_fUb3rz",
+        "text_block_frLNyb",
+        "text_block_KkbY8B"
       ],
       "settings": {
-        "full_width": false,
-        "space_around": true
+        "title": "Was du bei uns lernst:",
+        "align_text": "center",
+        "divider": false,
+        "image_width": 50,
+        "image_position": 50
       }
     },
     "bd219e28-3185-42c9-bf8d-a476a9dd44ee": {
@@ -194,7 +206,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Erfahre alles über professionelle Haarverdichtung, individuelle Lösungen und Styling-Tipps – live und interaktiv!</p>"
+            "text": "<p>Erfahre alles über professionelle Haarstyling, individuelle Lösungen und Styling-Tipps – live und interaktiv!</p>"
           }
         },
         "30baece9-b16f-4072-837c-719803d23c4a": {
@@ -219,63 +231,105 @@
         "margin_bottom": false
       }
     },
-    "29d28c65-b26c-4411-90ac-f7850a492059": {
-      "type": "newsletter",
+    "testimonials_73HLAg": {
+      "type": "testimonials",
       "blocks": {
-        "template--16735646646538__29d28c65-b26c-4411-90ac-f7850a492059-1672403774eebf122b-0": {
-          "type": "title",
+        "testimonial_kaHiex": {
+          "type": "testimonial",
           "settings": {
-            "title": "Jetzt unverbindlich anmelden"
+            "icon": "5-stars",
+            "testimonial": "<p>Endlich habe ich meinen Friseursalon gefunden! Endlich ein Salon, der die Bedürfnisse von Langhaarmädchen versteht!</p>",
+            "author": "Christin",
+            "author_info": "Landshut"
           }
         },
-        "template--16735646646538__29d28c65-b26c-4411-90ac-f7850a492059-1672403774eebf122b-1": {
-          "type": "text",
+        "testimonial_BafDpn": {
+          "type": "testimonial",
           "settings": {
-            "text": "<p>Melde dich zu unserem Webinar Newsletter an.</p>"
+            "icon": "5-stars",
+            "testimonial": "<p>Es ist immer ein besonderes Erlebnis in diesem wunderschönen Salon. Professionell, einzigartige Atmosphäre, bestes Ergebnis.</p>",
+            "author": "Jana",
+            "author_info": "Düsseldorf"
           }
         },
-        "template--16735646646538__29d28c65-b26c-4411-90ac-f7850a492059-1672403774eebf122b-2": {
-          "type": "form",
-          "settings": {}
-        },
-        "25598ff7-df49-49df-ae5d-b5e61942f8e8": {
-          "type": "title",
+        "testimonial_K3XgyV": {
+          "type": "testimonial",
           "settings": {
-            "title": "Was hält dich noch ab?"
+            "icon": "5-stars",
+            "testimonial": "<p>Ich bin einfach in diesem Studio verliebt! Alles ist so liebevoll eingerichtet und man fühlt sich gleich super wohl wenn man das Studio antritt.</p>",
+            "author": "Natalia",
+            "author_info": "München"
+          }
+        },
+        "testimonial_ytdTXC": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
+            "author": "Author's name",
+            "author_info": "Los Angeles, CA"
+          }
+        },
+        "testimonial_KJUeh6": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Seit über 2 Jahren darf ich mich schon zu einer der glücklichen und zufriedenen Langhaarmädchen-Kundinnen hinzuzählen.</p>",
+            "author": "Sunsetsweet",
+            "author_info": "München"
           }
         }
       },
       "block_order": [
-        "template--16735646646538__29d28c65-b26c-4411-90ac-f7850a492059-1672403774eebf122b-0",
-        "template--16735646646538__29d28c65-b26c-4411-90ac-f7850a492059-1672403774eebf122b-1",
-        "template--16735646646538__29d28c65-b26c-4411-90ac-f7850a492059-1672403774eebf122b-2",
-        "25598ff7-df49-49df-ae5d-b5e61942f8e8"
+        "testimonial_kaHiex",
+        "testimonial_BafDpn",
+        "testimonial_K3XgyV",
+        "testimonial_ytdTXC",
+        "testimonial_KJUeh6"
       ],
-      "disabled": true,
       "settings": {
-        "color_background": "#f9f9f9",
-        "color_text": "#1c1d1d"
+        "subtitle": "Was du Kunden sagen",
+        "title": "",
+        "align_text": "center",
+        "round_images": true,
+        "image_width": 50,
+        "image_position": 50
       }
     },
-    "4ad2552a-ecf5-44ee-8dde-e4ef80529eb2": {
-      "type": "text-and-image",
+    "92f77b66-9105-4f07-b93c-9ab49c71ad54": {
+      "type": "slideshow",
+      "blocks": {
+        "03c97c6a-dc0b-4d12-a4ac-2f5d397a100d": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "Ein Workshop nur für dich",
+            "title": "Werde zum eigenem Haarexperten",
+            "title_size": 61,
+            "subheading": "",
+            "link": "",
+            "link_text": "JETZT BUCHEN",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/49A0498_2.png",
+            "image_mobile": "shopify://shop_images/5_d706b3f6-4bfa-4051-9b17-04ad3a2cce16.jpg",
+            "overlay_opacity": 28,
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "03c97c6a-dc0b-4d12-a4ac-2f5d397a100d"
+      ],
       "settings": {
-        "image": "shopify://shop_images/avatar_6_21787ff5-7056-436c-a677-62ce4ddb85b7.png",
-        "image2": "shopify://shop_images/avatar_5.png",
-        "image_position": "right-bottom",
-        "image_bg_color": "rgba(0,0,0,0)",
-        "subtitle": "",
-        "title": "Hast du diese Haarprobleme satt?",
-        "another_text": false,
-        "text": "<p>Hallo du HERZENSMENSCH! 💖 </p><p>Träumst du auch von voluminösem, vollem & natürlichem Haar, dass dich wieder strahlen lässt? </p><p>Unsere Vision ist es, dir als Lang-, Kurz- oder Zarthaarmädchen die Freude an deinen Haaren, mehr Selbstbewusstsein und ein neues Lebensgefühl zurück zu schenken! Darum möchten wir DICH von Herzen zu unserem Haarverdichtungs-Webinar einladen! </p><p>Mona & ihr Team werden dir alle Fragen zu den Methoden & Techniken, Styling & Pflege beantworten und dir LIVE eine Haarverdichtung zeigen 💖 </p>",
-        "button_label": "",
-        "button_link": "",
-        "button_style": "primary",
-        "align_text": "left",
-        "layout": "left",
-        "divider": true,
-        "margin_top": false,
-        "margin_bottom": false
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "arrows": true,
+        "autoplay": true,
+        "autoplay_speed": 5
       }
     },
     "08b53936-ee44-4318-8660-50fd34abe843": {
@@ -302,6 +356,7 @@
         "template--16735646646538__08b53936-ee44-4318-8660-50fd34abe843-1672850258676298a8-1",
         "template--16735646646538__08b53936-ee44-4318-8660-50fd34abe843-1672850258676298a8-0"
       ],
+      "disabled": true,
       "settings": {
         "align_text": "center",
         "narrow_column": true,
@@ -335,6 +390,7 @@
         "0c2fccfb-65da-4cef-bf76-e1e0133d753c",
         "5228b6d4-bbd3-4872-9dd6-9e6997f4cd7a"
       ],
+      "disabled": true,
       "settings": {
         "full_width": false,
         "space_around": true
@@ -344,122 +400,6 @@
       "type": "main-page",
       "disabled": true,
       "settings": {}
-    },
-    "92f77b66-9105-4f07-b93c-9ab49c71ad54": {
-      "type": "slideshow",
-      "blocks": {
-        "template--16735646646538__92f77b66-9105-4f07-b93c-9ab49c71ad54-16837873910268bcb2-0": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "Unsere Glücklichen",
-            "title_size": 41,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-bottom horizontal-center",
-            "image": "shopify://shop_images/Haarverdichtung-vorher-nachher6.jpg",
-            "image_mobile": "shopify://shop_images/6_97485b4d-7dd4-4d06-81f6-3834f82c7967.jpg",
-            "overlay_opacity": 0,
-            "focal_point": "center center"
-          }
-        },
-        "38f8b64c-c12d-4c20-bc2c-fd0932b191c8": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Haarverdichtung-vorher-nachher.jpg",
-            "image_mobile": "shopify://shop_images/7_129b7e01-07be-4e57-9305-31fc787ad482.jpg",
-            "overlay_opacity": 0,
-            "focal_point": "center center"
-          }
-        },
-        "17840eed-aef5-4b2a-8391-9af3c4152a50": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Header_Webinar._2e63c4db-4aa1-4c6b-93c2-0be836b36d17.jpg",
-            "image_mobile": "shopify://shop_images/nachher.jpg",
-            "overlay_opacity": 0,
-            "focal_point": "center center"
-          }
-        },
-        "template--16735646646538__92f77b66-9105-4f07-b93c-9ab49c71ad54-16837873910268bcb2-1": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 77,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Haarverdichtung-vorher-nachher5.jpg",
-            "image_mobile": "shopify://shop_images/Before_after_2.jpg",
-            "overlay_opacity": 0,
-            "focal_point": "center center"
-          }
-        },
-        "03c97c6a-dc0b-4d12-a4ac-2f5d397a100d": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Haarverdichtung-vorher-nachher7.jpg",
-            "image_mobile": "shopify://shop_images/5_d706b3f6-4bfa-4051-9b17-04ad3a2cce16.jpg",
-            "overlay_opacity": 0,
-            "focal_point": "center center"
-          }
-        }
-      },
-      "block_order": [
-        "template--16735646646538__92f77b66-9105-4f07-b93c-9ab49c71ad54-16837873910268bcb2-0",
-        "38f8b64c-c12d-4c20-bc2c-fd0932b191c8",
-        "17840eed-aef5-4b2a-8391-9af3c4152a50",
-        "template--16735646646538__92f77b66-9105-4f07-b93c-9ab49c71ad54-16837873910268bcb2-1",
-        "03c97c6a-dc0b-4d12-a4ac-2f5d397a100d"
-      ],
-      "settings": {
-        "section_height": "natural",
-        "mobile_height": "auto",
-        "parallax": false,
-        "style": "bars",
-        "arrows": true,
-        "autoplay": true,
-        "autoplay_speed": 5
-      }
     },
     "914f5d0d-cc18-49a6-bc91-a3b8007de511": {
       "type": "rich-text",
@@ -476,6 +416,7 @@
       "block_order": [
         "template--16735646646538__914f5d0d-cc18-49a6-bc91-a3b8007de511-1673345188efc74526-0"
       ],
+      "disabled": true,
       "settings": {
         "align_text": "center",
         "narrow_column": false,
@@ -498,6 +439,7 @@
       "block_order": [
         "template--16735646646538__559c1faa-16b7-480d-a744-0a81638f7a5d-16835499032979a82b-1"
       ],
+      "disabled": true,
       "settings": {
         "align_text": "center",
         "narrow_column": true,
@@ -563,6 +505,7 @@
     },
     "0230f784-1e05-4bbf-8825-10b0eec4f3dc": {
       "type": "text-and-image",
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/Langhaarmaedchen_gretacaptures_Edit_161.jpg",
         "image_position": "left-bottom",
@@ -781,6 +724,7 @@
         "603b3567-eb4a-4974-a55e-a4060902d770",
         "template--16735646646538__83981fbc-ab6e-4105-b99e-5489f91ec5ee-1684135120c9a4180b-0"
       ],
+      "disabled": true,
       "settings": {
         "section_height": "natural",
         "mobile_height": "auto",
@@ -828,6 +772,7 @@
     },
     "ac859fc3-7a76-4998-bcb3-74353a5f4c28": {
       "type": "text-and-image",
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/Hairtalk-Haaarverdichtung.jpg",
         "image2": "shopify://shop_images/49A4118.jpg",
@@ -889,6 +834,7 @@
         "16349078470f63730c-0",
         "e36ca93b-02a2-4320-92c2-5f22f0c9dfc9"
       ],
+      "disabled": true,
       "settings": {
         "align_text": "center",
         "narrow_column": true,
@@ -901,14 +847,13 @@
   "order": [
     "16475075815ec4bf82",
     "16349073092065b984",
-    "b65be537-ac4e-445b-bd98-5231e7674845",
+    "services_columns_fYFXMY",
     "bd219e28-3185-42c9-bf8d-a476a9dd44ee",
-    "29d28c65-b26c-4411-90ac-f7850a492059",
-    "4ad2552a-ecf5-44ee-8dde-e4ef80529eb2",
+    "testimonials_73HLAg",
+    "92f77b66-9105-4f07-b93c-9ab49c71ad54",
     "08b53936-ee44-4318-8660-50fd34abe843",
     "84714977-16be-489b-97ba-053b10568c4a",
     "main",
-    "92f77b66-9105-4f07-b93c-9ab49c71ad54",
     "914f5d0d-cc18-49a6-bc91-a3b8007de511",
     "559c1faa-16b7-480d-a744-0a81638f7a5d",
     "164794884227c625c7",
