@@ -191,6 +191,160 @@
         "image_position": 50
       }
     },
+    "83981fbc-ab6e-4105-b99e-5489f91ec5ee": {
+      "type": "slideshow",
+      "blocks": {
+        "template--16735646646538__83981fbc-ab6e-4105-b99e-5489f91ec5ee-1684135120c9a4180b-1": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Jetzt Ticket sichern - 24.01.2025 18 bis 20 Uhr",
+            "title_size": 55,
+            "subheading": "Erfahre alles über professionelle Haarstyling, individuelle Lösungen und Styling-Tipps – live und interaktiv!",
+            "link": "#tickets",
+            "link_text": "JETZT BUCHEN",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Clipboard_12-23-2024_07.jpg",
+            "image_mobile": "shopify://shop_images/20211118_085343000_klein_dbeefe05-fde9-40cd-95fd-ec0d4bded362.jpg",
+            "overlay_opacity": 52,
+            "focal_point": "center center"
+          }
+        },
+        "a8877d6e-0105-430a-867d-cb8794be03dc": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/13.jpg",
+            "image_mobile": "shopify://shop_images/12_1e8b6c14-b69e-4d43-9a35-fff855e18c12.jpg",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        },
+        "603b3567-eb4a-4974-a55e-a4060902d770": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/12_f60cf104-90ec-4e53-96a0-846fe5eb04f8.jpg",
+            "image_mobile": "shopify://shop_images/11_3644f838-6dd4-407b-9b85-4ae070afdf25.jpg",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        },
+        "template--16735646646538__83981fbc-ab6e-4105-b99e-5489f91ec5ee-1684135120c9a4180b-0": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Haarverdichtung-vorher-nachher8.jpg",
+            "image_mobile": "shopify://shop_images/Before_after.jpg",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "template--16735646646538__83981fbc-ab6e-4105-b99e-5489f91ec5ee-1684135120c9a4180b-1",
+        "a8877d6e-0105-430a-867d-cb8794be03dc",
+        "603b3567-eb4a-4974-a55e-a4060902d770",
+        "template--16735646646538__83981fbc-ab6e-4105-b99e-5489f91ec5ee-1684135120c9a4180b-0"
+      ],
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "arrows": true,
+        "autoplay": true,
+        "autoplay_speed": 5
+      }
+    },
+    "164794884227c625c7": {
+      "type": "rich-text",
+      "blocks": {
+        "16479488421d6495bb-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Was dich erwartet",
+            "image_width": 50,
+            "image_position": 50
+          }
+        },
+        "d8da7a9a-1b54-40f4-ba09-cc910dd13933": {
+          "type": "subheading",
+          "settings": {
+            "subtitle": "Von der Beratung bis zum Wohlfühlgefühl"
+          }
+        },
+        "f0f805ed-7b70-4c5e-9c9f-50f6fdd8d0a9": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Wir sprechen über</p>"
+          }
+        },
+        "16479488421d6495bb-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><strong>✓ METHODEN & PRODUKTE</strong><br/>Welche Tools und Produkte brauchst du, um mit Lockenstab oder Glätteisen sanfte Wellen zu kreieren? Wir erklären dir Schritt für Schritt den Einsatz beider Geräte und zeigen dir, welche Pflege- und Stylinghelfer dein Ergebnis perfektionieren.</p><p><strong>✓ ALLTAGSPFLEGE & TIPPS</strong><br/>Wie bleiben die gestylten Wellen lange geschmeidig und glänzend? Wir verraten dir einfache Routinen, um deinen Look im Alltag aufzufrischen – von der richtigen Temperaturwahl bis zur Verwendung hitzeschützender Produkte.</p><p><strong>✓ DIE GRÖSSTEN MYTHEN</strong><br/>Du glaubst, schöne Wellen mit Lockenstab oder Glätteisen seien nur Profis vorbehalten oder würden dein Haar stark strapazieren? Wir räumen mit verbreiteten Irrtümern auf und geben dir Sicherheit, damit du voller Selbstvertrauen neue Styles ausprobieren kannst!</p>"
+          }
+        },
+        "d1e6ab19-e821-47aa-8f86-4b41755ebc06": {
+          "type": "button",
+          "settings": {
+            "target_blank": false,
+            "link": "#tickets",
+            "link_text": "JA, ICH BIN DABEI"
+          }
+        }
+      },
+      "block_order": [
+        "16479488421d6495bb-0",
+        "d8da7a9a-1b54-40f4-ba09-cc910dd13933",
+        "f0f805ed-7b70-4c5e-9c9f-50f6fdd8d0a9",
+        "16479488421d6495bb-1",
+        "d1e6ab19-e821-47aa-8f86-4b41755ebc06"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
+      }
+    },
     "bd219e28-3185-42c9-bf8d-a476a9dd44ee": {
       "type": "rich-text",
       "blocks": {
@@ -224,6 +378,7 @@
         "template--16735646646538__bd219e28-3185-42c9-bf8d-a476a9dd44ee-16849201408abacede-1",
         "30baece9-b16f-4072-837c-719803d23c4a"
       ],
+      "disabled": true,
       "settings": {
         "align_text": "center",
         "narrow_column": true,
@@ -449,61 +604,6 @@
         "margin_bottom": false
       }
     },
-    "164794884227c625c7": {
-      "type": "rich-text",
-      "blocks": {
-        "16479488421d6495bb-0": {
-          "type": "heading",
-          "settings": {
-            "title": "Was dich erwartet",
-            "image_width": 50,
-            "image_position": 50
-          }
-        },
-        "d8da7a9a-1b54-40f4-ba09-cc910dd13933": {
-          "type": "subheading",
-          "settings": {
-            "subtitle": "Von der Beratung bis zum Wohlfühlgefühl"
-          }
-        },
-        "f0f805ed-7b70-4c5e-9c9f-50f6fdd8d0a9": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>Wir sprechen über</p>"
-          }
-        },
-        "16479488421d6495bb-1": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p><strong>✓ METHODEN & PRODUKTE</strong><br/>Welche Tools und Produkte brauchst du, um mit Lockenstab oder Glätteisen sanfte Wellen zu kreieren? Wir erklären dir Schritt für Schritt den Einsatz beider Geräte und zeigen dir, welche Pflege- und Stylinghelfer dein Ergebnis perfektionieren.</p><p><strong>✓ ALLTAGSPFLEGE & TIPPS</strong><br/>Wie bleiben die gestylten Wellen lange geschmeidig und glänzend? Wir verraten dir einfache Routinen, um deinen Look im Alltag aufzufrischen – von der richtigen Temperaturwahl bis zur Verwendung hitzeschützender Produkte.</p><p><strong>✓ DIE GRÖSSTEN MYTHEN</strong><br/>Du glaubst, schöne Wellen mit Lockenstab oder Glätteisen seien nur Profis vorbehalten oder würden dein Haar stark strapazieren? Wir räumen mit verbreiteten Irrtümern auf und geben dir Sicherheit, damit du voller Selbstvertrauen neue Styles ausprobieren kannst!</p>"
-          }
-        },
-        "d1e6ab19-e821-47aa-8f86-4b41755ebc06": {
-          "type": "button",
-          "settings": {
-            "target_blank": false,
-            "link": "#tickets",
-            "link_text": "JA, ICH BIN DABEI"
-          }
-        }
-      },
-      "block_order": [
-        "16479488421d6495bb-0",
-        "d8da7a9a-1b54-40f4-ba09-cc910dd13933",
-        "f0f805ed-7b70-4c5e-9c9f-50f6fdd8d0a9",
-        "16479488421d6495bb-1",
-        "d1e6ab19-e821-47aa-8f86-4b41755ebc06"
-      ],
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false,
-        "margin_top": false,
-        "margin_bottom": false
-      }
-    },
     "0230f784-1e05-4bbf-8825-10b0eec4f3dc": {
       "type": "text-and-image",
       "disabled": true,
@@ -639,103 +739,6 @@
         "space_around": true
       }
     },
-    "83981fbc-ab6e-4105-b99e-5489f91ec5ee": {
-      "type": "slideshow",
-      "blocks": {
-        "template--16735646646538__83981fbc-ab6e-4105-b99e-5489f91ec5ee-1684135120c9a4180b-1": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/10_a24955d0-c3a7-426f-a13c-0276ba942435.jpg",
-            "image_mobile": "shopify://shop_images/9_7ece60f2-5910-4988-a797-1bbaf9eede72.jpg",
-            "overlay_opacity": 0,
-            "focal_point": "center center"
-          }
-        },
-        "a8877d6e-0105-430a-867d-cb8794be03dc": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/13.jpg",
-            "image_mobile": "shopify://shop_images/12_1e8b6c14-b69e-4d43-9a35-fff855e18c12.jpg",
-            "overlay_opacity": 0,
-            "focal_point": "center center"
-          }
-        },
-        "603b3567-eb4a-4974-a55e-a4060902d770": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/12_f60cf104-90ec-4e53-96a0-846fe5eb04f8.jpg",
-            "image_mobile": "shopify://shop_images/11_3644f838-6dd4-407b-9b85-4ae070afdf25.jpg",
-            "overlay_opacity": 0,
-            "focal_point": "center center"
-          }
-        },
-        "template--16735646646538__83981fbc-ab6e-4105-b99e-5489f91ec5ee-1684135120c9a4180b-0": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Haarverdichtung-vorher-nachher8.jpg",
-            "image_mobile": "shopify://shop_images/Before_after.jpg",
-            "overlay_opacity": 0,
-            "focal_point": "center center"
-          }
-        }
-      },
-      "block_order": [
-        "template--16735646646538__83981fbc-ab6e-4105-b99e-5489f91ec5ee-1684135120c9a4180b-1",
-        "a8877d6e-0105-430a-867d-cb8794be03dc",
-        "603b3567-eb4a-4974-a55e-a4060902d770",
-        "template--16735646646538__83981fbc-ab6e-4105-b99e-5489f91ec5ee-1684135120c9a4180b-0"
-      ],
-      "disabled": true,
-      "settings": {
-        "section_height": "natural",
-        "mobile_height": "auto",
-        "parallax": false,
-        "style": "bars",
-        "arrows": true,
-        "autoplay": true,
-        "autoplay_speed": 5
-      }
-    },
     "51c9a177-c20f-47b8-8927-9b72b4c491f0": {
       "type": "rich-text",
       "blocks": {
@@ -851,6 +854,8 @@
     "16475075815ec4bf82",
     "16349073092065b984",
     "services_columns_fYFXMY",
+    "83981fbc-ab6e-4105-b99e-5489f91ec5ee",
+    "164794884227c625c7",
     "bd219e28-3185-42c9-bf8d-a476a9dd44ee",
     "92f77b66-9105-4f07-b93c-9ab49c71ad54",
     "testimonials_73HLAg",
@@ -859,12 +864,10 @@
     "main",
     "914f5d0d-cc18-49a6-bc91-a3b8007de511",
     "559c1faa-16b7-480d-a744-0a81638f7a5d",
-    "164794884227c625c7",
     "0230f784-1e05-4bbf-8825-10b0eec4f3dc",
     "1650550827aa9686d7",
     "1650549005713f9a6c",
     "1664530913fc84995b",
-    "83981fbc-ab6e-4105-b99e-5489f91ec5ee",
     "51c9a177-c20f-47b8-8927-9b72b4c491f0",
     "16353379449714c0e2",
     "ac859fc3-7a76-4998-bcb3-74353a5f4c28",
