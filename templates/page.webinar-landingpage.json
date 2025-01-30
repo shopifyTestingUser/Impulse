@@ -423,6 +423,26 @@
         "autoplay_speed": 5
       }
     },
+    "1664530913fc84995b": {
+      "type": "advanced-content",
+      "blocks": {
+        "166453091366fc6f3b-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<!-- Ticket Tailor Widget. Paste this into your website where you want the widget to appear. Do not change the code or the widget may not work properly. -->\n<div class=\"tt-widget\"><div class=\"tt-widget-fallback\"><p><a href=\"https://www.tickettailor.com/checkout/new-session/id/5232467/chk/6e06/?ref=website_widget&show_search_filter=true&show_date_filter=true&show_sort=true\" target=\"_blank\">Click here to buy tickets</a><br /><small><a href=\"https://www.tickettailor.com?rf=wdg_225624\" class=\"tt-widget-powered\">Sell tickets online with Ticket Tailor</a></small></p></div><script src=\"https://cdn.tickettailor.com/js/widgets/min/widget.js\" data-url=\"https://www.tickettailor.com/checkout/new-session/id/5232467/chk/6e06/?ref=website_widget&show_search_filter=true&show_date_filter=true&show_sort=true\" data-type=\"inline\" data-inline-minimal=\"true\" data-inline-show-logo=\"false\" data-inline-bg-fill=\"false\" data-inline-inherit-ref-from-url-param=\"\" data-inline-ref=\"website_widget\"></script></div><!-- End of Ticket Tailor Widget -->",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "166453091366fc6f3b-1"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
     "testimonials_73HLAg": {
       "type": "testimonials",
       "blocks": {
@@ -719,26 +739,6 @@
         "divider": false
       }
     },
-    "1664530913fc84995b": {
-      "type": "advanced-content",
-      "blocks": {
-        "166453091366fc6f3b-1": {
-          "type": "liquid",
-          "settings": {
-            "code": "<!-- Ticket Tailor Widget. Paste this into your website where you want the widget to appear. Do not change the code or the widget may not work properly. -->\n<div class=\"tt-widget\"><div class=\"tt-widget-fallback\"><p><a href=\"https://www.tickettailor.com/checkout/new-session/id/5232467/chk/6e06/?ref=website_widget&show_search_filter=true&show_date_filter=true&show_sort=true\" target=\"_blank\">Click here to buy tickets</a><br /><small><a href=\"https://www.tickettailor.com?rf=wdg_225624\" class=\"tt-widget-powered\">Sell tickets online with Ticket Tailor</a></small></p></div><script src=\"https://cdn.tickettailor.com/js/widgets/min/widget.js\" data-url=\"https://www.tickettailor.com/checkout/new-session/id/5232467/chk/6e06/?ref=website_widget&show_search_filter=true&show_date_filter=true&show_sort=true\" data-type=\"inline\" data-inline-minimal=\"true\" data-inline-show-logo=\"false\" data-inline-bg-fill=\"false\" data-inline-inherit-ref-from-url-param=\"\" data-inline-ref=\"website_widget\"></script></div><!-- End of Ticket Tailor Widget -->",
-            "width": "100%",
-            "alignment": "center"
-          }
-        }
-      },
-      "block_order": [
-        "166453091366fc6f3b-1"
-      ],
-      "settings": {
-        "full_width": false,
-        "space_around": true
-      }
-    },
     "51c9a177-c20f-47b8-8927-9b72b4c491f0": {
       "type": "rich-text",
       "blocks": {
@@ -858,6 +858,7 @@
     "164794884227c625c7",
     "bd219e28-3185-42c9-bf8d-a476a9dd44ee",
     "92f77b66-9105-4f07-b93c-9ab49c71ad54",
+    "1664530913fc84995b",
     "testimonials_73HLAg",
     "08b53936-ee44-4318-8660-50fd34abe843",
     "84714977-16be-489b-97ba-053b10568c4a",
@@ -867,7 +868,6 @@
     "0230f784-1e05-4bbf-8825-10b0eec4f3dc",
     "1650550827aa9686d7",
     "1650549005713f9a6c",
-    "1664530913fc84995b",
     "51c9a177-c20f-47b8-8927-9b72b4c491f0",
     "16353379449714c0e2",
     "ac859fc3-7a76-4998-bcb3-74353a5f4c28",
