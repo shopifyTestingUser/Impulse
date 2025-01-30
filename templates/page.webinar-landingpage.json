@@ -32,10 +32,10 @@
         "8949461a-e3e2-4b2f-a40f-1c2d65799d70": {
           "type": "image",
           "settings": {
-            "top_subheading": "24.01.2025, 18:00 bis 20:00",
-            "title": "STYLENIGHT",
+            "top_subheading": "14.03.2025, 18:00 bis 20:00 Uhr",
+            "title": "HAARSTYLING WORKSHOP",
             "title_size": 63,
-            "subheading": "Wir machen dich zum eigenen Haarexperten",
+            "subheading": "Wir machen dich zum eigenen Haarexperten!",
             "link": "#tickets",
             "link_text": "JETZT BUCHEN",
             "link_2": "",
@@ -44,7 +44,7 @@
             "text_align": "vertical-center horizontal-left",
             "image": "shopify://shop_images/julia_big.jpg",
             "image_mobile": "shopify://shop_images/avatar_1.png",
-            "overlay_opacity": 36,
+            "overlay_opacity": 30,
             "focal_point": "bottom center"
           }
         },
@@ -198,7 +198,7 @@
           "type": "image",
           "settings": {
             "top_subheading": "",
-            "title": "Jetzt Ticket sichern - 24.01.2025 18 bis 20 Uhr",
+            "title": "Jetzt Ticket sichern - 14.03.2025 18 bis 20 Uhr",
             "title_size": 55,
             "subheading": "Erfahre alles über professionelle Haarstyling, individuelle Lösungen und Styling-Tipps – live und interaktiv!",
             "link": "#tickets",
