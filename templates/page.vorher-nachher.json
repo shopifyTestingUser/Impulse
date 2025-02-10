@@ -14,20 +14,18 @@
       "disabled": true,
       "settings": {}
     },
-    "hero_video_iz8L4y": {
-      "type": "hero-video",
+    "background_video_text_NbAk7J": {
+      "type": "background-video-text",
       "settings": {
-        "title": "So funktioniert deine Haarverdichtung",
-        "title_size": 80,
-        "subheading": "Seamless hero videos",
-        "link_text": "Optional button",
-        "link": "",
-        "color_accent": "rgba(0,0,0,0)",
-        "text_align": "vertical-center horizontal-center",
+        "subtitle": "",
+        "title": "Vorher-Nachher",
+        "text": "<p><em>Lass dich von unseren wundervollen Ergebnissen im Langhaarmädchen Salon inspirieren – vielleicht verzaubern wir auch bald dein Haar!</em></p>",
+        "button_label": "",
+        "button_link": "",
         "video_url": "https://youtu.be/m5HqjWC-EHs",
-        "overlay_opacity": 46,
-        "section_height": "650px",
-        "mobile_height": "auto"
+        "color_border": "#eac5bd",
+        "layout": "left",
+        "height": 550
       }
     },
     "rich_text_xnNazX": {
@@ -36,7 +34,7 @@
         "heading_YhYyNw": {
           "type": "heading",
           "settings": {
-            "title": "Die Tape - Kaltklebetechnik",
+            "title": "Vorher-Nachher Ergebnisse",
             "image_width": 50,
             "image_position": 50
           }
@@ -45,7 +43,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Die <strong>Haarverdichtung mit der Tape-Klebetechnik</strong> ist eine beliebte Methode, um feines oder dünnes Haar voller wirken zu lassen. Hier sind die Arbeitsschritte im Detail:</p>"
+            "text": "<p>Echte Geschichten - die nicht nur Haare, sondern auch Herzen verändert haben:</p>"
           }
         }
       },
@@ -59,187 +57,6 @@
         "divider": false,
         "margin_top": false,
         "margin_bottom": false
-      }
-    },
-    "advanced_content_jFRnNP": {
-      "type": "advanced-content",
-      "blocks": {
-        "image_ct8ttC": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Roby_Beratung.png",
-            "link": "",
-            "width": "50%",
-            "alignment": "center"
-          }
-        },
-        "liquid_k66d7P": {
-          "type": "liquid",
-          "settings": {
-            "code": "<h2>Step 1 Deine Herzensberatung</h2><p>\nIn der Herzensberatung werden Haarstruktur, Farbabgleich und individuelle Wünsche analysiert, um die perfekte, typgerechte Haarverdichtung mit der passenden Methode zu finden.  <div class=\"heart\">",
-            "width": "50%",
-            "alignment": "center"
-          }
-        }
-      },
-      "block_order": [
-        "image_ct8ttC",
-        "liquid_k66d7P"
-      ],
-      "custom_css": [],
-      "settings": {
-        "full_width": false,
-        "space_around": true
-      }
-    },
-    "advanced_content_zW8Ndh": {
-      "type": "advanced-content",
-      "blocks": {
-        "image_TGPMht": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/2_9d96a5a2-13b4-4a24-b929-0a1fe2d399fc.png",
-            "link": "",
-            "width": "50%",
-            "alignment": "bottom-middle"
-          }
-        },
-        "liquid_P7BVJW": {
-          "type": "liquid",
-          "settings": {
-            "code": "<h2>Step 2 Die Farbauswahl</h2><p>\nIn der Herzensberatung werden Haarstruktur, Farbabgleich und individuelle Wünsche analysiert, um die perfekte, typgerechte Haarverdichtung mit der passenden Methode zu finden.  <div class=\"heart\">",
-            "width": "50%",
-            "alignment": "center"
-          }
-        }
-      },
-      "block_order": [
-        "image_TGPMht",
-        "liquid_P7BVJW"
-      ],
-      "settings": {
-        "full_width": false,
-        "space_around": true
-      }
-    },
-    "advanced_content_a6K86V": {
-      "type": "advanced-content",
-      "blocks": {
-        "image_Br4bzN": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/5_64b723c7-3bb7-4d13-b9fe-485f67894da8.png",
-            "link": "",
-            "width": "50%",
-            "alignment": "bottom-middle"
-          }
-        },
-        "liquid_9Japrc": {
-          "type": "liquid",
-          "settings": {
-            "code": "<h2>Step 3\n Die Farbabstimmung\n</h2><p>\nIn der Herzensberatung werden Haarstruktur, Farbabgleich und individuelle Wünsche analysiert, um die perfekte, typgerechte Haarverdichtung mit der passenden Methode zu finden.  <div class=\"heart\">",
-            "width": "50%",
-            "alignment": "center"
-          }
-        }
-      },
-      "block_order": [
-        "image_Br4bzN",
-        "liquid_9Japrc"
-      ],
-      "settings": {
-        "full_width": false,
-        "space_around": true
-      }
-    },
-    "advanced_content_RqQTpb": {
-      "type": "advanced-content",
-      "blocks": {
-        "image_jVcC73": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/4_6ee693ff-596c-49da-b83f-707b04809f78.png",
-            "link": "",
-            "width": "50%",
-            "alignment": "bottom-middle"
-          }
-        },
-        "liquid_9wFjmX": {
-          "type": "liquid",
-          "settings": {
-            "code": "<h2>Step 4 Strähnen abtrennen\n</h2><p>\nIn der Herzensberatung werden Haarstruktur, Farbabgleich und individuelle Wünsche analysiert, um die perfekte, typgerechte Haarverdichtung mit der passenden Methode zu finden.  <div class=\"heart\">",
-            "width": "50%",
-            "alignment": "center"
-          }
-        }
-      },
-      "block_order": [
-        "image_jVcC73",
-        "liquid_9wFjmX"
-      ],
-      "settings": {
-        "full_width": false,
-        "space_around": true
-      }
-    },
-    "advanced_content_tDTVwR": {
-      "type": "advanced-content",
-      "blocks": {
-        "image_RaXW6x": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/3_e63ece31-0d34-495c-bf89-37080dc629fd.png",
-            "link": "",
-            "width": "50%",
-            "alignment": "bottom-middle"
-          }
-        },
-        "liquid_7VtWCY": {
-          "type": "liquid",
-          "settings": {
-            "code": "<h2>Step 5 Tapes einkleben\n</h2><p>\nIn der Herzensberatung werden Haarstruktur, Farbabgleich und individuelle Wünsche analysiert, um die perfekte, typgerechte Haarverdichtung mit der passenden Methode zu finden.  <div class=\"heart\">",
-            "width": "50%",
-            "alignment": "center"
-          }
-        }
-      },
-      "block_order": [
-        "image_RaXW6x",
-        "liquid_7VtWCY"
-      ],
-      "settings": {
-        "full_width": false,
-        "space_around": true
-      }
-    },
-    "advanced_content_6EdJKx": {
-      "type": "advanced-content",
-      "blocks": {
-        "image_im4eJr": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/6_d9347a60-a346-469e-b49a-be2514c529d4.png",
-            "link": "",
-            "width": "50%",
-            "alignment": "bottom-middle"
-          }
-        },
-        "liquid_fPawBJ": {
-          "type": "liquid",
-          "settings": {
-            "code": "<h2>Step 6 Pflege & Styling\n</h2><p>\nIn der Herzensberatung werden Haarstruktur, Farbabgleich und individuelle Wünsche analysiert, um die perfekte, typgerechte Haarverdichtung mit der passenden Methode zu finden.  <div class=\"heart\">",
-            "width": "50%",
-            "alignment": "center"
-          }
-        }
-      },
-      "block_order": [
-        "image_im4eJr",
-        "liquid_fPawBJ"
-      ],
-      "settings": {
-        "full_width": false,
-        "space_around": true
       }
     },
     "rich_text_nfY7rf": {
@@ -265,6 +82,48 @@
         "margin_bottom": false
       }
     },
+    "text_and_image_BaUMAk": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/1_64e74440-3213-4be0-ba0e-0fe9fa0284e3.png",
+        "image2": "shopify://shop_images/Nora_Nachher.png",
+        "image_position": "left-bottom",
+        "image_bg_color": "#f8e6d4",
+        "subtitle": "",
+        "title": "NORA",
+        "another_text": false,
+        "text": "<p><em>\"Dank der Haarverdichtung fühlt sich mein Haar nicht nur dichter an, sondern sieht auch absolut authentisch aus. Die Tapes sind unsichtbar, angenehm zu tragen und geben mir jeden Tag ein neues Selbstbewusstsein – einfach ein Traum!</em></p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
+      }
+    },
+    "text_and_image_D4nGNj": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/9.png",
+        "image2": "shopify://shop_images/avatar_2.png",
+        "image_position": "right-bottom",
+        "image_bg_color": "#F8E6D4",
+        "subtitle": "",
+        "title": "ROBY",
+        "another_text": false,
+        "text": "<p><em>\"Durch meine Autoimmunerkrankung hatte ich mit immer dünner werdendem Haar zu kämpfen, was mich sehr belastet hat. Dank der Haarverdichtung habe ich endlich wieder volles, natürlich aussehendes Haar – und vor allem ein gutes Gefühl, wenn ich in den Spiegel schaue. Die Tapes sind federleicht, unsichtbar und geben mir mein Selbstbewusstsein zurück. Eine echte Herzensveränderung!\"</em></p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "left",
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
+      }
+    },
     "contact_form_mAE4Ur": {
       "type": "contact-form",
       "settings": {
@@ -273,32 +132,15 @@
         "show_phone": false,
         "narrow_column": true
       }
-    },
-    "slideshow_NN78ph": {
-      "type": "slideshow",
-      "settings": {
-        "section_height": "650px",
-        "mobile_height": "auto",
-        "parallax": true,
-        "style": "bars",
-        "arrows": true,
-        "autoplay": false,
-        "autoplay_speed": 5
-      }
     }
   },
   "order": [
     "main",
-    "hero_video_iz8L4y",
+    "background_video_text_NbAk7J",
     "rich_text_xnNazX",
-    "advanced_content_jFRnNP",
-    "advanced_content_zW8Ndh",
-    "advanced_content_a6K86V",
-    "advanced_content_RqQTpb",
-    "advanced_content_tDTVwR",
-    "advanced_content_6EdJKx",
     "rich_text_nfY7rf",
-    "contact_form_mAE4Ur",
-    "slideshow_NN78ph"
+    "text_and_image_BaUMAk",
+    "text_and_image_D4nGNj",
+    "contact_form_mAE4Ur"
   ]
 }

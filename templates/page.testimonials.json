@@ -14,175 +14,160 @@
       "disabled": true,
       "settings": {}
     },
-    "slideshow_jRpGEh": {
-      "type": "slideshow",
-      "blocks": {
-        "image_D8LzD8": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "Wir suchen Dich!",
-            "title_size": 80,
-            "subheading": "Werde ein Langhaarmädchen!",
-            "link": "",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/49A3207.jpg",
-            "image_mobile": "shopify://shop_images/7.png",
-            "overlay_opacity": 10,
-            "focal_point": "center center"
-          }
-        },
-        "image_pWe7mH": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "top_subheading": "",
-            "title": "Two line\ntitle slide.",
-            "title_size": 80,
-            "subheading": "And big, beautiful imagery",
-            "link": "",
-            "link_text": "Optional button",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/7.png",
-            "overlay_opacity": 0,
-            "focal_point": "top center"
-          }
-        }
-      },
-      "block_order": [
-        "image_D8LzD8",
-        "image_pWe7mH"
-      ],
+    "hero_video_4wPzKb": {
+      "type": "hero-video",
       "settings": {
+        "title": "Das erzählen unsre glücklichen Langhaarmädchen",
+        "title_size": 80,
+        "subheading": "",
+        "link_text": "",
+        "link": "",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https://youtu.be/NPhjZ1Lcv8k",
+        "overlay_opacity": 54,
         "section_height": "650px",
-        "mobile_height": "auto",
-        "parallax": true,
-        "style": "bars",
-        "arrows": false,
-        "autoplay": false,
-        "autoplay_speed": 5
+        "mobile_height": "auto"
       }
     },
-    "advanced_content_jFRnNP": {
-      "type": "advanced-content",
-      "blocks": {
-        "image_ct8ttC": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/haarbertung_bild.jpg",
-            "link": "",
-            "width": "50%",
-            "alignment": "center"
-          }
-        },
-        "liquid_k66d7P": {
-          "type": "liquid",
-          "settings": {
-            "code": "<h2>Hey, schön dass du hier bist!</h2><p>\nBei uns Langhaarmädchen dreht sich alles um Haare, Beauty und das Leben. Wir glauben fest daran, dass du mit Mut und einem Lächeln alles erreichen kannst. 🌸✨\n<p>\nLust, Teil unseres Teams zu werden? Dann schau dir unsere Jobs an und erlebe die Langhaarmädchen-Welt hautnah! \nBei uns geht's um mehr als nur Arbeit – wir träumen, lachen und wachsen gemeinsam. <div class=\"heart\">💖</div></p>\n<style>\n.heart {\n\tfont-size: 15px;\n\tcolor: #e00;\n\tanimation: beat .8s infinite alternate;\n\ttransform-origin: left;\n}\n\n/* Heart beat animation */\n@keyframes beat{\n\tto { transform: scale(1.7); }\n}\n</style>",
-            "width": "50%",
-            "alignment": "center"
-          }
-        }
-      },
-      "block_order": [
-        "image_ct8ttC",
-        "liquid_k66d7P"
-      ],
-      "custom_css": [],
-      "settings": {
-        "full_width": false,
-        "space_around": true
-      }
-    },
-    "rich_text_nfY7rf": {
+    "rich_text_xKQgJr": {
       "type": "rich-text",
       "blocks": {
-        "heading_jencFJ": {
+        "heading_DRiriC": {
           "type": "heading",
           "settings": {
-            "title": "Friseur/in in München-Schwabing",
+            "title": "Unsree Erfolgsgeschichten",
             "image_width": 50,
             "image_position": 50
           }
         },
-        "text_ty3MLa": {
+        "text_f8zBib": {
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<h3><strong>Vollzeit / ab sofort</strong></h3><p></p>"
-          }
-        },
-        "text_ciVPGV": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p><strong>Du liebst lange Haare und bei dem Thema Haarverdichtung und Haarverlängerung geht dein Herz auf? </strong></p><p><strong>Dann bist du bei uns im Herzen Münchens genau richtig! </strong></p><p><strong> WIR BIETEN DIR:</strong></p><p>➳ Wohlfühl-Arbeitsplatz mit einem wundervollen TEAM  </p><p>➳ 4 Tage Woche und 3 verlängerte Wochenenden im Monat </p><p>➳ Überdurchschnittliche Bezahlung </p><p>➳ regelmäßige Fortbildungen </p><p>➳ Shootings, Events & vieles vieles mehr! </p><p><strong>DU BRINGST MIT:</strong> </p><p>➳ Berufserfahrung (optional zum Thema Haarverdichtung) </p><p>➳ Begeisterung an umfangreichen Beratungen </p><p>➳ Freude an stetiger Weiterbildung </p><p></p><p></p>"
-          }
-        },
-        "text_wpqkF3": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<h3><strong>Wir freuen uns auf Dich!</strong></h3>"
-          }
-        },
-        "heading_VzVmnb": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "title": "Rezeptionist/in in München-Schwabing",
-            "image_width": 50,
-            "image_position": 50
-          }
-        },
-        "text_tkimTw": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p><strong>DEINE AUFGABEN:</strong></p><p>➳ Herzlicher Empfang und Betreuung unserer Kund*innen</p><p>➳ Terminvereinbarung und -koordination (persönlich, telefonisch und online)</p><p>➳ Verkauf und Beratung zu unseren Produkten</p><p>➳ Unterstützung des Teams in administrativen Aufgaben</p><p></p>"
-          }
-        },
-        "text_ewcgYP": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "enlarge_text": true,
-            "text": "<h3><strong>Teilzeit / ab sofort</strong></h3><p></p>"
-          }
-        },
-        "heading_F6C49z": {
-          "type": "heading",
-          "settings": {
-            "title": "",
-            "image_width": 50,
-            "image_position": 50
+            "text": "<p>unsere Mädels erzählen ihre Erfahrungen</p>"
           }
         }
       },
       "block_order": [
-        "heading_jencFJ",
-        "text_ty3MLa",
-        "text_ciVPGV",
-        "text_wpqkF3",
-        "heading_VzVmnb",
-        "text_tkimTw",
-        "text_ewcgYP",
-        "heading_F6C49z"
+        "heading_DRiriC",
+        "text_f8zBib"
       ],
       "settings": {
         "align_text": "center",
-        "narrow_column": false,
+        "narrow_column": true,
         "divider": false,
         "margin_top": false,
         "margin_bottom": false
+      }
+    },
+    "services_columns_yhBApd": {
+      "type": "services-columns",
+      "blocks": {
+        "text_block_yGUttB": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/avatar_3.png",
+            "title": "Autoimmun Erkrankung",
+            "price": "",
+            "text": "<p>\"Durch meine Schwangerschaft und Autoimmun Erkrankung habe ich sehr zartes Haar - durch miene Haarverdichtung habe ich ein neues Lebensgefühl\"</p>",
+            "button_label": "Robys Story",
+            "button_link": ""
+          }
+        },
+        "text_block_jcdrjn": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Nora_quadratisch.png",
+            "title": "Genetisch bedingt keine Länge",
+            "price": "",
+            "text": "<p>\"Leider hatte ich noch nie langes Haar - durch meine Tapes darf ich auch dieses Haargefühl erleben\"</p>",
+            "button_label": "Noras Story",
+            "button_link": ""
+          }
+        },
+        "text_block_PWWjeK": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/avatar_6.png",
+            "title": "Genetisch bedingt keine Fülle",
+            "price": "",
+            "text": "<p>Ich habe immer versucht Volumen in meinee haare zu bekommen - seit meiner Haarverdichtung kann ich wieder jede Frisur machen!\"</p>",
+            "button_label": "JULIAS Story",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_yGUttB",
+        "text_block_jcdrjn",
+        "text_block_PWWjeK"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false,
+        "image_width": 50,
+        "image_position": 50
+      }
+    },
+    "featured_video_JMgMYh": {
+      "type": "featured-video",
+      "settings": {
+        "title": "Julia's Erfahrung",
+        "video_url": "https://youtu.be/x_a5_sD4fMM",
+        "divider": false
+      }
+    },
+    "featured_video_6XCCTk": {
+      "type": "featured-video",
+      "settings": {
+        "title": "Laura W.",
+        "video_url": "https://youtu.be/YaNR4hGf_XY",
+        "divider": false
+      }
+    },
+    "featured_video_iiLrqx": {
+      "type": "featured-video",
+      "settings": {
+        "title": "Nora",
+        "video_url": "https://youtu.be/0zYA7FEIAXU",
+        "divider": false
+      }
+    },
+    "featured_video_mdDnhE": {
+      "type": "featured-video",
+      "settings": {
+        "title": "Laura L.",
+        "video_url": "https://youtu.be/5jmq3YXgYtA",
+        "divider": false
+      }
+    },
+    "featured_video_nq8tGJ": {
+      "type": "featured-video",
+      "settings": {
+        "title": "Roby",
+        "video_url": "https://youtu.be/D5U4DEcSCYU",
+        "divider": false
+      }
+    },
+    "featured_video_rKVGaN": {
+      "type": "featured-video",
+      "settings": {
+        "title": "Jasmina",
+        "video_url": "https://youtu.be/JnWPZ2wctWY",
+        "divider": false
+      }
+    },
+    "featured_video_aMPb3p": {
+      "type": "featured-video",
+      "settings": {
+        "title": "Erika",
+        "video_url": "https://youtu.be/_FXJga_rtCE",
+        "divider": false
       }
     },
     "contact_form_mAE4Ur": {
@@ -193,68 +178,20 @@
         "show_phone": false,
         "narrow_column": true
       }
-    },
-    "slideshow_NN78ph": {
-      "type": "slideshow",
-      "blocks": {
-        "image_Y4D4CT": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "Erlebe mit uns die Langhaarmädchen Welt!",
-            "title_size": 52,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Design_ohne_Titel_a496f632-ccac-47b2-a41f-9b55f28eee4e.png",
-            "overlay_opacity": 30,
-            "focal_point": "center center"
-          }
-        },
-        "image_Qxy8VP": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 40,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Design_ohne_Titel_a496f632-ccac-47b2-a41f-9b55f28eee4e.png",
-            "overlay_opacity": 30,
-            "focal_point": "center center"
-          }
-        }
-      },
-      "block_order": [
-        "image_Y4D4CT",
-        "image_Qxy8VP"
-      ],
-      "settings": {
-        "section_height": "650px",
-        "mobile_height": "auto",
-        "parallax": true,
-        "style": "bars",
-        "arrows": true,
-        "autoplay": false,
-        "autoplay_speed": 5
-      }
     }
   },
   "order": [
     "main",
-    "slideshow_jRpGEh",
-    "advanced_content_jFRnNP",
-    "rich_text_nfY7rf",
-    "contact_form_mAE4Ur",
-    "slideshow_NN78ph"
+    "hero_video_4wPzKb",
+    "rich_text_xKQgJr",
+    "services_columns_yhBApd",
+    "featured_video_JMgMYh",
+    "featured_video_6XCCTk",
+    "featured_video_iiLrqx",
+    "featured_video_mdDnhE",
+    "featured_video_nq8tGJ",
+    "featured_video_rKVGaN",
+    "featured_video_aMPb3p",
+    "contact_form_mAE4Ur"
   ]
 }
