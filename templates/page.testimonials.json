@@ -117,15 +117,46 @@
     "featured_video_JMgMYh": {
       "type": "featured-video",
       "settings": {
-        "title": "Julia's Erfahrung",
+        "title": "Julia - \"Ich kann endlich einen Zopf machen!\"",
         "video_url": "https://youtu.be/x_a5_sD4fMM",
         "divider": false
+      }
+    },
+    "rich_text_mW3Xc6": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_jJ9Xbt": {
+          "type": "heading",
+          "settings": {
+            "title": "",
+            "image_width": 50,
+            "image_position": 50
+          }
+        },
+        "text_njhfwp": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>Ich wollte einfach mehr Fülle und ein bisschen mehr Glamour für meinen Look. Die Haarverdichtung sieht absolut natürlich aus, hält super und lässt sich easy stylen. Ich bin verliebt! - JULIA</em></p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_jJ9Xbt",
+        "text_njhfwp"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
       }
     },
     "featured_video_6XCCTk": {
       "type": "featured-video",
       "settings": {
-        "title": "Laura W.",
+        "title": "Laura W. - \"Nach meiner Pille sind mir meine Haare ausgfallen!\"",
         "video_url": "https://youtu.be/YaNR4hGf_XY",
         "divider": false
       }
@@ -133,7 +164,7 @@
     "featured_video_iiLrqx": {
       "type": "featured-video",
       "settings": {
-        "title": "Nora",
+        "title": "Nora -\"Ich habe schon seit meiner Kindheit zartes Haar!\"",
         "video_url": "https://youtu.be/0zYA7FEIAXU",
         "divider": false
       }
@@ -186,6 +217,7 @@
     "rich_text_xKQgJr",
     "services_columns_yhBApd",
     "featured_video_JMgMYh",
+    "rich_text_mW3Xc6",
     "featured_video_6XCCTk",
     "featured_video_iiLrqx",
     "featured_video_mdDnhE",
