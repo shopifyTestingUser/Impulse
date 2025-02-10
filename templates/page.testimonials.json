@@ -114,12 +114,35 @@
         "image_position": 50
       }
     },
-    "featured_video_JMgMYh": {
-      "type": "featured-video",
+    "rich_text_JFgiNg": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_PUR3Ae": {
+          "type": "heading",
+          "settings": {
+            "title": "Julia (33)",
+            "image_width": 50,
+            "image_position": 50
+          }
+        },
+        "text_fzHyJR": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>\"Ich kann endlich wieder einene Zopf tragen!\"</em></p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_PUR3Ae",
+        "text_fzHyJR"
+      ],
       "settings": {
-        "title": "Julia - \"Ich kann endlich einen Zopf machen!\"",
-        "video_url": "https://youtu.be/x_a5_sD4fMM",
-        "divider": false
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
       }
     },
     "rich_text_mW3Xc6": {
@@ -132,18 +155,10 @@
             "image_width": 50,
             "image_position": 50
           }
-        },
-        "text_njhfwp": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p><em>Ich wollte einfach mehr Fülle und ein bisschen mehr Glamour für meinen Look. Die Haarverdichtung sieht absolut natürlich aus, hält super und lässt sich easy stylen. Ich bin verliebt! - JULIA</em></p>"
-          }
         }
       },
       "block_order": [
-        "heading_jJ9Xbt",
-        "text_njhfwp"
+        "heading_jJ9Xbt"
       ],
       "settings": {
         "align_text": "center",
@@ -153,10 +168,18 @@
         "margin_bottom": false
       }
     },
+    "featured_video_JMgMYh": {
+      "type": "featured-video",
+      "settings": {
+        "title": "",
+        "video_url": "https://youtu.be/x_a5_sD4fMM",
+        "divider": false
+      }
+    },
     "featured_video_6XCCTk": {
       "type": "featured-video",
       "settings": {
-        "title": "Laura W. - \"Nach meiner Pille sind mir meine Haare ausgfallen!\"",
+        "title": "",
         "video_url": "https://youtu.be/YaNR4hGf_XY",
         "divider": false
       }
@@ -216,8 +239,9 @@
     "hero_video_4wPzKb",
     "rich_text_xKQgJr",
     "services_columns_yhBApd",
-    "featured_video_JMgMYh",
+    "rich_text_JFgiNg",
     "rich_text_mW3Xc6",
+    "featured_video_JMgMYh",
     "featured_video_6XCCTk",
     "featured_video_iiLrqx",
     "featured_video_mdDnhE",
