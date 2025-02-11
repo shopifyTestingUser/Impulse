@@ -216,7 +216,7 @@
           "settings": {
             "top_subheading": "",
             "title": "Jetzt Ticket sichern - 14.03.2025 18 bis 20 Uhr",
-            "title_size": 55,
+            "title_size": 57,
             "subheading": "Erfahre alles über professionelle Haarstyling, individuelle Lösungen und Styling-Tipps – live und interaktiv!",
             "link": "#tickets",
             "link_text": "JETZT BUCHEN",
@@ -421,8 +421,8 @@
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/49A0498_2.png",
-            "image_mobile": "shopify://shop_images/avatar_3.png",
-            "overlay_opacity": 28,
+            "image_mobile": "shopify://shop_images/Nora_quadratisch.png",
+            "overlay_opacity": 38,
             "focal_point": "center center"
           }
         }
