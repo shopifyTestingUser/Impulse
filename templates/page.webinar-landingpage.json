@@ -26,6 +26,22 @@
         "mobile_height": "auto"
       }
     },
+    "hero_video_977Ngd": {
+      "type": "hero-video",
+      "settings": {
+        "title": "HAARSTYLING WORKSHOP",
+        "title_size": 62,
+        "subheading": "14.03.2025 18:00 - 20:00 Uhr",
+        "link_text": "JETZT BUCHEN",
+        "link": "#tickets",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https://youtu.be/NmJpfYZyptU",
+        "overlay_opacity": 30,
+        "section_height": "650px",
+        "mobile_height": "auto"
+      }
+    },
     "16349073092065b984": {
       "type": "slideshow",
       "blocks": {
@@ -128,6 +144,7 @@
         "2e1f389a-1fc2-4990-948a-99f4f6fca46e",
         "a70a0604-e2fc-4e0f-8e43-552d05d47c62"
       ],
+      "disabled": true,
       "settings": {
         "section_height": "natural",
         "mobile_height": "auto",
@@ -852,6 +869,7 @@
   },
   "order": [
     "16475075815ec4bf82",
+    "hero_video_977Ngd",
     "16349073092065b984",
     "services_columns_fYFXMY",
     "83981fbc-ab6e-4105-b99e-5489f91ec5ee",
