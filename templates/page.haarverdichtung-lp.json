@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "16475075815ec4bf82": {
@@ -21,6 +21,22 @@
         "color_accent": "rgba(0,0,0,0)",
         "text_align": "vertical-bottom horizontal-center",
         "video_url": "https://www.youtube.com/watch?v=hUHsh3UP8KE",
+        "overlay_opacity": 30,
+        "section_height": "650px",
+        "mobile_height": "auto"
+      }
+    },
+    "hero_video_7qgLKd": {
+      "type": "hero-video",
+      "settings": {
+        "title": "Du wünscht dir eine Haarverdichtung?",
+        "title_size": 69,
+        "subheading": "Dann bist du bei uns genau richtig!",
+        "link_text": "Kostenlose Beratung buchen",
+        "link": "",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https://youtu.be/m5HqjWC-EHs",
         "overlay_opacity": 30,
         "section_height": "650px",
         "mobile_height": "auto"
@@ -111,6 +127,7 @@
         "16349073092065b984-1",
         "2e1f389a-1fc2-4990-948a-99f4f6fca46e"
       ],
+      "disabled": true,
       "settings": {
         "section_height": "550px",
         "mobile_height": "auto",
@@ -128,7 +145,7 @@
         ".youtube-video-container iframe {position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;}"
       ],
       "settings": {
-        "title": "",
+        "title": "<h3> Warum wir die Tapeklebetchnik lieben? Mona udn Roby erklären es dir:</h3>",
         "video_url": "https://www.youtube.com/watch?v=hUHsh3UP8KE",
         "divider": false
       }
@@ -251,9 +268,7 @@
       "block_order": [
         "45fea7d2-bb95-4c62-b9f4-694d0899c7c1"
       ],
-      "custom_css": [
-
-      ],
+      "custom_css": [],
       "settings": {
         "full_width": false,
         "space_around": true
@@ -310,9 +325,7 @@
         "166453091366fc6f3b-0",
         "166453091366fc6f3b-1"
       ],
-      "custom_css": [
-
-      ],
+      "custom_css": [],
       "settings": {
         "full_width": false,
         "space_around": true
@@ -543,8 +556,7 @@
     "main": {
       "type": "main-page",
       "disabled": true,
-      "settings": {
-      }
+      "settings": {}
     },
     "605d6765-1ebb-46b4-bc11-6c59ca0ee3b9": {
       "type": "advanced-content",
@@ -834,6 +846,7 @@
   },
   "order": [
     "16475075815ec4bf82",
+    "hero_video_7qgLKd",
     "16349073092065b984",
     "featured_video_WGb8pf",
     "163490746248b9e19e",
