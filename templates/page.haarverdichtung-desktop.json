@@ -26,6 +26,22 @@
         "mobile_height": "auto"
       }
     },
+    "hero_video_ypgREr": {
+      "type": "hero-video",
+      "settings": {
+        "title": "Du wünscht dir eine Haarverdichtung?",
+        "title_size": 80,
+        "subheading": "Dann bist du bei uns genau richtig!",
+        "link_text": "Kostenlose Beratung buchen",
+        "link": "#calendly",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https://youtu.be/m5HqjWC-EHs",
+        "overlay_opacity": 26,
+        "section_height": "650px",
+        "mobile_height": "auto"
+      }
+    },
     "16349073092065b984": {
       "type": "slideshow",
       "blocks": {
@@ -109,6 +125,7 @@
         "16349073092065b984-1",
         "2e1f389a-1fc2-4990-948a-99f4f6fca46e"
       ],
+      "disabled": true,
       "settings": {
         "section_height": "550px",
         "mobile_height": "auto",
@@ -728,6 +745,7 @@
   },
   "order": [
     "16475075815ec4bf82",
+    "hero_video_ypgREr",
     "16349073092065b984",
     "163490746248b9e19e",
     "featured_video_qWiHkL",
