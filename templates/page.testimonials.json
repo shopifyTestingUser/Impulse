@@ -80,11 +80,11 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify://shop_images/Nora_quadratisch.png",
-            "title": "Genetisch bedingt keine Länge",
+            "image": "shopify://shop_images/2_4310964e-1019-42a8-b48a-4f0cd35b0db4.png",
+            "title": "",
             "price": "",
-            "text": "<p>\"Leider hatte ich noch nie langes Haar - durch meine Tapes darf ich auch dieses Haargefühl erleben\"</p>",
-            "button_label": "Noras Story",
+            "text": "",
+            "button_label": "Nora's Story",
             "button_link": ""
           }
         },
