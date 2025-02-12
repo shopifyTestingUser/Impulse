@@ -55,7 +55,7 @@
                       data-sizes="auto"
                       alt="{{ block.settings.image.alt }}" width="auto" height="auto">
                   <noscript>
-                    <img class="lazyloaded" src="{{ block.settings.image | img_url: '400x' }}" alt="{{ block.settings.image.alt }}">
+                    <img width="auto" height="auto" class="lazyloaded" src="{{ block.settings.image | img_url: '400x' }}" alt="{{ block.settings.image.alt }}">
                   </noscript>
                 </div>
               {%- else -%}
