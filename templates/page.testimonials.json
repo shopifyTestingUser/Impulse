@@ -88,14 +88,26 @@
             "button_link": ""
           }
         },
+        "text_block_PD3EaP": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/4_a8e23dd6-1fad-44d1-84a2-c76d9752aba8.png",
+            "title": "",
+            "price": "",
+            "text": "",
+            "button_label": "Roby's Story",
+            "button_link": ""
+          }
+        },
         "text_block_PWWjeK": {
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify://shop_images/avatar_6.png",
-            "title": "Genetisch bedingt keine Fülle",
+            "image": "shopify://shop_images/1_4dafac5b-6f62-4266-af43-6b9af61f96a7.png",
+            "title": "",
             "price": "",
-            "text": "<p>Ich habe immer versucht Volumen in meinee haare zu bekommen - seit meiner Haarverdichtung kann ich wieder jede Frisur machen!\"</p>",
+            "text": "",
             "button_label": "JULIAS Story",
             "button_link": ""
           }
@@ -104,14 +116,15 @@
       "block_order": [
         "text_block_yGUttB",
         "text_block_jcdrjn",
+        "text_block_PD3EaP",
         "text_block_PWWjeK"
       ],
       "settings": {
         "title": "",
         "align_text": "center",
         "divider": false,
-        "image_width": 50,
-        "image_position": 50
+        "image_width": 17,
+        "image_position": 23
       }
     },
     "rich_text_JFgiNg": {
