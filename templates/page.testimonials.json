@@ -17,7 +17,7 @@
     "hero_video_4wPzKb": {
       "type": "hero-video",
       "settings": {
-        "title": "Das erzählen unsre glücklichen Langhaarmädchen",
+        "title": "Unsere Erfolgsgeschichten",
         "title_size": 80,
         "subheading": "",
         "link_text": "",
@@ -36,7 +36,7 @@
         "heading_DRiriC": {
           "type": "heading",
           "settings": {
-            "title": "Unsree Erfolgsgeschichten",
+            "title": "Zartes Haar kann viele Ursachen haben:",
             "image_width": 50,
             "image_position": 50
           }
@@ -45,7 +45,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>unsere Mädels erzählen ihre Erfahrungen</p>"
+            "text": "<p>Mit was kannst du dich identifizieren?</p>"
           }
         }
       },
@@ -68,7 +68,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify://shop_images/3_b3e6288c-cdb2-43ae-b1da-ecfaecd707cb.png",
+            "image": "shopify://shop_images/Laura.png",
             "title": "",
             "price": "",
             "text": "",
@@ -108,7 +108,7 @@
             "title": "",
             "price": "",
             "text": "",
-            "button_label": "JULIAS Story",
+            "button_label": "ERIKA'S Story",
             "button_link": ""
           }
         }
@@ -189,6 +189,37 @@
         "divider": false
       }
     },
+    "rich_text_tXnzmr": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_FyRPbG": {
+          "type": "heading",
+          "settings": {
+            "title": "Laura (33)",
+            "image_width": 50,
+            "image_position": 50
+          }
+        },
+        "text_wUw3BR": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>\"Ich kann endlich wieder einene Zopf tragen!\"</em></p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_FyRPbG",
+        "text_wUw3BR"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
+      }
+    },
     "featured_video_6XCCTk": {
       "type": "featured-video",
       "settings": {
@@ -197,32 +228,157 @@
         "divider": false
       }
     },
+    "rich_text_zYU6UP": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_TKWWHw": {
+          "type": "heading",
+          "settings": {
+            "title": "Nora (33)",
+            "image_width": 50,
+            "image_position": 50
+          }
+        },
+        "text_3xQrJ3": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>\"Ich kann endlich wieder einene Zopf tragen!\"</em></p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_TKWWHw",
+        "text_3xQrJ3"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
+      }
+    },
     "featured_video_iiLrqx": {
       "type": "featured-video",
       "settings": {
-        "title": "Nora -\"Ich habe schon seit meiner Kindheit zartes Haar!\"",
+        "title": "",
         "video_url": "https://youtu.be/0zYA7FEIAXU",
         "divider": false
+      }
+    },
+    "rich_text_aPLcXc": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_hmJWbG": {
+          "type": "heading",
+          "settings": {
+            "title": "Laura L. (30)",
+            "image_width": 50,
+            "image_position": 50
+          }
+        },
+        "text_yPAjNw": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>\"Ich kann endlich wieder einene Zopf tragen!\"</em></p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_hmJWbG",
+        "text_yPAjNw"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
       }
     },
     "featured_video_mdDnhE": {
       "type": "featured-video",
       "settings": {
-        "title": "Laura L.",
+        "title": "",
         "video_url": "https://youtu.be/5jmq3YXgYtA",
         "divider": false
+      }
+    },
+    "rich_text_gRhPcf": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_VDYqH7": {
+          "type": "heading",
+          "settings": {
+            "title": "Roby (36)",
+            "image_width": 50,
+            "image_position": 50
+          }
+        },
+        "text_BPYBTG": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>\"Ich kann endlich wieder einene Zopf tragen!\"</em></p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_VDYqH7",
+        "text_BPYBTG"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
       }
     },
     "featured_video_nq8tGJ": {
       "type": "featured-video",
       "settings": {
-        "title": "Roby",
+        "title": "",
         "video_url": "https://youtu.be/D5U4DEcSCYU",
         "divider": false
       }
     },
+    "rich_text_g8Wc8g": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_gPpxqr": {
+          "type": "heading",
+          "settings": {
+            "title": "Erika (65)",
+            "image_width": 50,
+            "image_position": 50
+          }
+        },
+        "text_dJxNYU": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>\"Ich habe endlich wieder volles und dichtes Haar!\"</em></p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_gPpxqr",
+        "text_dJxNYU"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
+      }
+    },
     "featured_video_rKVGaN": {
       "type": "featured-video",
+      "disabled": true,
       "settings": {
         "title": "Jasmina",
         "video_url": "https://youtu.be/JnWPZ2wctWY",
@@ -232,7 +388,7 @@
     "featured_video_aMPb3p": {
       "type": "featured-video",
       "settings": {
-        "title": "Erika",
+        "title": "",
         "video_url": "https://youtu.be/_FXJga_rtCE",
         "divider": false
       }
@@ -255,10 +411,15 @@
     "rich_text_JFgiNg",
     "rich_text_mW3Xc6",
     "featured_video_JMgMYh",
+    "rich_text_tXnzmr",
     "featured_video_6XCCTk",
+    "rich_text_zYU6UP",
     "featured_video_iiLrqx",
+    "rich_text_aPLcXc",
     "featured_video_mdDnhE",
+    "rich_text_gRhPcf",
     "featured_video_nq8tGJ",
+    "rich_text_g8Wc8g",
     "featured_video_rKVGaN",
     "featured_video_aMPb3p",
     "contact_form_mAE4Ur"
