@@ -68,11 +68,11 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify://shop_images/avatar_3.png",
-            "title": "Autoimmun Erkrankung",
+            "image": "shopify://shop_images/3_b3e6288c-cdb2-43ae-b1da-ecfaecd707cb.png",
+            "title": "",
             "price": "",
-            "text": "<p>\"Durch meine Schwangerschaft und Autoimmun Erkrankung habe ich sehr zartes Haar - durch miene Haarverdichtung habe ich ein neues Lebensgefühl\"</p>",
-            "button_label": "Robys Story",
+            "text": "",
+            "button_label": "Laura's Story",
             "button_link": ""
           }
         },
