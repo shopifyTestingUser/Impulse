@@ -14,10 +14,10 @@
       "disabled": true,
       "settings": {}
     },
-    "hero_video_iz8L4y": {
+    "hero_video_DGxAtU": {
       "type": "hero-video",
       "settings": {
-        "title": "So funktioniert deine Haarverdichtung",
+        "title": "",
         "title_size": 80,
         "subheading": "Seamless hero videos",
         "link_text": "Optional button",
@@ -25,7 +25,7 @@
         "color_accent": "rgba(0,0,0,0)",
         "text_align": "vertical-center horizontal-center",
         "video_url": "https://youtu.be/m5HqjWC-EHs",
-        "overlay_opacity": 46,
+        "overlay_opacity": 0,
         "section_height": "650px",
         "mobile_height": "auto"
       }
@@ -289,7 +289,7 @@
   },
   "order": [
     "main",
-    "hero_video_iz8L4y",
+    "hero_video_DGxAtU",
     "rich_text_xnNazX",
     "advanced_content_jFRnNP",
     "advanced_content_zW8Ndh",
