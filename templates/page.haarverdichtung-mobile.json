@@ -9,13 +9,865 @@
  */
 {
   "sections": {
+    "16475075815ec4bf82": {
+      "type": "hero-video",
+      "disabled": true,
+      "settings": {
+        "title": "<link href=\"https://fonts.googleapis.com/css2?family=Italiana&display=swap\" rel=\"stylesheet\">\n\n  <span style=\"font-family: 'Italiana'; font-weight: 700;\">Du wünschst eine Haarverdichtung?</span>",
+        "title_size": 48,
+        "subheading": "Dann bist du bei uns genau richtig!!",
+        "link_text": "KOSTENLOSE BERATUNG",
+        "link": "https://calendly.com/langhaarmaedchen/facetime-mit-mona",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-bottom horizontal-center",
+        "video_url": "https://www.youtube.com/watch?v=hUHsh3UP8KE",
+        "overlay_opacity": 30,
+        "section_height": "650px",
+        "mobile_height": "auto"
+      }
+    },
+    "hero_video_7qgLKd": {
+      "type": "hero-video",
+      "settings": {
+        "title": "Du wünscht dir eine Haarverdichtung?",
+        "title_size": 69,
+        "subheading": "Dann bist du bei uns genau richtig!",
+        "link_text": "Kostenlose Beratung buchen",
+        "link": "",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https://youtu.be/m5HqjWC-EHs",
+        "overlay_opacity": 30,
+        "section_height": "650px",
+        "mobile_height": "auto"
+      }
+    },
+    "16349073092065b984": {
+      "type": "slideshow",
+      "blocks": {
+        "16349073092065b984-0": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 64,
+            "subheading": "",
+            "link": "#whatsapp",
+            "link_text": "Kostenlose Beratung",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-bottom horizontal-center",
+            "image": "shopify://shop_images/dfca8ef9-e66f-4243-840d-30d76b05d669.jpg",
+            "image_mobile": "shopify://shop_images/dfca8ef9-e66f-4243-840d-30d76b05d669.jpg",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        },
+        "8949461a-e3e2-4b2f-a40f-1c2d65799d70": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "<link href=\"https://fonts.googleapis.com/css2?family=Italiana&display=swap\" rel=\"stylesheet\">\n\n  <span style=\"font-family: 'Italiana'; font-weight: 700;\">Du wünschst eine Haarverdichtung?</span>",
+            "title_size": 74,
+            "subheading": "Dann bist du bei uns genau richtig!",
+            "link": "#whatsapp",
+            "link_text": "kostenlose beratung",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Hairtalk_e125f33b-0b40-41ad-a5a7-6cd00cc7cd02.jpg",
+            "image_mobile": "shopify://shop_images/Hairtal_mobilek.jpg",
+            "overlay_opacity": 20,
+            "focal_point": "center center"
+          }
+        },
+        "16349073092065b984-1": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "top_subheading": "",
+            "title": "Exklusiv &  gefühlvoll nur für Dich!",
+            "title_size": 64,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "overlay_opacity": 20,
+            "focal_point": "center center"
+          }
+        },
+        "2e1f389a-1fc2-4990-948a-99f4f6fca46e": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "16349073092065b984-0",
+        "8949461a-e3e2-4b2f-a40f-1c2d65799d70",
+        "16349073092065b984-1",
+        "2e1f389a-1fc2-4990-948a-99f4f6fca46e"
+      ],
+      "disabled": true,
+      "settings": {
+        "section_height": "550px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "arrows": false,
+        "autoplay": true,
+        "autoplay_speed": 8
+      }
+    },
+    "featured_video_WGb8pf": {
+      "type": "featured-video",
+      "custom_css": [
+        ".youtube-video-container {position: relative; width: 100%; padding-bottom: 75%; /* 4:3 Aspect Ratio (Height / Width = 3 / 4 = 75%) */ height: 0; overflow: hidden;}",
+        ".youtube-video-container iframe {position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;}"
+      ],
+      "settings": {
+        "title": "<h3> Warum wir die Tapeklebetchnik lieben? Mona udn Roby erklären es dir:</h3>",
+        "video_url": "https://www.youtube.com/watch?v=hUHsh3UP8KE",
+        "divider": false
+      }
+    },
+    "163490746248b9e19e": {
+      "type": "rich-text",
+      "blocks": {
+        "163490746248b9e19e-0": {
+          "type": "heading",
+          "settings": {
+            "title": "",
+            "image": "shopify://shop_images/Vector.png",
+            "image_width": 0,
+            "image_position": 42
+          }
+        },
+        "163490746248b9e19e-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<h3><strong>Hey Langhaarmädchen und die, die es werden wollen! </strong></h3><ul><li>Wir sind dein Salon für <strong>Haarverdichtung</strong> und <strong>Haarverlängerung in München</strong></li><li>Unsere Kernwerte sind <strong>Haargesundheit</strong> und <strong>Schonung</strong> des Eigenhaars</li><li>Durch unsere <strong>Tape-Technik </strong>kannst du dein Haar verdichten und verlängern lassen</li><li>Unsere Herzensmission ist dir <strong>Freude</strong> und <strong>Selbstbewusstsein</strong> durch wunderschönes Haar zu schenken</li><li>Buche deinen <strong>kostenlosen Beratungstermin</strong> jetzt über <strong>Whatsapp</strong></li></ul><p></p><p></p><p></p><p></p><p></p>"
+          }
+        },
+        "27193771-10c1-4631-8c71-604006234c2b": {
+          "type": "button",
+          "settings": {
+            "target_blank": false,
+            "link": "#whatsapp",
+            "link_text": "jetzt beratung buchen"
+          }
+        },
+        "12dccdf1-2617-42d2-86b5-244daa861c8a": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Wir freuen uns auf deinen Anruf: <a href=\"tel:089-21528933\" title=\"tel:089-21528933\"><strong>089-21528933 </strong></a></p><p>Adresse:</p><p><a href=\"https://www.google.de/maps/place/Kaiserstra%C3%9Fe+45,+M%C3%BCnchen/@48.0504751,11.7103485,15z/data=!4m5!3m4!1s0x479e75c697a0a553:0xa35b4aec031d8371!8m2!3d48.1610349!4d11.578951\" target=\"_blank\" title=\"Adresse Langhaarmädchen Salon\">Kaiserstrasse 45<br/>80801 München</a></p>"
+          }
+        }
+      },
+      "block_order": [
+        "163490746248b9e19e-0",
+        "163490746248b9e19e-1",
+        "27193771-10c1-4631-8c71-604006234c2b",
+        "12dccdf1-2617-42d2-86b5-244daa861c8a"
+      ],
+      "custom_css": [
+        "li {list-style-type: disc; text-align: left; /* Align text to the left */ text-indent: 0px; /* Move the text to the left */ margin-bottom: 0.5em; /* Adds space below each list item */}"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
+      }
+    },
+    "0b859851-fbfd-406f-b481-9b123893cfb6": {
+      "type": "advanced-content",
+      "blocks": {
+        "213c9a3c-a809-46ba-b129-e2400c4aa686": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "7fb28783-e37f-4dd0-a60b-ab47e995f8e0": {
+          "type": "liquid",
+          "settings": {
+            "code": "<!--Paste or enter you HTML code here-->\n<!--Your code will execute only after page publication-->\n<hr class=\"hr16\">\n<p class=\"colored-text\"></p>\n <div class=\"elfsight-app-e10111d8-34ac-4a3e-8951-eeada945fb45\" data-elfsight-app-lazy></div>\n<script>\n/*Paste or enter you JavaScript code here*/\n</script>\n\n<style>\n   .colored-text {\n  color: rgb(28, 28, 28);\n  font-size: 16px;\n}\n/* Style 16 - Pulse Animation */\n.hr16 {\n  border: 0;\n  height: 1px;\n  background: #c48376;\n  animation: pulse 4s infinite;\n}\n\n@keyframes pulse {\n  0% { opacity: 1; }\n  50% { opacity: 0.2; }\n  100% { opacity: 1; }\n}\n\n</style>",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "213c9a3c-a809-46ba-b129-e2400c4aa686",
+        "7fb28783-e37f-4dd0-a60b-ab47e995f8e0"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": false
+      }
+    },
+    "1694434924b204bfdd": {
+      "type": "apps",
+      "blocks": {
+        "45fea7d2-bb95-4c62-b9f4-694d0899c7c1": {
+          "type": "shopify://apps/aod-before-after-widget/blocks/after-before-final-section/76f8089d-5150-46ae-8664-0e4ae6d7cd6b",
+          "settings": {
+            "subheading": "Vorher-Nachher  Slider nach rechts und links verschieben",
+            "columns_size": 3,
+            "show_box": true,
+            "img_heading": "Blond",
+            "before_image": "shopify://shop_images/julia_vorher.png",
+            "after_image": "shopify://shop_images/julia_nachher.png",
+            "text_before": "",
+            "text_after": "",
+            "show_box2": true,
+            "img_heading2": "Brünette",
+            "before_image2": "shopify://shop_images/lisa_vorher.png",
+            "after_image2": "shopify://shop_images/lisa_nachher.png",
+            "text_before3": "",
+            "text_after3": "",
+            "show_box3": true,
+            "img_heading3": "Dunkel",
+            "before_image3": "shopify://shop_images/schwarz_vorher_a426b829-0239-492b-9ed8-5e6c31b6fe0d.png",
+            "after_image3": "shopify://shop_images/schwarz_nachher_cf83934e-a2af-4a4d-b532-ad7a2036d00c.png",
+            "text_before2": "",
+            "text_after2": "",
+            "after_before_button": "",
+            "link_block": "",
+            "padding": 1
+          }
+        }
+      },
+      "block_order": [
+        "45fea7d2-bb95-4c62-b9f4-694d0899c7c1"
+      ],
+      "custom_css": [],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
+    "22547503-0c9f-4daa-9100-5c6733ede54a": {
+      "type": "advanced-content",
+      "blocks": {
+        "a547255d-c42a-49a5-a3e4-b3cb229495dc": {
+          "type": "liquid",
+          "settings": {
+            "code": "<!--Paste or enter you HTML code here-->\n<!--Your code will execute only after page publication-->\n<hr class=\"hr16\">\n<p class=\"colored-text\"></p>\n \n<script>\n/*Paste or enter you JavaScript code here*/\n</script>\n\n<style>\n   .colored-text {\n  color: rgb(28, 28, 28);\n  font-size: 16px;\n}\n/* Style 16 - Pulse Animation */\n.hr16 {\n  border: 0;\n  height: 1px;\n  background: #c48376;\n  animation: pulse 4s infinite;\n}\n\n@keyframes pulse {\n  0% { opacity: 1; }\n  50% { opacity: 0.2; }\n  100% { opacity: 1; }\n}\n\n</style>",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "a547255d-c42a-49a5-a3e4-b3cb229495dc"
+      ],
+      "custom_css": [
+        ".outer-container {width: 100%;}",
+        ".video-container {position: relative; padding-bottom: 56.25%; padding-top: 35px; height: 0; overflow: hidden;}",
+        ".video-container iframe {position: absolute; top: 0; left: 0; width: 100%; height: 560px;}"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": false
+      }
+    },
+    "1664530913fc84995b": {
+      "type": "advanced-content",
+      "blocks": {
+        "166453091366fc6f3b-0": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/Hairtalk_e125f33b-0b40-41ad-a5a7-6cd00cc7cd02.jpg",
+            "link": "",
+            "width": "66%",
+            "alignment": "center"
+          }
+        },
+        "166453091366fc6f3b-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<script src=\"https://apps.elfsight.com/p/platform.js\" defer></script>\n<div class=\"elfsight-app-cac9947b-5af9-4e45-9f90-49b20c82e291\" id=\"whatsapp\"></div>\n\n<style>\n/* Nur auf dem Desktop sichtbar */\n.whatsapp {\n  display: none;\n}\n/* Define the wobble animation */\n@keyframes wobble {\n  0% { transform: translateX(0%); }\n  15% { transform: translateX(-2%); }\n  30% { transform: translateX(2%); }\n  45% { transform: translateX(-2%); }\n  60% { transform: translateX(2%); }\n  75% { transform: translateX(-2%); }\n  100% { transform: translateX(0%); }\n}\n\n.ctIrYt {\n  -webkit-box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0); \n}\n\n.DefaultButton__DefaultButtonComponent-sc-1v663dx-0 {\n  -webkit-box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0); \n  /* Apply the wobble animation to this class */\n  animation: wobble 0.8s infinite;\n}\n\n.Window__WindowComponent-sc-1wwhwms-1 {\n  background: #FFF9F4;\n}\n\n.fCgqdU::before {\n  background-image: url(\"https://mobcup.net/images/wt/9337af80beac731fec89b23e936f57be.jpg\");\n}\n\n.DefaultButton__DefaultButtonComponent-sc-1v663dx-0.iujAIn {\n  width: 90%;\n  height: 100%;\n}\n\n\n/* Nur auf Mobilgeräten sichtbar */\n.whatsapp {\n  display: block;\n}\n\n@media screen and (min-width: 768px) {\n  .whatsapp {\n    display: block;\n  }\n  .whatsapp {\n    display: none;\n  }\n}</style>",
+            "width": "25%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "166453091366fc6f3b-0",
+        "166453091366fc6f3b-1"
+      ],
+      "custom_css": [],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
+    "f81d400e-3d9d-446f-9e48-4037ce2e9ba1": {
+      "type": "advanced-content",
+      "blocks": {
+        "37b1dfb5-f375-4868-87de-bc67794558c7": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "62566f99-3e30-4014-a170-3637571610bc": {
+          "type": "liquid",
+          "settings": {
+            "code": "<!--Paste or enter you HTML code here-->\n<!--Your code will execute only after page publication-->\n<hr class=\"hr16\">\n<p class=\"colored-text\"></p>\n \n<script>\n/*Paste or enter you JavaScript code here*/\n</script>\n\n<style>\n   .colored-text {\n  color: rgb(28, 28, 28);\n  font-size: 16px;\n}\n/* Style 16 - Pulse Animation */\n.hr16 {\n  border: 0;\n  height: 1px;\n  background: #c48376;\n  animation: pulse 4s infinite;\n}\n\n@keyframes pulse {\n  0% { opacity: 1; }\n  50% { opacity: 0.2; }\n  100% { opacity: 1; }\n}\n\n</style>",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "37b1dfb5-f375-4868-87de-bc67794558c7",
+        "62566f99-3e30-4014-a170-3637571610bc"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": false
+      }
+    },
+    "22efb5ce-5b4a-4b04-8906-cb4b3a80f5c2": {
+      "type": "testimonials",
+      "blocks": {
+        "template--15453872849076__22efb5ce-5b4a-4b04-8906-cb4b3a80f5c2-testimonial-1": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Eigentlich hatte ich ein Trauma vom Friseur, die ständigen Kommentare wie „Ogott was hast du denn mit deinen Haaren gemacht“ oder „dafür gibt es keine Lösung das ist einfach deine Struktur“ haben mich seelisch gebrochen. Das Ergebnis war mehr als ich es mir hätte erträumen können, mehr als ich mir jemals vorgestellt hatte. Mehr als perfekt. Ich hab stundenlang geweint und war wunschlos zufrieden und einfach happy. Ich hab eine Keratinglättung bekommen und eine Haarverdichtung/Verlängerung.</p>",
+            "image": "shopify://shop_images/avatar_6_21787ff5-7056-436c-a677-62ce4ddb85b7.png",
+            "author": "Alessia",
+            "author_info": "Zürich"
+          }
+        },
+        "template--15453872849076__22efb5ce-5b4a-4b04-8906-cb4b3a80f5c2-testimonial-2": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>HERZENSEMPFEHLUNG den der Langhaarmädchen Salon war für mich soviel mehr wie ein Friseurtermin. Den dieser Termin hat mich nicht nur von außen strahlen lassen, sondern auch von innen. Als ich ankam hat mich zuerst die wunderschöne Atmosphäre die voll von LIEBE ist gleich eingenommen und mein Alltag war sofort vergessen. Ich habe mich gefühlt wie ein teil von einer Geschichte, Vision zu sein; was mich total daran erinnert hat, wo ich denn eigentlich gerade stehe und hin will...</p>",
+            "image": "shopify://shop_images/avatar_5.png",
+            "author": "Lena",
+            "author_info": "München"
+          }
+        },
+        "template--15453872849076__22efb5ce-5b4a-4b04-8906-cb4b3a80f5c2-testimonial-3": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Dieser Salon und das Ergebnis, das man dort bekommt,  ist einfach nur WOW! 💥Nach 15 Jahren Ausprobieren anderer Friseure und immer mit nicht ganz perfekten Ergebnis habe ich endlich Mona&ihr Team gefunden. Ich kann jedem Feinhaarmädchen diesen Salon zu 100% empfehlen, da Mona Expertin für feines Haar ist, diese perfekt färben und/oder strähnen kann und Möglichkeiten der Haarverdichtung anbietet mit einer besonderen Technik, die unvergleichbar ist. Feine Haare benötigen eine spezielle Behandlung und das bekommt man hier!</p>",
+            "image": "shopify://shop_images/avatar_4.png",
+            "author": "Linda",
+            "author_info": "Stuttgart"
+          }
+        },
+        "template--15453872849076__22efb5ce-5b4a-4b04-8906-cb4b3a80f5c2-testimonial-4": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Ich bin auf Empfehlung einer Freundin dorthin gegangen, und es war die beste Entscheidung der Welt! Nach Monaten, in denen ich nur Stress mit meinen Haaren hatte, bin ich so glücklich, dass ich mich für den Langhaarmädchen Salon entschieden habe. . Super Beratung genau nach meinen Wünschen, eine tolle Atmosphäre, wunderschöner Salon und das Ergebnis ist einfach der Hammer. Ich hab jetzt erst wieder festgestellt, wie viel es ausmacht wenn man sich komplett wohl mit seinen Haaren fühlt.</p>",
+            "image": "shopify://shop_images/avatar_2.png",
+            "author": "Johanna",
+            "author_info": "München"
+          }
+        },
+        "template--15453872849076__22efb5ce-5b4a-4b04-8906-cb4b3a80f5c2-testimonial-5": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Liebes Langhaarmädchen-Team,<br/>in eurem Salon kann man sich einfach nur wohl fühlen. Es steckt so viel Herzblut, Persönlichkeit und Liebe in jedem noch so kleinen Detail. Angefangen bei dem bezaubernden Team, dass einen so warmherzig empfängt und kompetent betreut. Die Produkte und die Beratung waren einfach perfekt und ich kann nur sagen: Jeder der zu euch geht, kommt mit einem strahlenden Lächeln aus dem Salon.</p>",
+            "image": "shopify://shop_images/avatar_3.png",
+            "author": "Nathalia",
+            "author_info": "Erding"
+          }
+        }
+      },
+      "block_order": [
+        "template--15453872849076__22efb5ce-5b4a-4b04-8906-cb4b3a80f5c2-testimonial-1",
+        "template--15453872849076__22efb5ce-5b4a-4b04-8906-cb4b3a80f5c2-testimonial-2",
+        "template--15453872849076__22efb5ce-5b4a-4b04-8906-cb4b3a80f5c2-testimonial-3",
+        "template--15453872849076__22efb5ce-5b4a-4b04-8906-cb4b3a80f5c2-testimonial-4",
+        "template--15453872849076__22efb5ce-5b4a-4b04-8906-cb4b3a80f5c2-testimonial-5"
+      ],
+      "settings": {
+        "subtitle": "Das sagen unsere glücklichen",
+        "title": "Langhaarmädchen",
+        "align_text": "center",
+        "round_images": true,
+        "image_width": 100,
+        "image_position": 100
+      }
+    },
+    "b0878882-b4c3-475f-a01b-fcb70122366a": {
+      "type": "advanced-content",
+      "blocks": {
+        "9f59d557-17c2-4594-83a5-fe4cbf6e72f7": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "1469f154-5510-4153-a596-525c982b6eb4": {
+          "type": "liquid",
+          "settings": {
+            "code": "<!--Paste or enter you HTML code here-->\n<!--Your code will execute only after page publication-->\n<hr class=\"hr16\">\n<p class=\"colored-text\"></p>\n \n<script>\n/*Paste or enter you JavaScript code here*/\n</script>\n\n<style>\n   .colored-text {\n  color: rgb(28, 28, 28);\n  font-size: 16px;\n}\n/* Style 16 - Pulse Animation */\n.hr16 {\n  border: 0;\n  height: 1px;\n  background: #c48376;\n  animation: pulse 4s infinite;\n}\n\n@keyframes pulse {\n  0% { opacity: 1; }\n  50% { opacity: 0.2; }\n  100% { opacity: 1; }\n}\n\n</style>",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "9f59d557-17c2-4594-83a5-fe4cbf6e72f7",
+        "1469f154-5510-4153-a596-525c982b6eb4"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": false
+      }
+    },
+    "1650550827aa9686d7": {
+      "type": "rich-text",
+      "blocks": {
+        "165055082675f0563e-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Bekannt aus:",
+            "image_width": 50,
+            "image_position": 50
+          }
+        },
+        "165055082675f0563e-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "165055082675f0563e-0",
+        "165055082675f0563e-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
+      }
+    },
+    "1650549005713f9a6c": {
+      "type": "logo-list",
+      "blocks": {
+        "165054900571537ebd-0": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify://shop_images/png-clipart-dm-drogerie-markt-slovakia-dm_-dm-drogerie-markt-nordhorn-kehl-dm-text-logo_5c636e00-76ce-4489-9dc2-3ed1830dfa9b.png",
+            "link": ""
+          }
+        },
+        "165054900571537ebd-1": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify://shop_images/logo-taff_4b19a6f9-dff0-4ed3-bd7e-8884811793a1.png",
+            "link": ""
+          }
+        },
+        "165054900571537ebd-2": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify://shop_images/Logo_InStyle_958c5591-b861-4cd6-b0b5-4fecc6d3b164.png",
+            "link": ""
+          }
+        },
+        "165054900571537ebd-3": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify://shop_images/v12801_2a8f2fc6-2315-496a-8ae2-94c0aeb26145.png",
+            "link": ""
+          }
+        },
+        "5fb6184c-e24f-4c26-806b-d6830fe080da": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify://shop_images/Gala_Magazin_logo_sw.png",
+            "link": ""
+          }
+        },
+        "970bc693-5afe-42f1-9254-f2f8f2877e69": {
+          "type": "logo_image",
+          "disabled": true,
+          "settings": {
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "165054900571537ebd-0",
+        "165054900571537ebd-1",
+        "165054900571537ebd-2",
+        "165054900571537ebd-3",
+        "5fb6184c-e24f-4c26-806b-d6830fe080da",
+        "970bc693-5afe-42f1-9254-f2f8f2877e69"
+      ],
+      "settings": {
+        "title": "",
+        "logo_opacity": 76,
+        "divider": false
+      }
+    },
     "main": {
       "type": "main-page",
       "disabled": true,
       "settings": {}
+    },
+    "605d6765-1ebb-46b4-bc11-6c59ca0ee3b9": {
+      "type": "advanced-content",
+      "blocks": {
+        "3d83a0c0-f441-4619-9d9b-73d79deef000": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "dfe17ef6-f563-4493-8408-97d7d9120ac1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<!--Paste or enter you HTML code here-->\n<!--Your code will execute only after page publication-->\n<hr class=\"hr16\">\n<p class=\"colored-text\"></p>\n \n<script>\n/*Paste or enter you JavaScript code here*/\n</script>\n\n<style>\n   .colored-text {\n  color: rgb(28, 28, 28);\n  font-size: 16px;\n}\n/* Style 16 - Pulse Animation */\n.hr16 {\n  border: 0;\n  height: 1px;\n  background: #c48376;\n  animation: pulse 4s infinite;\n}\n\n@keyframes pulse {\n  0% { opacity: 1; }\n  50% { opacity: 0.2; }\n  100% { opacity: 1; }\n}\n\n</style>",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "3d83a0c0-f441-4619-9d9b-73d79deef000",
+        "dfe17ef6-f563-4493-8408-97d7d9120ac1"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": false
+      }
+    },
+    "164794884227c625c7": {
+      "type": "rich-text",
+      "blocks": {
+        "8a3100e4-7c38-4c48-aa67-4202145908af": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "target_blank": false,
+            "link": "#cal",
+            "link_text": "FaceTime Beratung buchen"
+          }
+        },
+        "16479488421d6495bb-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Haarverlän­gerung und Haarverdichtung",
+            "image_width": 50,
+            "image_position": 50
+          }
+        },
+        "16479488421d6495bb-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Lass' dich von unserer Gründerin und Expertinnen kostenlos über Whatsapp und Video Chat beraten. Dein Beratungstermin ist völlig unverbindlich & kostenlos. </p><h3><strong>Dein Beratungsgespräch in nur 3 Schritten:</strong></h3><p></p><p><strong>1)</strong> Schreib uns eine WhatsApp Nachricht oder <a href=\"tel:+4915231308711\" title=\"tel:+4915231308711\">rufe  📞    </a>uns an</p><p><strong>2) </strong>Sende uns eine Selfie von deinen Haaren und eine kurze Sprachnachricht, was du dir wünschst</p><p><strong>3)</strong> Wir melden uns bei dir für ein kostenloses Beratungsgespräch </p><h3>Wir freuen uns auf DICH!</h3>"
+          }
+        },
+        "5d9b17b2-98e6-4e75-9e43-e718df2de7f1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "enlarge_text": true,
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "8a3100e4-7c38-4c48-aa67-4202145908af",
+        "16479488421d6495bb-0",
+        "16479488421d6495bb-1",
+        "5d9b17b2-98e6-4e75-9e43-e718df2de7f1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
+      }
+    },
+    "1650633786bff38ddb": {
+      "type": "advanced-content",
+      "blocks": {
+        "1650633786b6ab87c3-0": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "1650633786b6ab87c3-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<!--Paste or enter you HTML code here-->\n<!--Your code will execute only after page publication-->\n<hr class=\"hr16\">\n<p class=\"colored-text\"></p>\n <a href=\"#Whatsapp\"></a>\n<script>\n/*Paste or enter you JavaScript code here*/\n</script>\n\n<style>\n   .colored-text {\n  color: rgb(28, 28, 28);\n  font-size: 16px;\n}\n/* Style 16 - Pulse Animation */\n.hr16 {\n  border: 0;\n  height: 1px;\n  background: #c48376;\n  animation: pulse 4s infinite;\n}\n\n@keyframes pulse {\n  0% { opacity: 1; }\n  50% { opacity: 0.2; }\n  100% { opacity: 1; }\n}\n\n</style>",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "1650633786b6ab87c3-0",
+        "1650633786b6ab87c3-1"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": false
+      }
+    },
+    "769532f5-e41a-485f-9d81-6cab11f45e57": {
+      "type": "faq",
+      "blocks": {
+        "template--15453872849076__769532f5-e41a-485f-9d81-6cab11f45e57-question-1": {
+          "type": "question",
+          "settings": {
+            "title": "Wie funktioniert genau eine Haarverdichtung mit Hairtalk?",
+            "text": "<p>Die <strong>Tape-Extensions</strong> von Hairtalk sind besonders haarschonend und bieten eine <em>ausgezeichnete</em> Option für diejenigen, die ihre Haare <strong>verlängern</strong> oder <strong>verdichten</strong> möchten, ohne die <em>natürliche</em> Haarstruktur zu beeinträchtigen. Ein Hauptgrund für die Schonung von Haar und Kopfhaut ist die innovative Gestaltung der <strong>Klebestellen</strong>. Diese sind flach und weich, was nicht nur das <em>Verknoten</em> der Haare minimiert, sondern auch das Risiko von <em>Haarbruch</em> erheblich reduziert.</p><p>Die spezielle Klebetechnologie von Hairtalk sorgt dafür, dass die Extensions <strong>sicher und fest</strong> sitzen, während sie gleichzeitig leicht zu entfernen sind, wenn es an der Zeit für eine Anpassung oder Erneuerung ist. Darüber hinaus sind die Extensions von Hairtalk aus hochwertigem <strong>Echthaar</strong> gefertigt, was für ein natürliches Aussehen und Gefühl sorgt. Sie sind in verschiedenen Farben und Längen erhältlich, sodass sie leicht an den <strong>individuellen</strong> <strong>Stil</strong> angepasst werden können.</p><p>Insgesamt bieten die Tape-Extensions von Hairtalk eine <strong>hervorragende</strong> Balance zwischen <strong>Langlebigkeit</strong>, <strong>Ästhetik</strong> und <strong>Gesundheit</strong> für Ihre Haare. Sie stellen somit eine der besten Alternativen im Bereich der Haarverlängerungen dar.</p>"
+          }
+        },
+        "template--15453872849076__769532f5-e41a-485f-9d81-6cab11f45e57-question-2": {
+          "type": "question",
+          "settings": {
+            "title": "Sieht und spürt man die Extensions?",
+            "text": "<p>Die Tape-Extensions von Hairtalk sind so gestaltet, dass sie sich nahtlos in dein eigenes Haar einfügen. Dank der flachen und weichen Klebestellen wirst du sie kaum spüren, und der Tragekomfort ist sehr hoch. Wenn sie richtig angebracht und gut gepflegt sind, ist es unwahrscheinlich, dass jemand merkt, dass du Extensions trägst.</p><p>Die Extensions bestehen aus hochwertigem Echthaar, was für ein natürliches Aussehen und Gefühl sorgt. Sie sind in verschiedenen Farben und Längen verfügbar, sodass du sie leicht an deinen individuellen Stil und deine Haarstruktur anpassen kannst. Mit der richtigen Pflege und regelmäßigen Anpassungen durch einen qualifizierten Friseur kannst du sicher sein, dass deine Hairtalk Extensions nicht nur natürlich aussehen, sondern sich auch so anfühlen.</p><p>Kurzum, wenn die Hairtalk Extensions professionell angebracht und gepflegt werden, sind sie optisch und haptisch kaum von deinem eigenen Haar zu unterscheiden.</p>"
+          }
+        },
+        "e3d31440-8453-4261-ad45-7d4931724383": {
+          "type": "question",
+          "settings": {
+            "title": "Was kostet eine Haarverdichtung bei euch?",
+            "text": "<p>Die Kosten für eine Haarverdichtung können <strong>variieren</strong>, abhängig von verschiedenen Faktoren wie der <strong>Länge </strong>und <strong>Dichte </strong>deiner eigenen Haare sowie der <strong>Qualität </strong>und <strong>Menge </strong>der Extensions, die du wählst. Es ist jedoch möglich, bei uns eine Haarverdichtung bereits ab <strong>350 €</strong> zu erhalten. Dieses Angebot ermöglicht es dir, deinem Haar mehr <strong>Volumen </strong>und <strong>Fülle </strong>zu verleihen, ohne dein Budget zu sprengen.</p><p>Für eine genaue Preisgestaltung empfehlen wir jedoch immer, eine <strong>persönliche Beratung</strong> in Anspruch zu nehmen. So können wir sicherstellen, dass du <strong>genau </strong>das Ergebnis erhältst, das du dir wünschst, und können ein <strong>individuelles Angebot</strong> erstellen, das auf deine <strong>Bedürfnisse </strong>zugeschnitten ist.</p><p>Kurz gesagt, eine Haarverdichtung bei uns ist flexibel und kann an verschiedene Budgets angepasst werden, wobei Optionen bereits ab 350 € verfügbar sind.</p>"
+          }
+        },
+        "d43b20ce-f588-4ebd-8449-4c9809ab634b": {
+          "type": "question",
+          "settings": {
+            "title": "Ist die Beratung kostenpflichtig?",
+            "text": "<p>Die Beratung für eine Haarverdichtung oder Haarverlängerung bei uns ist 100 % kostenlos und völlig unverbindlich. Wir legen großen Wert darauf, dass du dich gut informiert und wohl fühlst, bevor du eine Entscheidung triffst. Uns ist besonders wichtig, die Gesundheit und Schonung deines Eigenhaars in den Fokus zu stellen. Daher nehmen wir uns die Zeit, deine Haarstruktur genau zu analysieren und die beste Lösung für deine Bedürfnisse zu finden.</p><p>Unsere Experten sind speziell geschult, um sicherzustellen, dass die Extensions nicht nur ästhetisch ansprechend, sondern auch haarschonend sind. Wir verwenden Produkte, die für ihre Qualität und ihre schonende Wirkung auf das Haar bekannt sind, um das Risiko von Haarbruch und anderen Schäden zu minimieren.</p><p>Kurzum, unsere Beratung ist nicht nur kostenlos und unverbindlich, sondern auch darauf ausgerichtet, die Gesundheit und Schonung deines Eigenhaars zu gewährleisten.</p>"
+          }
+        },
+        "2c02be25-db38-45d7-918e-917615119c0d": {
+          "type": "question",
+          "settings": {
+            "title": "Wie lange hält eine Haarverdichtung mit Haartalk Extensions?",
+            "text": "<p>Die Haarverdichtung mit Hairtalk Extensions ist darauf ausgelegt, zwischen 6 bis 8 Wochen zu halten, bevor sie hochgesetzt werden müssen. Dieser Zeitrahmen kann jedoch je nach deiner individuellen Haarpflege und deinem Lebensstil variieren. Um die Langlebigkeit und Qualität der Extensions zu erhalten, empfehlen wir, sie alle 6 bis 8 Wochen von einem qualifizierten Friseur hochsetzen zu lassen.</p><p>Hairtalk legt großen Wert auf die Schonung und Gesundheit deines Eigenhaars. Die spezielle Klebetechnologie und die hochwertigen Materialien sorgen dafür, dass die Extensions sicher und fest sitzen, während sie gleichzeitig leicht zu entfernen und wiederverwendbar sind.</p><p>Kurz gesagt, mit der richtigen Pflege und regelmäßigen Anpassungen alle 6 bis 8 Wochen können Hairtalk Extensions dir ein langanhaltendes, volleres und voluminöseres Haarbild bieten.</p>"
+          }
+        },
+        "10886d61-eebe-4667-a5c2-f76343583f96": {
+          "type": "question",
+          "settings": {
+            "title": "Welche Folgekosten kommen auf mich zu?",
+            "text": "<p>Neben den initialen Kosten für die Haarverdichtung solltest du auch die Folgekosten im Blick behalten. Jeder Kunde erhält von uns ein Pflegepaket, das speziell darauf abgestimmt ist, die Langlebigkeit und Qualität der Hairtalk Extensions zu erhalten.</p><p>Das Hochsetzen der Extensions ist ein wichtiger Schritt, um das natürliche und ästhetische Erscheinungsbild beizubehalten. Dies sollte alle 6 bis 8 Wochen erfolgen. Die Kosten für das Hochsetzen, Schneiden und Stylen der Extensions betragen 135 €. Dieser Preis beinhaltet die professionelle Anpassung der Extensions sowie das Schneiden und Stylen, um sicherzustellen, dass sie perfekt zu deinem Eigenhaar passen.</p><p>Kurz gesagt, die Folgekosten für die Pflege deiner Hairtalk Extensions sind überschaubar und planbar, wobei das Hochsetzen, Schneiden und Stylen bei 135 € liegt.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15453872849076__769532f5-e41a-485f-9d81-6cab11f45e57-question-1",
+        "template--15453872849076__769532f5-e41a-485f-9d81-6cab11f45e57-question-2",
+        "e3d31440-8453-4261-ad45-7d4931724383",
+        "d43b20ce-f588-4ebd-8449-4c9809ab634b",
+        "2c02be25-db38-45d7-918e-917615119c0d",
+        "10886d61-eebe-4667-a5c2-f76343583f96"
+      ],
+      "settings": {
+        "title": "FAQs",
+        "image_width": 52,
+        "image_position": 59
+      }
+    },
+    "1634908162416e3f0b": {
+      "type": "rich-text",
+      "blocks": {
+        "9292962a-57a6-4692-8032-82942f22e6f3": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "subtitle": "Wollen wir telefonieren?"
+          }
+        },
+        "1634908162416e3f0b-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Du hast noch Fragen? Wir rufen dich gerne zurück.",
+            "image_width": 50,
+            "image_position": 50
+          }
+        },
+        "3be373b2-4e8e-434d-95a4-3f3522e79847": {
+          "type": "subheading",
+          "settings": {
+            "subtitle": ""
+          }
+        },
+        "d3606e9f-2ede-4b10-98eb-c074aaa9153a": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "target_blank": true,
+            "link": "",
+            "link_text": "Kontaktformular"
+          }
+        }
+      },
+      "block_order": [
+        "9292962a-57a6-4692-8032-82942f22e6f3",
+        "1634908162416e3f0b-0",
+        "3be373b2-4e8e-434d-95a4-3f3522e79847",
+        "d3606e9f-2ede-4b10-98eb-c074aaa9153a"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
+      }
+    },
+    "16349081684b16f546": {
+      "type": "contact-form",
+      "settings": {
+        "title": "",
+        "text": "",
+        "show_phone": true,
+        "narrow_column": true
+      }
+    },
+    "16349078470f63730c": {
+      "type": "rich-text",
+      "blocks": {
+        "16349078470f63730c-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Wir freuen uns auf dich!",
+            "image_width": 50,
+            "image_position": 50
+          }
+        }
+      },
+      "block_order": [
+        "16349078470f63730c-0"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
+      }
+    },
+    "7debc93f-ba74-4009-958b-433862104c9d": {
+      "type": "map",
+      "settings": {
+        "map_title": "",
+        "address": "<p>LANGHAARMÄDCHEN SALON</p><p>Kaiserstr. 45, 80801 München</p><p>Di - Fr 10 - 19 Uhr</p><p><em>Samstags nach Absprache</em></p><p><strong>089-21528933</strong></p>",
+        "map_address": "Kaiserstraße 45, 80801 München",
+        "map_iframe": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2661.3655867451594!2d11.576376075937459!3d48.161034871246066!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479e75f2ec32fdb9%3A0xa95104f65a1b74a!2sLanghaarm%C3%A4dchen%20Salon!5e0!3m2!1sen!2sde!4v1682087117708!5m2!1sen!2sde\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+        "api_key": "",
+        "show_button": false,
+        "background_image_position": "center center"
+      }
+    },
+    "1634907866597b00bd": {
+      "type": "promo-grid",
+      "blocks": {
+        "1bb5e329-0ca1-4b8b-8843-aea4d62207a9": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/49A1192_2_2_1.jpg",
+            "link": "",
+            "width": "100"
+          }
+        }
+      },
+      "block_order": [
+        "1bb5e329-0ca1-4b8b-8843-aea4d62207a9"
+      ],
+      "settings": {
+        "full_width": false,
+        "gutter_size": 26,
+        "space_above": true,
+        "space_below": true,
+        "color_text": "main"
+      }
     }
   },
   "order": [
-    "main"
+    "16475075815ec4bf82",
+    "hero_video_7qgLKd",
+    "16349073092065b984",
+    "featured_video_WGb8pf",
+    "163490746248b9e19e",
+    "0b859851-fbfd-406f-b481-9b123893cfb6",
+    "1694434924b204bfdd",
+    "22547503-0c9f-4daa-9100-5c6733ede54a",
+    "1664530913fc84995b",
+    "f81d400e-3d9d-446f-9e48-4037ce2e9ba1",
+    "22efb5ce-5b4a-4b04-8906-cb4b3a80f5c2",
+    "b0878882-b4c3-475f-a01b-fcb70122366a",
+    "1650550827aa9686d7",
+    "1650549005713f9a6c",
+    "main",
+    "605d6765-1ebb-46b4-bc11-6c59ca0ee3b9",
+    "164794884227c625c7",
+    "1650633786bff38ddb",
+    "769532f5-e41a-485f-9d81-6cab11f45e57",
+    "1634908162416e3f0b",
+    "16349081684b16f546",
+    "16349078470f63730c",
+    "7debc93f-ba74-4009-958b-433862104c9d",
+    "1634907866597b00bd"
   ]
 }
