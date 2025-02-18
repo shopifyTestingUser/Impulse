@@ -9,125 +9,34 @@
  */
 {
   "sections": {
-    "16349073092065b984": {
-      "type": "slideshow",
-      "blocks": {
-        "16349073092065b984-0": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 64,
-            "subheading": "",
-            "link": "#whatsapp",
-            "link_text": "Kostenlose Beratung",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-bottom horizontal-center",
-            "image": "shopify://shop_images/dfca8ef9-e66f-4243-840d-30d76b05d669.jpg",
-            "image_mobile": "shopify://shop_images/dfca8ef9-e66f-4243-840d-30d76b05d669.jpg",
-            "overlay_opacity": 0,
-            "focal_point": "center center"
-          }
-        },
-        "8949461a-e3e2-4b2f-a40f-1c2d65799d70": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "<link href=\"https://fonts.googleapis.com/css2?family=Italiana&display=swap\" rel=\"stylesheet\">\n\n  <span style=\"font-family: 'Italiana'; font-weight: 700;\">Du wünschst eine Haarverdichtung?</span>",
-            "title_size": 74,
-            "subheading": "Dann bist du bei uns genau richtig!",
-            "link": "#whatsapp",
-            "link_text": "kostenlose beratung",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Hairtalk_e125f33b-0b40-41ad-a5a7-6cd00cc7cd02.jpg",
-            "image_mobile": "shopify://shop_images/Hairtal_mobilek.jpg",
-            "overlay_opacity": 20,
-            "focal_point": "center center"
-          }
-        },
-        "16349073092065b984-1": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "top_subheading": "",
-            "title": "Exklusiv &  gefühlvoll nur für Dich!",
-            "title_size": 64,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "overlay_opacity": 20,
-            "focal_point": "center center"
-          }
-        },
-        "2e1f389a-1fc2-4990-948a-99f4f6fca46e": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "overlay_opacity": 0,
-            "focal_point": "center center"
-          }
-        }
-      },
-      "block_order": [
-        "16349073092065b984-0",
-        "8949461a-e3e2-4b2f-a40f-1c2d65799d70",
-        "16349073092065b984-1",
-        "2e1f389a-1fc2-4990-948a-99f4f6fca46e"
-      ],
-      "disabled": true,
-      "settings": {
-        "section_height": "550px",
-        "mobile_height": "auto",
-        "parallax": false,
-        "style": "bars",
-        "arrows": false,
-        "autoplay": true,
-        "autoplay_speed": 8
-      }
-    },
-    "22547503-0c9f-4daa-9100-5c6733ede54a": {
+    "advanced_content_9pd9XK": {
       "type": "advanced-content",
       "blocks": {
-        "a547255d-c42a-49a5-a3e4-b3cb229495dc": {
+        "image_G3GcDn": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Preisliste_Haarverdichtung_2025_fuer_Website.png",
+            "link": "",
+            "width": "100%",
+            "alignment": "center"
+          }
+        },
+        "liquid_4gq947": {
           "type": "liquid",
           "settings": {
-            "code": "<!--Paste or enter you HTML code here-->\n<!--Your code will execute only after page publication-->\n<hr class=\"hr16\">\n<p class=\"colored-text\"></p>\n \n<script>\n/*Paste or enter you JavaScript code here*/\n</script>\n\n<style>\n   .colored-text {\n  color: rgb(28, 28, 28);\n  font-size: 16px;\n}\n/* Style 16 - Pulse Animation */\n.hr16 {\n  border: 0;\n  height: 1px;\n  background: #c48376;\n  animation: pulse 4s infinite;\n}\n\n@keyframes pulse {\n  0% { opacity: 1; }\n  50% { opacity: 0.2; }\n  100% { opacity: 1; }\n}\n\n</style>",
-            "width": "100%",
+            "code": "<h2>Custom content</h2><p>Use this advanced section to build your own layouts or to add custom HTML, Liquid, or scripts.</p>",
+            "width": "50%",
             "alignment": "center"
           }
         }
       },
       "block_order": [
-        "a547255d-c42a-49a5-a3e4-b3cb229495dc"
-      ],
-      "custom_css": [
-        ".outer-container {width: 100%;}",
-        ".video-container {position: relative; padding-bottom: 56.25%; padding-top: 35px; height: 0; overflow: hidden;}",
-        ".video-container iframe {position: absolute; top: 0; left: 0; width: 100%; height: 560px;}"
+        "image_G3GcDn",
+        "liquid_4gq947"
       ],
       "settings": {
-        "full_width": false,
-        "space_around": false
+        "full_width": true,
+        "space_around": true
       }
     },
     "1664530913fc84995b": {
@@ -156,57 +65,13 @@
         "166453091366fc6f3b-0",
         "166453091366fc6f3b-1"
       ],
-      "custom_css": [],
       "settings": {
         "full_width": false,
         "space_around": true
       }
     },
-    "b0878882-b4c3-475f-a01b-fcb70122366a": {
-      "type": "advanced-content",
-      "blocks": {
-        "9f59d557-17c2-4594-83a5-fe4cbf6e72f7": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "link": "",
-            "width": "50%",
-            "alignment": "center"
-          }
-        },
-        "1469f154-5510-4153-a596-525c982b6eb4": {
-          "type": "liquid",
-          "settings": {
-            "code": "<!--Paste or enter you HTML code here-->\n<!--Your code will execute only after page publication-->\n<hr class=\"hr16\">\n<p class=\"colored-text\"></p>\n \n<script>\n/*Paste or enter you JavaScript code here*/\n</script>\n\n<style>\n   .colored-text {\n  color: rgb(28, 28, 28);\n  font-size: 16px;\n}\n/* Style 16 - Pulse Animation */\n.hr16 {\n  border: 0;\n  height: 1px;\n  background: #c48376;\n  animation: pulse 4s infinite;\n}\n\n@keyframes pulse {\n  0% { opacity: 1; }\n  50% { opacity: 0.2; }\n  100% { opacity: 1; }\n}\n\n</style>",
-            "width": "100%",
-            "alignment": "center"
-          }
-        }
-      },
-      "block_order": [
-        "9f59d557-17c2-4594-83a5-fe4cbf6e72f7",
-        "1469f154-5510-4153-a596-525c982b6eb4"
-      ],
-      "settings": {
-        "full_width": false,
-        "space_around": false
-      }
-    },
     "1650550827aa9686d7": {
       "type": "rich-text",
-      "blocks": {
-        "165055082675f0563e-0": {
-          "type": "heading",
-          "settings": {
-            "title": "Bekannt aus:",
-            "image_width": 50,
-            "image_position": 50
-          }
-        }
-      },
-      "block_order": [
-        "165055082675f0563e-0"
-      ],
       "settings": {
         "align_text": "center",
         "narrow_column": true,
@@ -416,10 +281,8 @@
     }
   },
   "order": [
-    "16349073092065b984",
-    "22547503-0c9f-4daa-9100-5c6733ede54a",
+    "advanced_content_9pd9XK",
     "1664530913fc84995b",
-    "b0878882-b4c3-475f-a01b-fcb70122366a",
     "1650550827aa9686d7",
     "main",
     "164794884227c625c7",
