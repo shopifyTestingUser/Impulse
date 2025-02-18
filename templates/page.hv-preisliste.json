@@ -25,7 +25,7 @@
           "type": "liquid",
           "settings": {
             "code": "<h2>Custom content</h2><p>Use this advanced section to build your own layouts or to add custom HTML, Liquid, or scripts.</p>",
-            "width": "50%",
+            "width": "100%",
             "alignment": "center"
           }
         }
@@ -271,6 +271,7 @@
       "block_order": [
         "1bb5e329-0ca1-4b8b-8843-aea4d62207a9"
       ],
+      "disabled": true,
       "settings": {
         "full_width": false,
         "gutter_size": 26,
