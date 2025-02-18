@@ -15,7 +15,7 @@
         "image_G3GcDn": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Preisliste_Haarverdichtung_2025_fuer_Website.png",
+            "image": "shopify://shop_images/Preisliste_Haarverdichtung_2025_new.png",
             "link": "",
             "width": "100%",
             "alignment": "center"
@@ -23,6 +23,7 @@
         },
         "liquid_4gq947": {
           "type": "liquid",
+          "disabled": true,
           "settings": {
             "code": "<h2>Custom content</h2><p>Use this advanced section to build your own layouts or to add custom HTML, Liquid, or scripts.</p>",
             "width": "100%",
