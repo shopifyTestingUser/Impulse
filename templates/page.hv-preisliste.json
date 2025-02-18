@@ -17,8 +17,8 @@
           "settings": {
             "image": "shopify://shop_images/Preisliste_Haarverdichtung_2025_new.png",
             "link": "",
-            "width": "100%",
-            "alignment": "top-middle"
+            "width": "75%",
+            "alignment": "center"
           }
         },
         "liquid_4gq947": {
