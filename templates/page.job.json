@@ -161,7 +161,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Bei uns Langhaarmädchen dreht sich alles um Haare, Beauty und das Leben. Wir glauben fest daran, dass du mit Mut und einem Lächeln alles erreichen kannst. 🌸 Lust, Teil unseres Teams zu werden? Dann schau dir unsere Jobs an und erlebe die Langhaarmädchen-Welt hautnah! <br/>Bei uns geht's um mehr als nur Arbeit – wir träumen, lachen und wachsen gemeinsam. </p>"
+            "text": "<p>Bei uns Langhaarmädchen dreht sich alles um Haare, Beauty und das Leben. Wir glauben fest daran, dass du mit Mut und einem Lächeln alles erreichen kannst. 🌸 Lust, Teil unseres Teams zu werden? Dann schau dir unsere Jobs an und erlebe die Langhaarmädchen-Welt hautnah! <br/>Bei uns geht's um mehr als nur Arbeit – wir träumen, lachen und wachsen gemeinsam.  </p><p>Was wir dir bieten:</p>"
           }
         }
       },
@@ -182,6 +182,7 @@
       "blocks": {
         "heading_YNHW7f": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "title": "Was wir dir bieten:",
             "image_width": 50,
@@ -209,26 +210,6 @@
         "margin_bottom": false
       }
     },
-    "text_and_image_rUjNh9": {
-      "type": "text-and-image",
-      "settings": {
-        "image": "shopify://shop_images/9_85ca2822-3186-4f27-91cc-7447a8e112a7.png",
-        "image_position": "right-bottom",
-        "image_bg_color": "#F8E6D4",
-        "subtitle": "",
-        "title": "Workshops, Seminare & Aufstiegsmöglichkeiten",
-        "another_text": false,
-        "text": "<p>Dein Talent ist einzigartig – und wir helfen dir, es voll zu entfalten! Mit inspirierenden Workshops & Seminaren fördern wir dein Potenzial, sowohl fachlich als auch persönlich. Bei uns kannst du wachsen, dich weiterentwickeln und deinen eigenen Weg gehen!</p>",
-        "button_label": "",
-        "button_link": "",
-        "button_style": "primary",
-        "align_text": "center",
-        "layout": "right",
-        "divider": false,
-        "margin_top": false,
-        "margin_bottom": false
-      }
-    },
     "text_and_image_wbkViX": {
       "type": "text-and-image",
       "settings": {
@@ -249,16 +230,36 @@
         "margin_bottom": false
       }
     },
-    "text_and_image_p9h6pD": {
+    "text_and_image_rUjNh9": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify://shop_images/4_f7749151-2a45-4b0e-9433-fadbe0181bee.png",
+        "image": "shopify://shop_images/9_85ca2822-3186-4f27-91cc-7447a8e112a7.png",
         "image_position": "right-bottom",
         "image_bg_color": "#F8E6D4",
         "subtitle": "",
-        "title": "EVERYONE IST WELCOME – LGBQ+ friendly",
+        "title": "Workshops, Seminare & Aufstiegsmöglichkeiten",
         "another_text": false,
-        "text": "<p>Wir stehen für Vielfalt, Offenheit und Respekt. Egal, woher du kommst oder wen du liebst – beiuns bist du genau richtig! Langhaarmädchen ist, wer sich als Langhaarmädchen fühlt!</p>",
+        "text": "<p>Dein Talent ist einzigartig – und wir helfen dir, es voll zu entfalten! Mit inspirierenden Workshops & Seminaren fördern wir dein Potenzial, sowohl fachlich als auch persönlich. Bei uns kannst du wachsen, dich weiterentwickeln und deinen eigenen Weg gehen!</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "center",
+        "layout": "right",
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
+      }
+    },
+    "text_and_image_8abtNb": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/zusammenhaklt.png",
+        "image_position": "right-bottom",
+        "image_bg_color": "#F8E6D4",
+        "subtitle": "",
+        "title": "Respekt, Fairness & Herzlichkeit",
+        "another_text": false,
+        "text": "<p>Bei uns zählt nicht nur Talent, sondern auch Miteinander! Wertschätzung, Teamgeist & ein liebevoller Umgang sind für uns selbstverständlich. Wir achten auf faire Arbeitszeiten & eine ehrliche Terminvergabe – damit du dein Handwerk mit Zeit & Herz leben kannst. </p>",
         "button_label": "",
         "button_link": "",
         "button_style": "primary",
@@ -289,16 +290,16 @@
         "margin_bottom": false
       }
     },
-    "text_and_image_8abtNb": {
+    "text_and_image_p9h6pD": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify://shop_images/zusammenhaklt.png",
+        "image": "shopify://shop_images/4_f7749151-2a45-4b0e-9433-fadbe0181bee.png",
         "image_position": "right-bottom",
         "image_bg_color": "#F8E6D4",
         "subtitle": "",
-        "title": "Respekt, Fairness & Herzlichkeit",
+        "title": "EVERYONE IST WELCOME – LGBQ+ friendly",
         "another_text": false,
-        "text": "<p>Bei uns zählt nicht nur Talent, sondern auch Miteinander! Wertschätzung, Teamgeist & ein liebevoller Umgang sind für uns selbstverständlich. Wir achten auf faire Arbeitszeiten & eine ehrliche Terminvergabe – damit du dein Handwerk mit Zeit & Herz leben kannst. </p>",
+        "text": "<p>Wir stehen für Vielfalt, Offenheit und Respekt. Egal, woher du kommst oder wen du liebst – beiuns bist du genau richtig! Langhaarmädchen ist, wer sich als Langhaarmädchen fühlt!</p>",
         "button_label": "",
         "button_link": "",
         "button_style": "primary",
