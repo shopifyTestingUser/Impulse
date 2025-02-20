@@ -596,6 +596,7 @@
     },
     "background_video_text_VJ7CeB": {
       "type": "background-video-text",
+      "disabled": true,
       "settings": {
         "subtitle": "Impressive",
         "title": "Large video with text box",
@@ -606,6 +607,15 @@
         "color_border": "#f4f4f4",
         "layout": "left",
         "height": 550
+      }
+    },
+    "featured_video_3Pnem8": {
+      "type": "featured-video",
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "video_url": "",
+        "divider": false
       }
     }
   },
@@ -631,6 +641,7 @@
     "slideshow_NN78ph",
     "featured_video_6jE9dj",
     "advanced_content_6qyqwP",
-    "background_video_text_VJ7CeB"
+    "background_video_text_VJ7CeB",
+    "featured_video_3Pnem8"
   ]
 }
