@@ -92,7 +92,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Du liebst lange Haare und bei dem Thema Haarverdichtung und Haarverlängerung geht dein Herz auf? Dann bewerbe dich bei uns!</p><p></p>"
+            "text": "<p>Du liebst lange Haare und bei dem Thema Haarverdichtung und Haarverlängerung geht dein Herz auf? Dann bist du bei uns genau richtig!</p>"
           }
         },
         "heading_VzVmnb": {
@@ -152,7 +152,7 @@
         "heading_bpFnQN": {
           "type": "heading",
           "settings": {
-            "title": "Hey, schön, dass du hier bist!",
+            "title": "So schön, dass du hier bist!",
             "image_width": 50,
             "image_position": 50
           }
@@ -489,7 +489,7 @@
           "type": "image",
           "settings": {
             "top_subheading": "",
-            "title": "Erlebe mit uns die Langhaarmädchen Welt!",
+            "title": "Kreiere mit uns die Langhaarmädchen Welt!",
             "title_size": 52,
             "subheading": "",
             "link": "",
@@ -498,8 +498,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Clipboard_12-20-2024_05.jpg",
-            "overlay_opacity": 30,
+            "image": "shopify://shop_images/julia_big.jpg",
+            "overlay_opacity": 60,
             "focal_point": "center center"
           }
         },
