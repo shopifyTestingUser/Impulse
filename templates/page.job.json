@@ -12,8 +12,7 @@
     "main": {
       "type": "main-page",
       "disabled": true,
-      "settings": {
-      }
+      "settings": {}
     },
     "slideshow_jRpGEh": {
       "type": "slideshow",
@@ -22,18 +21,18 @@
           "type": "image",
           "settings": {
             "top_subheading": "",
-            "title": "Wir suchen Dich!",
-            "title_size": 80,
-            "subheading": "Werde ein Langhaarmädchen!",
+            "title": "Wir suchen DICH!",
+            "title_size": 100,
+            "subheading": "Werde ein Langahaarmädchen!",
             "link": "",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/49A3207.jpg",
+            "image": "shopify://shop_images/Langhaarmaedchen_gretacaptures_Edit_161.jpg",
             "image_mobile": "shopify://shop_images/7.png",
-            "overlay_opacity": 10,
+            "overlay_opacity": 48,
             "focal_point": "center center"
           }
         },
@@ -42,7 +41,7 @@
           "disabled": true,
           "settings": {
             "top_subheading": "",
-            "title": "Two line\ntitle slide.",
+            "title": "",
             "title_size": 80,
             "subheading": "And big, beautiful imagery",
             "link": "",
@@ -71,39 +70,6 @@
         "autoplay_speed": 5
       }
     },
-    "advanced_content_jFRnNP": {
-      "type": "advanced-content",
-      "blocks": {
-        "image_ct8ttC": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/haarbertung_bild.jpg",
-            "link": "",
-            "width": "50%",
-            "alignment": "center"
-          }
-        },
-        "liquid_k66d7P": {
-          "type": "liquid",
-          "settings": {
-            "code": "<h2>Hey, schön dass du hier bist!</h2><p>\nBei uns Langhaarmädchen dreht sich alles um Haare, Beauty und das Leben. Wir glauben fest daran, dass du mit Mut und einem Lächeln alles erreichen kannst. 🌸✨\n<p>\nLust, Teil unseres Teams zu werden? Dann schau dir unsere Jobs an und erlebe die Langhaarmädchen-Welt hautnah! \nBei uns geht's um mehr als nur Arbeit – wir träumen, lachen und wachsen gemeinsam. <div class=\"heart\">💖</div></p>\n<style>\n.heart {\n\tfont-size: 15px;\n\tcolor: #e00;\n\tanimation: beat .8s infinite alternate;\n\ttransform-origin: left;\n}\n\n/* Heart beat animation */\n@keyframes beat{\n\tto { transform: scale(1.7); }\n}\n</style>",
-            "width": "50%",
-            "alignment": "center"
-          }
-        }
-      },
-      "block_order": [
-        "image_ct8ttC",
-        "liquid_k66d7P"
-      ],
-      "custom_css": [
-
-      ],
-      "settings": {
-        "full_width": false,
-        "space_around": true
-      }
-    },
     "rich_text_nfY7rf": {
       "type": "rich-text",
       "blocks": {
@@ -119,21 +85,14 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<h3><strong>Vollzeit / ab sofort</strong></h3><p></p>"
+            "text": "<h3><strong>- Vollzeit oder Teilzeit / ab sofort -</strong></h3><p></p>"
           }
         },
         "text_ciVPGV": {
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p><strong>Du liebst lange Haare und bei dem Thema Haarverdichtung und Haarverlängerung geht dein Herz auf? </strong></p><p><strong>Dann bist du bei uns im Herzen Münchens genau richtig! </strong></p><p><strong> WIR BIETEN DIR:</strong></p><p>➳ Wohlfühl-Arbeitsplatz mit einem wundervollen TEAM  </p><p>➳ 4 Tage Woche und 3 verlängerte Wochenenden im Monat </p><p>➳ Überdurchschnittliche Bezahlung </p><p>➳ regelmäßige Fortbildungen </p><p>➳ Shootings, Events & vieles vieles mehr! </p><p><strong>DU BRINGST MIT:</strong> </p><p>➳ Berufserfahrung (optional zum Thema Haarverdichtung) </p><p>➳ Begeisterung an umfangreichen Beratungen </p><p>➳ Freude an stetiger Weiterbildung </p><p></p><p></p>"
-          }
-        },
-        "text_wpqkF3": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<h3><strong>Wir freuen uns auf Dich!</strong></h3>"
+            "text": "<p>Du liebst lange Haare und bei dem Thema Haarverdichtung und Haarverlängerung geht dein Herz auf? Dann bewerbe dich bei uns!</p><p></p>"
           }
         },
         "heading_VzVmnb": {
@@ -174,7 +133,6 @@
         "heading_jencFJ",
         "text_ty3MLa",
         "text_ciVPGV",
-        "text_wpqkF3",
         "heading_VzVmnb",
         "text_tkimTw",
         "text_ewcgYP",
@@ -186,6 +144,131 @@
         "divider": false,
         "margin_top": false,
         "margin_bottom": false
+      }
+    },
+    "rich_text_EBEdnX": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_bpFnQN": {
+          "type": "heading",
+          "settings": {
+            "title": "Hey, schön, dass du hier bist!",
+            "image_width": 50,
+            "image_position": 50
+          }
+        },
+        "text_WmVtCP": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Bei uns Langhaarmädchen dreht sich alles um Haare, Beauty und das Leben. Wir glauben fest daran, dass du mit Mut und einem Lächeln alles erreichen kannst. 🌸 Lust, Teil unseres Teams zu werden? Dann schau dir unsere Jobs an und erlebe die Langhaarmädchen-Welt hautnah! <br/>Bei uns geht's um mehr als nur Arbeit – wir träumen, lachen und wachsen gemeinsam. </p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_bpFnQN",
+        "text_WmVtCP"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
+      }
+    },
+    "rich_text_bcwWnw": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_YNHW7f": {
+          "type": "heading",
+          "settings": {
+            "title": "Was wir dir bieten:",
+            "image_width": 50,
+            "image_position": 50
+          }
+        },
+        "text_CMYJaU": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_YNHW7f",
+        "text_CMYJaU"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
+      }
+    },
+    "advanced_content_jFRnNP": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_ct8ttC": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/15.png",
+            "link": "",
+            "width": "25%",
+            "alignment": "center"
+          }
+        },
+        "liquid_k66d7P": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>Lebenslange Fortbildung</h2><p>\nInvestitiin in DICH und deine Persönlichkeit\n<p>\nWir glauben an lebenslanges Lernen – nicht nur fachlich, sondern auch persönlich. Coachings, Weiterbildungen und Mentoring unterstützen dich in deiner Entwicklung",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_ct8ttC",
+        "liquid_k66d7P"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
+    "advanced_content_rDmxfa": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_UpriAy": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/15.png",
+            "link": "",
+            "width": "25%",
+            "alignment": "top-middle"
+          }
+        },
+        "liquid_ahjdTd": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>Lebenslange Fortbildung</h2><p>\nInvestitiin in DICH und deine Persönlichkeit\n<p>\nWir glauben an lebenslanges Lernen – nicht nur fachlich, sondern auch persönlich. Coachings, Weiterbildungen und Mentoring unterstützen dich in deiner Entwicklung",
+            "width": "50%",
+            "alignment": "top-middle"
+          }
+        }
+      },
+      "block_order": [
+        "image_UpriAy",
+        "liquid_ahjdTd"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": false,
+        "space_around": true
       }
     },
     "contact_form_mAE4Ur": {
@@ -213,7 +296,7 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Design_ohne_Titel_a496f632-ccac-47b2-a41f-9b55f28eee4e.png",
+            "image": "shopify://shop_images/Clipboard_12-20-2024_05.jpg",
             "overlay_opacity": 30,
             "focal_point": "center center"
           }
@@ -235,11 +318,29 @@
             "overlay_opacity": 30,
             "focal_point": "center center"
           }
+        },
+        "image_cQy7da": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Two line\ntitle slide.",
+            "title_size": 80,
+            "subheading": "And optional subtext",
+            "link": "",
+            "link_text": "Optional button",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
         }
       },
       "block_order": [
         "image_Y4D4CT",
-        "image_Qxy8VP"
+        "image_Qxy8VP",
+        "image_cQy7da"
       ],
       "settings": {
         "section_height": "650px",
@@ -250,14 +351,58 @@
         "autoplay": false,
         "autoplay_speed": 5
       }
+    },
+    "featured_video_6jE9dj": {
+      "type": "featured-video",
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "divider": false
+      }
+    },
+    "advanced_content_6qyqwP": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_zbB8CC": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "liquid_nqJtwW": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>Custom content</h2><p>Use this advanced section to build your own layouts or to add custom HTML, Liquid, or scripts.</p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_zbB8CC",
+        "liquid_nqJtwW"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
     }
   },
   "order": [
     "main",
     "slideshow_jRpGEh",
-    "advanced_content_jFRnNP",
     "rich_text_nfY7rf",
+    "rich_text_EBEdnX",
+    "rich_text_bcwWnw",
+    "advanced_content_jFRnNP",
+    "advanced_content_rDmxfa",
     "contact_form_mAE4Ur",
-    "slideshow_NN78ph"
+    "slideshow_NN78ph",
+    "featured_video_6jE9dj",
+    "advanced_content_6qyqwP"
   ]
 }
