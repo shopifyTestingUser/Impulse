@@ -209,26 +209,6 @@
         "margin_bottom": false
       }
     },
-    "text_and_image_p9h6pD": {
-      "type": "text-and-image",
-      "settings": {
-        "image": "shopify://shop_images/4_f7749151-2a45-4b0e-9433-fadbe0181bee.png",
-        "image_position": "right-bottom",
-        "image_bg_color": "#F8E6D4",
-        "subtitle": "",
-        "title": "EVERYONE IST WELCOME – LGBQ+ friendly",
-        "another_text": false,
-        "text": "<p>Wir stehen für Vielfalt, Offenheit und Respekt. Egal, woher du kommst oder wen du liebst – beiuns bist du genau richtig! Langhaarmädchen ist, wer sich als Langhaarmädchen fühlt!</p>",
-        "button_label": "",
-        "button_link": "",
-        "button_style": "primary",
-        "align_text": "center",
-        "layout": "left",
-        "divider": false,
-        "margin_top": false,
-        "margin_bottom": false
-      }
-    },
     "text_and_image_rUjNh9": {
       "type": "text-and-image",
       "settings": {
@@ -259,6 +239,26 @@
         "title": "Hair, Life, & Love Balance",
         "another_text": false,
         "text": "<p>4-Tage-Woche & 3 verlängerte Wochenenden im Monat! Mehr Freizeit, mehr Erholung, mehr Leben! Mit unserer 4 Tage-Woche hast du regelmäßig lange Wochenenden für deine persönliche Balance.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "center",
+        "layout": "left",
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
+      }
+    },
+    "text_and_image_p9h6pD": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/4_f7749151-2a45-4b0e-9433-fadbe0181bee.png",
+        "image_position": "right-bottom",
+        "image_bg_color": "#F8E6D4",
+        "subtitle": "",
+        "title": "EVERYONE IST WELCOME – LGBQ+ friendly",
+        "another_text": false,
+        "text": "<p>Wir stehen für Vielfalt, Offenheit und Respekt. Egal, woher du kommst oder wen du liebst – beiuns bist du genau richtig! Langhaarmädchen ist, wer sich als Langhaarmädchen fühlt!</p>",
         "button_label": "",
         "button_link": "",
         "button_style": "primary",
@@ -600,11 +600,11 @@
     "rich_text_nfY7rf",
     "rich_text_EBEdnX",
     "rich_text_bcwWnw",
-    "text_and_image_p9h6pD",
-    "text_and_image_rUjNh9",
     "text_and_image_wbkViX",
-    "text_and_image_WNrFcT",
+    "text_and_image_rUjNh9",
     "text_and_image_8abtNb",
+    "text_and_image_WNrFcT",
+    "text_and_image_p9h6pD",
     "text_and_image_QiwGDL",
     "text_and_image_4R6P4G",
     "text_and_image_mJD3JK",
