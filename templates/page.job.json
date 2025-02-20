@@ -570,7 +570,7 @@
         "image_zbB8CC": {
           "type": "image",
           "settings": {
-            "link": "",
+            "link": "https://youtube.com/shorts/hQeXknQPZcQ?feature=share",
             "width": "50%",
             "alignment": "center"
           }
@@ -592,6 +592,20 @@
       "settings": {
         "full_width": false,
         "space_around": true
+      }
+    },
+    "background_video_text_VJ7CeB": {
+      "type": "background-video-text",
+      "settings": {
+        "subtitle": "Impressive",
+        "title": "Large video with text box",
+        "text": "<p>Pair large text with a full-width video to showcase your brand's lifestyle video or to describe and showcase an important detail of your products.</p>",
+        "button_label": "",
+        "button_link": "",
+        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "color_border": "#f4f4f4",
+        "layout": "left",
+        "height": 550
       }
     }
   },
@@ -616,6 +630,7 @@
     "contact_form_mAE4Ur",
     "slideshow_NN78ph",
     "featured_video_6jE9dj",
-    "advanced_content_6qyqwP"
+    "advanced_content_6qyqwP",
+    "background_video_text_VJ7CeB"
   ]
 }
