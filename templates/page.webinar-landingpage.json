@@ -421,7 +421,7 @@
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/49A0498_2.png",
-            "image_mobile": "shopify://shop_images/6_d9347a60-a346-469e-b49a-be2514c529d4.png",
+            "image_mobile": "shopify://shop_images/LHM-29_Styling_klein.jpg",
             "overlay_opacity": 38,
             "focal_point": "center center"
           }
@@ -516,6 +516,7 @@
         "testimonial_ytdTXC",
         "testimonial_KJUeh6"
       ],
+      "disabled": true,
       "settings": {
         "subtitle": "",
         "title": "Was unsere  Kunden sagen",
@@ -593,53 +594,6 @@
       "type": "main-page",
       "disabled": true,
       "settings": {}
-    },
-    "914f5d0d-cc18-49a6-bc91-a3b8007de511": {
-      "type": "rich-text",
-      "blocks": {
-        "template--16735646646538__914f5d0d-cc18-49a6-bc91-a3b8007de511-1673345188efc74526-0": {
-          "type": "heading",
-          "settings": {
-            "title": "Wenn du unter",
-            "image_width": 50,
-            "image_position": 50
-          }
-        }
-      },
-      "block_order": [
-        "template--16735646646538__914f5d0d-cc18-49a6-bc91-a3b8007de511-1673345188efc74526-0"
-      ],
-      "disabled": true,
-      "settings": {
-        "align_text": "center",
-        "narrow_column": false,
-        "divider": false,
-        "margin_top": false,
-        "margin_bottom": false
-      }
-    },
-    "559c1faa-16b7-480d-a744-0a81638f7a5d": {
-      "type": "rich-text",
-      "blocks": {
-        "template--16735646646538__559c1faa-16b7-480d-a744-0a81638f7a5d-16835499032979a82b-1": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": false,
-            "text": "<p>...leidest, dann kennst du das Problem nur zu gut, oder? Es kann das Selbstbewusstsein beeinträchtigen und dich unsicher fühlen lassen. Aber du bist nicht allein! Wir verstehen genau, wie du dich fühlst.</p><p>Es ist Zeit, deinem Haar die Liebe und Pflege zu schenken, die es verdient! 🌟🌸</p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--16735646646538__559c1faa-16b7-480d-a744-0a81638f7a5d-16835499032979a82b-1"
-      ],
-      "disabled": true,
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false,
-        "margin_top": false,
-        "margin_bottom": false
-      }
     },
     "0230f784-1e05-4bbf-8825-10b0eec4f3dc": {
       "type": "text-and-image",
@@ -881,8 +835,6 @@
     "08b53936-ee44-4318-8660-50fd34abe843",
     "84714977-16be-489b-97ba-053b10568c4a",
     "main",
-    "914f5d0d-cc18-49a6-bc91-a3b8007de511",
-    "559c1faa-16b7-480d-a744-0a81638f7a5d",
     "0230f784-1e05-4bbf-8825-10b0eec4f3dc",
     "1650550827aa9686d7",
     "1650549005713f9a6c",
