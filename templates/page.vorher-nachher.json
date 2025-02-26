@@ -85,14 +85,14 @@
     "text_and_image_BaUMAk": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify://shop_images/1_64e74440-3213-4be0-ba0e-0fe9fa0284e3.png",
+        "image": "shopify://shop_images/Nora_Bild.png",
         "image2": "shopify://shop_images/Nora_Nachher.png",
         "image_position": "left-bottom",
         "image_bg_color": "#f8e6d4",
         "subtitle": "",
         "title": "NORA",
         "another_text": false,
-        "text": "<p><em>\"Dank der Haarverdichtung fühlt sich mein Haar nicht nur dichter an, sondern sieht auch absolut authentisch aus. Die Tapes sind unsichtbar, angenehm zu tragen und geben mir jeden Tag ein neues Selbstbewusstsein – einfach ein Traum!</em></p>",
+        "text": "<p><em>“Dank der Haarverdichtung fühlt sich mein Haar nicht nur voller an, sondern sieht absolut natürlich aus. Die Tapes sind unsichtbar, angenehm zu tragen und schenken mir täglich neues Selbstbewusstsein – einfach ein Traum!”</em></p>",
         "button_label": "",
         "button_link": "",
         "button_style": "primary",
@@ -107,9 +107,9 @@
       "type": "text-and-image",
       "settings": {
         "image": "shopify://shop_images/9.png",
-        "image2": "shopify://shop_images/avatar_2.png",
+        "image2": "shopify://shop_images/Roby_Bild.png",
         "image_position": "right-bottom",
-        "image_bg_color": "#F8E6D4",
+        "image_bg_color": "#f8e6d4",
         "subtitle": "",
         "title": "ROBY",
         "another_text": false,
@@ -127,7 +127,7 @@
     "contact_form_mAE4Ur": {
       "type": "contact-form",
       "settings": {
-        "title": "Lass dich bei uns beraten und vereinbare ein kostenloses Erstgespräch",
+        "title": "Du wünscht dir eine persönliche Beratung? Dann vereinbare dirket ein kostenloses Erstgespräch",
         "text": "",
         "show_phone": false,
         "narrow_column": true
