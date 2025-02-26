@@ -97,7 +97,7 @@
             "title": "",
             "price": "",
             "text": "",
-            "button_label": "➡️ ZUM VIDEO",
+            "button_label": "➡️  Klick hier",
             "button_link": ""
           }
         },
@@ -105,11 +105,11 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify://shop_images/Erika_V1.png",
+            "image": "shopify://shop_images/Erika_V3.png",
             "title": "",
             "price": "",
             "text": "",
-            "button_label": "➡️ ZUM VIDEO",
+            "button_label": "➡️  Klick hier",
             "button_link": ""
           }
         }
@@ -128,6 +128,77 @@
         "image_position": 23
       }
     },
+    "rich_text_z6CBz4": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_tJReEW": {
+          "type": "heading",
+          "settings": {
+            "title": ".... noch mehr Erfolgsgeschichten von unseren Langhaarmädchen",
+            "image_width": 50,
+            "image_position": 50
+          }
+        },
+        "text_9QikNT": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_tJReEW",
+        "text_9QikNT"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
+      }
+    },
+    "rich_text_aPLcXc": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_hmJWbG": {
+          "type": "heading",
+          "settings": {
+            "title": "Laura L. (30)",
+            "image_width": 50,
+            "image_position": 50
+          }
+        },
+        "text_yPAjNw": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>\"Ich habe wieder so viel Freunde an meinen Haaren!\"</em></p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_hmJWbG",
+        "text_yPAjNw"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
+      }
+    },
+    "featured_video_mdDnhE": {
+      "type": "featured-video",
+      "settings": {
+        "title": "",
+        "video_url": "https://youtu.be/5jmq3YXgYtA",
+        "divider": false
+      }
+    },
     "rich_text_JFgiNg": {
       "type": "rich-text",
       "blocks": {
@@ -143,7 +214,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p><em>\"Ich kann endlich wieder einene Zopf tragen!\"</em></p>"
+            "text": "<p><em>\"Ich kann endlich wieder einen Zopf tragen!\"</em></p>"
           }
         }
       },
@@ -205,7 +276,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p><em>\"Ich kann endlich wieder einene Zopf tragen!\"</em></p>"
+            "text": "<p><em>\"Ich hba endlich wieder meine Haarlänge, die ich mir wünsche.\"</em></p>"
           }
         }
       },
@@ -244,7 +315,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p><em>\"Ich kann endlich wieder einene Zopf tragen!\"</em></p>"
+            "text": "<p><em>\"Ich strahle wieder wenn ich den Spiegel schaue und meine vollen Haare kämme.\"</em></p>"
           }
         }
       },
@@ -268,45 +339,6 @@
         "divider": false
       }
     },
-    "rich_text_aPLcXc": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_hmJWbG": {
-          "type": "heading",
-          "settings": {
-            "title": "Laura L. (30)",
-            "image_width": 50,
-            "image_position": 50
-          }
-        },
-        "text_yPAjNw": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p><em>\"Ich kann endlich wieder einene Zopf tragen!\"</em></p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading_hmJWbG",
-        "text_yPAjNw"
-      ],
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false,
-        "margin_top": false,
-        "margin_bottom": false
-      }
-    },
-    "featured_video_mdDnhE": {
-      "type": "featured-video",
-      "settings": {
-        "title": "",
-        "video_url": "https://youtu.be/5jmq3YXgYtA",
-        "divider": false
-      }
-    },
     "rich_text_gRhPcf": {
       "type": "rich-text",
       "blocks": {
@@ -322,7 +354,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p><em>\"Ich kann endlich wieder einene Zopf tragen!\"</em></p>"
+            "text": "<p><em>\"Ich fühle mich so wohl und gesund mit meinen neuen Haare.\"</em></p>"
           }
         }
       },
@@ -409,6 +441,9 @@
     "hero_video_4wPzKb",
     "rich_text_xKQgJr",
     "services_columns_yhBApd",
+    "rich_text_z6CBz4",
+    "rich_text_aPLcXc",
+    "featured_video_mdDnhE",
     "rich_text_JFgiNg",
     "rich_text_mW3Xc6",
     "featured_video_JMgMYh",
@@ -416,8 +451,6 @@
     "featured_video_6XCCTk",
     "rich_text_zYU6UP",
     "featured_video_iiLrqx",
-    "rich_text_aPLcXc",
-    "featured_video_mdDnhE",
     "rich_text_gRhPcf",
     "featured_video_nq8tGJ",
     "rich_text_g8Wc8g",
