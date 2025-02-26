@@ -134,7 +134,7 @@
         "heading_tJReEW": {
           "type": "heading",
           "settings": {
-            "title": ".... noch mehr Erfolgsgeschichten von unseren Langhaarmädchen",
+            "title": "und noch mehr Erfolgsgeschichten von unseren Langhaarmädchen:",
             "image_width": 50,
             "image_position": 50
           }
@@ -175,7 +175,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p><em>\"Ich habe wieder so viel Freunde an meinen Haaren!\"</em></p>"
+            "text": "<p><em>\"Ich habe wieder so viel Freunde mit meinen Haaren!\"</em></p>"
           }
         }
       },
