@@ -47,6 +47,7 @@
       "block_order": [
         "liquid_gcMKji"
       ],
+      "disabled": true,
       "custom_css": [],
       "settings": {
         "full_width": true,
@@ -314,7 +315,6 @@
   "order": [
     "main",
     "hero_video_DGxAtU",
-    "advanced_content_GtiWc8",
     "rich_text_xnNazX",
     "advanced_content_jFRnNP",
     "advanced_content_zW8Ndh",
@@ -324,6 +324,7 @@
     "advanced_content_6EdJKx",
     "rich_text_nfY7rf",
     "contact_form_mAE4Ur",
-    "slideshow_NN78ph"
+    "slideshow_NN78ph",
+    "advanced_content_GtiWc8"
   ]
 }
