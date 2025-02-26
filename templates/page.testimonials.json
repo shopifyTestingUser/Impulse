@@ -19,7 +19,7 @@
       "settings": {
         "title": "Unsere Erfolgsgeschichten",
         "title_size": 80,
-        "subheading": "",
+        "subheading": "Zartes Haar und Haarausfall kann viele Ursachen haben – aber du bist nicht allein! Unsere Langhaarmädchen teilen mit Dir  Dir ihre Erfahrungen!",
         "link_text": "",
         "link": "",
         "color_accent": "rgba(0,0,0,0)",
@@ -36,16 +36,17 @@
         "heading_DRiriC": {
           "type": "heading",
           "settings": {
-            "title": "Zartes Haar kann viele Ursachen haben:",
+            "title": "Mit was kannst du dich indentifizieren?",
             "image_width": 50,
             "image_position": 50
           }
         },
         "text_f8zBib": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Mit was kannst du dich identifizieren?</p>"
+            "text": ""
           }
         }
       },
@@ -72,7 +73,7 @@
             "title": "",
             "price": "",
             "text": "",
-            "button_label": "KLICK HIER",
+            "button_label": "➡️  Klick hier",
             "button_link": ""
           }
         },
@@ -84,7 +85,7 @@
             "title": "",
             "price": "",
             "text": "",
-            "button_label": "➡️ Klick hier",
+            "button_label": "➡️  Klick hier",
             "button_link": ""
           }
         },
