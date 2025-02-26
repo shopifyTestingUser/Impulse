@@ -267,7 +267,7 @@
         "liquid_qLN4cA": {
           "type": "liquid",
           "settings": {
-            "code": "<span id=laura_w\"> </span>",
+            "code": "<p id=\"laura_w\"> </p>",
             "width": "100%",
             "alignment": "center"
           }
