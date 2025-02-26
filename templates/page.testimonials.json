@@ -19,7 +19,7 @@
       "settings": {
         "title": "Unsere Erfolgsgeschichten",
         "title_size": 80,
-        "subheading": "Zartes Haar und Haarausfall kann viele Ursachen haben – aber du bist nicht allein! Unsere Langhaarmädchen teilen mit Dir ihre Erfahrungen!",
+        "subheading": "Zartes Haar und Haarausfall kann viele Ursachen haben –  aber du bist nicht allein! Unsere Langhaarmädchen teilen mit Dir  Dir ihre Erfahrungen!",
         "link_text": "",
         "link": "",
         "color_accent": "rgba(0,0,0,0)",
@@ -74,7 +74,7 @@
             "price": "",
             "text": "",
             "button_label": "➡️  Klick hier",
-            "button_link": ""
+            "button_link": "#laura_w"
           }
         },
         "text_block_jcdrjn": {
@@ -261,6 +261,26 @@
         "divider": false
       }
     },
+    "advanced_content_eAKzfR": {
+      "type": "advanced-content",
+      "blocks": {
+        "liquid_qLN4cA": {
+          "type": "liquid",
+          "settings": {
+            "code": "<div id=laura_w\">",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "liquid_qLN4cA"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
     "rich_text_tXnzmr": {
       "type": "rich-text",
       "blocks": {
@@ -276,7 +296,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p><em>\"Ich hba endlich wieder meine Haarlänge, die ich mir wünsche.\"</em></p>"
+            "text": "<p><em>\"Ich hab endlich wieder meine Haarlänge, die ich mir wünsche.\"</em></p>"
           }
         }
       },
@@ -284,6 +304,7 @@
         "heading_FyRPbG",
         "text_wUw3BR"
       ],
+      "custom_css": [],
       "settings": {
         "align_text": "center",
         "narrow_column": true,
@@ -447,6 +468,7 @@
     "rich_text_JFgiNg",
     "rich_text_mW3Xc6",
     "featured_video_JMgMYh",
+    "advanced_content_eAKzfR",
     "rich_text_tXnzmr",
     "featured_video_6XCCTk",
     "rich_text_zYU6UP",
