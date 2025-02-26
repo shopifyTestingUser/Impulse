@@ -76,7 +76,7 @@
         "liquid_k66d7P": {
           "type": "liquid",
           "settings": {
-            "code": "<h2>Step 1 Deine Herzensberatung</h2><p>\nIn unserer Herzensberatung dreht sich alles um dich und dein Haar! Wir nehmen uns Zeit, um deine Haarstruktur, Wünsche und die perfekte Methode für deine individuelle Haarverdichtung zu finden. Unsere Langhaarmädchen-Stylisinnen begleiten dich Schritt für Schritt, hören dir zu und finden gemeinsam mit dir die perfekte Lösung.  Mit viel Fingerspitzengefühl und einem geschulten Blick stimmen wir Farbe, Länge und Fülle auf dich ab – für ein Ergebnis, das sich anfühlt wie dein eigenes Haar, nur mit extra Wow-Effekt!  <div class=\"heart\">",
+            "code": "<h2>Step 1 Deine Herzensberatung</h2><p>\nIn unserer Herzensberatung dreht sich alles um dich und dein Haar! Wir nehmen uns Zeit, um deine Haarstruktur, Wünsche und die perfekte Methode für deine individuelle Haarverdichtung zu finden. Unsere Langhaarmädchen-Stylisinnen begleiten dich Schritt für Schritt, hören dir zu und finden gemeinsam mit dir die perfekte Lösung.  Mit viel Fingerspitzengefühl und einem geschulten Blick stimmen wir Farbe, Länge und Fülle auf dich ab – für ein Ergebnis, das sich anfühlt wie dein eigenes Haar, nur mit extra Wow-Effekt!  <div class=\"heart\"></div>",
             "width": "50%",
             "alignment": "center"
           }
