@@ -68,11 +68,11 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify://shop_images/Laura.png",
+            "image": "shopify://shop_images/Laura_Play.png",
             "title": "",
             "price": "",
             "text": "",
-            "button_label": "Laura's Story",
+            "button_label": "KLICK HIER",
             "button_link": ""
           }
         },
@@ -80,11 +80,11 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify://shop_images/2_4310964e-1019-42a8-b48a-4f0cd35b0db4.png",
+            "image": "shopify://shop_images/Nora_V1.png",
             "title": "",
             "price": "",
             "text": "",
-            "button_label": "Nora's Story",
+            "button_label": "➡️ Klick hier",
             "button_link": ""
           }
         },
@@ -92,11 +92,11 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify://shop_images/4_a8e23dd6-1fad-44d1-84a2-c76d9752aba8.png",
+            "image": "shopify://shop_images/Roby_V1.png",
             "title": "",
             "price": "",
             "text": "",
-            "button_label": "Roby's Story",
+            "button_label": "➡️ ZUM VIDEO",
             "button_link": ""
           }
         },
@@ -104,7 +104,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify://shop_images/1_4dafac5b-6f62-4266-af43-6b9af61f96a7.png",
+            "image": "shopify://shop_images/Erika_V1.png",
             "title": "",
             "price": "",
             "text": "",
