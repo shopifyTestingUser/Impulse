@@ -267,8 +267,8 @@
         "liquid_qLN4cA": {
           "type": "liquid",
           "settings": {
-            "code": "<div id=laura_w\">",
-            "width": "50%",
+            "code": "<div id=laura_w\"></div>",
+            "width": "100%",
             "alignment": "center"
           }
         }
@@ -278,7 +278,7 @@
       ],
       "settings": {
         "full_width": false,
-        "space_around": true
+        "space_around": false
       }
     },
     "rich_text_tXnzmr": {
