@@ -36,6 +36,7 @@
       "blocks": {
         "liquid_gcMKji": {
           "type": "liquid",
+          "disabled": true,
           "settings": {
             "code": "<div class=\"custom-video-banner\">\n  <div class=\"custom-video-container\">\n    <iframe src=\"https://www.youtube.com/embed/m5HqjWC-EHs?controls=0&showinfo=0&rel=0&autoplay=1&loop=1&playlist=m5HqjWC-EHs&mute=1\" frameborder=\"0\" allowfullscreen></iframe>\n  </div>\n  <div class=\"custom-video-text\">\n    <h1>Die Hairtalk Kaltklebetechnik</h1>\n    <h2>Wir zeigen dir STEP by STEP wie sie funktioniert</h2>\n  </div>\n</div>",
             "width": "100%",
@@ -58,7 +59,7 @@
         "heading_YhYyNw": {
           "type": "heading",
           "settings": {
-            "title": "Die Tape - Kaltklebetechnik",
+            "title": "Die Tape-Kaltklebetechnik mit hairtalk",
             "image_width": 50,
             "image_position": 50
           }
@@ -67,7 +68,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Die <strong>Haarverdichtung mit der Tape-Klebetechnik</strong> ist eine beliebte Methode, um feines oder dünnes Haar voller wirken zu lassen. Hier sind die Arbeitsschritte im Detail:</p>"
+            "text": "<p>Die <strong>Haarverdichtung mit der Tape Klebetechnik</strong> ist eine beliebte Methode, um feines oder dünnes Haar voller wirken zu lassen. Wir zeigen dir STEP by STEP wie sie funktioniert. </p>"
           }
         }
       },
