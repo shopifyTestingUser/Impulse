@@ -68,7 +68,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify://shop_images/Laura_Play.png",
+            "image": "shopify://shop_images/Laura_V3.png",
             "title": "",
             "price": "",
             "text": "",
@@ -108,7 +108,7 @@
             "title": "",
             "price": "",
             "text": "",
-            "button_label": "ERIKA'S Story",
+            "button_label": "➡️ ZUM VIDEO",
             "button_link": ""
           }
         }
