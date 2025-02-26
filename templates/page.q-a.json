@@ -137,7 +137,7 @@
         "liquid_9Japrc": {
           "type": "liquid",
           "settings": {
-            "code": "<h2>Step 3\n Die Farbabstimmung\n</h2><p>\nIn der Herzensberatung werden Haarstruktur, Farbabgleich und individuelle Wünsche analysiert, um die perfekte, typgerechte Haarverdichtung mit der passenden Methode zu finden.  <div class=\"heart\">",
+            "code": "<h2>Step 3\n Die Farbabstimmung\n</h2><p>\nIn der Farbabstimmung wird genau hingeschaut: Gemeinsam wählen wir den perfekten Ton, der sich nahtlos in dein eigenes Haar einfügt. Dabei berücksichtigen wir nicht nur die Haarfarbe, sondern auch Nuancen, Reflexe und die natürliche Lichtwirkung – für ein absolut harmonisches und unsichtbares Ergebnis.  <div class=\"heart\">",
             "width": "50%",
             "alignment": "center"
           }
@@ -177,6 +177,7 @@
         "image_jVcC73",
         "liquid_9wFjmX"
       ],
+      "disabled": true,
       "settings": {
         "full_width": false,
         "space_around": true
