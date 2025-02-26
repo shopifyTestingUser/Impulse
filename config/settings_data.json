@@ -793,5 +793,15 @@
         }
       }
     }
+  },
+  "platform_customizations": {
+    "custom_css": [
+      "/* Benutzerdefinierter CSS für Shopify Video-Header */.custom-video-banner {position: relative; width: 100%; height: 100vh; overflow: hidden; border: 10px solid #ffffff; /* Weißer Rand */ box-sizing: border-box;}",
+      ".custom-video-container {position: absolute; width: 100%; height: 100%; top: 0; left: 0; right: 0; bottom: 0; overflow: hidden;}",
+      ".custom-video-container iframe {position: absolute; top: 50%; left: 50%; width: 100%; height: 100%; transform: translate(-50%, -50%); pointer-events: none; /* Verhindert Klicks auf das Video */}",
+      "/* Desktop-Ansicht */@media (min-aspect-ratio: 16/9) {.custom-video-container iframe {/* Bei breiten Bildschirmen wird die Höhe angepasst */ height: 56.25vw; /* 100/16*9 = 56.25 */ width: 100%; }}",
+      "/* Tablet-Ansicht */@media (max-aspect-ratio: 16/9) and (min-width: 768px) {.custom-video-container iframe {/* Bei mittleren Bildschirmen wird die Breite angepasst */ width: 177.78vh; /* 100/9*16 = 177.78 */ height: 100%; }}",
+      "/* Mobile-Ansicht - Video füllt die Höhe aus und wird horizontal zentriert */@media (max-width: 767px) {.custom-video-container iframe {/* Wichtig für Mobile: Der iframe wird breiter gemacht und zentriert */ width: 300%; /* Vergrößert die Breite, um schwarze Ränder zu vermeiden */ transform: translate(-50%, -50%); }}"
+    ]
   }
 }
