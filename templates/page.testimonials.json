@@ -65,18 +65,6 @@
     "services_columns_yhBApd": {
       "type": "services-columns",
       "blocks": {
-        "text_block_yGUttB": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/Laura_V3.png",
-            "title": "",
-            "price": "",
-            "text": "",
-            "button_label": "➡️  Klick hier",
-            "button_link": "#laura_w"
-          }
-        },
         "text_block_jcdrjn": {
           "type": "text_block",
           "settings": {
@@ -101,6 +89,18 @@
             "button_link": "#roby"
           }
         },
+        "text_block_yGUttB": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Laura_V3.png",
+            "title": "",
+            "price": "",
+            "text": "",
+            "button_label": "➡️  Klick hier",
+            "button_link": "#laura_w"
+          }
+        },
         "text_block_PWWjeK": {
           "type": "text_block",
           "settings": {
@@ -115,9 +115,9 @@
         }
       },
       "block_order": [
-        "text_block_yGUttB",
         "text_block_jcdrjn",
         "text_block_PD3EaP",
+        "text_block_yGUttB",
         "text_block_PWWjeK"
       ],
       "settings": {
