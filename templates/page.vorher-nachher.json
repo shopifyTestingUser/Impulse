@@ -18,14 +18,14 @@
       "type": "background-video-text",
       "settings": {
         "subtitle": "",
-        "title": "Vorher-Nachher",
+        "title": "Vorher-Nachher Ergebnisse",
         "text": "<p><em>Lass dich von unseren wundervollen Ergebnissen im Langhaarmädchen Salon inspirieren – vielleicht verzaubern wir auch bald dein Haar!</em></p>",
         "button_label": "",
         "button_link": "",
         "video_url": "https://youtu.be/m5HqjWC-EHs",
         "color_border": "#eac5bd",
         "layout": "left",
-        "height": 550
+        "height": 650
       }
     },
     "rich_text_xnNazX": {
@@ -33,6 +33,7 @@
       "blocks": {
         "heading_YhYyNw": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "title": "Vorher-Nachher Ergebnisse",
             "image_width": 50,
@@ -43,7 +44,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Echte Geschichten - die nicht nur Haare, sondern auch Herzen verändert haben:</p>"
+            "text": "<h2>Echte Geschichten - die nicht nur Haare, sondern auch Herzen verändert haben:</h2>"
           }
         }
       },
