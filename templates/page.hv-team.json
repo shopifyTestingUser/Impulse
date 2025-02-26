@@ -13,9 +13,51 @@
       "type": "main-page",
       "disabled": true,
       "settings": {}
+    },
+    "text_and_image_LbLC46": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/2_95b38c20-d1af-4486-bb6d-5533bac97be8.png",
+        "image_position": "right-bottom",
+        "image_bg_color": "#fff9f4",
+        "subtitle": "",
+        "title": "Image with text",
+        "another_text": false,
+        "text": "<p>Pair large text with an image to tell a story, explain a detail about your product, or describe a new promotion.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "center",
+        "layout": "right",
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
+      }
+    },
+    "text_and_image_x3a8gD": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/1_615b9d43-f103-48ed-afeb-359bbdca7fe3.png",
+        "image_position": "left-bottom",
+        "image_bg_color": "#fff9f4",
+        "subtitle": "",
+        "title": "Image with text",
+        "another_text": false,
+        "text": "<p>Pair large text with an image to tell a story, explain a detail about your product, or describe a new promotion.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "left",
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "text_and_image_LbLC46",
+    "text_and_image_x3a8gD"
   ]
 }
