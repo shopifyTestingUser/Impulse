@@ -1,0 +1,330 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "hero_video_DGxAtU": {
+      "type": "hero-video",
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "title_size": 80,
+        "subheading": "Seamless hero videos",
+        "link_text": "Optional button",
+        "link": "",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https://youtu.be/m5HqjWC-EHs",
+        "overlay_opacity": 0,
+        "section_height": "650px",
+        "mobile_height": "auto"
+      }
+    },
+    "rich_text_xnNazX": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_YhYyNw": {
+          "type": "heading",
+          "settings": {
+            "title": "Die Tape-Kaltklebetechnik mit hairtalk",
+            "image_width": 50,
+            "image_position": 50
+          }
+        },
+        "text_3KjmHU": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Die <strong>Haarverdichtung mit der Tape-Klebetechnik</strong> ist eine besonders <strong>schonende</strong> und effektive Methode, um deinem Haar mehr Fülle zu verleihen. Wir zeigen Dir STEP by STEP wie sie funktioniert:</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_YhYyNw",
+        "text_3KjmHU"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
+      }
+    },
+    "advanced_content_jFRnNP": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_ct8ttC": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Roby_Beratung.png",
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "liquid_k66d7P": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>Step 1 Deine Herzensberatung</h2><p>\nIn unserer Herzensberatung dreht sich alles um dich und dein Haar! Wir nehmen uns Zeit, um deine Haarstruktur, Wünsche und die perfekte Methode für deine individuelle Haarverdichtung zu finden. Unsere Langhaarmädchen-Stylisinnen begleiten dich Schritt für Schritt, hören dir zu und finden gemeinsam mit dir die perfekte Lösung.  Mit viel Fingerspitzengefühl und einem geschulten Blick stimmen wir Farbe, Länge und Fülle auf dich ab – für ein Ergebnis, das sich anfühlt wie dein eigenes Haar, nur mit extra Wow-Effekt!",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_ct8ttC",
+        "liquid_k66d7P"
+      ],
+      "custom_css": [],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
+    "advanced_content_zW8Ndh": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_TGPMht": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/2_9d96a5a2-13b4-4a24-b929-0a1fe2d399fc.png",
+            "link": "",
+            "width": "50%",
+            "alignment": "bottom-middle"
+          }
+        },
+        "liquid_P7BVJW": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>Step 2 Die Farbauswahl</h2><p>\nUnsere Zusammenarbeit mit hairtalk basiert auf Vertrauen und Qualität. 💕 Die hochwertigen Echthaar-Tapes lassen sich nahtlos ins Eigenhaar einfügen und bieten durch ihre Vielfalt an Nuancen und sanften Farbverläufen eine natürliche und individuelle Anpassung. Unsere Langhaarmädchen-Stylistinnen schätzen die einfache Handhabung und den hohen Tragekomfort der Extensions – und unsere Kund:innen lieben das natürliche Ergebnis. Gemeinsam sorgen wir für wunderschöne, volle Haare, die sich genauso gut anfühlen, wie sie aussehen.",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_TGPMht",
+        "liquid_P7BVJW"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
+    "advanced_content_a6K86V": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_Br4bzN": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/5_64b723c7-3bb7-4d13-b9fe-485f67894da8.png",
+            "link": "",
+            "width": "50%",
+            "alignment": "bottom-middle"
+          }
+        },
+        "liquid_9Japrc": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>Step 3\n Die Farbabstimmung\n</h2><p>\nIn der Farbabstimmung wird genau hingeschaut: Gemeinsam wählen wir den perfekten Ton, der sich nahtlos in dein eigenes Haar einfügt. Dabei berücksichtigen wir nicht nur die Haarfarbe, sondern auch Nuancen, Reflexe und die natürliche Lichtwirkung – für ein absolut harmonisches und unsichtbares Ergebnis.",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_Br4bzN",
+        "liquid_9Japrc"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
+    "advanced_content_RqQTpb": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_jVcC73": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/4_6ee693ff-596c-49da-b83f-707b04809f78.png",
+            "link": "",
+            "width": "50%",
+            "alignment": "bottom-middle"
+          }
+        },
+        "liquid_9wFjmX": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>Step 4 Strähnen abtrennen\n</h2><p>\nIn der Herzensberatung werden Haarstruktur, Farbabgleich und individuelle Wünsche analysiert, um die perfekte, typgerechte Haarverdichtung mit der passenden Methode zu finden.",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_jVcC73",
+        "liquid_9wFjmX"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
+    "advanced_content_tDTVwR": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_RaXW6x": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/3_e63ece31-0d34-495c-bf89-37080dc629fd.png",
+            "link": "",
+            "width": "50%",
+            "alignment": "bottom-middle"
+          }
+        },
+        "liquid_7VtWCY": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>Step 4 Tapes einkleben\n</h2><p>\nJetzt geht’s an das Einkleben der Tapes! Strähne für Strähne werden die Extensions präzise in dein Eigenhaar eingearbeitet. Dabei setzen wir die Tapes so, dass sie sicher halten und sich gleichzeitig unsichtbar in dein Haar einfügen. Durch sanften Druck fixieren wir jede Verbindung – für ein natürliches Tragegefühl und maximalen Komfort. Und das alles besonders schonend und ohne HITZE.",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_RaXW6x",
+        "liquid_7VtWCY"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
+    "advanced_content_6EdJKx": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_im4eJr": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/6_d9347a60-a346-469e-b49a-be2514c529d4.png",
+            "link": "",
+            "width": "50%",
+            "alignment": "bottom-middle"
+          }
+        },
+        "liquid_fPawBJ": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>Step 5 Pflege & Styling\n</h2><p>\nDie richtige Pflege & das perfekte Styling sind der Schlüssel, damit deine Tapes lange halten und wunderschön bleiben! 💕 Unsere Langhaarmädchen-Stylist:innen zeigen dir, wie du deine hairtalk Extensions richtig pflegst, damit sie geschmeidig, glänzend und natürlich aussehen. Vom sanften Bürsten über die richtige Haarwäsche bis hin zu Styling-Tipps – wir achten darauf, dass deine Tapes nicht nur sicher halten, sondern sich auch unsichtbar in dein Eigenhaar einfügen. Ob lässige Wellen, glatte Looks oder voluminöse Styles – mit der richtigen Pflege sehen deine Tapes jeden Tag aus wie frisch vom Friseur!",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_im4eJr",
+        "liquid_fPawBJ"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
+    "rich_text_nfY7rf": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_F6C49z": {
+          "type": "heading",
+          "settings": {
+            "title": "",
+            "image_width": 50,
+            "image_position": 50
+          }
+        }
+      },
+      "block_order": [
+        "heading_F6C49z"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": false,
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
+      }
+    },
+    "contact_form_mAE4Ur": {
+      "type": "contact-form",
+      "settings": {
+        "title": "Lass dich bei uns beraten und vereinbare ein kostenloses Erstgespräch",
+        "text": "",
+        "show_phone": false,
+        "narrow_column": true
+      }
+    },
+    "slideshow_NN78ph": {
+      "type": "slideshow",
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "arrows": true,
+        "autoplay": false,
+        "autoplay_speed": 5
+      }
+    },
+    "advanced_content_GtiWc8": {
+      "type": "advanced-content",
+      "blocks": {
+        "liquid_gcMKji": {
+          "type": "liquid",
+          "disabled": true,
+          "settings": {
+            "code": "<div class=\"custom-video-banner\">\n  <div class=\"custom-video-container\">\n    <iframe src=\"https://www.youtube.com/embed/m5HqjWC-EHs?controls=0&showinfo=0&rel=0&autoplay=1&loop=1&playlist=m5HqjWC-EHs&mute=1\" frameborder=\"0\" allowfullscreen></iframe>\n  </div>\n  <div class=\"custom-video-text\">\n    <h1>Die Hairtalk Kaltklebetechnik</h1>\n    <h2>Wir zeigen dir STEP by STEP wie sie funktioniert</h2>\n  </div>\n</div>",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "liquid_gcMKji"
+      ],
+      "disabled": true,
+      "custom_css": [],
+      "settings": {
+        "full_width": true,
+        "space_around": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "hero_video_DGxAtU",
+    "rich_text_xnNazX",
+    "advanced_content_jFRnNP",
+    "advanced_content_zW8Ndh",
+    "advanced_content_a6K86V",
+    "advanced_content_RqQTpb",
+    "advanced_content_tDTVwR",
+    "advanced_content_6EdJKx",
+    "rich_text_nfY7rf",
+    "contact_form_mAE4Ur",
+    "slideshow_NN78ph",
+    "advanced_content_GtiWc8"
+  ]
+}
