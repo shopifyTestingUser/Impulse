@@ -40,6 +40,67 @@
         "mobile_height": "auto"
       }
     },
+    "rich_text_yamJLQ": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_nzREVC": {
+          "type": "heading",
+          "settings": {
+            "title": "",
+            "image_width": 50,
+            "image_position": 50
+          }
+        },
+        "text_dthPrW": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<h3>Unsere Community-Festivals stehen für echte Begegnungen, besondere Verbindungen und unvergessliche Erlebnisse – bist du dabei? </h3>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_nzREVC",
+        "text_dthPrW"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
+      }
+    },
+    "advanced_content_grQz8J": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_b3HDQb": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Bild.png",
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "liquid_qimwLE": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>Hi, wir sind Mona&Julia</h2><p>mit unseren Stylingbussen Bop & Bobby - und wir besuchen DICH! Wir sind die rste nahbare Marke mit Persönlichkeiz und Herz und möchten dich live kennenlernen. Mit Unseren Bussen gehen wir auf Tour - aus Liebe zur Community!</p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_b3HDQb",
+        "liquid_qimwLE"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
     "text_and_image_4LjcUA": {
       "type": "text-and-image",
       "settings": {
@@ -47,31 +108,123 @@
         "image2": "shopify://shop_images/9_6fb498b2-d2de-4cdc-89d6-7a2862cbd880.png",
         "image_position": "left-bottom",
         "image_bg_color": "#F8E6D4",
+        "image_bg": "shopify://shop_images/2_5354b984-b84d-4b36-a0e9-0c99b8aba40a.png",
         "subtitle": "",
-        "title": "Image with text",
+        "title": "dm-Filialevent mit Stylingbus BOBBY",
         "another_text": false,
-        "text": "<p>Pair large text with an image to tell a story, explain a detail about your product, or describe a new promotion.</p>",
-        "button_label": "",
+        "text": "<p>...mit ganz viel Leichtigkeit und Liebe zum Haar! Mit unseren Stylingbussen touren wir durch die Städte und bringen den unverwechselbaren Langhaarmädchen-Look direkt zu dir. Ob natürliche Beach Waves, verspielte Flechtfrisuren oder Glizzer im Haar – wir kreieren dein perfektes Styling. Du willst den Langhaarmädchen-Vibe erleben? Dann besuche uns und lass dich stylen!</p>",
+        "button_label": "Termine",
         "button_link": "",
         "button_style": "primary",
         "align_text": "left",
-        "layout": "right",
+        "layout": "left",
+        "text_image_bg": "shopify://shop_images/transparent_ohne_punkte.png",
         "divider": false,
         "margin_top": false,
         "margin_bottom": false
       }
     },
-    "image_with_description_qfaVXP": {
-      "type": "image-with-description",
+    "text_and_image_iUDQMw": {
+      "type": "text-and-image",
       "settings": {
-        "image": "shopify://shop_images/2_19d79154-d3c7-4611-aaa2-4f41e6aab6af.png",
-        "title": "",
-        "text": "test",
-        "swap": false,
-        "btn_text": "test",
-        "btn_link": "",
+        "image": "shopify://shop_images/6_4402e557-a058-4e6a-95eb-60bf9644d77d.png",
+        "image2": "shopify://shop_images/5_c3c2e577-4099-4c6c-aef8-2600874aaf81.png",
+        "image_position": "right-top",
+        "image_bg_color": "#F8E6D4",
+        "image_bg": "shopify://shop_images/2_5354b984-b84d-4b36-a0e9-0c99b8aba40a.png",
+        "subtitle": "",
+        "title": "Festivals mit Stylingbus BOP",
+        "another_text": false,
+        "text": "<p>Erlebe den ultimativen Langhaarmädchen-Vibe im Stylingbus BOP! Wir bringen Free Styling direkt zu dir – perfekt für die schönsten Festivalfrisuren, ob lässige Beach Waves, verspielte Flechtstyles oder coole Half-Up Looks. Freu dich auf Julia & Mona live, tauche in unsere Langhaarmädchen-Community ein und genieße unvergessliche Styling-Momente voller Leichtigkeit und Good Vibes. </p>",
+        "button_label": "Termine",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "text_image_bg": "shopify://shop_images/transparent_ohne_punkte.png",
+        "divider": false,
         "margin_top": false,
         "margin_bottom": false
+      }
+    },
+    "background_image_text_4gJgLz": {
+      "type": "background-image-text",
+      "settings": {
+        "subtitle": "",
+        "title": "Du willst dabei sein?",
+        "text": "<p>Wir freuen uns auf Dich!</p>",
+        "button_label": "",
+        "button_link": "",
+        "image": "shopify://shop_images/2_ec6e5df7-4a17-4832-877f-cd82783e4873.png",
+        "focal_point": "center",
+        "layout": "left",
+        "height": 550,
+        "framed": false,
+        "parallax": true,
+        "margin_top": false,
+        "margin_bottom": false
+      }
+    },
+    "advanced_content_XtAWg4": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_jRGJXf": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/4_649e580e-b1ad-4fb0-94e2-9b1ab2d13913.png",
+            "link": "",
+            "width": "100%",
+            "alignment": "center"
+          }
+        },
+        "liquid_Bxf6QN": {
+          "type": "liquid",
+          "disabled": true,
+          "settings": {
+            "code": "<h2>Custom content</h2><p>Use this advanced section to build your own layouts or to add custom HTML, Liquid, or scripts.</p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_jRGJXf",
+        "liquid_Bxf6QN"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
+    "advanced_content_TfDJJN": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_86ngWG": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/bild_03.png",
+            "link": "",
+            "width": "100%",
+            "alignment": "center"
+          }
+        },
+        "liquid_8MEJEj": {
+          "type": "liquid",
+          "disabled": true,
+          "settings": {
+            "code": "<h2>Custom content</h2><p>Use this advanced section to build your own layouts or to add custom HTML, Liquid, or scripts.</p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_86ngWG",
+        "liquid_8MEJEj"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
       }
     }
   },
@@ -79,7 +232,12 @@
     "main",
     "advanced_content_L9x4Ww",
     "hero_video_XidngW",
+    "rich_text_yamJLQ",
+    "advanced_content_grQz8J",
     "text_and_image_4LjcUA",
-    "image_with_description_qfaVXP"
+    "text_and_image_iUDQMw",
+    "background_image_text_4gJgLz",
+    "advanced_content_TfDJJN",
+    "advanced_content_XtAWg4"
   ]
 }
