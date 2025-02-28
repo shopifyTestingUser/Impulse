@@ -16,16 +16,15 @@
     },
     "hero_video_DGxAtU": {
       "type": "hero-video",
-      "disabled": true,
       "settings": {
-        "title": "",
+        "title": "Wir besuchen DICH",
         "title_size": 80,
-        "subheading": "Seamless hero videos",
-        "link_text": "Optional button",
+        "subheading": "",
+        "link_text": "",
         "link": "",
         "color_accent": "rgba(0,0,0,0)",
         "text_align": "vertical-center horizontal-center",
-        "video_url": "https://youtu.be/m5HqjWC-EHs",
+        "video_url": "https://youtu.be/s0Meg6CKpaM",
         "overlay_opacity": 0,
         "section_height": "650px",
         "mobile_height": "auto"
