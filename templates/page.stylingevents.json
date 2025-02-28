@@ -16,20 +16,6 @@
     },
     "advanced_content_L9x4Ww": {
       "type": "advanced-content",
-      "blocks": {
-        "image_K8jVQb": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Preisliste_Stand_06._Dez_2024.png",
-            "link": "",
-            "width": "100%",
-            "alignment": "center"
-          }
-        }
-      },
-      "block_order": [
-        "image_K8jVQb"
-      ],
       "custom_css": [
         "img {align-content: center;}"
       ],
@@ -37,10 +23,63 @@
         "full_width": true,
         "space_around": true
       }
+    },
+    "hero_video_XidngW": {
+      "type": "hero-video",
+      "settings": {
+        "title": "Dein Stylingevent mit Langhaarmädchen",
+        "title_size": 80,
+        "subheading": "Wir besuchen DICH!",
+        "link_text": "Jetzt anfragen",
+        "link": "",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https://youtu.be/s0Meg6CKpaM",
+        "overlay_opacity": 56,
+        "section_height": "650px",
+        "mobile_height": "auto"
+      }
+    },
+    "text_and_image_4LjcUA": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/2_19d79154-d3c7-4611-aaa2-4f41e6aab6af.png",
+        "image2": "shopify://shop_images/9_6fb498b2-d2de-4cdc-89d6-7a2862cbd880.png",
+        "image_position": "left-bottom",
+        "image_bg_color": "#F8E6D4",
+        "subtitle": "",
+        "title": "Image with text",
+        "another_text": false,
+        "text": "<p>Pair large text with an image to tell a story, explain a detail about your product, or describe a new promotion.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
+      }
+    },
+    "image_with_description_qfaVXP": {
+      "type": "image-with-description",
+      "settings": {
+        "image": "shopify://shop_images/2_19d79154-d3c7-4611-aaa2-4f41e6aab6af.png",
+        "title": "",
+        "text": "test",
+        "swap": false,
+        "btn_text": "test",
+        "btn_link": "",
+        "margin_top": false,
+        "margin_bottom": false
+      }
     }
   },
   "order": [
     "main",
-    "advanced_content_L9x4Ww"
+    "advanced_content_L9x4Ww",
+    "hero_video_XidngW",
+    "text_and_image_4LjcUA",
+    "image_with_description_qfaVXP"
   ]
 }
