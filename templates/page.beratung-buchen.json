@@ -32,7 +32,7 @@
         "title": "Kostenlose Erstberatung",
         "title_size": 80,
         "subheading": "",
-        "link_text": "Kostenlose Beratung buchen",
+        "link_text": "Beratung buchen",
         "link": "#calendly",
         "color_accent": "rgba(0,0,0,0)",
         "text_align": "vertical-center horizontal-center",
@@ -185,7 +185,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<h3><strong>Lass' dich von unseren Haarverdichtungs-Expertinnen beraten. Dein Gespräch ist völlig unverbindlich & kostenlos. </strong></h3><p><strong>1)</strong> Schreibe uns eine Whatsapp Nachricht.</p><p><strong>2) </strong>Sende uns eine Selfie von deinen Haaren und eine kurze Sprachnachricht, was du dir wünschst.</p><p><strong>3)</strong> Wir melden uns bei dir für ein kostenloses Beratungsgespräch. </p><p>Wir freuen uns auf DICH!</p>"
+            "text": "<h1><strong>Lass' dich von unseren Haarverdichtungs-Expertinnen beraten. </strong></h1>"
           }
         },
         "text_t4VRem": {
@@ -195,11 +195,25 @@
             "text": "<h3><strong>1) Schreibe und eine Nachricht auf Whatsapp  </strong></h3>"
           }
         },
+        "text_bazdjw": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<h3><strong>1) Sende uns ein Selfie von deinen Haaren und eine kurze Sprachnachricht, was du dir wünscht!</strong></h3>"
+          }
+        },
+        "text_DCTYMi": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<h3><strong>1) Wir melden uns bei dir für ein kostenloses Beratungsgespräch</strong></h3>"
+          }
+        },
         "text_NkUGX7": {
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<h2><strong>1)</strong> Schreibe uns eine Whatsapp Nachricht.</h2><h2><strong>2) </strong>Sende uns eine Selfie von deinen Haaren und eine kurze Sprachnachricht, was du dir wünschst.</h2><h2><strong>3)</strong> Wir melden uns bei dir für ein kostenloses Beratungsgespräch. </h2><h2>Wir freuen uns auf DICH!</h2>"
+            "text": "<h2>Wir  freuen uns auf DICH!</h2>"
           }
         },
         "5d9b17b2-98e6-4e75-9e43-e718df2de7f1": {
@@ -215,6 +229,8 @@
         "8a3100e4-7c38-4c48-aa67-4202145908af",
         "16479488421d6495bb-1",
         "text_t4VRem",
+        "text_bazdjw",
+        "text_DCTYMi",
         "text_NkUGX7",
         "5d9b17b2-98e6-4e75-9e43-e718df2de7f1"
       ],
