@@ -29,9 +29,9 @@
     "hero_video_ypgREr": {
       "type": "hero-video",
       "settings": {
-        "title": "Du wünscht dir eine Haarverdichtung?",
+        "title": "Kostenlose Erstberatung",
         "title_size": 80,
-        "subheading": "Dann bist du bei uns genau richtig!",
+        "subheading": "",
         "link_text": "Kostenlose Beratung buchen",
         "link": "#calendly",
         "color_accent": "rgba(0,0,0,0)",
@@ -148,21 +148,6 @@
             "image_position": 42
           }
         },
-        "163490746248b9e19e-1": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<h3><strong>Hey Langhaarmädchen und die, die es werden wollen! </strong></h3><ul><li>Wir sind dein Salon für <strong>Haarverdichtung </strong>und <strong>Haarverlängerung</strong></li><li>Unsere Kernwerte sind <strong>Haargesundheit </strong>und <strong>Schonung des Eigenhaars</strong></li><li>Durch unsere Tape-Technik kannst du dein Haar schonend verdichten und verlängern lassen</li><li>Unsere Herzensmission ist dir <strong>Freude </strong>und <strong>Selbstbewusstsein </strong>durch wunderschönes Haar zu schenken!</li></ul><p></p><p></p><p></p><p></p><p></p>"
-          }
-        },
-        "27193771-10c1-4631-8c71-604006234c2b": {
-          "type": "button",
-          "settings": {
-            "target_blank": false,
-            "link": "#calendly",
-            "link_text": "jetzt beratung buchen"
-          }
-        },
         "12dccdf1-2617-42d2-86b5-244daa861c8a": {
           "type": "text",
           "disabled": true,
@@ -174,8 +159,6 @@
       },
       "block_order": [
         "163490746248b9e19e-0",
-        "163490746248b9e19e-1",
-        "27193771-10c1-4631-8c71-604006234c2b",
         "12dccdf1-2617-42d2-86b5-244daa861c8a"
       ],
       "settings": {
@@ -184,54 +167,6 @@
         "divider": false,
         "margin_top": false,
         "margin_bottom": false
-      }
-    },
-    "featured_video_qWiHkL": {
-      "type": "featured-video",
-      "settings": {
-        "title": "",
-        "video_url": "https://www.youtube.com/watch?v=hUHsh3UP8KE",
-        "divider": false
-      }
-    },
-    "1697106554f15fc133": {
-      "type": "apps",
-      "blocks": {
-        "23b3c7d2-f13c-40e4-87c5-6e4903bbe19d": {
-          "type": "shopify://apps/aod-before-after-widget/blocks/after-before-final-section/76f8089d-5150-46ae-8664-0e4ae6d7cd6b",
-          "settings": {
-            "subheading": "<b>Vorher-Nachher  Slider nach rechts und links verschieben</b>",
-            "columns_size": 3,
-            "show_box": true,
-            "img_heading": "Brünette",
-            "before_image": "shopify://shop_images/lisa_vorher.png",
-            "after_image": "shopify://shop_images/lisa_nachher.png",
-            "text_before": "",
-            "text_after": "",
-            "show_box2": true,
-            "img_heading2": "Blond",
-            "before_image2": "shopify://shop_images/julia_vorher.png",
-            "after_image2": "shopify://shop_images/julia_nachher.png",
-            "text_before3": "",
-            "text_after3": "",
-            "show_box3": true,
-            "img_heading3": "Schwarz",
-            "before_image3": "shopify://shop_images/schwarz_vorher_a426b829-0239-492b-9ed8-5e6c31b6fe0d.png",
-            "after_image3": "shopify://shop_images/schwarz_nachher_cf83934e-a2af-4a4d-b532-ad7a2036d00c.png",
-            "text_before2": "",
-            "text_after2": "",
-            "after_before_button": "",
-            "link_block": "",
-            "padding": 20
-          }
-        }
-      },
-      "block_order": [
-        "23b3c7d2-f13c-40e4-87c5-6e4903bbe19d"
-      ],
-      "settings": {
-        "full_width": false,
-        "space_around": true
       }
     },
     "164794884227c625c7": {
@@ -246,19 +181,25 @@
             "link_text": "FaceTime Beratung buchen"
           }
         },
-        "16479488421d6495bb-0": {
-          "type": "heading",
-          "settings": {
-            "title": "Deine Beratung",
-            "image_width": 47,
-            "image_position": 50
-          }
-        },
         "16479488421d6495bb-1": {
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<h3><strong>Lass' dich von unseren Expertinnen beraten. Es ist völlig unverbindlich & kostenlos. </strong></h3><p><strong>1)</strong> Schreibe uns eine Whatsapp Nachricht.</p><p><strong>2) </strong>Sende uns eine Selfie von deinen Haaren und eine kurze Sprachnachricht, was du dir wünschst.</p><p><strong>3)</strong> Wir melden uns bei dir für ein kostenloses Beratungsgespräch. </p><p>Wir freuen uns auf DICH!</p>"
+            "text": "<h3><strong>Lass' dich von unseren Haarverdichtungs-Expertinnen beraten. Dein Gespräch ist völlig unverbindlich & kostenlos. </strong></h3><p><strong>1)</strong> Schreibe uns eine Whatsapp Nachricht.</p><p><strong>2) </strong>Sende uns eine Selfie von deinen Haaren und eine kurze Sprachnachricht, was du dir wünschst.</p><p><strong>3)</strong> Wir melden uns bei dir für ein kostenloses Beratungsgespräch. </p><p>Wir freuen uns auf DICH!</p>"
+          }
+        },
+        "text_t4VRem": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<h3><strong>1) Schreibe und eine Nachricht auf Whatsapp  </strong></h3>"
+          }
+        },
+        "text_NkUGX7": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<h2><strong>1)</strong> Schreibe uns eine Whatsapp Nachricht.</h2><h2><strong>2) </strong>Sende uns eine Selfie von deinen Haaren und eine kurze Sprachnachricht, was du dir wünschst.</h2><h2><strong>3)</strong> Wir melden uns bei dir für ein kostenloses Beratungsgespräch. </h2><h2>Wir freuen uns auf DICH!</h2>"
           }
         },
         "5d9b17b2-98e6-4e75-9e43-e718df2de7f1": {
@@ -272,8 +213,9 @@
       },
       "block_order": [
         "8a3100e4-7c38-4c48-aa67-4202145908af",
-        "16479488421d6495bb-0",
         "16479488421d6495bb-1",
+        "text_t4VRem",
+        "text_NkUGX7",
         "5d9b17b2-98e6-4e75-9e43-e718df2de7f1"
       ],
       "settings": {
@@ -317,14 +259,6 @@
     "1650550827aa9686d7": {
       "type": "rich-text",
       "blocks": {
-        "165055082675f0563e-0": {
-          "type": "heading",
-          "settings": {
-            "title": "Bekannt aus:",
-            "image_width": 50,
-            "image_position": 50
-          }
-        },
         "165055082675f0563e-1": {
           "type": "text",
           "disabled": true,
@@ -335,7 +269,6 @@
         }
       },
       "block_order": [
-        "165055082675f0563e-0",
         "165055082675f0563e-1"
       ],
       "settings": {
@@ -344,66 +277,6 @@
         "divider": false,
         "margin_top": false,
         "margin_bottom": false
-      }
-    },
-    "1650549005713f9a6c": {
-      "type": "logo-list",
-      "blocks": {
-        "165054900571537ebd-0": {
-          "type": "logo_image",
-          "settings": {
-            "image": "shopify://shop_images/png-clipart-dm-drogerie-markt-slovakia-dm_-dm-drogerie-markt-nordhorn-kehl-dm-text-logo_5c636e00-76ce-4489-9dc2-3ed1830dfa9b.png",
-            "link": ""
-          }
-        },
-        "165054900571537ebd-1": {
-          "type": "logo_image",
-          "settings": {
-            "image": "shopify://shop_images/logo-taff_4b19a6f9-dff0-4ed3-bd7e-8884811793a1.png",
-            "link": ""
-          }
-        },
-        "165054900571537ebd-2": {
-          "type": "logo_image",
-          "settings": {
-            "image": "shopify://shop_images/Logo_InStyle_958c5591-b861-4cd6-b0b5-4fecc6d3b164.png",
-            "link": ""
-          }
-        },
-        "165054900571537ebd-3": {
-          "type": "logo_image",
-          "settings": {
-            "image": "shopify://shop_images/v12801_2a8f2fc6-2315-496a-8ae2-94c0aeb26145.png",
-            "link": ""
-          }
-        },
-        "5fb6184c-e24f-4c26-806b-d6830fe080da": {
-          "type": "logo_image",
-          "settings": {
-            "image": "shopify://shop_images/Gala_Magazin_logo_sw.png",
-            "link": ""
-          }
-        },
-        "970bc693-5afe-42f1-9254-f2f8f2877e69": {
-          "type": "logo_image",
-          "disabled": true,
-          "settings": {
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "165054900571537ebd-0",
-        "165054900571537ebd-1",
-        "165054900571537ebd-2",
-        "165054900571537ebd-3",
-        "5fb6184c-e24f-4c26-806b-d6830fe080da",
-        "970bc693-5afe-42f1-9254-f2f8f2877e69"
-      ],
-      "settings": {
-        "title": "",
-        "logo_opacity": 76,
-        "divider": false
       }
     },
     "main": {
@@ -501,95 +374,8 @@
         "narrow_column": true
       }
     },
-    "16349074948fa012fe": {
-      "type": "text-and-image",
-      "settings": {
-        "image": "shopify://shop_images/Marina_Nachher.jpg",
-        "image2": "shopify://shop_images/Marina_Vorher.jpg",
-        "image_position": "left-bottom",
-        "image_bg_color": "#f8e6d4",
-        "image_bg": "shopify://shop_images/Frame_106.png",
-        "subtitle": "",
-        "title": "Haarverdichtung",
-        "another_text": false,
-        "text": "<p>Wir Langhaarmädchen ticken anders! Bei uns gibt es keine Haarverdichtung, um den Optimierungswahn auf die Spitze zu treiben. Bei uns gibt es Haarverdichtungen, die dich darin unterstützen sollen, dein Selbstbewusstsein, deine Schönheit und deine Persönlichkeit, die längst schon da ist, zu unterstreichen!</p>",
-        "button_label": "KOSTENLOSE BERATUNG BUCHEN",
-        "button_link": "#calendly",
-        "button_style": "primary",
-        "align_text": "left",
-        "layout": "right",
-        "divider": false,
-        "margin_top": false,
-        "margin_bottom": false
-      }
-    },
-    "1634907540ba6957b3": {
-      "type": "text-and-image",
-      "settings": {
-        "image": "shopify://shop_images/IMG_3454_2.jpg",
-        "image2": "shopify://shop_images/IMG_3453_2.jpg",
-        "image_position": "left-bottom",
-        "image_bg_color": "#f6dad6",
-        "image_bg": "shopify://shop_images/Frame_106_1.png",
-        "subtitle": "",
-        "title": "Hairtalk Extensions",
-        "another_text": false,
-        "text": "<p>Hairtalk ist der weltweite Marktführer für Tape-Extensions. Als Pionier dieser Methode bieten sie schonende Haarverlängerungen und Verdichtungen mit hohem Tragekomfort. Die einzigartigen Extensions fügen sich nahtlos ins Eigenhaar ein und überzeugen durch natürliche Farbnuancen.</p>",
-        "button_label": "KOSTENLOSE BERATUNG BUCHEN",
-        "button_link": "#calendly",
-        "button_style": "primary",
-        "align_text": "left",
-        "layout": "left",
-        "divider": false,
-        "margin_top": false,
-        "margin_bottom": false
-      }
-    },
     "16349076903b384634": {
       "type": "services-columns",
-      "blocks": {
-        "16349076903b384634-0": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/verdichtung.png",
-            "title": "Haarverdichtung",
-            "price": "ab 490 €",
-            "text": "<p></p><p></p>",
-            "button_label": "KOSTENLOSE BERATUNG",
-            "button_link": "#typeform"
-          }
-        },
-        "16349076903b384634-1": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/shopify_expertise_baladings.jpg",
-            "title": "Balayage",
-            "price": "280 €",
-            "text": "<p></p><p></p>",
-            "button_label": "JETZT BUCHEN",
-            "button_link": "https://www.langhaarmaedchen.de/pages/salon"
-          }
-        },
-        "16349076903b384634-2": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/glattung.png",
-            "title": "Keratinglättung",
-            "price": "450 €",
-            "text": "<p></p><p></p>",
-            "button_label": "JETZT BUCHEN",
-            "button_link": "https://www.langhaarmaedchen.de/pages/salon"
-          }
-        }
-      },
-      "block_order": [
-        "16349076903b384634-0",
-        "16349076903b384634-1",
-        "16349076903b384634-2"
-      ],
       "settings": {
         "title": "",
         "align_text": "left",
@@ -748,18 +534,13 @@
     "hero_video_ypgREr",
     "16349073092065b984",
     "163490746248b9e19e",
-    "featured_video_qWiHkL",
-    "1697106554f15fc133",
     "164794884227c625c7",
     "1650633786bff38ddb",
     "1650550827aa9686d7",
-    "1650549005713f9a6c",
     "main",
     "1650531531e8d51d0d",
     "1634908162416e3f0b",
     "16349081684b16f546",
-    "16349074948fa012fe",
-    "1634907540ba6957b3",
     "16349076903b384634",
     "1637605754143b0ca8",
     "16376017988340a1c9",
