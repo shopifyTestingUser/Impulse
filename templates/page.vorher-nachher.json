@@ -125,6 +125,69 @@
         "margin_bottom": false
       }
     },
+    "text_and_image_cz37QM": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/2_37fd949e-d857-4a80-a4fe-e3be1f1515e8.png",
+        "image2": "shopify://shop_images/vorher.png",
+        "image_position": "left-bottom",
+        "image_bg_color": "#f8e6d4",
+        "subtitle": "",
+        "title": "TANJA",
+        "another_text": false,
+        "text": "",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "right",
+        "layout": "right",
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
+      }
+    },
+    "text_and_image_Y6Ct44": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/5_b85a7b51-9170-4e65-9ca5-45b481f506ee.png",
+        "image2": "shopify://shop_images/6_c20bd3cf-51ca-48f7-9526-aedb4f4c1f01.png",
+        "image_position": "right-bottom",
+        "image_bg_color": "#f8e6d4",
+        "subtitle": "",
+        "title": "LENA",
+        "another_text": false,
+        "text": "",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "left",
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
+      }
+    },
+    "text_and_image_L4bbxb": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/4_1d9f66fd-2d2e-41c6-ab77-9aabe26cdea2.png",
+        "image2": "shopify://shop_images/3_52fefd5b-31a7-4de9-b13d-99970b98def0.png",
+        "image_position": "left-bottom",
+        "image_bg_color": "#f8e6d4",
+        "subtitle": "",
+        "title": "CHRISTINE",
+        "another_text": false,
+        "text": "",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "right",
+        "layout": "right",
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
+      }
+    },
     "contact_form_mAE4Ur": {
       "type": "contact-form",
       "settings": {
@@ -142,6 +205,9 @@
     "rich_text_nfY7rf",
     "text_and_image_BaUMAk",
     "text_and_image_D4nGNj",
+    "text_and_image_cz37QM",
+    "text_and_image_Y6Ct44",
+    "text_and_image_L4bbxb",
     "contact_form_mAE4Ur"
   ]
 }
