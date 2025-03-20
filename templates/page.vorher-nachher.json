@@ -97,7 +97,7 @@
         "button_label": "",
         "button_link": "",
         "button_style": "primary",
-        "align_text": "left",
+        "align_text": "right",
         "layout": "right",
         "divider": false,
         "margin_top": false,
