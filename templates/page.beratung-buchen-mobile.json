@@ -171,7 +171,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Lass' dich von unserer Gründerin und Expertinnen kostenlos über Whatsapp und Video Chat beraten. Dein Beratungstermin ist völlig unverbindlich & kostenlos. </p><h3><strong>Dein Beratungsgespräch in nur 3 Schritten:</strong></h3><p></p><p><strong>1)</strong> Schreib uns eine WhatsApp Nachricht oder <a href=\"tel:+4915231308711\" title=\"tel:+4915231308711\">rufe  📞    </a>uns an</p><p><strong>2) </strong>Sende uns eine Selfie von deinen Haaren und eine kurze Sprachnachricht, was du dir wünschst</p><p><strong>3)</strong> Wir melden uns bei dir für ein kostenloses Beratungsgespräch </p><h3>Wir freuen uns auf DICH!</h3>"
+            "text": "<p>Lass' dich von unseren Expertinnen kostenlos über Whatsapp und Video Chat beraten. Dein Beratungstermin ist völlig unverbindlich & kostenlos. </p><h3><strong>Dein Beratungsgespräch in nur 3 Schritten:</strong></h3><p></p><p><strong>1)</strong> Schreib uns eine WhatsApp Nachricht oder <a href=\"tel:+4915231308711\" title=\"tel:+4915231308711\">rufe  📞    </a>uns an</p><p><strong>2) </strong>Sende uns eine Selfie von deinen Haaren und eine kurze Sprachnachricht, was du dir wünschst</p><p><strong>3)</strong> Wir melden uns bei dir für ein kostenloses Beratungsgespräch </p><h3>Wir freuen uns auf DICH!</h3>"
           }
         },
         "8a3100e4-7c38-4c48-aa67-4202145908af": {
@@ -330,29 +330,6 @@
         "narrow_column": true
       }
     },
-    "16349078470f63730c": {
-      "type": "rich-text",
-      "blocks": {
-        "16349078470f63730c-0": {
-          "type": "heading",
-          "settings": {
-            "title": "Wir freuen uns auf dich!",
-            "image_width": 50,
-            "image_position": 50
-          }
-        }
-      },
-      "block_order": [
-        "16349078470f63730c-0"
-      ],
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false,
-        "margin_top": false,
-        "margin_bottom": false
-      }
-    },
     "7debc93f-ba74-4009-958b-433862104c9d": {
       "type": "map",
       "settings": {
@@ -401,7 +378,6 @@
     "main",
     "1634908162416e3f0b",
     "16349081684b16f546",
-    "16349078470f63730c",
     "7debc93f-ba74-4009-958b-433862104c9d",
     "1634907866597b00bd"
   ]
