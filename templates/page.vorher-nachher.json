@@ -188,6 +188,111 @@
         "margin_bottom": false
       }
     },
+    "text_and_image_KCH7iX": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/13_7803e4e8-0b61-42c8-a984-3175dd1871a4.png",
+        "image2": "shopify://shop_images/14_7f15bc75-6a67-42b7-a8f1-7479ff9e7dbd.png",
+        "image_position": "right-bottom",
+        "image_bg_color": "#f8e6d4",
+        "subtitle": "",
+        "title": "MELANIE",
+        "another_text": false,
+        "text": "",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "left",
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
+      }
+    },
+    "text_and_image_GHqeqd": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/16_d9bb5a39-632a-4d4d-801a-c2af7ed2ae35.png",
+        "image2": "shopify://shop_images/15_0c2e9a13-abb5-42be-a886-0e2d7999b241.png",
+        "image_position": "left-bottom",
+        "image_bg_color": "#f8e6d4",
+        "subtitle": "",
+        "title": "SABINE",
+        "another_text": false,
+        "text": "",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "right",
+        "layout": "right",
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
+      }
+    },
+    "text_and_image_xxnUFj": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/9_9b9190e2-06c4-4479-9620-8aaca9465a5a.png",
+        "image2": "shopify://shop_images/10_3b203440-f5b1-4b5d-970b-ce1d4716b781.png",
+        "image_position": "right-bottom",
+        "image_bg_color": "#f8e6d4",
+        "subtitle": "",
+        "title": "SARAH",
+        "another_text": false,
+        "text": "",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "left",
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
+      }
+    },
+    "text_and_image_gnfykH": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/12_2b8e439e-bfd7-4484-9bf5-d11840c3d897.png",
+        "image2": "shopify://shop_images/11_16495502-b1ab-4542-8448-74789b9a1ddc.png",
+        "image_position": "left-bottom",
+        "image_bg_color": "#f8e6d4",
+        "subtitle": "",
+        "title": "ISABEL",
+        "another_text": false,
+        "text": "",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "right",
+        "layout": "right",
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
+      }
+    },
+    "text_and_image_CtiwHA": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/17_f34d821b-1a66-4449-9bb8-d5681b3826ce.png",
+        "image2": "shopify://shop_images/18_b4b7939d-135a-448c-b5fd-ac61e7fd316a.png",
+        "image_position": "right-bottom",
+        "image_bg_color": "#f8e6d4",
+        "subtitle": "",
+        "title": "LOTTE",
+        "another_text": false,
+        "text": "",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "left",
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
+      }
+    },
     "contact_form_mAE4Ur": {
       "type": "contact-form",
       "settings": {
@@ -208,6 +313,11 @@
     "text_and_image_cz37QM",
     "text_and_image_Y6Ct44",
     "text_and_image_L4bbxb",
+    "text_and_image_KCH7iX",
+    "text_and_image_GHqeqd",
+    "text_and_image_xxnUFj",
+    "text_and_image_gnfykH",
+    "text_and_image_CtiwHA",
     "contact_form_mAE4Ur"
   ]
 }
