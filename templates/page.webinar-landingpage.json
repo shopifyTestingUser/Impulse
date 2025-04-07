@@ -42,6 +42,16 @@
         "mobile_height": "auto"
       }
     },
+    "text_columns_gPWFDU": {
+      "type": "text-columns",
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false,
+        "image_width": 0,
+        "image_position": 50
+      }
+    },
     "16349073092065b984": {
       "type": "slideshow",
       "blocks": {
@@ -824,6 +834,7 @@
   "order": [
     "16475075815ec4bf82",
     "hero_video_977Ngd",
+    "text_columns_gPWFDU",
     "16349073092065b984",
     "services_columns_fYFXMY",
     "83981fbc-ab6e-4105-b99e-5489f91ec5ee",
