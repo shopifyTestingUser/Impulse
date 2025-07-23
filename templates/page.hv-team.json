@@ -36,6 +36,7 @@
     },
     "text_and_image_x3a8gD": {
       "type": "text-and-image",
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/1_615b9d43-f103-48ed-afeb-359bbdca7fe3.png",
         "image_position": "left-bottom",
@@ -68,7 +69,7 @@
         "button_link": "",
         "button_style": "primary",
         "align_text": "left",
-        "layout": "right",
+        "layout": "left",
         "divider": false,
         "margin_top": false,
         "margin_bottom": false
