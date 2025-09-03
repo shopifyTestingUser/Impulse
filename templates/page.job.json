@@ -73,14 +73,6 @@
     "rich_text_nfY7rf": {
       "type": "rich-text",
       "blocks": {
-        "heading_jencFJ": {
-          "type": "heading",
-          "settings": {
-            "title": "Friseur/in in München-Schwabing",
-            "image_width": 50,
-            "image_position": 50
-          }
-        },
         "text_ty3MLa": {
           "type": "text",
           "settings": {
@@ -88,12 +80,11 @@
             "text": "<h3><strong>- Vollzeit oder Teilzeit / ab sofort -</strong></h3><p>Du liebst lange Haare und bei dem Thema Haarverdichtung und Haarverlängerung geht dein Herz auf? Dann bist du bei uns genau richtig!</p><p></p>"
           }
         },
-        "heading_J86Rn8": {
-          "type": "heading",
+        "text_ciVPGV": {
+          "type": "text",
           "settings": {
-            "title": "Geschäftsführung in München-Schwabing",
-            "image_width": 50,
-            "image_position": 50
+            "enlarge_text": true,
+            "text": "<h1><strong>Wir suchen eine herzliche Geschäftsführung </strong></h1><p><strong>mit Erfahrung in der Beauty-Branche, die unternehmerisch denkt, sich aktiv ins Tagesgeschäft einbringt und unseren Salon in München eigenverantwortlich führt und weiterentwickelt.</strong></p><p></p><h3>Deine Aufgaben:</h3><ul><li>Finanzentwicklung & Controlling </li><li>Backoffice & Organisation</li><li>Standortverantwortung </li><li>Mitwirken im Tagesgeschäft</li></ul><p></p><h3>Das bringst du mit:</h3><ul><li>Erfahrung in der Unternehmensführung </li><li>Handwerkliches Geschick</li><li>Freude an Organisation, Teamführung und dem </li><li>Weiterentwickeln eines besonderen Ortes</li></ul><h3>Was dich erwartet:</h3><ul><li>Ein Salon mit Vision, Tiefgang und Persönlichkeitsentwicklung</li><li>Ein starkes Team & ein Herzstück unserer Haarpflegemarke Langhaarmädchen</li><li>Raum für individuelles Unternehmertum – mit Vertrauen & Rückhalt</li></ul><h3>Wir freuen uns auf Dich und deine Persönlichkeit!  Mona, Julia & Team</h3><p></p><p></p>"
           }
         },
         "text_YzirMR": {
@@ -101,13 +92,6 @@
           "settings": {
             "enlarge_text": true,
             "text": "<h3><strong>- Vollzeit oder Teilzeit / ab sofort -</strong></h3><p></p>"
-          }
-        },
-        "text_ciVPGV": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<h1><strong>Wir suchen eine herzliche Geschäftsführung </strong></h1><p><strong>mit Erfahrung in der Beauty-Branche, die unternehmerisch denkt, sich aktiv ins Tagesgeschäft einbringt und unseren Salon in München eigenverantwortlich führt und weiterentwickelt.</strong></p><p></p><h3>Deine Aufgaben:</h3><p></p><ul><li>Finanzentwicklung & Controlling </li><li>Backoffice & Organisation</li><li>Standortverantwortung </li><li>Mitwirken im Tagesgeschäft</li></ul><p></p><h3>Das bringst du mit:</h3><ul><li>Erfahrung in der Unternehmensführung </li><li>Handwerkliches Geschick</li><li>Freude an Organisation, Teamführung und dem </li><li>Weiterentwickeln eines besonderen Ortes</li></ul><h3>Was dich erwartet:</h3><ul><li>Ein Salon mit Vision, Tiefgang und Persönlichkeitsentwicklung</li><li>Ein starkes Team & ein Herzstück unserer Haarpflegemarke Langhaarmädchen</li><li>Raum für individuelles Unternehmertum – mit Vertrauen & Rückhalt</li></ul><h3>Wir freuen uns auf Dich und deine Persönlichkeit!  Mona, Julia & Team</h3><p></p><p></p>"
           }
         },
         "heading_VzVmnb": {
@@ -135,6 +119,14 @@
             "text": "<h3><strong>Teilzeit / ab sofort</strong></h3><p></p>"
           }
         },
+        "heading_jencFJ": {
+          "type": "heading",
+          "settings": {
+            "title": "Friseur/in in München-Schwabing",
+            "image_width": 50,
+            "image_position": 50
+          }
+        },
         "heading_F6C49z": {
           "type": "heading",
           "settings": {
@@ -145,14 +137,13 @@
         }
       },
       "block_order": [
-        "heading_jencFJ",
         "text_ty3MLa",
-        "heading_J86Rn8",
-        "text_YzirMR",
         "text_ciVPGV",
+        "text_YzirMR",
         "heading_VzVmnb",
         "text_tkimTw",
         "text_ewcgYP",
+        "heading_jencFJ",
         "heading_F6C49z"
       ],
       "settings": {
