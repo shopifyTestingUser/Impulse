@@ -141,7 +141,7 @@
         "heading_nrMghQ": {
           "type": "heading",
           "settings": {
-            "title": "Gutscheinverkauf",
+            "title": "Langhaarmädchen Gutscheinverkauf",
             "image_width": 50,
             "image_position": 50
           }
@@ -150,7 +150,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Unsere Geschenkgutscheine sind ausschließlich im Salon erhältlich. Komm' uns besuchen und beschenke deinen Herzensmenschen: Kaiserstr. 45, 80801 München Schwabing. </p>"
+            "text": "<p>Unsere Geschenkgutscheine sind ausschließlich im Salon erhältlich. Komm' uns besuchen und beschenke deinen Herzensmenschen mit einem Salongutschein: Langhaarmädchen Salon, Kaiserstr. 45, 80801 München Schwabing. </p>"
           }
         }
       },
