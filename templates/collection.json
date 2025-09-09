@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "16348213224d14a06f": {
@@ -16,7 +16,7 @@
           "type": "image",
           "settings": {
             "top_subheading": "",
-            "title": "<b>Onlineshop</b>",
+            "title": "<b>Geschenkgutscheine</b>",
             "title_size": 64,
             "subheading": "Verschenke einen Gutschein an deinen Herzensmensch",
             "link": "",
@@ -84,8 +84,7 @@
         },
         "f7c44fa5-2e65-4a6c-93e3-b7b3b2f3cf2d": {
           "type": "collection_description",
-          "settings": {
-          }
+          "settings": {}
         }
       },
       "block_order": [
@@ -93,6 +92,7 @@
         "subcollections",
         "f7c44fa5-2e65-4a6c-93e3-b7b3b2f3cf2d"
       ],
+      "disabled": true,
       "settings": {
         "enable_sidebar": false,
         "collapsed": true,
@@ -134,6 +134,38 @@
         "image_right_width": 20,
         "image_right_position": 0
       }
+    },
+    "rich_text_YRa73i": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_nrMghQ": {
+          "type": "heading",
+          "settings": {
+            "title": "Gutscheinverkauf",
+            "image_width": 50,
+            "image_position": 50
+          }
+        },
+        "text_fENGNp": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Unsere Geschenkgutscheine sind ausschließlich im Salon erhältlich. Komm' uns besuchen und beschenke deinen Herzensmenschen: Kaiserstr. 45, 80801 München Schwabing. </p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_nrMghQ",
+        "text_fENGNp"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
+      }
     }
   },
   "order": [
@@ -142,6 +174,7 @@
     "1635348353032ded5a",
     "main-collection",
     "16348220647cb5840c",
-    "16354072858e619073"
+    "16354072858e619073",
+    "rich_text_YRa73i"
   ]
 }
