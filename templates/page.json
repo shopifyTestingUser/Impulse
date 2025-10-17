@@ -1,13 +1,66 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
       "type": "main-page",
       "disabled": true,
+      "settings": {}
+    },
+    "background_image_FdEjPN": {
+      "type": "background-image",
+      "name": "Background image",
       "settings": {
+        "image-left": "shopify://shop_images/22.09.Glossing_Accessoires-52.jpg",
+        "image_left_width": 100,
+        "image_left_position": 0,
+        "image_right_width": 20,
+        "image_right_position": 0
+      }
+    },
+    "rich_text_H47bhi": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_Md7DHd": {
+          "type": "heading",
+          "settings": {
+            "title": "NEW NEW NEW",
+            "image_width": 50,
+            "image_position": 50
+          }
+        },
+        "text_FbMB4D": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Dein Glossing für Dich zuhause! </p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Md7DHd",
+        "text_FbMB4D"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
       }
     }
   },
   "order": [
-    "main"
+    "main",
+    "background_image_FdEjPN",
+    "rich_text_H47bhi"
   ]
 }
