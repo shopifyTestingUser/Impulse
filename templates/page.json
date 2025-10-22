@@ -14,17 +14,6 @@
       "disabled": true,
       "settings": {}
     },
-    "background_image_FdEjPN": {
-      "type": "background-image",
-      "name": "Background image",
-      "settings": {
-        "image-left": "shopify://shop_images/22.09.Glossing_Accessoires-52.jpg",
-        "image_left_width": 100,
-        "image_left_position": 0,
-        "image_right_width": 20,
-        "image_right_position": 0
-      }
-    },
     "rich_text_H47bhi": {
       "type": "rich-text",
       "blocks": {
@@ -40,7 +29,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Dein Glossing für Dich zuhause! </p>"
+            "text": "<p> </p>"
           }
         }
       },
@@ -56,11 +45,165 @@
         "margin_top": false,
         "margin_bottom": false
       }
+    },
+    "slideshow_eUQPKL": {
+      "type": "slideshow",
+      "blocks": {
+        "image_NfBeJ6": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Hair Glossing",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "Onlineshop",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-bottom horizontal-center",
+            "image": "shopify://shop_images/22.09.Glossing_Accessoires-52.jpg",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        },
+        "image_9WDRxx": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Haarpflege",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "Onlineshop",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/HairCyclingLHM-241_ac2b0f11-8306-48f6-8bbb-31c0336e143b.jpg",
+            "overlay_opacity": 4,
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "image_NfBeJ6",
+        "image_9WDRxx"
+      ],
+      "name": "Hero (optional slideshow)",
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "arrows": true,
+        "autoplay": true,
+        "autoplay_speed": 5
+      }
+    },
+    "rich_text_bqXMQX": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_ayY9yY": {
+          "type": "heading",
+          "settings": {
+            "title": "Unsere Hair Glossings:",
+            "image_width": 36,
+            "image_position": 50
+          }
+        },
+        "text_TDiydE": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<ul><li> Pflegende Formel mit Aprikosenkernöl und Hyaluron</li><li>Verleiht seidigen Glanz und intensive Farbtiefe</li><li>Geeignet für alle Haarfarben</li><li>Frei von Silikonen für ein natürliches Ergebnis</li></ul>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_ayY9yY",
+        "text_TDiydE"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
+      }
+    },
+    "text_and_image_mYzj37": {
+      "type": "text-and-image",
+      "name": "Image with text",
+      "settings": {
+        "image": "shopify://shop_images/12_76786068-9e11-4e09-b6d9-6782d34ae68d.png",
+        "image_position": "left-bottom",
+        "image_bg_color": "#F8E6D4",
+        "subtitle": "",
+        "title": "Icy Blonde",
+        "another_text": false,
+        "text": "<p>Die Glossing Farb-Glanzbehandlung in der Farbe Icy Blonde von Langhaarmädchen bringt neue Brillanz ins Haar. Durch die Kombination von Aprikosenkernöl und Hyaluron wird das Haar intensiv gepflegt und erhält einen seidigen Glanz. Die Glossing-Formel verstärkt die Farbtiefe und sorgt für eine sichtbar lebendige Ausstrahlung – unabhängig von der Ausgangshaarfarbe. Dank des Verzichts auf Silikone bleibt das Haar natürlich leicht und geschmeidig. Für alle, die sich strahlende Farbreflexe und Tiefenpflege wünschen, ist diese Behandlung eine ideale Wahl.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
+      }
+    },
+    "text_and_image_fgR4EE": {
+      "type": "text-and-image",
+      "name": "Image with text",
+      "settings": {
+        "image": "shopify://shop_images/14_b3f60d9f-a0ad-4e37-843a-d88bf369f9dc.png",
+        "image_position": "left-top",
+        "image_bg_color": "#F8E6D4",
+        "subtitle": "",
+        "title": "Chocolate Brown",
+        "another_text": false,
+        "text": "<p>Die Glossing Farb-Glanzbehandlung in der Farbe Chocolate Brown von Langhaarmädchen bringt neue Brillanz ins Haar. Durch die Kombination von Aprikosenkernöl und Hyaluron wird das Haar intensiv gepflegt und erhält einen seidigen Glanz. Die Glossing-Formel verstärkt die Farbtiefe und sorgt für eine sichtbar lebendige Ausstrahlung – unabhängig von der Ausgangshaarfarbe. Dank des Verzichts auf Silikone bleibt das Haar natürlich leicht und geschmeidig. Für alle, die sich strahlende Farbreflexe und Tiefenpflege wünschen, ist diese Behandlung eine ideale Wahl.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "left",
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
+      }
+    },
+    "text_and_image_aQJjAA": {
+      "type": "text-and-image",
+      "name": "Image with text",
+      "settings": {
+        "image": "shopify://shop_images/13_b22ad965-d409-4cee-89d5-633bba044092.png",
+        "image_position": "left-bottom",
+        "image_bg_color": "#F8E6D4",
+        "subtitle": "",
+        "title": "Transparent",
+        "another_text": false,
+        "text": "<p>Die Glossing Farb-Glanzbehandlung in der Farbe Transparent von Langhaarmädchen bringt neue Brillanz ins Haar. Durch die Kombination von Aprikosenkernöl und Hyaluron wird das Haar intensiv gepflegt und erhält einen seidigen Glanz. Die Glossing-Formel verstärkt die Farbtiefe und sorgt für eine sichtbar lebendige Ausstrahlung – unabhängig von der Ausgangshaarfarbe. Dank des Verzichts auf Silikone bleibt das Haar natürlich leicht und geschmeidig. Für alle, die sich strahlende Farbreflexe und Tiefenpflege wünschen, ist diese Behandlung eine ideale Wahl.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
+      }
     }
   },
   "order": [
     "main",
-    "background_image_FdEjPN",
-    "rich_text_H47bhi"
+    "rich_text_H47bhi",
+    "slideshow_eUQPKL",
+    "rich_text_bqXMQX",
+    "text_and_image_mYzj37",
+    "text_and_image_fgR4EE",
+    "text_and_image_aQJjAA"
   ]
 }
