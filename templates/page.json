@@ -20,7 +20,7 @@
         "heading_Md7DHd": {
           "type": "heading",
           "settings": {
-            "title": "Deine Haarpflege - eklusiv für Dich in deinem dm Markt",
+            "title": "Deine Haarpflege - für Fülle im Haar und im Herzen!",
             "image_width": 50,
             "image_position": 50
           }
@@ -29,7 +29,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p> </p>"
+            "text": "<p> Exklusiv in deinem dm Markt.</p>"
           }
         }
       },
