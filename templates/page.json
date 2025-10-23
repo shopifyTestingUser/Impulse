@@ -20,7 +20,7 @@
         "heading_Md7DHd": {
           "type": "heading",
           "settings": {
-            "title": "Deine Haarpflege - eklusive für Dich in deinem dm Markt",
+            "title": "Deine Haarpflege - eklusiv für Dich in deinem dm Markt",
             "image_width": 50,
             "image_position": 50
           }
@@ -62,7 +62,7 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-bottom horizontal-center",
-            "image": "shopify://shop_images/Website_Produkte.png",
+            "image": "shopify://shop_images/Website_Glossing_Bilder.png",
             "overlay_opacity": 0,
             "focal_point": "center center"
           }
@@ -80,7 +80,7 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Website_Glossing_Bilder.png",
+            "image": "shopify://shop_images/Website_Produkte.png",
             "overlay_opacity": 4,
             "focal_point": "center center"
           }
