@@ -62,6 +62,7 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-bottom horizontal-center",
+            "image": "shopify://shop_images/HairCyclingLHM-241_ac2b0f11-8306-48f6-8bbb-31c0336e143b.jpg",
             "overlay_opacity": 0,
             "focal_point": "center center"
           }
@@ -115,7 +116,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<ul><li> Pflegende Formel mit Aprikosenkernöl und Hyaluron</li><li>Verleiht seidigen Glanz und intensive Farbtiefe</li><li>Geeignet für alle Haarfarben</li><li>Frei von Silikonen für ein natürliches Ergebnis</li></ul>"
+            "text": "<ul><li> <strong>über 28 Produkte in 15 Ländern</strong></li><li><strong>Pflege- & Stylingprodukte</strong></li><li><strong>Haaraccessoires</strong></li><li><strong>spezialisiert auf lange Haare</strong></li></ul>"
           }
         }
       },
@@ -134,6 +135,7 @@
     },
     "text_and_image_mYzj37": {
       "type": "text-and-image",
+      "disabled": true,
       "name": "Image with text",
       "settings": {
         "image": "shopify://shop_images/12_76786068-9e11-4e09-b6d9-6782d34ae68d.png",
@@ -155,6 +157,7 @@
     },
     "text_and_image_fgR4EE": {
       "type": "text-and-image",
+      "disabled": true,
       "name": "Image with text",
       "settings": {
         "image": "shopify://shop_images/14_b3f60d9f-a0ad-4e37-843a-d88bf369f9dc.png",
@@ -176,6 +179,7 @@
     },
     "text_and_image_aQJjAA": {
       "type": "text-and-image",
+      "disabled": true,
       "name": "Image with text",
       "settings": {
         "image": "shopify://shop_images/13_b22ad965-d409-4cee-89d5-633bba044092.png",
