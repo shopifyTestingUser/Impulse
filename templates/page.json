@@ -62,7 +62,7 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-bottom horizontal-center",
-            "image": "shopify://shop_images/22.09.Glossing_Accessoires-52.jpg",
+            "image": "shopify://shop_images/HairCyclingLHM-241_ac2b0f11-8306-48f6-8bbb-31c0336e143b.jpg",
             "overlay_opacity": 0,
             "focal_point": "center center"
           }
@@ -139,7 +139,7 @@
       "settings": {
         "image": "shopify://shop_images/12_76786068-9e11-4e09-b6d9-6782d34ae68d.png",
         "image_position": "left-bottom",
-        "image_bg_color": "#F8E6D4",
+        "image_bg_color": "#f8e6d4",
         "subtitle": "",
         "title": "Icy Blonde",
         "another_text": false,
@@ -160,7 +160,7 @@
       "settings": {
         "image": "shopify://shop_images/14_b3f60d9f-a0ad-4e37-843a-d88bf369f9dc.png",
         "image_position": "left-top",
-        "image_bg_color": "#F8E6D4",
+        "image_bg_color": "#f8e6d4",
         "subtitle": "",
         "title": "Chocolate Brown",
         "another_text": false,
@@ -181,7 +181,7 @@
       "settings": {
         "image": "shopify://shop_images/13_b22ad965-d409-4cee-89d5-633bba044092.png",
         "image_position": "left-bottom",
-        "image_bg_color": "#F8E6D4",
+        "image_bg_color": "#f8e6d4",
         "subtitle": "",
         "title": "Transparent",
         "another_text": false,
