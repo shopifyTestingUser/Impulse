@@ -62,7 +62,7 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-bottom horizontal-center",
-            "image": "shopify://shop_images/HairCyclingLHM-241_ac2b0f11-8306-48f6-8bbb-31c0336e143b.jpg",
+            "image": "shopify://shop_images/Website_Produkte.png",
             "overlay_opacity": 0,
             "focal_point": "center center"
           }
@@ -80,7 +80,7 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/2_2aeace8a-9d19-40ae-b6b0-7b12b1c4a099.png",
+            "image": "shopify://shop_images/Website_Glossing_Bilder.png",
             "overlay_opacity": 4,
             "focal_point": "center center"
           }
