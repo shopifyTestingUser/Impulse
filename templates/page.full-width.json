@@ -20,7 +20,6 @@
         "image": "shopify://shop_images/Website_Glossing_Bilder.png",
         "image_position": "right-top",
         "image_bg_color": "#f8e6d4",
-        "image_bg": "shopify://shop_images/decor_article_3.png",
         "subtitle": "",
         "title": "Hallo du Sonnenschein",
         "another_text": false,
@@ -30,7 +29,6 @@
         "button_style": "primary",
         "align_text": "center",
         "layout": "left",
-        "text_image_bg": "shopify://shop_images/decor_article_2.png",
         "divider": false,
         "margin_top": false,
         "margin_bottom": false
