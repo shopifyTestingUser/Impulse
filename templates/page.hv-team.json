@@ -34,6 +34,26 @@
         "margin_bottom": false
       }
     },
+    "text_and_image_x3a8gD": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Emely.png",
+        "image_position": "left-bottom",
+        "image_bg_color": "#fff9f4",
+        "subtitle": "",
+        "title": "Unsere Haarverdichtungs-Expertin mit Feingefühl!",
+        "another_text": false,
+        "text": "<p>Emely ist unsere <strong>Expertin für Haarverdichtung</strong> und kennt alle Tricks, um feinem Haar mehr Fülle und Volumen zu verleihen. Mit viel Feingefühl, einem geschulten Blick und ganz viel Herz 💕 findet sie die perfekte Lösung für jede Kundin – individuell, natürlich und typgerecht. Ihr Ziel? <strong>Dass du dich mit deinem Haar rundum wohlfühlst und mit einem strahlenden Lächeln aus dem Salon gehst!</strong> </p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "right",
+        "layout": "right",
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
+      }
+    },
     "text_and_image_LbLC46": {
       "type": "text-and-image",
       "settings": {
@@ -54,16 +74,16 @@
         "margin_bottom": false
       }
     },
-    "text_and_image_x3a8gD": {
+    "text_and_image_Dxz9a3": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify://shop_images/Emely.png",
+        "image": "shopify://shop_images/Clara_neu.png",
         "image_position": "left-bottom",
         "image_bg_color": "#fff9f4",
         "subtitle": "",
-        "title": "Unsere Haarverdichtungs-Expertin mit Feingefühl!",
+        "title": "Unsere Haarverdichtungsqueen!",
         "another_text": false,
-        "text": "<p>Emely ist unsere <strong>Expertin für Haarverdichtung</strong> und kennt alle Tricks, um feinem Haar mehr Fülle und Volumen zu verleihen. Mit viel Feingefühl, einem geschulten Blick und ganz viel Herz 💕 findet sie die perfekte Lösung für jede Kundin – individuell, natürlich und typgerecht. Ihr Ziel? <strong>Dass du dich mit deinem Haar rundum wohlfühlst und mit einem strahlenden Lächeln aus dem Salon gehst!</strong> </p>",
+        "text": "<p>Sie verbindet eine <strong>liebevolle Art mit echter Professionalität </strong>und einem sicheren Gefühl für die Wünsche jeder Kundin. Mit viel Sorgfalt, Verantwortungsbewusstsein und einem warmen Lächeln schafft sie es, dass sich jede Person bei ihr sofort wohlfühlt. Ob Farbe, Schnitt oder Styling – sie <strong>arbeitet präzise, einfühlsam und mit viel Liebe zum Detail.</strong> Ihr größtes Glück: Kundinnen, die mit strahlendem Lächeln und neuem Selbstbewusstsein aus dem Salon gehen. Bei ihr sind Haare und Herzen in guten Händen.</p>",
         "button_label": "",
         "button_link": "",
         "button_style": "primary",
@@ -101,6 +121,7 @@
     "text_and_image_AYGYHE",
     "text_and_image_x3a8gD",
     "text_and_image_LbLC46",
+    "text_and_image_Dxz9a3",
     "text_and_image_4z9qiV"
   ]
 }
