@@ -47,8 +47,8 @@
         "button_label": "",
         "button_link": "",
         "button_style": "primary",
-        "align_text": "right",
-        "layout": "right",
+        "align_text": "left",
+        "layout": "left",
         "divider": false,
         "margin_top": false,
         "margin_bottom": false
@@ -67,8 +67,8 @@
         "button_label": "",
         "button_link": "",
         "button_style": "primary",
-        "align_text": "left",
-        "layout": "left",
+        "align_text": "right",
+        "layout": "right",
         "divider": false,
         "margin_top": false,
         "margin_bottom": false
@@ -99,8 +99,8 @@
   "order": [
     "main",
     "text_and_image_AYGYHE",
-    "text_and_image_LbLC46",
     "text_and_image_x3a8gD",
+    "text_and_image_LbLC46",
     "text_and_image_4z9qiV"
   ]
 }
