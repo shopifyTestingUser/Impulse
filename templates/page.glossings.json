@@ -17,14 +17,6 @@
     "rich_text_H47bhi": {
       "type": "rich-text",
       "blocks": {
-        "heading_Md7DHd": {
-          "type": "heading",
-          "settings": {
-            "title": "NEW NEW NEW",
-            "image_width": 50,
-            "image_position": 50
-          }
-        },
         "text_FbMB4D": {
           "type": "text",
           "settings": {
@@ -34,7 +26,6 @@
         }
       },
       "block_order": [
-        "heading_Md7DHd",
         "text_FbMB4D"
       ],
       "name": "Rich text",
