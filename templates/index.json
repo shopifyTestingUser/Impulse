@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "1647507061504d8042": {
@@ -431,8 +431,16 @@
           "settings": {
             "title": "",
             "title_color": "",
+            "title_size_v2": 0,
             "alignment": "center",
+            "instafeed_margin_top": 0,
+            "instafeed_margin_bottom": 0,
+            "instafeed_margin_sides": 0,
+            "show_instagram_link": false,
+            "link_alignment": "left",
+            "link_color": "#000000",
             "background_color": "",
+            "feed_id": "",
             "html_area": ""
           }
         }
@@ -540,7 +548,7 @@
       "type": "map",
       "settings": {
         "map_title": "Adresse",
-        "address": "<p></p><p>LANGHAARMÄDCHEN SALON</p><p>Kaiserstr. 45, 80801 München</p><p>Di - Fr 9:30 - 20:00 Uhr</p><p><em>Samstags nach Absprache</em></p><p><strong>089-21528933</strong></p>",
+        "address": "<p></p><p>LANGHAARMÄDCHEN SALON</p><p>Kaiserstr. 45, 80801 München</p><p>Di - Fr 9:00 - 20:00 Uhr</p><p><em>Samstags nach Absprache</em></p><p><strong>089-21528933</strong></p>",
         "map_address": "Kaiserstraße 45, 80801 München",
         "map_iframe": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d395.61416982443427!2d11.578509790858837!3d48.16105971537834!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479e75c697a0a553%3A0xa35b4aec031d8371!2sKaiserstra%C3%9Fe%2045%2C%2080801%20M%C3%BCnchen%2C%20Germany!5e0!3m2!1sen!2sby!4v1637564326137!5m2!1sen!2sby\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>",
         "api_key": "",
