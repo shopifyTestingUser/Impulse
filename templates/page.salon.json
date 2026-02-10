@@ -314,6 +314,7 @@
     },
     "1637605754143b0ca8": {
       "type": "promo-grid",
+      "disabled": true,
       "settings": {
         "full_width": false,
         "gutter_size": 20,
