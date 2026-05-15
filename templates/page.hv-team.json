@@ -56,6 +56,7 @@
     },
     "text_and_image_LbLC46": {
       "type": "text-and-image",
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/2_95b38c20-d1af-4486-bb6d-5533bac97be8.png",
         "image_position": "right-bottom",
@@ -87,8 +88,8 @@
         "button_label": "",
         "button_link": "",
         "button_style": "primary",
-        "align_text": "right",
-        "layout": "right",
+        "align_text": "left",
+        "layout": "left",
         "divider": false,
         "margin_top": false,
         "margin_bottom": false
