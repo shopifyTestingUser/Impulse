@@ -319,36 +319,6 @@
         "space_around": false
       }
     },
-    "b0878882-b4c3-475f-a01b-fcb70122366a": {
-      "type": "advanced-content",
-      "blocks": {
-        "9f59d557-17c2-4594-83a5-fe4cbf6e72f7": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "link": "",
-            "width": "50%",
-            "alignment": "center"
-          }
-        },
-        "1469f154-5510-4153-a596-525c982b6eb4": {
-          "type": "liquid",
-          "settings": {
-            "code": "<!--Paste or enter you HTML code here-->\n<!--Your code will execute only after page publication-->\n<hr class=\"hr16\">\n<p class=\"colored-text\"></p>\n \n<script>\n/*Paste or enter you JavaScript code here*/\n</script>\n\n<style>\n   .colored-text {\n  color: rgb(28, 28, 28);\n  font-size: 16px;\n}\n/* Style 16 - Pulse Animation */\n.hr16 {\n  border: 0;\n  height: 1px;\n  background: #c48376;\n  animation: pulse 4s infinite;\n}\n\n@keyframes pulse {\n  0% { opacity: 1; }\n  50% { opacity: 0.2; }\n  100% { opacity: 1; }\n}\n\n</style>",
-            "width": "100%",
-            "alignment": "center"
-          }
-        }
-      },
-      "block_order": [
-        "9f59d557-17c2-4594-83a5-fe4cbf6e72f7",
-        "1469f154-5510-4153-a596-525c982b6eb4"
-      ],
-      "settings": {
-        "full_width": false,
-        "space_around": false
-      }
-    },
     "769532f5-e41a-485f-9d81-6cab11f45e57": {
       "type": "faq",
       "blocks": {
@@ -855,7 +825,6 @@
     "0b859851-fbfd-406f-b481-9b123893cfb6",
     "1694434924b204bfdd",
     "22547503-0c9f-4daa-9100-5c6733ede54a",
-    "b0878882-b4c3-475f-a01b-fcb70122366a",
     "769532f5-e41a-485f-9d81-6cab11f45e57",
     "22efb5ce-5b4a-4b04-8906-cb4b3a80f5c2",
     "1650550827aa9686d7",
