@@ -33,7 +33,7 @@
         "title_size": 69,
         "subheading": "Nachricht schicken · kostenlos · unverbindlich",
         "link_text": "Kostenlos per WhatsApp anfragen",
-        "link": "https://wa.me/4989215289330",
+        "link": "https://wa.me/4915562903452",
         "color_accent": "#4caf50",
         "text_align": "vertical-center horizontal-center",
         "video_url": "https://youtu.be/m5HqjWC-EHs",
@@ -355,6 +355,7 @@
         },
         "62566f99-3e30-4014-a170-3637571610bc": {
           "type": "liquid",
+          "disabled": true,
           "settings": {
             "code": "<!--Paste or enter you HTML code here-->\n<!--Your code will execute only after page publication-->\n<hr class=\"hr16\">\n<p class=\"colored-text\"></p>\n \n<script>\n/*Paste or enter you JavaScript code here*/\n</script>\n\n<style>\n   .colored-text {\n  color: rgb(28, 28, 28);\n  font-size: 16px;\n}\n/* Style 16 - Pulse Animation */\n.hr16 {\n  border: 0;\n  height: 1px;\n  background: #c48376;\n  animation: pulse 4s infinite;\n}\n\n@keyframes pulse {\n  0% { opacity: 1; }\n  50% { opacity: 0.2; }\n  100% { opacity: 1; }\n}\n\n</style>",
             "width": "100%",
@@ -401,36 +402,64 @@
         "space_around": false
       }
     },
-    "1650550827aa9686d7": {
-      "type": "rich-text",
+    "769532f5-e41a-485f-9d81-6cab11f45e57": {
+      "type": "faq",
       "blocks": {
-        "165055082675f0563e-0": {
-          "type": "heading",
+        "template--15453872849076__769532f5-e41a-485f-9d81-6cab11f45e57-question-1": {
+          "type": "question",
           "settings": {
-            "title": "Bekannt aus:",
-            "image_width": 50,
-            "image_position": 50
+            "title": "Wie funktioniert genau eine Haarverdichtung mit Hairtalk?",
+            "text": "<p>Die <strong>Tape-Extensions</strong> von Hairtalk sind besonders haarschonend und bieten eine <em>ausgezeichnete</em> Option für diejenigen, die ihre Haare <strong>verlängern</strong> oder <strong>verdichten</strong> möchten, ohne die <em>natürliche</em> Haarstruktur zu beeinträchtigen. Ein Hauptgrund für die Schonung von Haar und Kopfhaut ist die innovative Gestaltung der <strong>Klebestellen</strong>. Diese sind flach und weich, was nicht nur das <em>Verknoten</em> der Haare minimiert, sondern auch das Risiko von <em>Haarbruch</em> erheblich reduziert.</p><p>Die spezielle Klebetechnologie von Hairtalk sorgt dafür, dass die Extensions <strong>sicher und fest</strong> sitzen, während sie gleichzeitig leicht zu entfernen sind, wenn es an der Zeit für eine Anpassung oder Erneuerung ist. Darüber hinaus sind die Extensions von Hairtalk aus hochwertigem <strong>Echthaar</strong> gefertigt, was für ein natürliches Aussehen und Gefühl sorgt. Sie sind in verschiedenen Farben und Längen erhältlich, sodass sie leicht an den <strong>individuellen</strong> <strong>Stil</strong> angepasst werden können.</p><p>Insgesamt bieten die Tape-Extensions von Hairtalk eine <strong>hervorragende</strong> Balance zwischen <strong>Langlebigkeit</strong>, <strong>Ästhetik</strong> und <strong>Gesundheit</strong> für Ihre Haare. Sie stellen somit eine der besten Alternativen im Bereich der Haarverlängerungen dar.</p>"
           }
         },
-        "165055082675f0563e-1": {
-          "type": "text",
-          "disabled": true,
+        "template--15453872849076__769532f5-e41a-485f-9d81-6cab11f45e57-question-2": {
+          "type": "question",
           "settings": {
-            "enlarge_text": true,
-            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "title": "Sieht und spürt man die Extensions?",
+            "text": "<p>Die Tape-Extensions von Hairtalk sind so gestaltet, dass sie sich nahtlos in dein eigenes Haar einfügen. Dank der flachen und weichen Klebestellen wirst du sie kaum spüren, und der Tragekomfort ist sehr hoch. Wenn sie richtig angebracht und gut gepflegt sind, ist es unwahrscheinlich, dass jemand merkt, dass du Extensions trägst.</p><p>Die Extensions bestehen aus hochwertigem Echthaar, was für ein natürliches Aussehen und Gefühl sorgt. Sie sind in verschiedenen Farben und Längen verfügbar, sodass du sie leicht an deinen individuellen Stil und deine Haarstruktur anpassen kannst. Mit der richtigen Pflege und regelmäßigen Anpassungen durch einen qualifizierten Friseur kannst du sicher sein, dass deine Hairtalk Extensions nicht nur natürlich aussehen, sondern sich auch so anfühlen.</p><p>Kurzum, wenn die Hairtalk Extensions professionell angebracht und gepflegt werden, sind sie optisch und haptisch kaum von deinem eigenen Haar zu unterscheiden.</p>"
+          }
+        },
+        "e3d31440-8453-4261-ad45-7d4931724383": {
+          "type": "question",
+          "settings": {
+            "title": "Was kostet eine Haarverdichtung bei euch?",
+            "text": "<p>Die Kosten für eine Haarverdichtung können <strong>variieren</strong>, abhängig von verschiedenen Faktoren wie der <strong>Länge </strong>und <strong>Dichte </strong>deiner eigenen Haare sowie der <strong>Qualität </strong>und <strong>Menge </strong>der Extensions, die du wählst. Es ist jedoch möglich, bei uns eine Haarverdichtung bereits ab <strong>350 €</strong> zu erhalten. Dieses Angebot ermöglicht es dir, deinem Haar mehr <strong>Volumen </strong>und <strong>Fülle </strong>zu verleihen, ohne dein Budget zu sprengen.</p><p>Für eine genaue Preisgestaltung empfehlen wir jedoch immer, eine <strong>persönliche Beratung</strong> in Anspruch zu nehmen. So können wir sicherstellen, dass du <strong>genau </strong>das Ergebnis erhältst, das du dir wünschst, und können ein <strong>individuelles Angebot</strong> erstellen, das auf deine <strong>Bedürfnisse </strong>zugeschnitten ist.</p><p>Kurz gesagt, eine Haarverdichtung bei uns ist flexibel und kann an verschiedene Budgets angepasst werden, wobei Optionen bereits ab 350 € verfügbar sind.</p>"
+          }
+        },
+        "d43b20ce-f588-4ebd-8449-4c9809ab634b": {
+          "type": "question",
+          "settings": {
+            "title": "Ist die Beratung kostenpflichtig?",
+            "text": "<p>Die Beratung für eine Haarverdichtung oder Haarverlängerung bei uns ist 100 % kostenlos und völlig unverbindlich. Wir legen großen Wert darauf, dass du dich gut informiert und wohl fühlst, bevor du eine Entscheidung triffst. Uns ist besonders wichtig, die Gesundheit und Schonung deines Eigenhaars in den Fokus zu stellen. Daher nehmen wir uns die Zeit, deine Haarstruktur genau zu analysieren und die beste Lösung für deine Bedürfnisse zu finden.</p><p>Unsere Experten sind speziell geschult, um sicherzustellen, dass die Extensions nicht nur ästhetisch ansprechend, sondern auch haarschonend sind. Wir verwenden Produkte, die für ihre Qualität und ihre schonende Wirkung auf das Haar bekannt sind, um das Risiko von Haarbruch und anderen Schäden zu minimieren.</p><p>Kurzum, unsere Beratung ist nicht nur kostenlos und unverbindlich, sondern auch darauf ausgerichtet, die Gesundheit und Schonung deines Eigenhaars zu gewährleisten.</p>"
+          }
+        },
+        "2c02be25-db38-45d7-918e-917615119c0d": {
+          "type": "question",
+          "settings": {
+            "title": "Wie lange hält eine Haarverdichtung mit Haartalk Extensions?",
+            "text": "<p>Die Haarverdichtung mit Hairtalk Extensions ist darauf ausgelegt, zwischen 6 bis 8 Wochen zu halten, bevor sie hochgesetzt werden müssen. Dieser Zeitrahmen kann jedoch je nach deiner individuellen Haarpflege und deinem Lebensstil variieren. Um die Langlebigkeit und Qualität der Extensions zu erhalten, empfehlen wir, sie alle 6 bis 8 Wochen von einem qualifizierten Friseur hochsetzen zu lassen.</p><p>Hairtalk legt großen Wert auf die Schonung und Gesundheit deines Eigenhaars. Die spezielle Klebetechnologie und die hochwertigen Materialien sorgen dafür, dass die Extensions sicher und fest sitzen, während sie gleichzeitig leicht zu entfernen und wiederverwendbar sind.</p><p>Kurz gesagt, mit der richtigen Pflege und regelmäßigen Anpassungen alle 6 bis 8 Wochen können Hairtalk Extensions dir ein langanhaltendes, volleres und voluminöseres Haarbild bieten.</p>"
+          }
+        },
+        "10886d61-eebe-4667-a5c2-f76343583f96": {
+          "type": "question",
+          "settings": {
+            "title": "Welche Folgekosten kommen auf mich zu?",
+            "text": "<p>Neben den initialen Kosten für die Haarverdichtung solltest du auch die Folgekosten im Blick behalten. Jeder Kunde erhält von uns ein Pflegepaket, das speziell darauf abgestimmt ist, die Langlebigkeit und Qualität der Hairtalk Extensions zu erhalten.</p><p>Das Hochsetzen der Extensions ist ein wichtiger Schritt, um das natürliche und ästhetische Erscheinungsbild beizubehalten. Dies sollte alle 6 bis 8 Wochen erfolgen. Die Kosten für das Hochsetzen, Schneiden und Stylen der Extensions betragen 135 €. Dieser Preis beinhaltet die professionelle Anpassung der Extensions sowie das Schneiden und Stylen, um sicherzustellen, dass sie perfekt zu deinem Eigenhaar passen.</p><p>Kurz gesagt, die Folgekosten für die Pflege deiner Hairtalk Extensions sind überschaubar und planbar, wobei das Hochsetzen, Schneiden und Stylen bei 135 € liegt.</p>"
           }
         }
       },
       "block_order": [
-        "165055082675f0563e-0",
-        "165055082675f0563e-1"
+        "template--15453872849076__769532f5-e41a-485f-9d81-6cab11f45e57-question-1",
+        "template--15453872849076__769532f5-e41a-485f-9d81-6cab11f45e57-question-2",
+        "e3d31440-8453-4261-ad45-7d4931724383",
+        "d43b20ce-f588-4ebd-8449-4c9809ab634b",
+        "2c02be25-db38-45d7-918e-917615119c0d",
+        "10886d61-eebe-4667-a5c2-f76343583f96"
       ],
       "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false,
-        "margin_top": false,
-        "margin_bottom": false
+        "title": "FAQs",
+        "image_width": 52,
+        "image_position": 59
       }
     },
     "22efb5ce-5b4a-4b04-8906-cb4b3a80f5c2": {
@@ -501,6 +530,38 @@
         "round_images": true,
         "image_width": 100,
         "image_position": 100
+      }
+    },
+    "1650550827aa9686d7": {
+      "type": "rich-text",
+      "blocks": {
+        "165055082675f0563e-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Bekannt aus:",
+            "image_width": 50,
+            "image_position": 50
+          }
+        },
+        "165055082675f0563e-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "165055082675f0563e-0",
+        "165055082675f0563e-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
       }
     },
     "1650549005713f9a6c": {
@@ -679,66 +740,6 @@
         "space_around": false
       }
     },
-    "769532f5-e41a-485f-9d81-6cab11f45e57": {
-      "type": "faq",
-      "blocks": {
-        "template--15453872849076__769532f5-e41a-485f-9d81-6cab11f45e57-question-1": {
-          "type": "question",
-          "settings": {
-            "title": "Wie funktioniert genau eine Haarverdichtung mit Hairtalk?",
-            "text": "<p>Die <strong>Tape-Extensions</strong> von Hairtalk sind besonders haarschonend und bieten eine <em>ausgezeichnete</em> Option für diejenigen, die ihre Haare <strong>verlängern</strong> oder <strong>verdichten</strong> möchten, ohne die <em>natürliche</em> Haarstruktur zu beeinträchtigen. Ein Hauptgrund für die Schonung von Haar und Kopfhaut ist die innovative Gestaltung der <strong>Klebestellen</strong>. Diese sind flach und weich, was nicht nur das <em>Verknoten</em> der Haare minimiert, sondern auch das Risiko von <em>Haarbruch</em> erheblich reduziert.</p><p>Die spezielle Klebetechnologie von Hairtalk sorgt dafür, dass die Extensions <strong>sicher und fest</strong> sitzen, während sie gleichzeitig leicht zu entfernen sind, wenn es an der Zeit für eine Anpassung oder Erneuerung ist. Darüber hinaus sind die Extensions von Hairtalk aus hochwertigem <strong>Echthaar</strong> gefertigt, was für ein natürliches Aussehen und Gefühl sorgt. Sie sind in verschiedenen Farben und Längen erhältlich, sodass sie leicht an den <strong>individuellen</strong> <strong>Stil</strong> angepasst werden können.</p><p>Insgesamt bieten die Tape-Extensions von Hairtalk eine <strong>hervorragende</strong> Balance zwischen <strong>Langlebigkeit</strong>, <strong>Ästhetik</strong> und <strong>Gesundheit</strong> für Ihre Haare. Sie stellen somit eine der besten Alternativen im Bereich der Haarverlängerungen dar.</p>"
-          }
-        },
-        "template--15453872849076__769532f5-e41a-485f-9d81-6cab11f45e57-question-2": {
-          "type": "question",
-          "settings": {
-            "title": "Sieht und spürt man die Extensions?",
-            "text": "<p>Die Tape-Extensions von Hairtalk sind so gestaltet, dass sie sich nahtlos in dein eigenes Haar einfügen. Dank der flachen und weichen Klebestellen wirst du sie kaum spüren, und der Tragekomfort ist sehr hoch. Wenn sie richtig angebracht und gut gepflegt sind, ist es unwahrscheinlich, dass jemand merkt, dass du Extensions trägst.</p><p>Die Extensions bestehen aus hochwertigem Echthaar, was für ein natürliches Aussehen und Gefühl sorgt. Sie sind in verschiedenen Farben und Längen verfügbar, sodass du sie leicht an deinen individuellen Stil und deine Haarstruktur anpassen kannst. Mit der richtigen Pflege und regelmäßigen Anpassungen durch einen qualifizierten Friseur kannst du sicher sein, dass deine Hairtalk Extensions nicht nur natürlich aussehen, sondern sich auch so anfühlen.</p><p>Kurzum, wenn die Hairtalk Extensions professionell angebracht und gepflegt werden, sind sie optisch und haptisch kaum von deinem eigenen Haar zu unterscheiden.</p>"
-          }
-        },
-        "e3d31440-8453-4261-ad45-7d4931724383": {
-          "type": "question",
-          "settings": {
-            "title": "Was kostet eine Haarverdichtung bei euch?",
-            "text": "<p>Die Kosten für eine Haarverdichtung können <strong>variieren</strong>, abhängig von verschiedenen Faktoren wie der <strong>Länge </strong>und <strong>Dichte </strong>deiner eigenen Haare sowie der <strong>Qualität </strong>und <strong>Menge </strong>der Extensions, die du wählst. Es ist jedoch möglich, bei uns eine Haarverdichtung bereits ab <strong>350 €</strong> zu erhalten. Dieses Angebot ermöglicht es dir, deinem Haar mehr <strong>Volumen </strong>und <strong>Fülle </strong>zu verleihen, ohne dein Budget zu sprengen.</p><p>Für eine genaue Preisgestaltung empfehlen wir jedoch immer, eine <strong>persönliche Beratung</strong> in Anspruch zu nehmen. So können wir sicherstellen, dass du <strong>genau </strong>das Ergebnis erhältst, das du dir wünschst, und können ein <strong>individuelles Angebot</strong> erstellen, das auf deine <strong>Bedürfnisse </strong>zugeschnitten ist.</p><p>Kurz gesagt, eine Haarverdichtung bei uns ist flexibel und kann an verschiedene Budgets angepasst werden, wobei Optionen bereits ab 350 € verfügbar sind.</p>"
-          }
-        },
-        "d43b20ce-f588-4ebd-8449-4c9809ab634b": {
-          "type": "question",
-          "settings": {
-            "title": "Ist die Beratung kostenpflichtig?",
-            "text": "<p>Die Beratung für eine Haarverdichtung oder Haarverlängerung bei uns ist 100 % kostenlos und völlig unverbindlich. Wir legen großen Wert darauf, dass du dich gut informiert und wohl fühlst, bevor du eine Entscheidung triffst. Uns ist besonders wichtig, die Gesundheit und Schonung deines Eigenhaars in den Fokus zu stellen. Daher nehmen wir uns die Zeit, deine Haarstruktur genau zu analysieren und die beste Lösung für deine Bedürfnisse zu finden.</p><p>Unsere Experten sind speziell geschult, um sicherzustellen, dass die Extensions nicht nur ästhetisch ansprechend, sondern auch haarschonend sind. Wir verwenden Produkte, die für ihre Qualität und ihre schonende Wirkung auf das Haar bekannt sind, um das Risiko von Haarbruch und anderen Schäden zu minimieren.</p><p>Kurzum, unsere Beratung ist nicht nur kostenlos und unverbindlich, sondern auch darauf ausgerichtet, die Gesundheit und Schonung deines Eigenhaars zu gewährleisten.</p>"
-          }
-        },
-        "2c02be25-db38-45d7-918e-917615119c0d": {
-          "type": "question",
-          "settings": {
-            "title": "Wie lange hält eine Haarverdichtung mit Haartalk Extensions?",
-            "text": "<p>Die Haarverdichtung mit Hairtalk Extensions ist darauf ausgelegt, zwischen 6 bis 8 Wochen zu halten, bevor sie hochgesetzt werden müssen. Dieser Zeitrahmen kann jedoch je nach deiner individuellen Haarpflege und deinem Lebensstil variieren. Um die Langlebigkeit und Qualität der Extensions zu erhalten, empfehlen wir, sie alle 6 bis 8 Wochen von einem qualifizierten Friseur hochsetzen zu lassen.</p><p>Hairtalk legt großen Wert auf die Schonung und Gesundheit deines Eigenhaars. Die spezielle Klebetechnologie und die hochwertigen Materialien sorgen dafür, dass die Extensions sicher und fest sitzen, während sie gleichzeitig leicht zu entfernen und wiederverwendbar sind.</p><p>Kurz gesagt, mit der richtigen Pflege und regelmäßigen Anpassungen alle 6 bis 8 Wochen können Hairtalk Extensions dir ein langanhaltendes, volleres und voluminöseres Haarbild bieten.</p>"
-          }
-        },
-        "10886d61-eebe-4667-a5c2-f76343583f96": {
-          "type": "question",
-          "settings": {
-            "title": "Welche Folgekosten kommen auf mich zu?",
-            "text": "<p>Neben den initialen Kosten für die Haarverdichtung solltest du auch die Folgekosten im Blick behalten. Jeder Kunde erhält von uns ein Pflegepaket, das speziell darauf abgestimmt ist, die Langlebigkeit und Qualität der Hairtalk Extensions zu erhalten.</p><p>Das Hochsetzen der Extensions ist ein wichtiger Schritt, um das natürliche und ästhetische Erscheinungsbild beizubehalten. Dies sollte alle 6 bis 8 Wochen erfolgen. Die Kosten für das Hochsetzen, Schneiden und Stylen der Extensions betragen 135 €. Dieser Preis beinhaltet die professionelle Anpassung der Extensions sowie das Schneiden und Stylen, um sicherzustellen, dass sie perfekt zu deinem Eigenhaar passen.</p><p>Kurz gesagt, die Folgekosten für die Pflege deiner Hairtalk Extensions sind überschaubar und planbar, wobei das Hochsetzen, Schneiden und Stylen bei 135 € liegt.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--15453872849076__769532f5-e41a-485f-9d81-6cab11f45e57-question-1",
-        "template--15453872849076__769532f5-e41a-485f-9d81-6cab11f45e57-question-2",
-        "e3d31440-8453-4261-ad45-7d4931724383",
-        "d43b20ce-f588-4ebd-8449-4c9809ab634b",
-        "2c02be25-db38-45d7-918e-917615119c0d",
-        "10886d61-eebe-4667-a5c2-f76343583f96"
-      ],
-      "settings": {
-        "title": "FAQs",
-        "image_width": 52,
-        "image_position": 59
-      }
-    },
     "1634908162416e3f0b": {
       "type": "rich-text",
       "blocks": {
@@ -867,9 +868,9 @@
     "1664530913fc84995b",
     "f81d400e-3d9d-446f-9e48-4037ce2e9ba1",
     "b0878882-b4c3-475f-a01b-fcb70122366a",
-    "1650550827aa9686d7",
     "769532f5-e41a-485f-9d81-6cab11f45e57",
     "22efb5ce-5b4a-4b04-8906-cb4b3a80f5c2",
+    "1650550827aa9686d7",
     "1650549005713f9a6c",
     "main",
     "605d6765-1ebb-46b4-bc11-6c59ca0ee3b9",
