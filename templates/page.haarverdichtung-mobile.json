@@ -185,6 +185,7 @@
         },
         "button_FwDmdK": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "target_blank": false,
             "link": "#whatsapp",
