@@ -9,6 +9,22 @@
  */
 {
   "sections": {
+    "hero_video_7qgLKd": {
+      "type": "hero-video",
+      "settings": {
+        "title": "Du wünscht dir eine Haarverdichtung?",
+        "title_size": 69,
+        "subheading": "Nachricht schicken · kostenlos · unverbindlich",
+        "link_text": "Kostenlos per WhatsApp anfragen",
+        "link": "https://wa.me/4915562903452",
+        "color_accent": "#4caf50",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https://youtu.be/m5HqjWC-EHs",
+        "overlay_opacity": 30,
+        "section_height": "650px",
+        "mobile_height": "auto"
+      }
+    },
     "16475075815ec4bf82": {
       "type": "hero-video",
       "disabled": true,
@@ -21,22 +37,6 @@
         "color_accent": "rgba(0,0,0,0)",
         "text_align": "vertical-bottom horizontal-center",
         "video_url": "https://www.youtube.com/watch?v=hUHsh3UP8KE",
-        "overlay_opacity": 30,
-        "section_height": "650px",
-        "mobile_height": "auto"
-      }
-    },
-    "hero_video_7qgLKd": {
-      "type": "hero-video",
-      "settings": {
-        "title": "Du wünscht dir eine Haarverdichtung?",
-        "title_size": 69,
-        "subheading": "Nachricht schicken · kostenlos · unverbindlich",
-        "link_text": "Kostenlos per WhatsApp anfragen",
-        "link": "https://wa.me/4915562903452",
-        "color_accent": "#4caf50",
-        "text_align": "vertical-center horizontal-center",
-        "video_url": "https://youtu.be/m5HqjWC-EHs",
         "overlay_opacity": 30,
         "section_height": "650px",
         "mobile_height": "auto"
@@ -138,18 +138,6 @@
         "autoplay_speed": 8
       }
     },
-    "featured_video_WGb8pf": {
-      "type": "featured-video",
-      "custom_css": [
-        ".youtube-video-container {position: relative; width: 100%; padding-bottom: 75%; /* 4:3 Aspect Ratio (Height / Width = 3 / 4 = 75%) */ height: 0; overflow: hidden;}",
-        ".youtube-video-container iframe {position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;}"
-      ],
-      "settings": {
-        "title": "Warum wir die Tapeklebetchnik lieben? Mona und Roby erklären es dir:",
-        "video_url": "https://www.youtube.com/watch?v=hUHsh3UP8KE",
-        "divider": false
-      }
-    },
     "163490746248b9e19e": {
       "type": "rich-text",
       "blocks": {
@@ -197,6 +185,7 @@
         },
         "button_FwDmdK": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "target_blank": false,
             "link": "#whatsapp",
@@ -223,44 +212,13 @@
         "margin_bottom": false
       }
     },
-    "0b859851-fbfd-406f-b481-9b123893cfb6": {
-      "type": "advanced-content",
-      "blocks": {
-        "213c9a3c-a809-46ba-b129-e2400c4aa686": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "link": "",
-            "width": "50%",
-            "alignment": "center"
-          }
-        },
-        "7fb28783-e37f-4dd0-a60b-ab47e995f8e0": {
-          "type": "liquid",
-          "settings": {
-            "code": "<!--Paste or enter you HTML code here-->\n<!--Your code will execute only after page publication-->\n<hr class=\"hr16\">\n<p class=\"colored-text\"></p>\n <div class=\"elfsight-app-e10111d8-34ac-4a3e-8951-eeada945fb45\" data-elfsight-app-lazy></div>\n<script>\n/*Paste or enter you JavaScript code here*/\n</script>\nSlider nach rechts und links verschieben\n<style>\n   .colored-text {\n  color: rgb(28, 28, 28);\n  font-size: 16px;\n}\n/* Style 16 - Pulse Animation */\n.hr16 {\n  border: 0;\n  height: 1px;\n  background: #c48376;\n  animation: pulse 4s infinite;\n}\n\n@keyframes pulse {\n  0% { opacity: 1; }\n  50% { opacity: 0.2; }\n  100% { opacity: 1; }\n}\n\n</style>",
-            "width": "100%",
-            "alignment": "center"
-          }
-        }
-      },
-      "block_order": [
-        "213c9a3c-a809-46ba-b129-e2400c4aa686",
-        "7fb28783-e37f-4dd0-a60b-ab47e995f8e0"
-      ],
-      "disabled": true,
-      "settings": {
-        "full_width": false,
-        "space_around": false
-      }
-    },
     "1694434924b204bfdd": {
       "type": "apps",
       "blocks": {
         "45fea7d2-bb95-4c62-b9f4-694d0899c7c1": {
           "type": "shopify://apps/aod-before-after-widget/blocks/after-before-final-section/76f8089d-5150-46ae-8664-0e4ae6d7cd6b",
           "settings": {
-            "subheading": "Vorher-Nachher",
+            "subheading": "",
             "columns_size": 3,
             "show_box": true,
             "img_heading": "Blond",
@@ -295,35 +253,22 @@
         "space_around": true
       }
     },
-    "22547503-0c9f-4daa-9100-5c6733ede54a": {
-      "type": "advanced-content",
-      "blocks": {
-        "a547255d-c42a-49a5-a3e4-b3cb229495dc": {
-          "type": "liquid",
-          "settings": {
-            "code": "<!--Paste or enter you HTML code here-->\n<!--Your code will execute only after page publication-->\n<hr class=\"hr16\">\n<p class=\"colored-text\"></p>\n \n<script>\n/*Paste or enter you JavaScript code here*/\n</script>\n\n<style>\n   .colored-text {\n  color: rgb(28, 28, 28);\n  font-size: 16px;\n}\n/* Style 16 - Pulse Animation */\n.hr16 {\n  border: 0;\n  height: 1px;\n  background: #c48376;\n  animation: pulse 4s infinite;\n}\n\n@keyframes pulse {\n  0% { opacity: 1; }\n  50% { opacity: 0.2; }\n  100% { opacity: 1; }\n}\n\n</style>",
-            "width": "100%",
-            "alignment": "center"
-          }
-        }
-      },
-      "block_order": [
-        "a547255d-c42a-49a5-a3e4-b3cb229495dc"
-      ],
+    "featured_video_WGb8pf": {
+      "type": "featured-video",
       "custom_css": [
-        ".outer-container {width: 100%;}",
-        ".video-container {position: relative; padding-bottom: 56.25%; padding-top: 35px; height: 0; overflow: hidden;}",
-        ".video-container iframe {position: absolute; top: 0; left: 0; width: 100%; height: 560px;}"
+        ".youtube-video-container {position: relative; width: 100%; padding-bottom: 75%; /* 4:3 Aspect Ratio (Height / Width = 3 / 4 = 75%) */ height: 0; overflow: hidden;}",
+        ".youtube-video-container iframe {position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;}"
       ],
       "settings": {
-        "full_width": false,
-        "space_around": false
+        "title": "Warum wir die Tapeklebetchnik lieben? Mona und Roby erklären es dir:",
+        "video_url": "https://www.youtube.com/watch?v=hUHsh3UP8KE",
+        "divider": false
       }
     },
-    "b0878882-b4c3-475f-a01b-fcb70122366a": {
+    "0b859851-fbfd-406f-b481-9b123893cfb6": {
       "type": "advanced-content",
       "blocks": {
-        "9f59d557-17c2-4594-83a5-fe4cbf6e72f7": {
+        "213c9a3c-a809-46ba-b129-e2400c4aa686": {
           "type": "image",
           "disabled": true,
           "settings": {
@@ -331,19 +276,22 @@
             "width": "50%",
             "alignment": "center"
           }
-        },
-        "1469f154-5510-4153-a596-525c982b6eb4": {
-          "type": "liquid",
-          "settings": {
-            "code": "<!--Paste or enter you HTML code here-->\n<!--Your code will execute only after page publication-->\n<hr class=\"hr16\">\n<p class=\"colored-text\"></p>\n \n<script>\n/*Paste or enter you JavaScript code here*/\n</script>\n\n<style>\n   .colored-text {\n  color: rgb(28, 28, 28);\n  font-size: 16px;\n}\n/* Style 16 - Pulse Animation */\n.hr16 {\n  border: 0;\n  height: 1px;\n  background: #c48376;\n  animation: pulse 4s infinite;\n}\n\n@keyframes pulse {\n  0% { opacity: 1; }\n  50% { opacity: 0.2; }\n  100% { opacity: 1; }\n}\n\n</style>",
-            "width": "100%",
-            "alignment": "center"
-          }
         }
       },
       "block_order": [
-        "9f59d557-17c2-4594-83a5-fe4cbf6e72f7",
-        "1469f154-5510-4153-a596-525c982b6eb4"
+        "213c9a3c-a809-46ba-b129-e2400c4aa686"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": false
+      }
+    },
+    "22547503-0c9f-4daa-9100-5c6733ede54a": {
+      "type": "advanced-content",
+      "custom_css": [
+        ".outer-container {width: 100%;}",
+        ".video-container {position: relative; padding-bottom: 56.25%; padding-top: 35px; height: 0; overflow: hidden;}",
+        ".video-container iframe {position: absolute; top: 0; left: 0; width: 100%; height: 560px;}"
       ],
       "settings": {
         "full_width": false,
@@ -848,15 +796,14 @@
     }
   },
   "order": [
-    "16475075815ec4bf82",
     "hero_video_7qgLKd",
+    "16475075815ec4bf82",
     "16349073092065b984",
-    "featured_video_WGb8pf",
     "163490746248b9e19e",
-    "0b859851-fbfd-406f-b481-9b123893cfb6",
     "1694434924b204bfdd",
+    "featured_video_WGb8pf",
+    "0b859851-fbfd-406f-b481-9b123893cfb6",
     "22547503-0c9f-4daa-9100-5c6733ede54a",
-    "b0878882-b4c3-475f-a01b-fcb70122366a",
     "769532f5-e41a-485f-9d81-6cab11f45e57",
     "22efb5ce-5b4a-4b04-8906-cb4b3a80f5c2",
     "1650550827aa9686d7",
