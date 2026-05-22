@@ -28,6 +28,7 @@
     },
     "hero_video_ypgREr": {
       "type": "hero-video",
+      "disabled": true,
       "settings": {
         "title": "Kostenlose Erstberatung",
         "title_size": 80,
@@ -183,37 +184,46 @@
         },
         "16479488421d6495bb-1": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "enlarge_text": true,
-            "text": "<h1><strong>Lass' dich von unseren Haarverdichtungs-Expertinnen beraten. </strong></h1>"
+            "text": "<h1>Lass' dich von unseren Haarverdichtungs-Expertinnen beraten. </h1>"
+          }
+        },
+        "heading_9DcjC7": {
+          "type": "heading",
+          "settings": {
+            "title": "Lass' dich von unseren Haarverdichtungs-Expertinnen beraten.",
+            "image_width": 50,
+            "image_position": 50
           }
         },
         "text_t4VRem": {
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<h3><strong>1) Schreibe und eine Nachricht auf Whatsapp  </strong></h3>"
+            "text": "<p><strong>1) Schreibe und eine Nachricht auf Whatsapp  </strong></p>"
           }
         },
         "text_bazdjw": {
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<h3><strong>1) Sende uns ein Selfie von deinen Haaren und eine kurze Sprachnachricht, was du dir wünscht!</strong></h3>"
+            "text": "<p><strong>1) Sende uns ein Selfie von deinen Haaren und eine kurze Sprachnachricht, was du dir wünscht!</strong></p>"
           }
         },
         "text_DCTYMi": {
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<h3><strong>1) Wir melden uns bei dir für ein kostenloses Beratungsgespräch</strong></h3>"
+            "text": "<p><strong>1) Wir melden uns bei dir für ein kostenloses Beratungsgespräch</strong></p>"
           }
         },
         "text_NkUGX7": {
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<h2>Wir  freuen uns auf DICH!</h2>"
+            "text": "<p>Wir  freuen uns auf DICH!</p>"
           }
         },
         "5d9b17b2-98e6-4e75-9e43-e718df2de7f1": {
@@ -228,6 +238,7 @@
       "block_order": [
         "8a3100e4-7c38-4c48-aa67-4202145908af",
         "16479488421d6495bb-1",
+        "heading_9DcjC7",
         "text_t4VRem",
         "text_bazdjw",
         "text_DCTYMi",

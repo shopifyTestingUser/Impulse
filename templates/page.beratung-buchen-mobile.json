@@ -28,6 +28,7 @@
     },
     "hero_video_7qgLKd": {
       "type": "hero-video",
+      "disabled": true,
       "settings": {
         "title": "Kostenlose Beratung buchen",
         "title_size": 69,
