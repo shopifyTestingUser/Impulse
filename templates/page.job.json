@@ -73,20 +73,6 @@
     "rich_text_nfY7rf": {
       "type": "rich-text",
       "blocks": {
-        "text_YzirMR": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": ""
-          }
-        },
-        "text_ciVPGV": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": ""
-          }
-        },
         "heading_VzVmnb": {
           "type": "heading",
           "disabled": true,
@@ -137,8 +123,6 @@
         }
       },
       "block_order": [
-        "text_YzirMR",
-        "text_ciVPGV",
         "heading_VzVmnb",
         "text_tkimTw",
         "text_ewcgYP",
