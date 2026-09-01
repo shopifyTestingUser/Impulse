@@ -276,18 +276,6 @@
         "narrow_column": true
       }
     },
-    "slideshow_NN78ph": {
-      "type": "slideshow",
-      "settings": {
-        "section_height": "650px",
-        "mobile_height": "auto",
-        "parallax": true,
-        "style": "bars",
-        "arrows": true,
-        "autoplay": false,
-        "autoplay_speed": 5
-      }
-    },
     "advanced_content_GtiWc8": {
       "type": "advanced-content",
       "blocks": {
@@ -324,7 +312,6 @@
     "advanced_content_6EdJKx",
     "rich_text_nfY7rf",
     "contact_form_mAE4Ur",
-    "slideshow_NN78ph",
     "advanced_content_GtiWc8"
   ]
 }

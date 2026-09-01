@@ -30,109 +30,12 @@
         "mobile_height": "auto"
       }
     },
-    "rich_text_xKQgJr": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_DRiriC": {
-          "type": "heading",
-          "settings": {
-            "title": "Mit was kannst du dich indentifizieren?",
-            "image_width": 50,
-            "image_position": 50
-          }
-        },
-        "text_f8zBib": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "enlarge_text": true,
-            "text": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_DRiriC",
-        "text_f8zBib"
-      ],
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false,
-        "margin_top": false,
-        "margin_bottom": false
-      }
-    },
-    "services_columns_yhBApd": {
-      "type": "services-columns",
-      "blocks": {
-        "text_block_jcdrjn": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/Nora_V1.png",
-            "title": "",
-            "price": "",
-            "text": "",
-            "button_label": "➡️  Klick hier",
-            "button_link": "#nora"
-          }
-        },
-        "text_block_PD3EaP": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/Roby_V1.png",
-            "title": "",
-            "price": "",
-            "text": "",
-            "button_label": "➡️  Klick hier",
-            "button_link": "#roby"
-          }
-        },
-        "text_block_yGUttB": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/laura_f96fecf0-8f6a-42ca-b4ce-f9a9e3646b56.png",
-            "title": "",
-            "price": "",
-            "text": "",
-            "button_label": "➡️  Klick hier",
-            "button_link": "#laura_w"
-          }
-        },
-        "text_block_PWWjeK": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/Erika_V3.png",
-            "title": "",
-            "price": "",
-            "text": "",
-            "button_label": "➡️  Klick hier",
-            "button_link": "#erika"
-          }
-        }
-      },
-      "block_order": [
-        "text_block_jcdrjn",
-        "text_block_PD3EaP",
-        "text_block_yGUttB",
-        "text_block_PWWjeK"
-      ],
-      "settings": {
-        "title": "",
-        "align_text": "center",
-        "divider": false,
-        "image_width": 17,
-        "image_position": 23
-      }
-    },
     "rich_text_z6CBz4": {
       "type": "rich-text",
       "blocks": {
         "heading_tJReEW": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "title": "und noch mehr Erfolgsgeschichten von unseren Langhaarmädchen:",
             "image_width": 50,
@@ -160,10 +63,49 @@
         "margin_bottom": false
       }
     },
+    "rich_text_xKQgJr": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_DRiriC": {
+          "type": "heading",
+          "settings": {
+            "title": "Mit was kannst du dich indentifizieren?",
+            "image_width": 50,
+            "image_position": 50
+          }
+        }
+      },
+      "block_order": [
+        "heading_DRiriC"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
+      }
+    },
     "rich_text_aPLcXc": {
       "type": "rich-text",
       "blocks": {
         "heading_hmJWbG": {
+          "type": "heading",
+          "settings": {
+            "title": "",
+            "image_width": 50,
+            "image_position": 50
+          }
+        },
+        "heading_KVJPiW": {
+          "type": "heading",
+          "settings": {
+            "title": "Zarthaar durch Hormone",
+            "image_width": 50,
+            "image_position": 50
+          }
+        },
+        "heading_j7iYGb": {
           "type": "heading",
           "settings": {
             "title": "Laura L. (30)",
@@ -181,6 +123,8 @@
       },
       "block_order": [
         "heading_hmJWbG",
+        "heading_KVJPiW",
+        "heading_j7iYGb",
         "text_yPAjNw"
       ],
       "settings": {
@@ -199,26 +143,6 @@
         "divider": false
       }
     },
-    "advanced_content_VRKLie": {
-      "type": "advanced-content",
-      "blocks": {
-        "liquid_gTQpQY": {
-          "type": "liquid",
-          "settings": {
-            "code": "<p id=\"julia\"> </p>",
-            "width": "50%",
-            "alignment": "center"
-          }
-        }
-      },
-      "block_order": [
-        "liquid_gTQpQY"
-      ],
-      "settings": {
-        "full_width": false,
-        "space_around": true
-      }
-    },
     "rich_text_JFgiNg": {
       "type": "rich-text",
       "blocks": {
@@ -226,6 +150,14 @@
           "type": "heading",
           "settings": {
             "title": "Julia (33)",
+            "image_width": 50,
+            "image_position": 50
+          }
+        },
+        "heading_q3MaLX": {
+          "type": "heading",
+          "settings": {
+            "title": "Zarthaar durch Hormone",
             "image_width": 50,
             "image_position": 50
           }
@@ -240,6 +172,7 @@
       },
       "block_order": [
         "heading_PUR3Ae",
+        "heading_q3MaLX",
         "text_fzHyJR"
       ],
       "settings": {
@@ -281,26 +214,6 @@
         "divider": false
       }
     },
-    "advanced_content_eAKzfR": {
-      "type": "advanced-content",
-      "blocks": {
-        "liquid_qLN4cA": {
-          "type": "liquid",
-          "settings": {
-            "code": "<p id=\"laura_w\"> </p>",
-            "width": "100%",
-            "alignment": "center"
-          }
-        }
-      },
-      "block_order": [
-        "liquid_qLN4cA"
-      ],
-      "settings": {
-        "full_width": false,
-        "space_around": false
-      }
-    },
     "rich_text_tXnzmr": {
       "type": "rich-text",
       "blocks": {
@@ -308,6 +221,14 @@
           "type": "heading",
           "settings": {
             "title": "Laura (33)",
+            "image_width": 50,
+            "image_position": 50
+          }
+        },
+        "heading_9DeWMP": {
+          "type": "heading",
+          "settings": {
+            "title": "Zarthaar durch Hormone",
             "image_width": 50,
             "image_position": 50
           }
@@ -322,6 +243,7 @@
       },
       "block_order": [
         "heading_FyRPbG",
+        "heading_9DeWMP",
         "text_wUw3BR"
       ],
       "custom_css": [],
@@ -341,29 +263,17 @@
         "divider": false
       }
     },
-    "advanced_content_P9XYAA": {
-      "type": "advanced-content",
-      "blocks": {
-        "liquid_yHWQXi": {
-          "type": "liquid",
-          "settings": {
-            "code": "<p id=\"nora\"> </p>",
-            "width": "50%",
-            "alignment": "center"
-          }
-        }
-      },
-      "block_order": [
-        "liquid_yHWQXi"
-      ],
-      "settings": {
-        "full_width": false,
-        "space_around": true
-      }
-    },
     "rich_text_zYU6UP": {
       "type": "rich-text",
       "blocks": {
+        "heading_GbFUDL": {
+          "type": "heading",
+          "settings": {
+            "title": "Zarthaar durch Genetik",
+            "image_width": 50,
+            "image_position": 50
+          }
+        },
         "heading_TKWWHw": {
           "type": "heading",
           "settings": {
@@ -381,6 +291,7 @@
         }
       },
       "block_order": [
+        "heading_GbFUDL",
         "heading_TKWWHw",
         "text_3xQrJ3"
       ],
@@ -400,29 +311,17 @@
         "divider": false
       }
     },
-    "advanced_content_PMjYMV": {
-      "type": "advanced-content",
-      "blocks": {
-        "liquid_4xpXRR": {
-          "type": "liquid",
-          "settings": {
-            "code": "<p id=\"roby\"> </p>",
-            "width": "50%",
-            "alignment": "center"
-          }
-        }
-      },
-      "block_order": [
-        "liquid_4xpXRR"
-      ],
-      "settings": {
-        "full_width": false,
-        "space_around": true
-      }
-    },
     "rich_text_gRhPcf": {
       "type": "rich-text",
       "blocks": {
+        "heading_pnnedz": {
+          "type": "heading",
+          "settings": {
+            "title": "Zarthaar durch Krankheit",
+            "image_width": 50,
+            "image_position": 50
+          }
+        },
         "heading_VDYqH7": {
           "type": "heading",
           "settings": {
@@ -440,6 +339,7 @@
         }
       },
       "block_order": [
+        "heading_pnnedz",
         "heading_VDYqH7",
         "text_BPYBTG"
       ],
@@ -459,29 +359,17 @@
         "divider": false
       }
     },
-    "advanced_content_mPBQn9": {
-      "type": "advanced-content",
-      "blocks": {
-        "liquid_JfLYg3": {
-          "type": "liquid",
-          "settings": {
-            "code": "<p id=\"erika\"> </p>",
-            "width": "50%",
-            "alignment": "center"
-          }
-        }
-      },
-      "block_order": [
-        "liquid_JfLYg3"
-      ],
-      "settings": {
-        "full_width": false,
-        "space_around": false
-      }
-    },
     "rich_text_g8Wc8g": {
       "type": "rich-text",
       "blocks": {
+        "heading_yWqDKB": {
+          "type": "heading",
+          "settings": {
+            "title": "Zarthaar durch Wechselhaare",
+            "image_width": 50,
+            "image_position": 50
+          }
+        },
         "heading_gPpxqr": {
           "type": "heading",
           "settings": {
@@ -499,6 +387,7 @@
         }
       },
       "block_order": [
+        "heading_yWqDKB",
         "heading_gPpxqr",
         "text_dJxNYU"
       ],
@@ -540,25 +429,19 @@
   "order": [
     "main",
     "hero_video_4wPzKb",
-    "rich_text_xKQgJr",
-    "services_columns_yhBApd",
     "rich_text_z6CBz4",
+    "rich_text_xKQgJr",
     "rich_text_aPLcXc",
     "featured_video_mdDnhE",
-    "advanced_content_VRKLie",
     "rich_text_JFgiNg",
     "rich_text_mW3Xc6",
     "featured_video_JMgMYh",
-    "advanced_content_eAKzfR",
     "rich_text_tXnzmr",
     "featured_video_6XCCTk",
-    "advanced_content_P9XYAA",
     "rich_text_zYU6UP",
     "featured_video_iiLrqx",
-    "advanced_content_PMjYMV",
     "rich_text_gRhPcf",
     "featured_video_nq8tGJ",
-    "advanced_content_mPBQn9",
     "rich_text_g8Wc8g",
     "featured_video_rKVGaN",
     "featured_video_aMPb3p",
