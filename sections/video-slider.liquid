@@ -52,7 +52,7 @@
       {% for block in section.blocks %}
         <div class="content marquee-text">
           {% if block.settings.icon != 'none' %}
-            {% render 'icon-' | append: block.settings.icon %}
+            {% render 'icon-', append: block.settings.icon %}
           {% endif %}
           <span>{{ block.settings.new_text | escape }}</span>
         </div>
@@ -155,4 +155,13 @@
     }
   ]
 }
-{% endschema %}
+{% endschema %}{%- comment -%}
+
+This file has been rewritten to preserve the original behavior.
+
+---
+Changes:
+- from: "{% render 'icon-' | append: block.settings.icon %}"
+  to: "{% render 'icon-', append: block.settings.icon %}"
+  position: 1515..1564
+{%- endcomment -%}
