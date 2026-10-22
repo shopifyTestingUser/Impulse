@@ -20,30 +20,12 @@
             "title_size": 70,
             "subheading": "bei den Langhaarmädchen",
             "link": "",
-            "link_text": "",
-            "link_2": "",
+            "link_text": "TERMIN im Salon Buchen",
+            "link_2": "https://salonkee.de/salon/langhaarmadchen-salon?lang=de",
             "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
+            "color_accent": "#FFF9F5",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/49A3099_22337862-81c0-4de8-ad0d-c144813e4b11.jpg",
-            "overlay_opacity": 20,
-            "focal_point": "center center"
-          }
-        },
-        "1647507061cc047f37-1": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "Exklusiv &  gefühlvoll nur für Dich!",
-            "title_size": 60,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/49A3398.jpg",
+            "image": "shopify://shop_images/Mona_Julia-12.jpg",
             "overlay_opacity": 20,
             "focal_point": "center center"
           }
@@ -69,7 +51,6 @@
       },
       "block_order": [
         "1647507061cc047f37-0",
-        "1647507061cc047f37-1",
         "2aa04067-fe88-4da6-9ae7-50a315da0d90"
       ],
       "settings": {
@@ -124,7 +105,7 @@
             "text": "<p></p><p>Schau dich auf unsere Seite um und lerne unsere <strong>Produkte </strong>und unsere <strong>Werte </strong>kennen oder komm uns direkt im Herzen von München besuchen. </p>"
           }
         },
-        "1d1a4f28-2bfc-46ab-a2de-0b7d5b37f9db": {
+        "button_hTgNGH": {
           "type": "button",
           "settings": {
             "target_blank": true,
@@ -137,7 +118,7 @@
         "heading",
         "text",
         "d6a1f4c2-aff6-40e9-962e-4ecdbfad5478",
-        "1d1a4f28-2bfc-46ab-a2de-0b7d5b37f9db"
+        "button_hTgNGH"
       ],
       "settings": {
         "align_text": "center",
