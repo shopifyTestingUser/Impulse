@@ -20,8 +20,8 @@
             "title_size": 64,
             "subheading": "Verschenke einen Gutschein an deinen Herzensmensch",
             "link": "",
-            "link_text": "",
-            "link_2": "",
+            "link_text": "GUTSCHEIN KAUFEN",
+            "link_2": "https://salonkee.de/salon/langhaarmadchen-salon?lang=de",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
@@ -152,7 +152,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Unsere Geschenkgutscheine erhälts du über unsere Online Buchung. Beschenke deinen Herzensmenschen mit einem Salongutschein: Langhaarmädchen Salon, Kaiserstr. 45, 80801 München Schwabing.&nbsp;</p>"
+            "text": "<p>Unsere Geschenkgutscheine erhälts du über unsere Online Buchung. Beschenke deinen Herzensmenschen mit einem Salongutschein bei uns im Langhaarmädchen Salon in München.</p>"
           }
         }
       },
