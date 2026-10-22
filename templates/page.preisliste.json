@@ -37,10 +37,35 @@
         "full_width": true,
         "space_around": true
       }
+    },
+    "rich_text_K3jTqQ": {
+      "type": "rich-text",
+      "blocks": {
+        "button_tr4C6y": {
+          "type": "button",
+          "settings": {
+            "target_blank": true,
+            "link": "https://salonkee.de/salon/langhaarmadchen-salon?lang=de",
+            "link_text": "TERMIN BUCHEN"
+          }
+        }
+      },
+      "block_order": [
+        "button_tr4C6y"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "margin_top": false,
+        "margin_bottom": false
+      }
     }
   },
   "order": [
     "main",
-    "advanced_content_L9x4Ww"
+    "advanced_content_L9x4Ww",
+    "rich_text_K3jTqQ"
   ]
 }
