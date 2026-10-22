@@ -19,7 +19,7 @@
             "title": "Willkommen!",
             "title_size": 70,
             "subheading": "bei den Langhaarmädchen",
-            "link": "",
+            "link": "https://salonkee.de/salon/langhaarmadchen-salon?lang=de",
             "link_text": "TERMIN im Salon Buchen",
             "link_2": "https://salonkee.de/salon/langhaarmadchen-salon?lang=de",
             "link_text_2": "",
@@ -102,7 +102,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p></p><p>Schau dich auf unsere Seite um und lerne unsere <strong>Produkte </strong>und unsere <strong>Werte </strong>kennen oder komm uns direkt im Herzen von München besuchen. </p>"
+            "text": "<p></p><p>Schau dich auf unsere Seite um und lerne unsere <strong>Produkte </strong>und unsere <strong>Werte </strong>kennen oder komm uns direkt im Herzen von München besuchen.&nbsp;</p>"
           }
         },
         "button_hTgNGH": {
